@@ -242,10 +242,10 @@ nav a:hover{
         padding-left: 5vw;
         padding-block: 3vh;
     }
-    nav .slide-right{
+    nav .close-logo .slide-right{
         right: 0;
     }
-    nav .vanish{
+    nav .menu-logo .vanish{
         display: none;
     }
 
