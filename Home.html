@@ -15,16 +15,16 @@
 
 <body>
     <main>
-        <div class="wrapper">
+        <div class="wrapper" id="wrapper">
             <nav>
                 <div class="logo" >Avirup.com</div>
                 <div class="menu-logo" id="menu-logo"><i class="ri-menu-line"></i></div>
                 <div class="menu" id="menu">
                     <div class="close-logo" id="close-logo"><i class="ri-close-fill"></i></div>
-                    <a href="#home">Home</a>
-                    <a href="#group2">About</a>
-                    <a href="#layer5">Projects</a>
-                    <a href="#">Contact me</a>
+                    <a href="#home" class="menu-options">Home</a>
+                    <a href="#group2" class="menu-options">About</a>
+                    <a href="#layer5" class="menu-options">Projects</a>
+                    <a href="#" class="menu-options">Contact me</a>
                 </div>  
             </nav>
             <div id="home"></div>
@@ -32,7 +32,7 @@
 
             <div class="scroll-group" id="group1">
                 <div class="layer" id="layer1">
-                    <model-viewer src="static/boxes.glb" auto-rotate></model-viewer>
+                    <model-viewer src="static/boxes.glb" auto-rotate auto-rotate-delay="0" rotation-per-second="30deg"></model-viewer>
                 </div>
                 <div class="layer" id="layer2">
                     <div>
@@ -47,11 +47,13 @@
                 <div class="layer" id="layer3">
                     <div class="pic">
                         <img src="static/me.jpg" alt="">
-                        <div id="hazy"></div> 
+                        <!-- <div id="hazy"></div>  -->
                     </div>
                     <div class="border"></div>
                     <div class="disc">
-                        <h1>Who am I?</h1>
+                        <div class="heading">
+                            <h1>Who am I ?</h1>
+                        </div>
                         <p>
                             Hello there! I'm <span>Avirup Chakraborty</span>, a 20-year-old student currently immersed in my second year at the Indian Statistical Institute in Kolkata. I am very much passionate about the intricate world of statistics, it charges me with enthusiasm in unraveling the patterns and stories hidden within data. I want to steer my academic journey in pursuit of excellence in this field.
                         </p>
@@ -64,7 +66,6 @@
                 <div class="layer" id="layer4">
                     <div class="heading">
                         <h1>Qualification</h1>
-                        <h2>Education</h2>
                     </div>
                     <div class="edu-card">
                         <div class="institute">
@@ -75,7 +76,10 @@
                             <div class="line">
                             </div>
                         </div>
-                        <h2>2014-2020</h2>
+                        <div class="desc">
+                            <h2>2014-2020</h2>
+                            <p>Till Madhyamik Pariksha</p>
+                        </div>                    
                     </div>  
                     <div class="edu-card">
                         <div class="institute">
@@ -86,7 +90,10 @@
                             <div class="line">
                             </div>
                         </div>
-                        <h2>2022-2020</h2>
+                        <div class="desc">
+                            <h2>2022-2020</h2>
+                            <p>Science Stream</p>
+                        </div>
                     </div>
                     <div class="edu-card">
                         <div class="institute">
@@ -97,7 +104,10 @@
                             <div class="line">
                             </div>
                         </div>
-                        <h2>2022 onward</2>
+                        <div class="desc">
+                            <h2>2022 onward</h2>
+                            <p>Bachelor of Statistics</p>
+                        </div>
                     </div>
                     <div class="cv">
                         <a href="static/CV Avirup Chakraborty.pdf" download="static/CV Avirup Chakraborty.pdf">Download CV</a>
@@ -106,7 +116,6 @@
                 <div class="layer" id="layer5">
                     <div class="heading">
                         <h1>Project Works</h1>
-                        <h2>Personal and Academic works</h2>
                     </div>
                     <div class="projectspace swiper">
                         <div class="swiper-wrapper">
@@ -125,7 +134,7 @@
                                     <h3>Academic</h3>
                                     <h2>Wordle</h2>
                                     <p>A web application for wordle solver model</p>
-                                    <a href="#">Try Now <i class="ri-arrow-right-line arrow-icon"></i></a>
+                                    <a href="project-templates/wordle.html">Play Now <i class="ri-arrow-right-line arrow-icon"></i></a>
                                 </div>
                             </div>
                             <div class="swiper-slide container">
