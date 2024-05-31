@@ -7,6 +7,7 @@ var hint_obj = {};
 var possibleWordList;
 var guessList = []; 
 var target;
+var responsejson;
 const animationGap=500;//ms
 const lightash="rgb(88,88,80)";
 
@@ -29,7 +30,11 @@ function startGame()
 
             // fetching hint dictionary 
             fetch("https://drive.google.com/file/d/1NMWChZHzdMUgbmyWhyqgeULL-dQJB9_Y/view?usp=drivesdk") 
-            .then(response=>response.json()) // arrow functions
+            .then(response=>{
+                responsejson=response;
+                console.log(responsejson.text())
+                return response.json()
+            }) // arrow functions
             .then(contents =>{
                 // hint dict initialization
                 hint_dict = contents
