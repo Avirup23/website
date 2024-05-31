@@ -32,7 +32,6 @@ function startGame()
             fetch("https://drive.google.com/file/d/1NMWChZHzdMUgbmyWhyqgeULL-dQJB9_Y/view?usp=drivesdk") 
             .then(response=>{
                 responsejson=response;
-                console.log(responsejson.text())
                 return response.json()
             }) // arrow functions
             .then(contents =>{
@@ -55,7 +54,13 @@ function startGame()
                 let advance2=document.getElementById("advance2");
                 advance2.innerHTML="";
             })
-            .catch(error => alert(error))
+            .catch(error => {
+                    console.log(error);
+                    responsejson.text()
+                            .then((bodytext)=>{
+                                 console.log(bodytext);   
+                            });
+            })
             // starting the keydown checking
             document.addEventListener('keydown',keyRegister);
         })
