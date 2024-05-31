@@ -17,8 +17,8 @@ const style = getComputedStyle(root);
 // game start function
 function startGame()
 {
-    // fetching word list
-    fetch("https://drive.google.com/file/d/1NMWChZHzdMUgbmyWhyqgeULL-dQJB9_Y/view?usp=drivesdk") 
+// fetching word list
+        fetch("../static/ultimate.txt") 
         .then(response=>response.text()) // arrow functions
         .then(contents =>{
             list=contents.split('\r\n');
@@ -28,7 +28,7 @@ function startGame()
             possibleWordList=list;
 
             // fetching hint dictionary 
-            fetch("../static/hint_dict.json") 
+            fetch("https://drive.google.com/file/d/1NMWChZHzdMUgbmyWhyqgeULL-dQJB9_Y/view?usp=drivesdk") 
             .then(response=>response.json()) // arrow functions
             .then(contents =>{
                 // hint dict initialization
