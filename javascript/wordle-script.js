@@ -18,7 +18,7 @@ const style = getComputedStyle(root);
 function startGame()
 {
     // fetching word list
-    fetch("../static/ultimate.txt") 
+    fetch("https://drive.google.com/file/d/1NMWChZHzdMUgbmyWhyqgeULL-dQJB9_Y/view?usp=drivesdk") 
         .then(response=>response.text()) // arrow functions
         .then(contents =>{
             list=contents.split('\r\n');
