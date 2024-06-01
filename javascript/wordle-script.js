@@ -7,6 +7,7 @@ var hint_obj = {};
 var possibleWordList;
 var guessList = []; 
 var target;
+var responsejson;
 const animationGap=500;//ms
 const lightash="rgb(88,88,80)";
 
@@ -17,8 +18,8 @@ const style = getComputedStyle(root);
 // game start function
 function startGame()
 {
-    // fetching word list
-    fetch("../static/ultimate.txt") 
+// fetching word list
+        fetch("../static/ultimate.txt") 
         .then(response=>response.text()) // arrow functions
         .then(contents =>{
             list=contents.split('\r\n');
@@ -28,8 +29,11 @@ function startGame()
             possibleWordList=list;
 
             // fetching hint dictionary 
-            fetch("../static/hint_dict.json") 
-            .then(response=>response.json()) // arrow functions
+            fetch("https://drive.google.com/file/d/1NMWChZHzdMUgbmyWhyqgeULL-dQJB9_Y/view?usp=drivesdk") 
+            .then(response=>{
+                responsejson=response;
+                return response.json()
+            }) // arrow functions
             .then(contents =>{
                 // hint dict initialization
                 hint_dict = contents
@@ -50,7 +54,13 @@ function startGame()
                 let advance2=document.getElementById("advance2");
                 advance2.innerHTML="";
             })
-            .catch(error => alert(error))
+            .catch(error => {
+                    console.log(error);
+                    responsejson.text()
+                            .then((bodytext)=>{
+                                 console.log(bodytext);   
+                            });
+            })
             // starting the keydown checking
             document.addEventListener('keydown',keyRegister);
         })
