@@ -2,12 +2,11 @@
 var word='',finish=0;
 var col=1,row=1,hint=['-','-','-','-','-'];
 var list;
-var hint_dict;
+var hint_dict={};
 var hint_obj = {};
 var possibleWordList;
 var guessList = []; 
 var target;
-var responsejson;
 const animationGap=500;//ms
 const lightash="rgb(88,88,80)";
 
@@ -18,8 +17,8 @@ const style = getComputedStyle(root);
 // game start function
 function startGame()
 {
-// fetching word list
-        fetch("../static/ultimate.txt") 
+    // fetching word list
+    fetch("../static/ultimate.txt") 
         .then(response=>response.text()) // arrow functions
         .then(contents =>{
             list=contents.split('\r\n');
@@ -27,16 +26,25 @@ function startGame()
 
             // possible wordlist initialization
             possibleWordList=list;
-
             // fetching hint dictionary 
-            fetch("https://drive.google.com/file/d/1NMWChZHzdMUgbmyWhyqgeULL-dQJB9_Y/view?usp=drivesdk") 
-            .then(response=>{
-                responsejson=response;
-                return response.json()
-            }) // arrow functions
-            .then(contents =>{
-                // hint dict initialization
-                hint_dict = contents
+            fetch('../static/hint_dict.csv')
+            .then(res=>res.text())
+            .then((textdata) =>{
+                let rows=textdata.trim().split('\r\n');
+                var header = rows[0].split(',');
+                console.log(header)
+                for (let i = 1; i < rows.length; i++) {
+                    const row=rows[i].split(',');
+                    const rowindex=row[0];
+                    const rowobj={}
+                    for (let j = 1; j < header.length; j++) {
+                        rowobj[header[j]]=row[j];
+                    }
+                   hint_dict[rowindex]=rowobj;
+                }
+                console.log(hint_dict)
+            })
+            .then(() => {
                 // get the hint distribution of each guess
                 hint_obj = updateHintObj(hint_dict);
 
@@ -53,15 +61,7 @@ function startGame()
                 advance.innerHTML="";
                 let advance2=document.getElementById("advance2");
                 advance2.innerHTML="";
-            })
-            .catch(error => {
-                    console.log(error);
-                    responsejson.text()
-                            .then((bodytext)=>{
-                                 console.log(bodytext);   
-                            });
-            })
-            // starting the keydown checking
+            });
             document.addEventListener('keydown',keyRegister);
         })
         .catch(error => alert(error))
@@ -86,6 +86,11 @@ function restartGame() {
     result.innerHTML="";
     if (finish!=0) {
         text=document.createTextNode("Let's Play again");
+        // adding the event listener after finish
+        keys=document.querySelectorAll(".key-box");
+        keys.forEach( element=>{
+            element.addAttribute("onclick");
+        });
     }else{
         text=document.createTextNode("Let's Play");
     }
@@ -472,21 +477,10 @@ if(statBtn){
         if(enable){
             statBtn.classList.add('orange2');
             statsContainer.classList.add('stats-appear');
-            var x =window.matchMedia("(max-width: 1152px)");
-            if(x.matches){
-                const gameContainer=document.getElementById("game_container");
-                gameContainer.classList.add('game-smaller');
-            }
-            
         }
         else{
             statBtn.classList.remove('orange2');
             statsContainer.classList.remove('stats-appear');
-            var x =window.matchMedia("(max-width: 1152px)");
-            if(x.matches){
-                const gameContainer=document.getElementById("game_container");
-                gameContainer.classList.remove('game-smaller');
-            }
         }
     })
 }
