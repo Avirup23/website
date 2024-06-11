@@ -30,6 +30,41 @@ h2{
     position: relative;
 }
 
+.loader-page{
+    z-index: 50;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--right);
+    transition: opacity .75s,visibility .75s;
+}
+.loader-hidden{
+    opacity: 0;
+    visibility:hidden;
+}
+.loader{
+    width: 75px;
+    height: 75px;
+    border: 15px solid var(--wrong);
+    border-top-color: var(--middle);
+    border-radius: 50%;
+    animation: loading .75s ease infinite;
+}
+
+@keyframes loading {
+    from{
+        transform: rotate(0turn);
+    }
+    to{
+        transform:rotate(1turn);
+    }
+}
+
 nav{
     position: relative;
     background-color: transparent;
@@ -143,7 +178,7 @@ h2{
     user-select: none;
 }
 .animated{
-    animation: flip 0.5s ease;
+    animation: flip 0.7s ease;
 }
 @keyframes flip{
     0%{
@@ -157,7 +192,7 @@ h2{
     }
 }
 .wrong{
-    animation: shake 0.5s ease;
+    animation: shake .5s ease;
 }
 @keyframes shake{
     0%{
