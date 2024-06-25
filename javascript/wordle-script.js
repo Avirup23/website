@@ -36,7 +36,7 @@ function startGame() {
         .then((response) => response.text()) // arrow functions
         .then((contents) => {
             usablelist = [];
-            let rows = contents.split("\r\n");
+            let rows = contents.split("\n");
             for (r of rows) {
                 usablelist.push(r.split(",")[0]);
             }
@@ -47,7 +47,7 @@ function startGame() {
         .then((response) => response.text()) // arrow functions
         .then((contents) => {
             list = {};
-            let rows = contents.split("\r\n");
+            let rows = contents.split("\n");
             for (r of rows) {
                 list[r.split(",")[0]] = parseFloat(r.split(",")[1]);
             }
