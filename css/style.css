@@ -45,6 +45,11 @@
         --small-font-size: .875rem;
         --smaller-font-size: .813rem;
     }
+}   
+    
+.swiper-button-next,.swiper-button-prev,.menu a{
+    -webkit-tap-highlight-color: transparent;
+    -webkit-tap-highlight-color: c(0,0,0,0);
 }
 
 
@@ -101,10 +106,10 @@ span{
 }
 nav{
     position: sticky;
-    z-index: 100;
+    z-index: 50;
     top : 0;
     width: 100vw;
-    height: 10vh;
+    height: 11vh;
     display:grid;
     grid-auto-flow: column;
     justify-content:space-around;
@@ -122,7 +127,7 @@ nav{
     font-size: var(--h2-font-size);
     background-color:var(--body-color);
     color:var(--title-color);
-    padding:5px;
+    padding:4px;
     margin: auto;
     border-radius: 5px;
     border: 2px solid var(--first-color-alt);
