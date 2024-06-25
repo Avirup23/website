@@ -466,25 +466,37 @@ td{
 .description{
     width: 100vw;
     height: 100vh;
-    padding: 10vh;
-    background-color:var(--right);
+    padding-inline: 10vw;
+    padding-top: 10vh;
+    background-color:rgb(21, 21, 21);
 }
 .description h1{
-    font-size: var(--h1-font-size);
-    color: black;
+    font-size: 3rem;
+    color: white;
     text-align: left;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.description li{
+    list-style: none;
+    font-size: 1.5rem;
+    color: var(--middle);
+}
+.description a{
+    text-decoration: none;
+    color:aliceblue;
+}
 .description .paragraph{
     text-indent: 3vw;
-    color: black;
-    font-size: var(--h2-font-size);
+    color: var(--right);
+    font-size: 1.6rem;
     font-family: sans-serif;
 }
 .description .example{
-    margin-left: 50%;
-    transform: translateX(-50%)scale(.9);
-    border: 0;
+    width: 40%;
+    margin: auto;
+    margin-top: 5vh;
+    padding: .5vw;
+    border: 2px solid var(--wrong);
     text-align: center;
 }
 .example .paragraph,.example p{
@@ -495,10 +507,10 @@ td{
     transform: scale(.7);
     margin: 0;
 }
-.description .intro{
-    width: 40%;
-    padding: .5vw;
-    background-color: black;
+.paragraph .spanmiddle,.paragraph .spanright,.paragraph .spanwrong{
+    width: 1.2rem;
+    height: 1.2rem;
+    border: white solid 2px;
 }
 .ash{
     background-color:var(--wrong);
@@ -514,29 +526,33 @@ td{
 }
 .spanwrong{
     background-color: var(--wrong);
-    display: block;
+    display: inline-block;
     width: var(--small-font-size);
     height: var(--small-font-size);
     border: black solid 1px;
 }
 .spanmiddle{
     background-color: var(--middle);
-    display: block;
+    display: inline-block;
     width: var(--small-font-size);
     height: var(--small-font-size);
     border: black solid 1px;
 }
 .spanright{
     background-color: var(--right);
-    display: block;
+    display: inline-block;
     width: var(--small-font-size);
     height: var(--small-font-size);
     border: black solid 1px;
 }
 
 @media screen and (max-width: 600px){
-    .description .intro{
-        width: 90%;
+    .description{
+        padding-top: 5vh;
+        padding-inline: 5vw;
+    }
+    .description .example{
+        width: 100%;
     }
 }
 
