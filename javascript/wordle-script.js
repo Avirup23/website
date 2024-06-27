@@ -82,9 +82,13 @@ function startGame() {
 
                     // every data should be empty
                     let advance = document.getElementById("advance");
-                    advance.innerHTML = "";
+                    advance.innerHTML = ">> INFORMATION LOG :";
+                    advance.appendChild(document.createElement("br"));
+                    advance.appendChild(document.createElement("br"));
                     let advance2 = document.getElementById("advance2");
-                    advance2.innerHTML = "";
+                    advance2.innerHTML = ">> PERFORMANCE LOG :";
+                    advance2.appendChild(document.createElement("br"));
+                    advance2.appendChild(document.createElement("br"));
                     // forming a table with the data
                     tableUpdate(hint_obj);
                 })
@@ -399,8 +403,10 @@ function updateHintObj(hint_dict) {
 function advancedata(word, hint) {
     let prevlength = Object.keys(possibleWordList).length;
     let advance2 = document.getElementById("advance2");
-    advance2.innerHTML = "";
-    let text = document.createTextNode("Your word: " + word.toUpperCase());
+    advance2.innerHTML ="";
+    advance2.innerHTML = ">> PERFORMANCE LOG :";
+    advance2.appendChild(document.createElement("br"));
+    let text = document.createTextNode("> Your Word: " + word.toUpperCase());
     advance2.appendChild(text);
     advance2.appendChild(document.createElement("br"));
 
@@ -419,17 +425,22 @@ function advancedata(word, hint) {
         }
     }
     text = document.createTextNode(
-        "No. of partions: " + Object.keys(obj).length
+        "> No. of Partions: " + Object.keys(obj).length
     );
     advance2.appendChild(text);
     advance2.appendChild(document.createElement("br"));
     var hint_list = Object.keys(obj);
     hint_list.sort((h1, h2) => obj[h2].prob - obj[h1].prob);
     text = document.createTextNode(
-        "Largest partition: " + obj[hint_list[0]].list.length
+        "> Largest Partition: " + obj[hint_list[0]].list.length
     );
     advance2.appendChild(text);
     advance2.appendChild(document.createElement("br"));
+    advance2.appendChild(document.createElement("br"));
+    text = document.createTextNode(
+        "> All Partitions: "
+    );
+    advance2.appendChild(text);
     advance2.appendChild(document.createElement("br"));
 
     for (const h of hint_list) {
@@ -442,11 +453,12 @@ function advancedata(word, hint) {
             div.appendChild(box);
         }
         text = document.createTextNode(
-            " " + Math.round(obj[h].prob * 100, 2) + " %"
+            " (" + Math.round(obj[h].prob * 100, 2) + "%)"
         );
         div.appendChild(text);
         advance2.appendChild(div);
         if (prevlength <= 200) {
+            obj[h].list.sort((w1,w2)=>possibleWordList[w2]-possibleWordList[w1])
             div = document.createElement("div");
             for (const t of obj[h].list) {
                 text = document.createTextNode(
@@ -459,33 +471,22 @@ function advancedata(word, hint) {
                 div.appendChild(document.createElement("br"));
             }
             advance2.appendChild(div);
+            advance2.appendChild(document.createElement("br"));
         }
-        advance2.appendChild(document.createElement("br"));
     }
 
     // data writing
     let advance = document.getElementById("advance");
     text = document.createTextNode(
-        "Guess " + (row - 1) + ": " + word.toUpperCase()
+        "> Guess " + (row - 1) + ": " + word.toUpperCase()
     );
     advance.appendChild(text);
     advance.appendChild(document.createElement("br"));
-    text = document.createTextNode("words: " + prevlength);
+    text = document.createTextNode("> possible words: " + prevlength);
     advance.appendChild(text);
     advance.appendChild(document.createElement("br"));
     text = document.createTextNode(
-        "uncertainty: " + Math.log2(prevlength).toFixed(2) + " bit"
-    );
-    advance.appendChild(text);
-    advance.appendChild(document.createElement("br"));
-    let info = 0;
-    for (const h in obj) {
-        p = obj[h].prob;
-        info -= Math.log2(p) * p;
-    }
-    // console.log("info" + info);
-    text = document.createTextNode(
-        "expected info: " + info.toFixed(2) + " bit"
+        "> uncertainty: " + Math.log2(prevlength).toFixed(2) + " bit"
     );
     advance.appendChild(text);
     advance.appendChild(document.createElement("br"));
@@ -499,28 +500,40 @@ function advancedata(word, hint) {
     result.innerHTML = "";
     text = document.createTextNode("Remaining Words: " + newlength);
     result.appendChild(text);
+    let info = 0;
+    for (const h in obj) {
+        p = obj[h].prob;
+        info -= Math.log2(p) * p;
+    }
+    // console.log("info" + info);
+    text = document.createTextNode(
+        "> expected info: " + info.toFixed(2) + " bit"
+    );
+    advance.appendChild(text);
+    advance.appendChild(document.createElement("br"));
     if (newlength != 0) {
         text = document.createTextNode(
-            "gained info: " +
+            "> gained info: " +
                 Math.log2(prevlength / newlength).toFixed(2) +
                 " bit"
         );
         advance.appendChild(text);
         advance.appendChild(document.createElement("br"));
-        text = document.createTextNode("remaining words: " + newlength);
+        text = document.createTextNode("> remaining words: " + newlength);
         advance.appendChild(text);
         advance.appendChild(document.createElement("br"));
         text = document.createTextNode(
-            "uncertainty: " + Math.log2(newlength).toFixed(2) + " bit"
+            "> uncertainty: " + Math.log2(newlength).toFixed(2) + " bit"
         );
         advance.appendChild(text);
     } else {
-        text = document.createTextNode("gained info: 0.00 bit");
+        text = document.createTextNode("> gained info: 0.00 bit");
         advance.appendChild(text);
         advance.appendChild(document.createElement("br"));
-        text = document.createTextNode("remaining words: 0");
+        text = document.createTextNode("> remaining words: 0");
         advance.appendChild(text);
-        text = document.createTextNode("uncertainty: 0.00 bit");
+        advance.appendChild(document.createElement("br"));
+        text = document.createTextNode("> uncertainty: 0.00 bit");
         advance.appendChild(text);
     }
     advance.appendChild(document.createElement("br"));
@@ -539,11 +552,16 @@ function tableUpdate(hint_obj) {
         picks.sort((k1, k2) => {
             if (hint_obj[k2].info - hint_obj[k1].info != 0) {
                 return hint_obj[k2].info - hint_obj[k1].info;
-            } else {
-                if (Object.keys(possibleWordList).includes(k1)) return -1;
-                else return 0;
+            } else if((+Object.keys(possibleWordList).includes(k2)) - (+Object.keys(possibleWordList).includes(k1)) != 0){
+                return (+Object.keys(possibleWordList).includes(k2)) - (+Object.keys(possibleWordList).includes(k1));
+            } else{
+                return possibleWordList[k2]-possibleWordList[k1];
             }
         });
+        let div = document.createElement("div");
+        let text = document.createTextNode('--');
+        div.appendChild(text);
+        table.appendChild(div);
         for (let i = 0; i < picks.length; i++) {
             const w = picks[i];
             let tab_row = table.insertRow();
@@ -589,9 +607,13 @@ let enable = false;
 if (statBtn) {
     statBtn.addEventListener("click", () => {
         enable = !enable;
+        var message = document.getElementById("message");
         if (enable) {
             statBtn.classList.add("orange2");
             statsContainer.classList.add("stats-appear");
+            if(finish!=2){
+                message.classList.add("show-message");
+            }
         } else {
             statBtn.classList.remove("orange2");
             statsContainer.classList.remove("stats-appear");

@@ -48,9 +48,9 @@ h2{
     visibility:hidden;
 }
 .loader{
-    width: 75px;
-    height: 75px;
-    border: 15px solid var(--wrong);
+    width: 80px;
+    height: 80px;
+    border: 5px solid var(--wrong);
     border-top-color: var(--middle);
     border-radius: 50%;
     animation: loading .75s ease infinite;
@@ -319,6 +319,46 @@ h2{
 .best_picks{
     padding-right: 11%;
     margin: auto;
+    position: relative;
+}
+.best_picks .message{
+    position: absolute;
+    right: 10%;
+    bottom: 35%;
+    z-index: 22;
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: var(--h3-font-size);
+    color: black;
+    font-family:monospace;
+    transform: translateY(50%);
+    opacity: 0;
+}
+.show-message{
+    animation: showmsg 5s ease;
+    animation-delay: 1s;
+}
+@keyframes showmsg {
+    0%{
+        opacity: 0;
+        transform: translateY(50%);
+    }
+    25%{
+        opacity: 1;
+        transform: translateY(100%);
+    }
+    50%{
+        transform: translateY(50%);
+    }
+    75%{
+        opacity: 1;
+        transform: translateY(0%);
+    }
+    100%{
+        opacity: 0;
+        transform: translateY(50%);
+    }
 }
 .result{
     margin: auto;
@@ -369,7 +409,7 @@ tr{
     font-size:var(--h3-font-size);
     width: 100%;
     color: white;
-    scroll-snap-align: center;
+    scroll-snap-align:start;
 }
 tr:nth-of-type(even){
     background-color:var(--wrong);
@@ -404,7 +444,6 @@ td{
 }
 #advance2 div{
     width: 100%;
-    display: flex;
 }
 .advance-outer{
     width: 90%;
@@ -414,7 +453,11 @@ td{
     border-radius: 10px;
     display: flex;
 }
-
+.learn-more{
+    color: var(--right);
+    margin-left: auto;
+    margin-right: 5%;
+}
 @media screen and (max-width: 600px){
     .stats-container{
         width: 100%;
@@ -441,6 +484,9 @@ td{
         grid-auto-flow: column;
         padding-block: 10px;
     }
+    .best_picks .message{
+        font-size: var(--h2-font-size);
+    }
     .result,.best_picks{
         width: 100%;
     }
@@ -456,6 +502,12 @@ td{
     tr{
         font-size:var(--h2-font-size);
     }
+    #advance{
+        width: 55%;
+    }
+    #advance2{
+        width: 45%;
+    }
     #advance,#advance2{
         padding: 10px;
         font-size: var(--h3-font-size);
@@ -465,7 +517,6 @@ td{
 /* model */
 .description{
     width: 100vw;
-    height: 100vh;
     padding-inline: 10vw;
     padding-top: 10vh;
     background-color:rgb(21, 21, 21);

@@ -638,3 +638,20 @@ nav{
         right: 2px;
     }
 }
+
+.hidden{
+    opacity:0;
+    transition: all 1s;
+}
+
+.yshift{
+    transform: translateY(-70%);
+    filter: blur(2px);
+    transition: all 1s;
+}
+
+.show{
+    opacity:1;
+    filter: blur(0);
+    transform: translateY(0);
+}
