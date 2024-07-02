@@ -32,6 +32,7 @@ function startGame() {
         .then((contents) => {
             usablelist = [];
             let rows = contents.split("\n");
+            if(rows[0].split(",")[0].length != 5) rows = contents.split("\r\n");
             for (r of rows) {
                 usablelist.push(r.split(",")[0]);
             }
@@ -43,6 +44,7 @@ function startGame() {
         .then((contents) => {
             list = {};
             let rows = contents.split("\n");
+            if(rows[0].split(",")[0].length != 5) rows = contents.split("\r\n");
             for (r of rows) {
                 list[r.split(",")[0]] = parseFloat(r.split(",")[1]);
             }
@@ -250,6 +252,12 @@ function word_reveal(word, hint) {
             cell = tab_row.insertCell();
             text = document.createTextNode(hint_obj[w].skill.toFixed(2) + "%");
             cell.appendChild(text);
+        }
+        var table_scroller=document.getElementById('tablescroll');
+        table_scroller.scrollTop = 0;
+        const message = document.getElementById('message');
+        if(table_scroller.scrollHeight <= table_scroller.clientHeight){
+            message.style.display='none';
         }
     } else {
         tableUpdate(hint_obj);
@@ -572,8 +580,12 @@ function tableUpdate(hint_obj) {
             text = document.createTextNode(hint_obj[w].skill.toFixed(2) + "%");
             cell.appendChild(text);
         }
-        table_scroller=document.getElementById('tablescroll');
-        table_scroller.scrollTop = 0;
+    }
+    var table_scroller=document.getElementById('tablescroll');
+    table_scroller.scrollTop = 0;
+    const message = document.getElementById('message');
+    if(table_scroller.scrollHeight <= table_scroller.clientHeight){
+        message.style.display='none';
     }
 }
 
@@ -607,16 +619,30 @@ let enable = false;
 if (statBtn) {
     statBtn.addEventListener("click", () => {
         enable = !enable;
-        var message = document.getElementById("message");
         if (enable) {
             statBtn.classList.add("orange2");
             statsContainer.classList.add("stats-appear");
-            if(finish!=2){
-                message.classList.add("show-message");
-            }
         } else {
             statBtn.classList.remove("orange2");
             statsContainer.classList.remove("stats-appear");
         }
     });
 }
+
+// panel elements activation
+let panelElements = document.querySelectorAll('.panel-element');
+let statSections = document.querySelectorAll('.stats-inner')
+const activate= function(index){
+    let activeEle= document.querySelector('.active');
+    activeEle.classList.remove('active');
+    let activeSection= document.querySelector('.top');
+    activeSection.classList.remove('top');
+    panelElements[index].classList.add('active');
+    statSections[index].classList.add('top');
+}
+
+panelElements.forEach((btn,index)=>{
+    btn.addEventListener('click',()=>{
+        activate(index);
+    });
+});
