@@ -75,13 +75,13 @@ function startGame() {
 
                     // writing data
                     let result = document.getElementById("result");
-                    let text = document.createTextNode("Possible Words: ");
+                    let text = document.createTextNode(
+                        "Possible Words: " +
+                            Object.keys(possibleWordList).length
+                    );
                     result.innerHTML = "";
                     result.appendChild(text);
-                    result.appendChild(document.createElement("br"));
-                    text = document.createTextNode(Object.keys(possibleWordList).length);
-                    result.appendChild(text);
-                    
+
                     // every data should be empty
                     let advance = document.getElementById("advance");
                     advance.innerHTML = ">> INFORMATION LOG :";
@@ -505,11 +505,8 @@ function advancedata(word, hint) {
     // data writing
     let newlength = Object.keys(possibleWordList).length;
     let result = document.getElementById("result");
-    text = document.createTextNode("Possible Words: ");
     result.innerHTML = "";
-    result.appendChild(text);
-    result.appendChild(document.createElement("br"));
-    text = document.createTextNode(newlength);
+    text = document.createTextNode("Remaining Words: " + newlength);
     result.appendChild(text);
     let info = 0;
     for (const h in obj) {
