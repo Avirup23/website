@@ -59,6 +59,7 @@
     padding: 0;
     font-family: monospace;
     box-sizing: border-box;
+    user-select: none;
 }
 body{
     background-color: var(--body-color);  
@@ -461,6 +462,7 @@ nav{
     background-color: var(--body-color);
     box-shadow: 2px 2px 8px 3px var(--first-color-alt);
     border-radius: 20px;
+    padding: 10px;
     display: grid;
     justify-content: center;
     align-items: center;
