@@ -347,10 +347,8 @@ nav{
 }
 #group2 #layer3 .pic .contact-me{
     color: white;
-    z-index: 4;
     width: 100%;
     height: 10%;
-    bottom: 0;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -600,9 +598,11 @@ nav{
         min-height: 50vh;
         width: 70vw;
         margin-inline: 20px;
-        margin-bottom: 10px;
-        margin-top: 10vh;
+        margin-bottom: 0;
         border-radius: 20px 20px 0 0;
+    }
+    #group2 #layer3 .pic .contact-me i::before{
+        font-size: var(--bigger-font-size);
     }
     #group2 #layer3 .border{
         margin-block: 0;
