@@ -333,7 +333,7 @@ nav{
 #group2 #layer3 .pic{
     /* box-sizing: content-box; */
     width: 30vw;
-    overflow: hidden;
+    /* overflow: hidden; */
     margin: 50px;
     margin-right: 0;
     position: relative;
