@@ -1,37 +1,33 @@
 <!DOCTYPE html>
-
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
     <link href="https://cdn.jsdelivr.net/npm/remixicon@3.0.0/fonts/remixicon.css" rel="stylesheet">
     <link rel="stylesheet" href="css/swiper-bundle.min.css"/>   
-    <title> 
-        HOME
-    </title>
+    <title>HOME</title>
 </head>
-
 <body>
     <main>
         <div class="wrapper" id="wrapper">
             <nav>
-                <div class="logo" >Avirup.com</div>
+                <div class="logo">Avirup.com</div>
                 <div class="menu-logo" id="menu-logo"><i class="ri-menu-line"></i></div>
                 <div class="menu" id="menu">
                     <div class="close-logo" id="close-logo"><i class="ri-close-fill"></i></div>
                     <a href="#home" class="menu-options">Home</a>
                     <a href="#group2" class="menu-options">About</a>
                     <a href="#layer5" class="menu-options">Projects</a>
+                    <a href="#blog" class="menu-options">Blog</a>
                 </div>  
             </nav>
             <div id="home"></div>
-            
 
+            <!-- INTRO SECTION WITH THREE.JS -->
             <div class="scroll-group" id="group1">
                 <div class="layer" id="layer1">
-                    <model-viewer src="static/boxes.glb" auto-rotate auto-rotate-delay="0" rotation-per-second="30deg"></model-viewer>
+                    <canvas id="three-canvas"></canvas>
                 </div>
                 <div class="layer" id="layer2">
                     <div class="hidden">
@@ -41,7 +37,7 @@
                 </div>
             </div>
 
-
+            <!-- ABOUT SECTION -->
             <div class="scroll-group" id="group2">
                 <div class="layer" id="layer3">
                     <div class="pic hidden">
@@ -55,7 +51,6 @@
                             <a href="https://www.linkedin.com/in/avirup-chakraborty-45006428b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
                                 <i class="ri-linkedin-box-fill"></i>
                             </a>
-                            
                         </div>
                     </div>
                     <div class="border"></div>
@@ -63,13 +58,12 @@
                         <div class="heading hidden">
                             <h1>Myself</h1>
                         </div>
-                        
                         <p class="hidden">
                             I believe that life begins where comfort ends. We all have to step beyond what's familiar, embrace challenges, and keep pushing forward with hard work and perseverance. It's not always easy, but that's where growth happens and success is built.
                         </p>
                         <br>
                         <p class="hidden">
-                            <span>“A ship is safest in the harbor, but that's not what it's made for.”</span>
+                            <span>"A ship is safest in the harbor, but that's not what it's made for."</span>
                         </p>
                         <br>
                         <p class="hidden">
@@ -77,6 +71,8 @@
                         </p>
                     </div>
                 </div>
+
+                <!-- QUALIFICATIONS -->
                 <div class="layer" id="layer4">
                     <div class="heading hidden">
                         <h1>Qualifications</h1>
@@ -87,8 +83,7 @@
                             <p>Masters</p>   
                         </div>
                         <div class="border">
-                            <div class="line">
-                            </div>
+                            <div class="line"></div>
                         </div>
                         <div class="desc">
                             <h2>2025 onward</h2>
@@ -101,8 +96,7 @@
                             <p>Graduation</p>   
                         </div>
                         <div class="border">
-                            <div class="line">
-                            </div>
+                            <div class="line"></div>
                         </div>
                         <div class="desc">
                             <h2>2022 - 2025</h2>
@@ -115,8 +109,7 @@
                             <p>Higher Secondary</p>
                         </div>
                         <div class="border">
-                            <div class="line">
-                            </div>
+                            <div class="line"></div>
                         </div>
                         <div class="desc">
                             <h2>2022-2020</h2>
@@ -129,8 +122,7 @@
                             <p>Secondary</p>
                         </div>
                         <div class="border">
-                            <div class="line">
-                            </div>
+                            <div class="line"></div>
                         </div>
                         <div class="desc">
                             <h2>2014-2020</h2>
@@ -141,73 +133,167 @@
                         <a href="static/CV Avirup Chakraborty.pdf" download="static/CV Avirup Chakraborty.pdf">Download CV</a>
                     </div>
                 </div>
+
+                <!-- PROJECTS -->
                 <div class="layer" id="layer5">
                     <div class="heading hidden">
                         <h1>Project Works</h1>
+                        <p class="subheading">Explore my journey through code, data, and creativity</p>
                     </div>
                     <div class="projectspace swiper hidden">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide container">
-                                <img src="static/pong.png" alt="pong image">
-                                <div class="description" id="pong">
-                                    <h3>Personal</h3>
-                                    <h2>Pong</h2>
-                                    <p>Pygame project in python</p>
-                                    <a href="https://github.com/Avirup23/Pong">GitHub <i class="ri-arrow-right-line arrow-icon"></i></a>
+                            <div class="swiper-slide">
+                                <div class="project-card">
+                                    <div class="project-image">
+                                        <img src="static/pong.png" alt="pong image">
+                                        <div class="project-overlay">
+                                            <span class="project-tag">Personal</span>
+                                        </div>
+                                    </div>
+                                    <div class="project-content">
+                                        <h2>Pong</h2>
+                                        <p class="project-desc">Classic arcade game recreated using Pygame in Python with smooth gameplay and AI opponent</p>
+                                        <div class="project-tech">
+                                            <span class="tech-tag">Python</span>
+                                            <span class="tech-tag">Pygame</span>
+                                        </div>
+                                        <a href="https://github.com/Avirup23/Pong" class="project-link">
+                                            <span>View on GitHub</span>
+                                            <i class="ri-arrow-right-line"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="swiper-slide container">
-                                <img src="static/wordle.png" alt="wordle image">
-                                <div class="description" id="wordle">
-                                    <h3>Academic</h3>
-                                    <h2>Wordle</h2>
-                                    <p>A web application for wordle solver model</p>
-                                    <a href="project-templates/wordle.html">Try Now <i class="ri-arrow-right-line arrow-icon"></i></a>
+                            <div class="swiper-slide">
+                                <div class="project-card">
+                                    <div class="project-image">
+                                        <img src="static/wordle.png" alt="wordle image">
+                                        <div class="project-overlay">
+                                            <span class="project-tag academic">Academic</span>
+                                        </div>
+                                    </div>
+                                    <div class="project-content">
+                                        <h2>Wordle Solver</h2>
+                                        <p class="project-desc">An intelligent web application that uses statistical analysis to solve Wordle puzzles efficiently</p>
+                                        <div class="project-tech">
+                                            <span class="tech-tag">ML</span>
+                                            <span class="tech-tag">Web App</span>
+                                        </div>
+                                        <a href="project-templates/wordle.html" class="project-link">
+                                            <span>Try It Now</span>
+                                            <i class="ri-arrow-right-line"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="swiper-slide container">
-                                <img src="static/website.png" alt="website image">
-                                <div class="description" id="wordle">
-                                    <h3>Personal</h3>
-                                    <h2>Website</h2>
-                                    <p>A personal Website using Html Css Js</p>
-                                    <a href="https://github.com/Avirup23/website" >GitHub <i class="ri-arrow-right-line arrow-icon"></i></a>
+                            <div class="swiper-slide">
+                                <div class="project-card">
+                                    <div class="project-image">
+                                        <img src="static/website.png" alt="website image">
+                                        <div class="project-overlay">
+                                            <span class="project-tag">Personal</span>
+                                        </div>
+                                    </div>
+                                    <div class="project-content">
+                                        <h2>Personal Website</h2>
+                                        <p class="project-desc">A modern, responsive portfolio website featuring Three.js animations and smooth parallax scroll effects</p>
+                                        <div class="project-tech">
+                                            <span class="tech-tag">HTML/CSS/JS</span>
+                                            <span class="tech-tag">Three.js</span>
+                                        </div>
+                                        <a href="https://github.com/Avirup23/website" class="project-link">
+                                            <span>View on GitHub</span>
+                                            <i class="ri-arrow-right-line"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="swiper-slide container">
-                                <img src="static/stat3.png" alt="front page">
-                                <div class="description" id="Stat1">
-                                    <h3>Academic</h3>
-                                    <h2>Statistical Presentation</h2>
-                                    <p>A Group Project on Trade Pattern Analysis of India</p>
-                                    <a href="https://drive.google.com/file/d/1Qn_Nr8AQ6AYCaMdjPy2W6CQOD56BZOcg/view?usp=drive_link" > Drive Link <i class="ri-arrow-right-line arrow-icon"></i></a>
+                            <div class="swiper-slide">
+                                <div class="project-card">
+                                    <div class="project-image">
+                                        <img src="static/stat3.png" alt="front page">
+                                        <div class="project-overlay">
+                                            <span class="project-tag academic">Academic</span>
+                                        </div>
+                                    </div>
+                                    <div class="project-content">
+                                        <h2>Trade Pattern Analysis</h2>
+                                        <p class="project-desc">Comprehensive statistical analysis of India's trade patterns using advanced data visualization</p>
+                                        <div class="project-tech">
+                                            <span class="tech-tag">Statistics</span>
+                                            <span class="tech-tag">Data Analysis</span>
+                                        </div>
+                                        <a href="https://drive.google.com/file/d/1Qn_Nr8AQ6AYCaMdjPy2W6CQOD56BZOcg/view?usp=drive_link" class="project-link">
+                                            <span>View Report</span>
+                                            <i class="ri-arrow-right-line"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="swiper-slide container">
-                                <img src="static/stat1.jpeg" alt="front page">
-                                <div class="description" id="Stat1">
-                                    <h3>Academic</h3>
-                                    <h2>Statistical Presentation</h2>
-                                    <p>A Group Project on Exploratory Data Analysis on the Factors Affecting Car Price</p>
-                                    <a href="https://docs.google.com/presentation/d/114FeIHIfqKgmj3I4ee4vJNTuREyU3hLO/edit?usp=drive_link&ouid=115827322221461401421&rtpof=true&sd=true" > Drive Link <i class="ri-arrow-right-line arrow-icon"></i></a>
+                            <div class="swiper-slide">
+                                <div class="project-card">
+                                    <div class="project-image">
+                                        <img src="static/stat1.jpeg" alt="front page">
+                                        <div class="project-overlay">
+                                            <span class="project-tag academic">Academic</span>
+                                        </div>
+                                    </div>
+                                    <div class="project-content">
+                                        <h2>Car Price Analysis</h2>
+                                        <p class="project-desc">Exploratory data analysis examining key factors that influence automobile pricing in the market</p>
+                                        <div class="project-tech">
+                                            <span class="tech-tag">EDA</span>
+                                            <span class="tech-tag">Statistics</span>
+                                        </div>
+                                        <a href="https://docs.google.com/presentation/d/114FeIHIfqKgmj3I4ee4vJNTuREyU3hLO/edit?usp=drive_link&ouid=115827322221461401421&rtpof=true&sd=true" class="project-link">
+                                            <span>View Slides</span>
+                                            <i class="ri-arrow-right-line"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="swiper-slide container">
-                                <img src="static/stat2.jpeg" alt="front page">
-                                <div class="description" id="Stat2">
-                                    <h3>Academic</h3>
-                                    <h2>Statistical Report</h2>
-                                    <p>A Group Project on Body Performance Analysis</p>
-                                    <a href="https://drive.google.com/file/d/1bgkUGr9dLA7yXONpZx-DyBO4uqBuQlZA/view?usp=drive_link" > Drive Link <i class="ri-arrow-right-line arrow-icon"></i></a>
+                            <div class="swiper-slide">
+                                <div class="project-card">
+                                    <div class="project-image">
+                                        <img src="static/stat2.jpeg" alt="front page">
+                                        <div class="project-overlay">
+                                            <span class="project-tag academic">Academic</span>
+                                        </div>
+                                    </div>
+                                    <div class="project-content">
+                                        <h2>Body Performance</h2>
+                                        <p class="project-desc">Statistical report analyzing correlations between physical attributes and athletic performance metrics</p>
+                                        <div class="project-tech">
+                                            <span class="tech-tag">Statistics</span>
+                                            <span class="tech-tag">Regression</span>
+                                        </div>
+                                        <a href="https://drive.google.com/file/d/1bgkUGr9dLA7yXONpZx-DyBO4uqBuQlZA/view?usp=drive_link" class="project-link">
+                                            <span>View Report</span>
+                                            <i class="ri-arrow-right-line"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="swiper-slide container">
-                                <img src="static/inflation.jpeg" alt="front page">
-                                <div class="description" id="macro">
-                                    <h3>Academic</h3>
-                                    <h2>Macroeconomics Presentation</h2>
-                                    <p>Inflation: its Hidden Costs and Benifits.</p>
-                                    <a href="https://docs.google.com/presentation/d/1LqCJ1K-FQtUTIlS_vyhOoVpyM7LyTDH5/edit?usp=drive_link&ouid=115827322221461401421&rtpof=true&sd=true" > Drive Link <i class="ri-arrow-right-line arrow-icon"></i></a>
+                            <div class="swiper-slide">
+                                <div class="project-card">
+                                    <div class="project-image">
+                                        <img src="static/inflation.jpeg" alt="front page">
+                                        <div class="project-overlay">
+                                            <span class="project-tag academic">Academic</span>
+                                        </div>
+                                    </div>
+                                    <div class="project-content">
+                                        <h2>Inflation Economics</h2>
+                                        <p class="project-desc">Macroeconomic analysis exploring the hidden costs and unexpected benefits of inflation</p>
+                                        <div class="project-tech">
+                                            <span class="tech-tag">Economics</span>
+                                            <span class="tech-tag">Analysis</span>
+                                        </div>
+                                        <a href="https://docs.google.com/presentation/d/1LqCJ1K-FQtUTIlS_vyhOoVpyM7LyTDH5/edit?usp=drive_link&ouid=115827322221461401421&rtpof=true&sd=true" class="project-link">
+                                            <span>View Slides</span>
+                                            <i class="ri-arrow-right-line"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -219,13 +305,24 @@
                         </div>
                         <div class="swiper-pagination"></div>
                     </div>
+                    </div>
+
+                <!-- BLOG SECTION - PLACEHOLDER FOR LATER -->
+                <div class="layer" id="blog">
+                    <div class="heading hidden">
+                        <h1>Blog & Gallery</h1>
+                    </div>
+                    <div class="blog-placeholder hidden">
+                        <p>Coming Soon - A collection of moments and thoughts</p>
+                    </div>
                 </div>
             </div>
         </div>
     </main>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     <script src="javascript/swiper-bundle.min.js"></script>
     <script src="javascript/main.js"></script>
-    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.3.0/model-viewer.min.js"></script>
+    <script src="javascript/three-intro.js"></script>
 </body>
 </html>

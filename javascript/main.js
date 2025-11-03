@@ -31,50 +31,55 @@ for (let link of links) {
 
 
 // swiper class settings
-var w;
-var x =window.matchMedia("(max-width: 1152px)")
-function responsive(x) {
-    if(x.matches){
-        w=250;
-    }
-    else{
-        w=400;
-    }
-}
-responsive(x);
-x.addEventListener("change",function(){
-    responsive(x);
-});
-
-// swiper
+// Swiper configuration for 3 cards per view
 let swiper = new Swiper('.projectspace', {
-    // Optional parameters
+    // Show 3 cards side by side on desktop
+    slidesPerView: 1,
+    spaceBetween: 20,
     loop: true,
-    spaceBetween: 1000,
-    width: w,
-
-    // If we need pagination
-    pagination: {
-      el: '.swiper-pagination',
+    grabCursor: true,
+    
+    // Responsive breakpoints
+    breakpoints: {
+        // When window width is >= 640px (tablets)
+        640: {
+            slidesPerView: 2,
+            spaceBetween: 25,
+        },
+        // When window width is >= 1024px (desktop)
+        1024: {
+            slidesPerView: 3,
+            spaceBetween: 30,
+        },
     },
-  
+    
+    // Pagination
+    pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+    },
+    
     // Navigation arrows
     navigation: {
-      nextEl: '.swiper-button-next',
-      prevEl: '.swiper-button-prev',
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
     },
+    
+    // Smooth transition
+    speed: 600,
+    effect: 'slide',
 });
 
-
-const observer=new IntersectionObserver((entries)=>{
-    entries.forEach((entry)=>{
+// Intersection Observer for scroll animations
+const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
         if(entry.isIntersecting){
             entry.target.classList.add('show');
-        }else{
+        } else {
             entry.target.classList.remove('show');
         }
     });
 });
 
-const hiddenElements =document.querySelectorAll('.hidden');
-hiddenElements.forEach((el)=> observer.observe(el));
+const hiddenElements = document.querySelectorAll('.hidden');
+hiddenElements.forEach((el) => observer.observe(el));
