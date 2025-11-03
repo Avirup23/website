@@ -345,7 +345,7 @@ nav{
         flex-direction: row-reverse;
     }
     #group1 #layer2 div{
-        width: 90%;
+        width: 100%;
         max-width: 90vw;
         padding: 3vh;
     }
