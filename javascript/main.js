@@ -30,14 +30,25 @@ for (let link of links) {
 }
 
 
-// swiper class settings
-// Swiper configuration for 3 cards per view
+// Swiper configuration for 3 cards per view with proper looping
 let swiper = new Swiper('.projectspace', {
-    // Show 3 cards side by side on desktop
+    // Show 1 card on mobile
     slidesPerView: 1,
     spaceBetween: 20,
     loop: true,
     grabCursor: true,
+    centeredSlides: false,
+    
+    // Add these properties for better loop behavior
+    loopAdditionalSlides: 2,
+    watchSlidesProgress: true,
+    
+    // Initialize on specific slide to avoid empty space
+    initialSlide: 3,
+    
+    // Prevent flash of unstyled content
+    observer: true,
+    observeParents: true,
     
     // Responsive breakpoints
     breakpoints: {

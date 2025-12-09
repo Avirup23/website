@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.0.0/fonts/remixicon.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/gamestyle.css">
+    <title> 
+        WORDLE
+    </title>
+</head>
+
+<body>
+    <main>
+        <div class="wrapper">
+            <nav>
+                <div class="restart-btn" onclick="restartGame()">
+                    <i class="ri-restart-fill"></i>
+                </div>
+                <div class="name" >WORDLE</div>
+                <div class="menu2" id="menu2">
+                    <a href="../Home.html" target="_self">
+                        <div class="logo">
+                            <i class="ri-home-2-line"></i>
+                        </div>
+                    </a>
+                    <a href="help.html" target="_blank">
+                        <div class="logo">
+                            <i class="ri-question-line"></i>
+                        </div>
+                    </a>
+                    <div class="logo" id="stats">
+                        <i class="ri-bar-chart-box-fill"></i>
+                    </div>
+                </div>  
+            </nav>
+            <div class="group1">
+                <div class="game_container" id="game_container">
+                    <h2 id="h2_heading">Let's Play</h2>
+                    <div class="word_container">
+                        <div class="words">
+                            <div class="letter-box" id= "_1"><p class="letter input" id= "1"> </p></div>
+                            <div class="letter-box" id= "_2"><p class="letter input" id= "2"> </p></div>
+                            <div class="letter-box" id= "_3"><p class="letter input" id= "3"> </p></div>
+                            <div class="letter-box" id= "_4"><p class="letter input" id= "4"> </p></div>
+                            <div class="letter-box" id= "_5"><p class="letter input" id= "5"> </p></div>
+                        </div>
+                        <div class="words">
+                            <div class="letter-box" id= "_6"><p class="letter input" id= "6"> </p></div>
+                            <div class="letter-box" id= "_7"><p class="letter input" id= "7"> </p></div>
+                            <div class="letter-box" id= "_8"><p class="letter input" id= "8"> </p></div>
+                            <div class="letter-box" id= "_9"><p class="letter input" id= "9"> </p></div>
+                            <div class="letter-box" id= "_10"><p class="letter input" id= "10"> </p></div>
+                        </div>
+                        <div class="words">
+                            <div class="letter-box" id= "_11"><p class="letter input" id= "11"> </p></div>
+                            <div class="letter-box" id= "_12"><p class="letter input" id= "12"> </p></div>
+                            <div class="letter-box" id= "_13"><p class="letter input" id= "13"> </p></div>
+                            <div class="letter-box" id= "_14"><p class="letter input" id= "14"> </p></div>
+                            <div class="letter-box" id= "_15"><p class="letter input" id= "15"> </p></div>
+                        </div>
+                        <div class="words">
+                            <div class="letter-box" id= "_16"><p class="letter input" id= "16"> </p></div>
+                            <div class="letter-box" id= "_17"><p class="letter input" id= "17"> </p></div>
+                            <div class="letter-box" id= "_18"><p class="letter input" id= "18"> </p></div>
+                            <div class="letter-box" id= "_19"><p class="letter input" id= "19"> </p></div>
+                            <div class="letter-box" id= "_20"><p class="letter input" id= "20"> </p></div>
+                        </div>
+                        <div class="words">
+                            <div class="letter-box" id= "_21"><p class="letter input" id= "21"> </p></div>
+                            <div class="letter-box" id= "_22"><p class="letter input" id= "22"> </p></div>
+                            <div class="letter-box" id= "_23"><p class="letter input" id= "23"> </p></div>
+                            <div class="letter-box" id= "_24"><p class="letter input" id= "24"> </p></div>
+                            <div class="letter-box" id= "_25"><p class="letter input" id= "25"> </p></div>
+                        </div>
+                        <div class="words">
+                            <div class="letter-box" id= "_26"><p class="letter input" id= "26"> </p></div>
+                            <div class="letter-box" id= "_27"><p class="letter input" id= "27"> </p></div>
+                            <div class="letter-box" id= "_28"><p class="letter input" id= "28"> </p></div>
+                            <div class="letter-box" id= "_29"><p class="letter input" id= "29"> </p></div>
+                            <div class="letter-box" id= "_30"><p class="letter input" id= "30"> </p></div>
+                        </div>
+                    </div>
+                    <div class="keyboard">
+                        <div class="row">
+                            <div class="key-box" id="q" onclick="keyRegister(id)"><p class="letter key">Q</p> </div>
+                            <div class="key-box" id="w" onclick="keyRegister(id)"><p class="letter key">W</p> </div>
+                            <div class="key-box" id="e" onclick="keyRegister(id)"><p class="letter key">E</p> </div>
+                            <div class="key-box" id="r" onclick="keyRegister(id)"><p class="letter key">R</p> </div>
+                            <div class="key-box" id="t" onclick="keyRegister(id)"><p class="letter key">T</p> </div>
+                            <div class="key-box" id="y" onclick="keyRegister(id)"><p class="letter key">Y</p> </div>
+                            <div class="key-box" id="u" onclick="keyRegister(id)"><p class="letter key">U</p> </div>
+                            <div class="key-box" id="i" onclick="keyRegister(id)"><p class="letter key">I</p> </div>
+                            <div class="key-box" id="o" onclick="keyRegister(id)"><p class="letter key">O</p> </div>
+                            <div class="key-box" id="p" onclick="keyRegister(id)"><p class="letter key">P</p> </div>
+                            <div class="key-box" id="Backspace" onclick="keyRegister(id)"><p class="letter key">⌫</p> </div>
+                        </div>
+                        <div class="row">
+                            <div class="key-box" id="a" onclick="keyRegister(id)"><p class="letter key">a</p> </div>
+                            <div class="key-box" id="s" onclick="keyRegister(id)"><p class="letter key">s</p> </div>
+                            <div class="key-box" id="d" onclick="keyRegister(id)"><p class="letter key">d</p> </div>
+                            <div class="key-box" id="f" onclick="keyRegister(id)"><p class="letter key">f</p> </div>
+                            <div class="key-box" id="g" onclick="keyRegister(id)"><p class="letter key">g</p> </div>
+                            <div class="key-box" id="h" onclick="keyRegister(id)"><p class="letter key">h</p> </div>
+                            <div class="key-box" id="j" onclick="keyRegister(id)"><p class="letter key">j</p> </div>
+                            <div class="key-box" id="k" onclick="keyRegister(id)"><p class="letter key">k</p> </div>
+                            <div class="key-box" id="l" onclick="keyRegister(id)" ><p class="letter key">l</p> </div>
+                            <div class="key-box" id="Enter" onclick="keyRegister(id)"><p class="letter key"> ↩ </p> </div>
+                        </div>
+                        <div class="row">
+                            <div class="key-box" id="z" onclick="keyRegister(id)"><p class="letter key">z</p> </div>
+                            <div class="key-box" id="x" onclick="keyRegister(id)"><p class="letter key">x</p> </div>
+                            <div class="key-box" id="c" onclick="keyRegister(id)"><p class="letter key">c</p> </div>
+                            <div class="key-box" id="v" onclick="keyRegister(id)"><p class="letter key">v</p> </div>
+                            <div class="key-box" id="b" onclick="keyRegister(id)"><p class="letter key">b</p> </div>
+                            <div class="key-box" id="n" onclick="keyRegister(id)"><p class="letter key">n</p> </div>
+                            <div class="key-box" id="m" onclick="keyRegister(id)"><p class="letter key">m</p> </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="stats-container" id="stats-container">
+                    <div class="container">
+                        <div class="panel">
+                            <div class="panel-element active">Best Picks</div>
+                            <div class="panel-element">Info Log</div>
+                            <div class="panel-element">Performance</div>
+                        </div>
+                        <div class="stats">
+                            <div class="stats-inner top">
+                                <div class="best_picks">
+                                    <h3 class="tab_head">Best Picks(Expected Info %)</h3>
+                                    <div class="scroll-outer">
+                                        <div class="scrollable-frame" id="tablescroll">
+                                            <table id="list">
+                                            </table>
+                                        </div>
+                                    </div>
+                                    <div id="message">You can scroll it</div>
+                                </div>
+                                <div class="result"><h3 id="result"></h3></div>
+                            </div>
+                            <div class="stats-inner">
+                                <div class="advance-outer">
+                                    <div class="scrollable-frame" id="advance">
+                                    </div>
+                                </div>
+                                <a href="help.html" class="learn-more">Learn More</a>
+                            </div>
+                            <div class="stats-inner">
+                                <div class="advance-outer">
+                                    <div class="scrollable-frame" id="advance2"></div>
+                                </div>
+                                <a href="help.html" class="learn-more">Learn More</a>
+                            </div>
+                        </div>         
+                    </div>
+                </div>
+            </div>
+            <div class="loader-page">
+                <div class="loader"></div>
+                <!-- <div class="spinner-grow text-light" role="status"></div> -->
+            </div>
+        </div>
+    </main>
+</body>
+<script src="../javascript/swiper-bundle.min.js"></script>
+<script src="../javascript/main.js"></script>
+<script src="../javascript/wordle-script.js"></script>
+</html>
