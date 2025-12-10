@@ -11,6 +11,25 @@ feeds = {
         "https://feeds.bbci.co.uk/news/technology/rss.xml"
     ]
 }
+# Indian Express
+# https://indianexpress.com/section/business/feed/
+# https://indianexpress.com/section/world/feed/
+
+# The Diplomat
+# https://thediplomat.com/feed/
+
+# Bloomberg
+# https://feeds.bloomberg.com/markets/news.rss
+# https://feeds.bloomberg.com/politics/news.rss
+
+# Financial Times
+# https://www.ft.com/rss/global-economy
+# https://www.ft.com/rss/markets
+# https://www.ft.com/rss/world
+
+# NY Times
+# https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml
 
 all_news = []
 
