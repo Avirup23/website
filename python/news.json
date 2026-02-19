@@ -1,27 +1,5 @@
 [
   {
-    "title": "Copper Declines as Fed Minutes Show Officials Wary of Rate Cuts",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-19/copper-declines-as-fed-minutes-show-officials-wary-of-rate-cuts",
-    "source": "Bloomberg Markets",
-    "category": "Markets & Finance",
-    "published": "Thu, 19 Feb 2026 02:47:18 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikHjvQ5Hi040/v0/1200x-1.jpg",
-    "importance": 50,
-    "importanceLabel": "High",
-    "updated_at": "2026-02-19T03:41:07.003721"
-  },
-  {
-    "title": "Zip Shares Fall Most Since 2014 After Warning on Flat Earnings",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-18/zip-shares-fall-most-since-2014-after-warning-on-flat-earnings",
-    "source": "Bloomberg Markets",
-    "category": "Markets & Finance",
-    "published": "Wed, 18 Feb 2026 23:55:18 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihHzThoA7FNI/v0/1200x-1.jpg",
-    "importance": 50,
-    "importanceLabel": "High",
-    "updated_at": "2026-02-19T03:41:07.003859"
-  },
-  {
     "title": "Talks on Russia-Ukraine War Enter 2nd Day in Geneva",
     "link": "https://www.nytimes.com/2026/02/18/world/europe/russia-ukraine-us-talks-war.html",
     "source": "NYT > World News",
@@ -30,7 +8,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/18/multimedia/18int-ukraine-russia-talks-hcmg/18int-ukraine-russia-talks-hcmg-mediumSquareAt3X.jpg",
     "importance": 50,
     "importanceLabel": "High",
-    "updated_at": "2026-02-19T03:41:07.749010"
+    "updated_at": "2026-02-19T14:11:24.507408"
   },
   {
     "title": "Where Did China’s ‘Wolf Warrior Diplomacy’ Come From (and Where Did It Go)?",
@@ -41,18 +19,29 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2021/07/thediplomat_2021-07-30-2.jpg",
     "importance": 50,
     "importanceLabel": "High",
-    "updated_at": "2026-02-19T03:41:07.939884"
+    "updated_at": "2026-02-19T14:11:24.645484"
   },
   {
-    "title": "US-Iran Tensions Live Updates: US military moves into place for possible attack on Iran; President Trump yet to make a final call",
-    "link": "https://indianexpress.com/article/world/iran-us-tensions-live-updates-tehran-washington-donald-trump-10538085/",
-    "source": "World | The Indian Express",
-    "category": "Geopolitics",
-    "published": "Wed, 18 Feb 2026 05:48:51 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/02/Photo-2026-02-18T095826.761.jpg",
-    "importance": 50,
-    "importanceLabel": "High",
-    "updated_at": "2026-02-19T03:41:08.284790"
+    "title": "Stocks Fall as US-Iran Worries Drive Oil Higher: Markets Wrap",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-18/asian-stocks-to-climb-as-tech-lifts-us-equities-markets-wrap",
+    "source": "Bloomberg Markets",
+    "category": "Markets & Finance",
+    "published": "Wed, 18 Feb 2026 22:25:25 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW4wJwWyk3jI/v1/1200x-1.jpg",
+    "importance": 45,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-02-19T14:11:23.732970"
+  },
+  {
+    "title": "Warmer weather hits profits at British Gas owner",
+    "link": "https://www.bbc.com/news/articles/cz7g9ge2lr2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "category": "Markets & Finance",
+    "published": "Thu, 19 Feb 2026 10:52:16 GMT",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63b2/live/33baf060-0d75-11f1-b1f2-a50c2c5773ab.jpg",
+    "importance": 45,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-02-19T14:11:24.017460"
   },
   {
     "title": "Illegal skin lightening cream being sold in UK butchers, watchdog warns",
@@ -63,7 +52,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cff/live/5dfc1c50-0c26-11f1-b639-2bb91f8e49a9.jpg",
     "importance": 45,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.328560"
+    "updated_at": "2026-02-19T14:11:24.017714"
   },
   {
     "title": "'Check your payslip' warns nurse who overpaid nearly £3k in tax",
@@ -74,18 +63,18 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccb0/live/c61b82d0-0bf9-11f1-b726-1d6e709ef554.jpg",
     "importance": 45,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.328578"
+    "updated_at": "2026-02-19T14:11:24.017738"
   },
   {
-    "title": "IMF Warns China’s Economic Policies Are Causing Damage to Others",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-18/imf-warns-china-s-economic-policies-are-causing-damage-to-others",
+    "title": "IMF Calls for China to Rebalance Toward Consumption as Trade Barriers Rise",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-02-19/imf-calls-for-china-to-rebalance-toward-consumption-as-trade-barriers-rise",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Wed, 18 Feb 2026 22:00:00 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iT08yayHKZwo/v3/1200x-1.png",
+    "published": "Thu, 19 Feb 2026 12:00:01 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSUo9yqkP3Fs/v11/1200x-1.jpg",
     "importance": 45,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.505757"
+    "updated_at": "2026-02-19T14:11:24.282977"
   },
   {
     "title": "The Quiet Architect of Trump’s Global Trade War",
@@ -96,7 +85,18 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/18/business/00dc-greer/00dc-greer-mediumSquareAt3X.jpg",
     "importance": 45,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.639061"
+    "updated_at": "2026-02-19T14:11:24.390092"
+  },
+  {
+    "title": "‘You Indian dog’: 24-year-old Sikh nurse bears brunt of racially targeted attack at Australian gym",
+    "link": "https://indianexpress.com/article/world/indian-dog-sikh-man-racial-abuse-geelong-gym-australia-assaulted-10540394/",
+    "source": "World | The Indian Express",
+    "category": "Geopolitics",
+    "published": "Thu, 19 Feb 2026 07:29:56 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/02/The-Indian-Express-15.jpg",
+    "importance": 45,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-02-19T14:11:24.993237"
   },
   {
     "title": "The quiet architect of Trump’s global trade war",
@@ -107,7 +107,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/White-House-NYT-picture.jpg",
     "importance": 45,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:08.284651"
+    "updated_at": "2026-02-19T14:11:24.993448"
   },
   {
     "title": "Ajit Pawar plane crash: Foreign technical help sought to retrieve data from damaged cockpit voice recorder, says AAIB",
@@ -118,32 +118,10 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/Photo-2026-02-17T131132.527.jpg",
     "importance": 45,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:08.800745"
+    "updated_at": "2026-02-19T14:11:25.441306"
   },
   {
-    "title": "For India, AI a ‘stress test’ of state capacity; must align tech adoption with mass employability: CEA Nageswaran",
-    "link": "https://indianexpress.com/article/business/ai-impact-summit-2026-india-job-crisis-automation-nageswaran-10535339/",
-    "source": "Business | The Indian Express",
-    "category": "Business",
-    "published": "Mon, 16 Feb 2026 13:39:42 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/02/AI-summit-2.jpg",
-    "importance": 45,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:08.800862"
-  },
-  {
-    "title": "Gold Steadies as Focus Turns to Fed Rate Plans in Thin Trading",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-18/gold-steadies-in-thin-trading-as-focus-turns-to-fed-rate-plans",
-    "source": "Bloomberg Markets",
-    "category": "Markets & Finance",
-    "published": "Wed, 18 Feb 2026 23:31:13 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6N4Sc6qIuY4/v0/1200x-1.jpg",
-    "importance": 40,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.003623"
-  },
-  {
-    "title": "Oil Holds Biggest Jump Since October on Iran Conflict Concerns",
+    "title": "Oil Extends Biggest Jump Since October on Iran Conflict Concerns",
     "link": "https://www.bloomberg.com/news/articles/2026-02-18/latest-oil-market-news-and-analysis-for-feb-19",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
@@ -151,51 +129,18 @@
     "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isEvymA2hix8/v0/1200x-1.jpg",
     "importance": 40,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.003641"
+    "updated_at": "2026-02-19T14:11:23.733027"
   },
   {
-    "title": "It Is a Stock Picker's Market, Pepperstone's Weston Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-02-19/it-is-a-stock-picker-s-market-pepperstone-s-weston-says-video",
-    "source": "Bloomberg Markets",
+    "title": "Bill Gates pulls out of India's AI summit over Epstein files controversy",
+    "link": "https://www.bbc.com/news/articles/c309qv9zglno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
     "category": "Markets & Finance",
-    "published": "Thu, 19 Feb 2026 02:50:35 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_j8JQVSmpnM/v3/1200x-1.jpg",
+    "published": "Thu, 19 Feb 2026 08:13:25 GMT",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a97/live/efd25a30-0d49-11f1-8a17-c3bd2e006216.jpg",
     "importance": 40,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.003705"
-  },
-  {
-    "title": "Indian Fund Beating 93% of Peers Bets on Internet Value Stocks",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-19/indian-fund-beating-93-of-peers-bets-on-internet-value-stocks",
-    "source": "Bloomberg Markets",
-    "category": "Markets & Finance",
-    "published": "Thu, 19 Feb 2026 01:00:00 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJ1jPzL0kdCo/v3/1200x-1.png",
-    "importance": 40,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.003827"
-  },
-  {
-    "title": "UK Budget ‘Headroom’ Has Become a Harmful Obsession, IFS Warns",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-19/uk-budget-headroom-has-become-a-harmful-obsession-ifs-warns",
-    "source": "Bloomberg Economics",
-    "category": "Global Economy",
-    "published": "Thu, 19 Feb 2026 00:01:00 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYTi.zSPYOKk/v0/1200x-1.jpg",
-    "importance": 40,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.505667"
-  },
-  {
-    "title": "Hassett Attacks NY Fed for Study on Tariff Burden Hitting US",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-18/hassett-attacks-ny-fed-for-study-on-tariffs-hurting-us-companies-mls3r5yi",
-    "source": "Bloomberg Economics",
-    "category": "Global Economy",
-    "published": "Wed, 18 Feb 2026 14:03:17 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ies5mrzgBB4o/v1/1200x-1.jpg",
-    "importance": 40,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.505846"
+    "updated_at": "2026-02-19T14:11:24.017614"
   },
   {
     "title": "The Global Economy’s Warning Signals Are Broken",
@@ -206,7 +151,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/05/business/00econ-signals/00econ-signals-mediumSquareAt3X-v2.png",
     "importance": 40,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.639441"
+    "updated_at": "2026-02-19T14:11:24.390501"
   },
   {
     "title": "South Sudan Appoints Dead Man to Election Panel, as Political Crisis Grows",
@@ -217,7 +162,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/18/multimedia/18south-sudan-01-mqvp/18south-sudan-01-mqvp-mediumSquareAt3X.jpg",
     "importance": 40,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.749048"
+    "updated_at": "2026-02-19T14:11:24.507469"
   },
   {
     "title": "From 4 Flotillas to 3: Inside the Japan Maritime Self-Defense Force’s Historic Overhaul",
@@ -228,7 +173,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-18-235245.jpg",
     "importance": 40,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.939791"
+    "updated_at": "2026-02-19T14:11:24.645378"
   },
   {
     "title": "Did Women’s Votes and the Jamaat’s Liberation War Narrative Derail Its Plans for Power?",
@@ -239,128 +184,117 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-18-153653.jpg",
     "importance": 40,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.940007"
+    "updated_at": "2026-02-19T14:11:24.645621"
   },
   {
-    "title": "Tech Rally Extends as AI Fears Ease, Samsung Gains: Markets Wrap",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-18/asian-stocks-to-climb-as-tech-lifts-us-equities-markets-wrap",
-    "source": "Bloomberg Markets",
-    "category": "Markets & Finance",
-    "published": "Wed, 18 Feb 2026 22:25:25 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW4wJwWyk3jI/v1/1200x-1.jpg",
-    "importance": 35,
+    "title": "Pakistan blast: At least 16 killed in Karachi after building collapses due to cylinder explosion",
+    "link": "https://indianexpress.com/article/world/karachi-gas-cylinder-explosion-soldier-bazaar-ramadan-deaths-building-collapse-10541132/",
+    "source": "World | The Indian Express",
+    "category": "Geopolitics",
+    "published": "Thu, 19 Feb 2026 13:59:12 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/02/Pakistan-Gas-Explosion-Building.jpg",
+    "importance": 40,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.003596"
+    "updated_at": "2026-02-19T14:11:24.993078"
   },
   {
-    "title": "Mizuho Dropped From Another Yen Bond Deal in Fallout From Probe",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-19/yet-another-japanese-issuer-drops-mizuho-from-yen-bond-deal",
+    "title": "Turkey Mulls Expanding Scope of Market Manipulation Penalties",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/turkey-mulls-expanding-scope-of-market-manipulation-penalties",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
-    "published": "Thu, 19 Feb 2026 01:24:39 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihdVIxYMddA0/v0/1200x-1.jpg",
+    "published": "Thu, 19 Feb 2026 13:39:28 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiYe2jVqgCnA/v1/1200x-1.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.003672"
+    "updated_at": "2026-02-19T14:11:23.732988"
   },
   {
-    "title": "India Fund Houses Rush to List as Retail Money Pours In",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-02-19/sbi-funds-files-for-ipo-bandhan-bullish-on-paytm-info-edge-indiamart",
+    "title": "US Iran Latest: Diplomatic Window Closing, UN Atomic Watchdog Says | The Pulse 2/19",
+    "link": "https://www.bloomberg.com/news/videos/2026-02-19/the-pulse-2-19-video",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
-    "published": "Thu, 19 Feb 2026 02:50:44 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idcJ9UVQ.ZFo/v6/1200x-1.jpg",
+    "published": "Thu, 19 Feb 2026 13:23:01 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWT8qW77r2cs/v3/1200x-1.png",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.003689"
+    "updated_at": "2026-02-19T14:11:23.733008"
   },
   {
-    "title": "Kirin's Yoshimura on Health Science Business Strategy",
-    "link": "https://www.bloomberg.com/news/videos/2026-02-19/kirin-s-yoshimura-on-health-science-business-strategy-video",
+    "title": "Vale to Yield Control of Canada Nickel Assets in Metals Shakeup",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/vale-to-yield-control-of-canada-nickel-assets-in-metals-shakeup",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
-    "published": "Thu, 19 Feb 2026 02:35:15 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iftGkGuRPOS8/v3/1200x-1.jpg",
+    "published": "Thu, 19 Feb 2026 13:15:42 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i29MnG219.BU/v1/1200x-1.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.003737"
+    "updated_at": "2026-02-19T14:11:23.733044"
   },
   {
-    "title": "Philippines Raises $4.1 Billion in Jumbo Peso Bond Offering",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-19/philippines-raises-4-1-billion-in-jumbo-peso-bond-offering",
+    "title": "Wall Street ETF Complex Muscles Into the Digital Dollar Market",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/wall-street-etf-complex-muscles-into-the-digital-dollar-market",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
-    "published": "Thu, 19 Feb 2026 02:29:36 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izxz4SCjpyg0/v0/1200x-1.jpg",
+    "published": "Thu, 19 Feb 2026 13:12:45 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMxYbGrajaQ8/v3/1200x-1.png",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.003753"
+    "updated_at": "2026-02-19T14:11:23.733103"
   },
   {
-    "title": "RBNZ Faces ‘Anathema’ of Growing Economy, Slowing Inflation",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-19/rbnz-faces-anathema-of-growing-economy-and-slowing-inflation",
+    "title": "Walmart Cites Trade, Labor Concerns in Cautious Profit Forecast",
+    "link": "https://www.bloomberg.com/news/videos/2026-02-19/walmart-cites-trade-labor-in-cautious-profit-forecast-video",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
-    "published": "Thu, 19 Feb 2026 01:50:16 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFVOudilKaxk/v1/1200x-1.jpg",
+    "published": "Thu, 19 Feb 2026 13:03:01 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imgYpCLuDEvQ/v3/1200x-1.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.003775"
+    "updated_at": "2026-02-19T14:11:23.733166"
   },
   {
-    "title": "Australia’s Soaring Fiscal Spending ‘Unsustainable,’ Report Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-19/australia-s-soaring-fiscal-spending-unsustainable-report-says",
+    "title": "US Premarket Movers: Carvana, Deere, Hims &amp; Hers, Walmart",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/us-stock-futures-today-carvana-deere-hims-hers-walmart",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
-    "published": "Thu, 19 Feb 2026 01:24:24 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIawmWplhiUQ/v3/1200x-1.png",
+    "published": "Thu, 19 Feb 2026 12:49:49 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izzRoJEaXY_w/v1/1200x-1.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.003795"
+    "updated_at": "2026-02-19T14:11:23.733235"
   },
   {
-    "title": "Yen Drops Amid Broad Dollar Rally, Fed Confirms Rate Check",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-18/yen-drops-amid-broad-dollar-rally-as-fed-confirms-rate-check",
+    "title": "Nigeria Redirects Oil, Gas Revenue to Bolster State Finances",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/nigeria-redirects-oil-gas-revenue-to-bolster-state-finances",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
-    "published": "Wed, 18 Feb 2026 20:04:15 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9Q532qUgjV4/v3/1200x-1.png",
+    "published": "Thu, 19 Feb 2026 06:30:43 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLKJdSG9dFhI/v1/1200x-1.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.003843"
+    "updated_at": "2026-02-19T14:11:23.733253"
   },
   {
-    "title": "Morgan Stanley's Wilson: We're In New Economic, Earnings Cycle",
-    "link": "https://www.bloomberg.com/news/videos/2026-02-19/morgan-stanley-s-wilson-we-re-in-new-economic-cycle-video",
+    "title": "Blue Owl Halts Redemptions on Private Credit Retail Fund",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-18/blue-owl-loan-sale-raises-1-4-billion-for-investor-payouts",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
-    "published": "Thu, 19 Feb 2026 00:13:15 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOibFsVscPDw/v3/1200x-1.jpg",
+    "published": "Wed, 18 Feb 2026 23:42:29 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igE2e7PGTp0E/v0/1200x-1.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.003876"
+    "updated_at": "2026-02-19T14:11:23.733287"
   },
   {
-    "title": "Stocks Rise as Data Signal Resilient Economy | The Close 2/18/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-02-19/the-close-2-18-2026-video",
+    "title": "OpenAI Funding Round to Top $100B; Oil Rallies Amid US-Iran Concerns | Bloomberg Brief 2/19/2026",
+    "link": "https://www.bloomberg.com/news/videos/2026-02-19/bloomberg-brief-2-19-2026-video",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
-    "published": "Thu, 19 Feb 2026 00:01:40 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTApmZ0DUiYs/v3/1200x-1.jpg",
+    "published": "Thu, 19 Feb 2026 12:30:50 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iF5JoDRxYsTs/v3/1200x-1.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.003892"
-  },
-  {
-    "title": "Travel + Leisure CEO on Earnings, Leisure Momentum",
-    "link": "https://www.bloomberg.com/news/videos/2026-02-18/travel-leisure-ceo-on-earnings-leisure-momentum-video",
-    "source": "Bloomberg Markets",
-    "category": "Markets & Finance",
-    "published": "Wed, 18 Feb 2026 23:18:26 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOFCzIb57GbQ/v3/1200x-1.jpg",
-    "importance": 35,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.003924"
+    "updated_at": "2026-02-19T14:11:23.733306"
   },
   {
     "title": "Trump adviser calls for Fed economists to be 'disciplined'",
@@ -371,7 +305,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28ae/live/ac003330-0d13-11f1-89c6-65cc177ba7c1.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.328497"
+    "updated_at": "2026-02-19T14:11:24.017664"
   },
   {
     "title": "Lower fuel prices and airfares help drive inflation down",
@@ -382,7 +316,18 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc60/live/b6132510-0ce8-11f1-b5e2-dd58fc65f0f6.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.328513"
+    "updated_at": "2026-02-19T14:11:24.017681"
+  },
+  {
+    "title": "IMF Encourages South Africa to Adopt Fiscal Rule to Curb Debt",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/south-africa-adopting-fiscal-rule-key-to-curbing-debt-imf-says",
+    "source": "Bloomberg Economics",
+    "category": "Global Economy",
+    "published": "Thu, 19 Feb 2026 07:00:00 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYwlowDMMKmg/v0/1200x-1.jpg",
+    "importance": 35,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-02-19T14:11:24.283228"
   },
   {
     "title": "Europe Worries Trump Poses Threat to Its Financial and Tech Sovereignty",
@@ -393,7 +338,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/11/multimedia/Biz-Europe-Sovereignty-01-pzgw/Biz-Europe-Sovereignty-01-pzgw-mediumSquareAt3X.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.639151"
+    "updated_at": "2026-02-19T14:11:24.390197"
   },
   {
     "title": "State Fiscal Chiefs Protest Federal Immigration Chaos",
@@ -404,29 +349,29 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/05/multimedia/04biz-ice-economy-hzbm/04biz-ice-economy-hzbm-mediumSquareAt3X.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.639384"
+    "updated_at": "2026-02-19T14:11:24.390438"
   },
   {
-    "title": "Israel’s Actions Questioned at Security Council Meeting",
-    "link": "https://www.nytimes.com/2026/02/18/world/middleeast/security-council-israel-gaza-board-peace.html",
+    "title": "Where Things Stand on Witkoff and Kushner’s Negotiations Over Iran, Ukraine and Gaza",
+    "link": "https://www.nytimes.com/2026/02/19/world/europe/witkoff-kushner-iran-ukraine-israel.html",
     "source": "NYT > World News",
     "category": "Geopolitics",
-    "published": "Thu, 19 Feb 2026 01:54:59 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/18/multimedia/18int-un-gaza-peace-bckj/18int-un-gaza-peace-bckj-mediumSquareAt3X-v3.jpg",
+    "published": "Thu, 19 Feb 2026 12:54:28 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/19/multimedia/19int-iran-ukraine-gaza-01-zhkf/19int-iran-ukraine-gaza-01-zhkf-mediumSquareAt3X.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.749205"
+    "updated_at": "2026-02-19T14:11:24.507584"
   },
   {
-    "title": "As Trump Weighs Possible Iran Strikes, U.S. Military Moves Into Place",
-    "link": "https://www.nytimes.com/2026/02/18/us/politics/us-military-iran.html",
-    "source": "NYT > World News",
+    "title": "3 Southeast Asian Leaders Arrive in Washington for ‘Board of Peace’ Summit",
+    "link": "https://thediplomat.com/2026/02/3-southeast-asian-leaders-arrive-in-washington-for-board-of-peace-summit/",
+    "source": "The Diplomat",
     "category": "Geopolitics",
-    "published": "Thu, 19 Feb 2026 01:36:42 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/18/multimedia/18dc-military-iran-cwqf/18dc-military-iran-cwqf-mediumSquareAt3X.jpg",
+    "published": "Thu, 19 Feb 2026 09:53:00 +0900",
+    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-19-095838.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.749224"
+    "updated_at": "2026-02-19T14:11:24.645282"
   },
   {
     "title": "Early Presidential Election Off the Table in Kyrgyzstan",
@@ -437,7 +382,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-19-054336.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.939755"
+    "updated_at": "2026-02-19T14:11:24.645352"
   },
   {
     "title": "West Bengal’s Election Is Turning Bangladesh’s Voting Pattern Into a Security Scare",
@@ -448,18 +393,18 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-18-011527.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.939817"
+    "updated_at": "2026-02-19T14:11:24.645405"
   },
   {
-    "title": "Taiwan’s Protracted Fight Over the Defense Budget",
-    "link": "https://thediplomat.com/2026/02/taiwans-protracted-fight-over-the-defense-budget/",
-    "source": "The Diplomat",
+    "title": "Former South Korean President Yook Suk Yeol sentenced to life imprisonment",
+    "link": "https://indianexpress.com/article/world/former-south-korean-president-yook-suk-yeol-sentenced-to-life-imprisonment-10540422/",
+    "source": "World | The Indian Express",
     "category": "Geopolitics",
-    "published": "Tue, 17 Feb 2026 22:28:00 +0900",
-    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2025/05/thediplomat_2025-05-22-125642.jpg",
+    "published": "Thu, 19 Feb 2026 07:35:13 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/02/Yoon-Suk-Yeol_20260219073357.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.940125"
+    "updated_at": "2026-02-19T14:11:24.993212"
   },
   {
     "title": "Trump’s hardline immigration policy of detention hit as US federal court intervenes",
@@ -470,7 +415,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/US-President-Donald-Trump-3_20260219020504.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:08.284496"
+    "updated_at": "2026-02-19T14:11:24.993304"
   },
   {
     "title": "India pitch at AI impact summit 2026: Democratising AI, respecting sovereignty",
@@ -481,84 +426,150 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/ai-mo.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:08.800499"
+    "updated_at": "2026-02-19T14:11:25.441045"
   },
   {
-    "title": "Samsung Shares Rise to Record After Report on Higher Chip Price",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-19/samsung-shares-rise-to-record-after-report-on-higher-chip-price",
+    "title": "NFL Hall of Famer Steve Young’s HGGC Raises New $3.2 Billion Fund, Beating Target",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/nfl-hall-of-famer-steve-young-s-hggc-raises-3-2-billion-fund-beating-target",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
-    "published": "Thu, 19 Feb 2026 03:03:41 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ituwcVCe84hc/v2/1200x-1.png",
+    "published": "Thu, 19 Feb 2026 14:00:00 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1nPjnJf7MhY/v1/1200x-1.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.003657"
+    "updated_at": "2026-02-19T14:11:23.732903"
   },
   {
-    "title": "Coach CEO: Tariffs No Longer in Play Internationally",
-    "link": "https://www.bloomberg.com/news/videos/2026-02-18/coach-ceo-tariffs-no-longer-in-play-internationally-video",
+    "title": "US Jobless Claims Drop by the Most Since November to 206,000",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/us-jobless-claims-decline-by-the-most-since-november-to-206-000",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
-    "published": "Wed, 18 Feb 2026 23:31:22 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOkH_qtZNtSs/v3/1200x-1.jpg",
+    "published": "Thu, 19 Feb 2026 13:34:04 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irm0KPlSdCJ8/v0/1200x-1.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.003811"
+    "updated_at": "2026-02-19T14:11:23.732932"
   },
   {
-    "title": "Blue Owl Loan Sale Raises $1.4 Billion to Fund Investor Payouts",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-18/blue-owl-loan-sale-raises-1-4-billion-for-investor-payouts",
+    "title": "US Jobless Claims Decline, December Trade Deficit Unexpectedly Widens",
+    "link": "https://www.bloomberg.com/news/videos/2026-02-19/us-jobless-claims-decline-december-trade-deficit-widens-video",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
-    "published": "Wed, 18 Feb 2026 23:42:29 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igE2e7PGTp0E/v0/1200x-1.jpg",
+    "published": "Thu, 19 Feb 2026 13:46:46 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iu9rdaGzyjjM/v3/1200x-1.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.003908"
+    "updated_at": "2026-02-19T14:11:23.732952"
   },
   {
-    "title": "Zuckerberg defends Meta in landmark social media addiction trial",
-    "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
+    "title": "Klarna Reports Loss as More Money Set Aside for Souring Loans",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/klarna-posts-loss-as-credit-provisions-swell-in-line-with-growth",
+    "source": "Bloomberg Markets",
+    "category": "Markets & Finance",
+    "published": "Thu, 19 Feb 2026 12:48:44 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFtMGFL5egYE/v1/1200x-1.jpg",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-02-19T14:11:23.733130"
+  },
+  {
+    "title": "David Rubenstein Show: Bobbi Brown",
+    "link": "https://www.bloomberg.com/news/videos/2026-02-19/david-rubenstein-show-bobbi-brown-video",
+    "source": "Bloomberg Markets",
+    "category": "Markets & Finance",
+    "published": "Thu, 19 Feb 2026 13:06:01 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZU5aPimSQHk/v3/1200x-1.jpg",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-02-19T14:11:23.733147"
+  },
+  {
+    "title": "Cristiano Ronaldo Puts $7.5 Million Into Herbalife Health Platform",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/billionaire-ronaldo-invests-in-herbalife-wellness-platform",
+    "source": "Bloomberg Markets",
+    "category": "Markets & Finance",
+    "published": "Thu, 19 Feb 2026 13:00:10 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVVfQ4lIdRns/v1/1200x-1.jpg",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-02-19T14:11:23.733183"
+  },
+  {
+    "title": "Kids Want Cheap Stuff &mdash; Lots Of It. Five Below Delivers",
+    "link": "https://www.bloomberg.com/news/videos/2026-02-19/kids-want-cheap-stuff-lots-of-it-five-below-delivers",
+    "source": "Bloomberg Markets",
+    "category": "Markets & Finance",
+    "published": "Thu, 19 Feb 2026 13:00:05 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieL17rTbZh_w/v3/1200x-1.jpg",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-02-19T14:11:23.733200"
+  },
+  {
+    "title": "Raízen Backers Moved Too Late to Halt Rating Wipeout, Fitch Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/raizen-backers-moved-too-late-to-halt-rating-wipeout-fitch-says",
+    "source": "Bloomberg Markets",
+    "category": "Markets & Finance",
+    "published": "Thu, 19 Feb 2026 13:00:00 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iT0npF6X0viI/v2/1200x-1.png",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-02-19T14:11:23.733219"
+  },
+  {
+    "title": "Big Oil Is Struggling to Find the Next Guyana",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-02-19/big-oil-is-struggling-to-find-the-next-guyana",
+    "source": "Bloomberg Markets",
+    "category": "Markets & Finance",
+    "published": "Thu, 19 Feb 2026 12:43:38 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijuqwqNnpteM/v0/1200x-1.jpg",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-02-19T14:11:23.733270"
+  },
+  {
+    "title": "Reeves fixated on 'dysfunctional' borrowing rules, says IFS",
+    "link": "https://www.bbc.com/news/articles/c1kg48m937wo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "category": "Markets & Finance",
-    "published": "Thu, 19 Feb 2026 03:29:12 GMT",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd95/live/86ef3de0-0d1b-11f1-b5e2-dd58fc65f0f6.png",
+    "published": "Thu, 19 Feb 2026 03:09:38 GMT",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5011/live/fdea0740-0d25-11f1-afaf-abea30845f75.png",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.328422"
-  },
-  {
-    "title": "Tech firms will have 48 hours to remove abusive images under new law",
-    "link": "https://www.bbc.com/news/articles/cz6ed1549yvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "category": "Markets & Finance",
-    "published": "Thu, 19 Feb 2026 00:55:16 GMT",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbed/live/4211c060-0cf0-11f1-a015-553217367293.jpg",
-    "importance": 30,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.328447"
+    "updated_at": "2026-02-19T14:11:24.017487"
   },
   {
     "title": "Why there's no quick fix in sight for the problem of dazzling headlights",
     "link": "https://www.bbc.com/news/articles/cn71xyjpdl2o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "category": "Markets & Finance",
-    "published": "Thu, 19 Feb 2026 01:10:15 GMT",
+    "published": "Thu, 19 Feb 2026 09:43:37 GMT",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2e4/live/a860eb00-0cd4-11f1-b7e1-afb6d0884c18.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.328464"
+    "updated_at": "2026-02-19T14:11:24.017506"
+  },
+  {
+    "title": "'We're still on edge': Toy firms look to US Supreme Court as tariffs hit profits",
+    "link": "https://www.bbc.com/news/articles/c87515x9p0zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "category": "Markets & Finance",
+    "published": "Thu, 19 Feb 2026 06:08:18 GMT",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b99/live/06e34330-0ce4-11f1-9aaa-bdef89911abe.jpg",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-02-19T14:11:24.017525"
   },
   {
     "title": "Etsy sells second-hand fashion app Depop to eBay for $1.2bn",
     "link": "https://www.bbc.com/news/articles/cx240kme2k8o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "category": "Markets & Finance",
-    "published": "Thu, 19 Feb 2026 01:37:44 GMT",
+    "published": "Thu, 19 Feb 2026 11:07:24 GMT",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac2e/live/6f0f21d0-0d30-11f1-b73d-5f7429e28cb8.png",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.328480"
+    "updated_at": "2026-02-19T14:11:24.017542"
   },
   {
     "title": "The two farms in Senegal that supply many of the UK's vegetables",
@@ -569,7 +580,51 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de9a/live/9ea718b0-0c1a-11f1-b7e1-afb6d0884c18.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.328529"
+    "updated_at": "2026-02-19T14:11:24.017559"
+  },
+  {
+    "title": "Zuckerberg defends Meta in landmark social media addiction trial",
+    "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "category": "Markets & Finance",
+    "published": "Thu, 19 Feb 2026 03:29:12 GMT",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd95/live/86ef3de0-0d1b-11f1-b5e2-dd58fc65f0f6.png",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-02-19T14:11:24.017578"
+  },
+  {
+    "title": "Tech firms will have 48 hours to remove abusive images under new law",
+    "link": "https://www.bbc.com/news/articles/cz6ed1549yvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "category": "Markets & Finance",
+    "published": "Thu, 19 Feb 2026 00:55:16 GMT",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbed/live/4211c060-0cf0-11f1-a015-553217367293.jpg",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-02-19T14:11:24.017596"
+  },
+  {
+    "title": "Dennis the Menace featured on 50p coin to mark 75 years",
+    "link": "https://www.bbc.com/news/articles/c9q5wdw0vrgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "category": "Markets & Finance",
+    "published": "Thu, 19 Feb 2026 11:29:06 GMT",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbdc/live/be88a140-0d86-11f1-b7e1-afb6d0884c18.jpg",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-02-19T14:11:24.017631"
+  },
+  {
+    "title": "Pubs to open late for home nations  World Cup knockout games",
+    "link": "https://www.bbc.com/news/articles/c8xy814855vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "category": "Markets & Finance",
+    "published": "Thu, 19 Feb 2026 04:51:23 GMT",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4431/live/768872e0-0d4e-11f1-9ca5-5dcd8b762fe9.jpg",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-02-19T14:11:24.017647"
   },
   {
     "title": "Plan to increase youth minimum wage could be delayed",
@@ -580,7 +635,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0500/live/88f440d0-0cc7-11f1-9972-d3f265c101c6.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.328544"
+    "updated_at": "2026-02-19T14:11:24.017697"
   },
   {
     "title": "Defence giant BAE hails record sales as workers remain on strike",
@@ -591,7 +646,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b17/live/b9067570-0cdd-11f1-b7e1-afb6d0884c18.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.328595"
+    "updated_at": "2026-02-19T14:11:24.017756"
   },
   {
     "title": "'I do not trust them' - top streamers left concerned by Discord age checks",
@@ -602,7 +657,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9013/live/2ce5caf0-0b5c-11f1-addc-a972ce4af6c2.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.328611"
+    "updated_at": "2026-02-19T14:11:24.017775"
   },
   {
     "title": "'The search is soul-destroying': Young jobseekers on the struggle to find work",
@@ -613,7 +668,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87d9/live/d3e96ac0-0bd7-11f1-884e-c36fe0e186a7.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.328628"
+    "updated_at": "2026-02-19T14:11:24.017793"
   },
   {
     "title": "Reform plans to keep UK's budget watchdog",
@@ -624,117 +679,51 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dde7/live/151cf140-0c3e-11f1-b8ba-135d136c986f.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.328643"
+    "updated_at": "2026-02-19T14:11:24.017808"
   },
   {
-    "title": "I invested £12,000 in Brewdog  - I think I've lost it all",
-    "link": "https://www.bbc.com/news/articles/c795879x08go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "category": "Markets & Finance",
-    "published": "Wed, 18 Feb 2026 06:24:08 GMT",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/338d/live/322fcfc0-0c05-11f1-9972-d3f265c101c6.jpg",
-    "importance": 30,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.328658"
-  },
-  {
-    "title": "Shein under EU investigation over childlike sex dolls",
-    "link": "https://www.bbc.com/news/articles/cr7321n1n0eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "category": "Markets & Finance",
-    "published": "Tue, 17 Feb 2026 19:08:57 GMT",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6753/live/4ffad1b0-0c2f-11f1-a62a-a37536f5ddff.jpg",
-    "importance": 30,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.328677"
-  },
-  {
-    "title": "UK unemployment hits highest rate for nearly five years",
-    "link": "https://www.bbc.com/news/articles/c1l7pedyzjeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "category": "Markets & Finance",
-    "published": "Tue, 17 Feb 2026 16:16:52 GMT",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ae1/live/ae0b9ff0-0cd9-11f1-acd9-71076646bffc.jpg",
-    "importance": 30,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.328693"
-  },
-  {
-    "title": "Bayer offers $7.25bn to settle weedkiller cancer claims",
-    "link": "https://www.bbc.com/news/articles/c7473vyxgqpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "category": "Markets & Finance",
-    "published": "Tue, 17 Feb 2026 20:13:48 GMT",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5baa/live/b0ccf500-0c38-11f1-a3a9-c929a46ea97a.jpg",
-    "importance": 30,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.328708"
-  },
-  {
-    "title": "Calculator: How will freeze on tax thresholds hit your take-home pay?",
-    "link": "https://www.bbc.com/news/articles/c99k7djlklyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "category": "Markets & Finance",
-    "published": "Tue, 17 Feb 2026 07:10:15 GMT",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a282/live/678b8360-0b58-11f1-b7e1-afb6d0884c18.jpg",
-    "importance": 30,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.328724"
-  },
-  {
-    "title": "Royal Mail given two weeks to respond to claims it is prioritising parcels",
-    "link": "https://www.bbc.com/news/articles/cm2xy9x27mvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "category": "Markets & Finance",
-    "published": "Tue, 17 Feb 2026 08:48:47 GMT",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a442/live/de4e6d80-0b5a-11f1-b472-df9c1c12cffb.jpg",
-    "importance": 30,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.328740"
-  },
-  {
-    "title": "Record Rise by Japan’s Machine Orders Points to Solid Investment",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-19/record-rise-by-japan-s-machine-orders-points-to-solid-investment",
+    "title": "Farmers to Bet on Soy With More US Planting Tied to China Demand",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/farmers-to-bet-on-soy-with-more-us-planting-tied-to-china-demand",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Thu, 19 Feb 2026 02:46:51 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKBLJEHj41GE/v2/1200x-1.png",
+    "published": "Thu, 19 Feb 2026 13:07:52 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVd4ahKVefFs/v1/1200x-1.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.505615"
+    "updated_at": "2026-02-19T14:11:24.282901"
   },
   {
-    "title": "Australia Unemployment Stays Low, Backing Central Bank’s Stance on Rate Hikes",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-19/australia-unemployment-stays-low-buttressing-hawkish-rba-stance",
+    "title": "BOE’s Mann Ready to Hold Rates Until Inflation Expectations Drop",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/boe-s-mann-ready-to-hold-rates-until-inflation-expectations-drop",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Thu, 19 Feb 2026 00:32:19 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRk85Z5bLWOI/v2/1200x-1.png",
+    "published": "Thu, 19 Feb 2026 13:00:39 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.TuntJqGKe8/v1/1200x-1.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.505646"
+    "updated_at": "2026-02-19T14:11:24.282923"
   },
   {
-    "title": "Fed Reveals Surprise Shift as Several Officials Ponder Hike",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-18/fed-minutes-show-several-officials-point-to-rate-hike-scenario",
+    "title": "Nigeria Redirects Oil, Gas Revenue to Bolster State Finances",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/nigeria-redirects-oil-gas-revenue-to-bolster-state-finances",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Wed, 18 Feb 2026 19:00:01 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iinEWkG.iuwU/v1/1200x-1.jpg",
+    "published": "Thu, 19 Feb 2026 06:30:43 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLKJdSG9dFhI/v1/1200x-1.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.505703"
+    "updated_at": "2026-02-19T14:11:24.282958"
   },
   {
-    "title": "Inflation Is Down, But Americans Still Feel an Affordability Squeeze",
-    "link": "https://www.bloomberg.com/graphics/2026-cost-of-living/",
+    "title": "Schroders Buys UK Bonds as It Looks Beyond Political ‘Noise’",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/schroders-buys-gilts-shifts-focus-to-10-year-bonds-in-boe-bet",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Wed, 18 Feb 2026 22:00:05 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqpBTZH3YpVs/v0/1200x-1.png",
+    "published": "Thu, 19 Feb 2026 08:13:40 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia.Zmsgw0bM4/v1/1200x-1.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.505738"
+    "updated_at": "2026-02-19T14:11:24.283016"
   },
   {
     "title": "How Europe Will Choose Lagarde’s Successor as ECB President",
@@ -745,29 +734,18 @@
     "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im11CsvufbRw/v1/1200x-1.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.505831"
+    "updated_at": "2026-02-19T14:11:24.283152"
   },
   {
-    "title": "ECB Chief’s Early Departure May Reduce Risks to Euro, Rabo Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-18/lagarde-s-early-exit-may-reduce-risks-to-euro-rabobank-says",
+    "title": "Indonesia Holds Rates Steady as Currency Pressure Lingers",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/bank-indonesia-holds-rates-steady-as-currency-pressure-lingers",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Wed, 18 Feb 2026 14:19:40 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWQP77zIuaE0/v0/1200x-1.jpg",
+    "published": "Thu, 19 Feb 2026 07:35:26 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iT9K4_8DYG7c/v1/1200x-1.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.505932"
-  },
-  {
-    "title": "US Core Capital Goods Orders Exceeded Forecast in December",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-18/us-core-capital-goods-orders-exceeded-forecast-in-december",
-    "source": "Bloomberg Economics",
-    "category": "Global Economy",
-    "published": "Wed, 18 Feb 2026 13:34:14 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijkrALCyEPlc/v3/1200x-1.png",
-    "importance": 30,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.505967"
+    "updated_at": "2026-02-19T14:11:24.283169"
   },
   {
     "title": "Fed Minutes Show No Rush to Restart Rate Cuts",
@@ -778,7 +756,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/18/multimedia/18dc-fed-pwqh/18dc-fed-pwqh-mediumSquareAt3X.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.639031"
+    "updated_at": "2026-02-19T14:11:24.390037"
   },
   {
     "title": "Kalshi and Polymarket Create New Competition for Professional Economists",
@@ -789,7 +767,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/12/business/00prediction-markets/00prediction-markets-mediumSquareAt3X.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.639272"
+    "updated_at": "2026-02-19T14:11:24.390329"
   },
   {
     "title": "Lower Unemployment Rate Supports Longer Pause for Fed",
@@ -800,7 +778,51 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/11/multimedia/11biz-jobs-fed-qgjk/11biz-jobs-fed-qgjk-mediumSquareAt3X.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.639290"
+    "updated_at": "2026-02-19T14:11:24.390347"
+  },
+  {
+    "title": "South Korean Ex-Leader Is Sentenced to Life in Prison",
+    "link": "https://www.nytimes.com/live/2026/02/19/world/yoon-korea-martial-law-president",
+    "source": "NYT > World News",
+    "category": "Geopolitics",
+    "published": "Thu, 19 Feb 2026 14:06:56 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/19/multimedia/19yoon-sentencing-0330EST-fjlm/19yoon-sentencing-0330EST-fjlm-mediumSquareAt3X.jpg",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-02-19T14:11:24.507122"
+  },
+  {
+    "title": "In Devastated Gaza, Grandiose Peace Plans Clash With Reality",
+    "link": "https://www.nytimes.com/2026/02/19/world/middleeast/gaza-rebuilding.html",
+    "source": "NYT > World News",
+    "category": "Geopolitics",
+    "published": "Thu, 19 Feb 2026 10:06:56 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/19/multimedia/19int-gaza-bop-promo/19int-gaza-bop-promo-mediumSquareAt3X.jpg",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-02-19T14:11:24.507176"
+  },
+  {
+    "title": "Russia Celebrated Him. Now He’s Accused of Having Troops Shoot Themselves.",
+    "link": "https://www.nytimes.com/2026/02/19/world/europe/russia-military-corruption.html",
+    "source": "NYT > World News",
+    "category": "Geopolitics",
+    "published": "Thu, 19 Feb 2026 05:01:07 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/02/multimedia/00int-russia-military-corruption-jhfz/00int-russia-military-corruption-jhfz-mediumSquareAt3X.jpg",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-02-19T14:11:24.507203"
+  },
+  {
+    "title": "Policy Flip-Flops Hurt the British Leader. Then Came a New Political Threat.",
+    "link": "https://www.nytimes.com/2026/02/19/world/europe/britain-keir-starmer-mandelson-epstein.html",
+    "source": "NYT > World News",
+    "category": "Geopolitics",
+    "published": "Thu, 19 Feb 2026 05:01:09 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/19/multimedia/19int-uk-starmer-01-kqzw/19int-uk-starmer-01-kqzw-mediumSquareAt3X.jpg",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-02-19T14:11:24.507225"
   },
   {
     "title": "At These Gaza Schools, ‘Peace Building’ Is Part of the Curriculum",
@@ -811,7 +833,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/12/multimedia/12Gaza-schools-01-phjt/12Gaza-schools-01-phjt-mediumSquareAt3X.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.748951"
+    "updated_at": "2026-02-19T14:11:24.507381"
   },
   {
     "title": "The Behind the Scenes Search for Compromise on Territory in Ukraine Talks",
@@ -822,40 +844,40 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/18/multimedia/18int-ukraine-dmz-01-hcqv/18int-ukraine-dmz-01-hcqv-mediumSquareAt3X.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.749030"
+    "updated_at": "2026-02-19T14:11:24.507437"
   },
   {
-    "title": "Russia’s Exile From World Sports Will End Next Month at Paralympics",
-    "link": "https://www.nytimes.com/2026/02/18/world/europe/russia-paralympics-italy.html",
+    "title": "Dueling Protests at South Korean Ex-Leader’s Sentencing Highlight Political Rift",
+    "link": "https://www.nytimes.com/2026/02/19/world/asia/yoon-south-korea-protests.html",
     "source": "NYT > World News",
     "category": "Geopolitics",
-    "published": "Wed, 18 Feb 2026 16:11:03 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/18/multimedia/18Int-Russia-Olympics-02-kbvg/18Int-Russia-Olympics-02-kbvg-mediumSquareAt3X.jpg",
+    "published": "Thu, 19 Feb 2026 12:31:09 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/19/multimedia/19yoon-sentencing-polarization-tkhl/19yoon-sentencing-polarization-tkhl-mediumSquareAt3X.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.749090"
+    "updated_at": "2026-02-19T14:11:24.507655"
   },
   {
-    "title": "Iranians Mourn Slain Protesters With ‘Revolutionary Rage’",
-    "link": "https://www.nytimes.com/2026/02/17/world/middleeast/iran-memorials-protesters-crackdown.html",
-    "source": "NYT > World News",
+    "title": "Why Did Philippine VP Sara Duterte Declare Her Presidential Candidacy?",
+    "link": "https://thediplomat.com/2026/02/why-did-philippine-vp-sara-duterte-declare-her-presidential-candidacy/",
+    "source": "The Diplomat",
     "category": "Geopolitics",
-    "published": "Tue, 17 Feb 2026 18:57:59 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/17/17-vid-Zanjan-funeral-10secs-2058-cover/17-vid-Zanjan-funeral-10secs-2058-cover-mediumSquareAt3X.jpg",
+    "published": "Thu, 19 Feb 2026 06:02:00 +0900",
+    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-19-061050.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.749131"
+    "updated_at": "2026-02-19T14:11:24.645305"
   },
   {
-    "title": "Peru Votes to Impeach President José Jerí",
-    "link": "https://www.nytimes.com/2026/02/17/world/americas/peru-president-jose-jeri-impeachment.html",
-    "source": "NYT > World News",
+    "title": "Lai’s Tougher Stance on Transnational Repression Has Taiwan’s Hong Kongers Optimistic",
+    "link": "https://thediplomat.com/2026/02/lais-tougher-stance-on-transnational-repression-has-taiwans-hong-kongers-optimistic/",
+    "source": "The Diplomat",
     "category": "Geopolitics",
-    "published": "Tue, 17 Feb 2026 20:41:02 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/17/multimedia/17-int-peru-impeachment-mpqk/17-int-peru-impeachment-mpqk-mediumSquareAt3X.jpg",
+    "published": "Thu, 19 Feb 2026 03:08:00 +0900",
+    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-19-031551.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.749185"
+    "updated_at": "2026-02-19T14:11:24.645332"
   },
   {
     "title": "The Evolution of Australia’s Sports Diplomacy in the Pacific",
@@ -866,7 +888,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-18-233241.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.939862"
+    "updated_at": "2026-02-19T14:11:24.645460"
   },
   {
     "title": "Japan’s Election Results: Takeaways for Takaichi",
@@ -877,7 +899,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2025/10/thediplomat_2025-10-17-060058.png",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.939924"
+    "updated_at": "2026-02-19T14:11:24.645529"
   },
   {
     "title": "Death Penalty or Acquittal? 3 Scenarios for Ex-President Yoon’s Insurrection Verdict",
@@ -888,7 +910,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2021/05/thediplomat-2021-05-06-6.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.939947"
+    "updated_at": "2026-02-19T14:11:24.645555"
   },
   {
     "title": "Bangladesh’s Election Is Over. Its Future Has Yet to Be Written.",
@@ -899,7 +921,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-18-231027.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.940049"
+    "updated_at": "2026-02-19T14:11:24.645668"
   },
   {
     "title": "With Speaker Uchral’s Trip, Mongolia and Russia Look to Expand Economic Links",
@@ -910,29 +932,18 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-18-051342.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.940070"
+    "updated_at": "2026-02-19T14:11:24.645692"
   },
   {
-    "title": "The Politics of Interpretation: Who Governs the Korean DMZ?",
-    "link": "https://thediplomat.com/2026/02/the-politics-of-interpretation-who-governs-the-korean-dmz/",
-    "source": "The Diplomat",
+    "title": "US ‘Weekend strike’ against Iran on the cards, but Trump yet to decide",
+    "link": "https://indianexpress.com/article/world/iran-us-conflict-trump-military-strike-date-10540041/",
+    "source": "World | The Indian Express",
     "category": "Geopolitics",
-    "published": "Tue, 17 Feb 2026 23:17:00 +0900",
-    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2024/07/thediplomat_2024-07-24-142208.jpg",
+    "published": "Thu, 19 Feb 2026 04:55:51 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/02/Iranian-Foreign-Minister-Abbas-Araghchi.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.940088"
-  },
-  {
-    "title": "India’s Apex Court Declares Menstrual Health and Hygiene a Fundamental Right",
-    "link": "https://thediplomat.com/2026/02/indias-apex-court-declares-menstrual-health-and-hygiene-a-fundamental-right/",
-    "source": "The Diplomat",
-    "category": "Geopolitics",
-    "published": "Tue, 17 Feb 2026 18:55:00 +0900",
-    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-17-185850.jpg",
-    "importance": 30,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:07.940167"
+    "updated_at": "2026-02-19T14:11:24.993260"
   },
   {
     "title": "Vietnam boosts EU partnership to match ties to China, US",
@@ -943,7 +954,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/vietnam-eu.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:08.284522"
+    "updated_at": "2026-02-19T14:11:24.993322"
   },
   {
     "title": "France, UK launch probes into Epstein’s alleged trafficking and financial crimes",
@@ -954,7 +965,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/US-8-10_20260202172119.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:08.284561"
+    "updated_at": "2026-02-19T14:11:24.993362"
   },
   {
     "title": "‘Anti-India slurs cross 280 million views’: How H-1B visa debate is sparking hate speech in US",
@@ -965,7 +976,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/h-1b-visa-news.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:08.284588"
+    "updated_at": "2026-02-19T14:11:24.993385"
   },
   {
     "title": "How the world’s most boring market became a ‘battlefield’",
@@ -976,40 +987,29 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/Japan_Financial_Markets.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:08.284695"
+    "updated_at": "2026-02-19T14:11:24.993495"
   },
   {
-    "title": "Iran claims ‘guiding principles’ agreed upon with US, Vance says Tehran not acknowledging Trump’s ‘red lines’",
-    "link": "https://indianexpress.com/article/world/iran-guiding-principles-us-vance-tehran-trumps-red-lines-10538265/",
-    "source": "World | The Indian Express",
-    "category": "Geopolitics",
-    "published": "Wed, 18 Feb 2026 06:37:36 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/02/Photo-2026-02-18T114831.317.jpg",
+    "title": "Will work with India to test safety and security of AI models: Anthropic CEO",
+    "link": "https://indianexpress.com/article/business/will-work-with-india-to-test-safety-and-security-of-ai-models-anthropic-ceo-10540252/",
+    "source": "Business | The Indian Express",
+    "category": "Business",
+    "published": "Thu, 19 Feb 2026 05:55:49 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/02/Anthropic-CEO-Dario-Amodei.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:08.284752"
+    "updated_at": "2026-02-19T14:11:25.440995"
   },
   {
-    "title": "Takaichi to be reappointed as Japan Prime Minister: What are her plans?",
-    "link": "https://indianexpress.com/article/world/sanae-takaichi-reappointed-japan-prime-minister-plans-next-steps-10538164/",
-    "source": "World | The Indian Express",
-    "category": "Geopolitics",
-    "published": "Wed, 18 Feb 2026 06:31:49 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/02/japan-pm-takaichi.jpg",
+    "title": "At India AI Summit, tech cos pledge to evaluate AI for global contexts for ‘democratising AI’",
+    "link": "https://indianexpress.com/article/business/at-india-ai-summit-tech-cos-pledge-to-evaluate-ai-for-global-contexts-for-democratising-ai-10540266/",
+    "source": "Business | The Indian Express",
+    "category": "Business",
+    "published": "Thu, 19 Feb 2026 05:55:30 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/02/Ashwini-Vaishnaw-6.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:08.284769"
-  },
-  {
-    "title": "Jesse Jackson, civil rights leader and US presidential hopeful dies at 84, family says",
-    "link": "https://indianexpress.com/article/world/jesse-jackson-dead-civil-rights-leader-obituary-10536891/",
-    "source": "World | The Indian Express",
-    "category": "Geopolitics",
-    "published": "Tue, 17 Feb 2026 11:03:02 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/02/Jesse-Jackson.jpg",
-    "importance": 30,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:08.284893"
+    "updated_at": "2026-02-19T14:11:25.441026"
   },
   {
     "title": "India must institutionalise human control over AI systems for military use, test them rigorously like weapons: Lt Gen Shinghal",
@@ -1020,7 +1020,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/lt-gen-vipul-shinghal-x-adgpi.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:08.800580"
+    "updated_at": "2026-02-19T14:11:25.441131"
   },
   {
     "title": "Reciprocal airspace closure to enter 11th month as Pakistan extends ban on Indian airlines, aircraft till March 24",
@@ -1031,117 +1031,150 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/airlines.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-02-19T03:41:08.800601"
+    "updated_at": "2026-02-19T14:11:25.441152"
   },
   {
-    "title": "Takaichi’s First BOJ Member Picks May Hint at Desired Rate Path",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-18/takaichi-s-first-boj-member-picks-may-hint-at-desired-rate-path",
+    "title": "US Jobless Claims Drop by the Most Since November to 206,000",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/us-jobless-claims-decline-by-the-most-since-november-to-206-000",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Wed, 18 Feb 2026 23:30:00 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_gQTbGjC.0E/v1/1200x-1.jpg",
+    "published": "Thu, 19 Feb 2026 13:34:04 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irm0KPlSdCJ8/v0/1200x-1.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.505686"
+    "updated_at": "2026-02-19T14:11:24.282830"
   },
   {
-    "title": "The Seismic Change Coming to Islam’s Holiest City",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-18/saudi-arabia-opens-mecca-to-foreign-investment-big-take-podcast",
+    "title": "Canada’s 2025 Trade Deficit Widest on Record Excluding Pandemic",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/canada-s-2025-trade-deficit-widest-on-record-excluding-pandemic",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Wed, 18 Feb 2026 21:22:30 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieWUOoxb1iz8/v0/1200x-1.jpg",
+    "published": "Thu, 19 Feb 2026 13:30:01 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4VwKyw5iuSs/v0/1200x-1.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.505721"
+    "updated_at": "2026-02-19T14:11:24.282865"
   },
   {
-    "title": "Unprecedented ‘Jobless Boom’ Tests Limits of US Economic Expansion",
-    "link": "https://www.bloomberg.com/news/features/2026-02-18/us-economy-expansion-forecast-even-with-weak-jobs-data",
+    "title": "US Trade Deficit Widens, Capping One of Biggest Since 1960",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/us-trade-deficit-widens-capping-one-of-biggest-gaps-since-1960",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Wed, 18 Feb 2026 11:00:06 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idZbChxlDALI/v1/1200x-1.jpg",
+    "published": "Thu, 19 Feb 2026 13:33:41 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP7M4VGmmUis/v1/1200x-1.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.505777"
+    "updated_at": "2026-02-19T14:11:24.282883"
   },
   {
-    "title": "Early Lagarde Exit Set to Narrow Field in Race to Lead ECB",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-18/early-lagarde-exit-set-to-narrow-field-in-race-to-lead-ecb-mls17lcb",
+    "title": "Brazil Activity Slows Less Than Expected, Complicating Rate Cuts",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/brazil-activity-slows-less-than-expected-complicating-rate-cuts",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Wed, 18 Feb 2026 12:39:49 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igqJD0pGaHXc/v3/1200x-1.png",
+    "published": "Thu, 19 Feb 2026 12:33:56 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4T8Yhxa72MU/v1/1200x-1.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.505793"
+    "updated_at": "2026-02-19T14:11:24.282940"
   },
   {
-    "title": "ECB’s Schnabel Sees No Need to Leave Her Board Seat Early",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-18/ecb-s-schnabel-sees-no-need-to-leave-her-board-seat-early",
+    "title": "Canada, Mexico Meet to Boost Trade Amid USMCA Uncertainty",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-02-19/canada-and-mexico-and-usmca-negotiations",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Wed, 18 Feb 2026 17:20:26 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6BfpE4qcgto/v1/1200x-1.jpg",
+    "published": "Thu, 19 Feb 2026 12:00:01 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idWW8oZi6ci8/v1/1200x-1.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.505812"
+    "updated_at": "2026-02-19T14:11:24.282994"
   },
   {
-    "title": "US Housing Starts Rise to Five-Month High in Broad Increase",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-18/us-housing-starts-rise-to-five-month-high-in-broad-increase",
+    "title": "Rwanda Bucks Africa Trend With Biggest Rate Hike in 3 Years",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/rwanda-delivers-biggest-rate-hike-in-nearly-three-years",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Wed, 18 Feb 2026 13:35:57 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iG3uiGmmD4xM/v1/1200x-1.jpg",
+    "published": "Thu, 19 Feb 2026 10:42:04 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihc6G89ho1G8/v0/1200x-1.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.505863"
+    "updated_at": "2026-02-19T14:11:24.283033"
   },
   {
-    "title": "Bobbi Brown on Building Her Beauty Empire",
-    "link": "https://www.bloomberg.com/news/videos/2026-02-18/bobbi-brown-on-building-her-beauty-empire-video",
+    "title": "UK Floods Raise Specter of ‘Mortgage Prisoners’ Across Banks",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/uk-banks-face-new-era-of-mortgage-risk-as-flood-damage-soars",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Wed, 18 Feb 2026 14:53:34 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwr9Yq1S3o4Y/v3/1200x-1.jpg",
+    "published": "Thu, 19 Feb 2026 05:00:00 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izBaGTmmHpps/v1/1200x-1.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.505877"
+    "updated_at": "2026-02-19T14:11:24.283053"
   },
   {
-    "title": "US Industrial Production Increases by Most in Nearly a Year",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-18/us-industrial-production-increases-by-most-in-nearly-a-year",
+    "title": "German Wage Growth Quickened at Year-End, Bundesbank Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/german-wage-growth-quickened-at-year-end-bundesbank-says",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Wed, 18 Feb 2026 14:20:12 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWQm_Mb_weq0/v1/1200x-1.jpg",
+    "published": "Thu, 19 Feb 2026 11:00:00 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2CxgLR1L_Dc/v0/1200x-1.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.505893"
+    "updated_at": "2026-02-19T14:11:24.283088"
   },
   {
-    "title": "Japan’s Takaichi Formally Elected PM, Eyes Swift Budget Passage",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-18/takaichi-formally-elected-pm-eyes-expedited-budget-deliberation",
+    "title": "La reforma laboral de Milei pone a prueba al corazón industrial de Argentina",
+    "link": "https://www.bloomberg.com/news/features/2026-02-19/reforma-laboral-de-milei-pone-a-prueba-corazon-industrial-de-argentina-mltaib51",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Wed, 18 Feb 2026 06:04:28 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifC7fDmKt_Ik/v1/1200x-1.jpg",
+    "published": "Thu, 19 Feb 2026 10:00:07 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i63VblQ4uCBY/v1/1200x-1.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.505913"
+    "updated_at": "2026-02-19T14:11:24.283108"
   },
   {
-    "title": "Bank of France’s Villeroy Says Successor Needs European Anchor",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-18/bank-of-france-s-villeroy-says-successor-needs-european-anchor",
+    "title": "Milei’s Labor Reform Runs Up Against Reality of Struggling Steel Towns",
+    "link": "https://www.bloomberg.com/news/features/2026-02-19/milei-s-labor-reform-risks-more-pain-for-struggling-factory-towns",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Wed, 18 Feb 2026 14:18:18 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNmY0VF3kne4/v0/1200x-1.jpg",
+    "published": "Thu, 19 Feb 2026 10:00:05 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iihy.ehGBiXk/v1/1200x-1.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.505951"
+    "updated_at": "2026-02-19T14:11:24.283130"
+  },
+  {
+    "title": "Philippines’ Next Rate Move to Hinge on When Confidence Returns",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/philippines-cuts-rate-as-graft-fallout-continues-to-drag-growth",
+    "source": "Bloomberg Economics",
+    "category": "Global Economy",
+    "published": "Thu, 19 Feb 2026 06:30:39 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irtdE1BTbunk/v0/1200x-1.jpg",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "updated_at": "2026-02-19T14:11:24.283190"
+  },
+  {
+    "title": "France’s Deficit-Cutting Plan Very Uncertain, Auditor Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-02-19/france-s-deficit-cutting-plan-very-uncertain-auditor-says",
+    "source": "Bloomberg Economics",
+    "category": "Global Economy",
+    "published": "Thu, 19 Feb 2026 08:30:00 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwiiqoiMAexs/v1/1200x-1.jpg",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "updated_at": "2026-02-19T14:11:24.283211"
+  },
+  {
+    "title": "Trump Mulls a North American Trade Pact Without Canada",
+    "link": "https://www.nytimes.com/2026/02/19/business/economy/trump-canada-mexico-usmca-trade.html",
+    "source": "NYT > Business > Economy",
+    "category": "Global Economy",
+    "published": "Thu, 19 Feb 2026 10:02:57 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/13/multimedia/00dc-usmca-grid-pvhq/00dc-usmca-grid-pvhq-mediumSquareAt3X.jpg",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "updated_at": "2026-02-19T14:11:24.390009"
   },
   {
     "title": "The Hidden Number Driving U.S. Job Growth",
@@ -1152,7 +1185,7 @@
     "thumbnail": null,
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.639090"
+    "updated_at": "2026-02-19T14:11:24.390129"
   },
   {
     "title": "Flexibility and Rising Costs Are Keeping Mothers at Work",
@@ -1163,7 +1196,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/14/multimedia/00biz-mothers-work-01-cfvk/00biz-mothers-work-01-cfvk-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.639109"
+    "updated_at": "2026-02-19T14:11:24.390150"
   },
   {
     "title": "Americans Are Paying the Bill for Tariffs, Despite Trump’s Claims",
@@ -1174,7 +1207,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/12/multimedia/12dc-tariffs-jlvq/12dc-tariffs-jlvq-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.639131"
+    "updated_at": "2026-02-19T14:11:24.390176"
   },
   {
     "title": "Maybe America Needs Some New Cities",
@@ -1185,7 +1218,7 @@
     "thumbnail": null,
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.639176"
+    "updated_at": "2026-02-19T14:11:24.390224"
   },
   {
     "title": "What to know about the better-than-expected report.",
@@ -1196,7 +1229,7 @@
     "thumbnail": null,
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.639202"
+    "updated_at": "2026-02-19T14:11:24.390251"
   },
   {
     "title": "Trump plans to nominate a ‘data nerd’ to lead Bureau of Labor Statistics.",
@@ -1207,7 +1240,7 @@
     "thumbnail": null,
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.639232"
+    "updated_at": "2026-02-19T14:11:24.390285"
   },
   {
     "title": "What Executives Are Saying About the ‘K-Shaped’ Economy",
@@ -1218,7 +1251,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/11/multimedia/11biz-jobs-earnings-kqpb/11biz-jobs-earnings-kqpb-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.639253"
+    "updated_at": "2026-02-19T14:11:24.390307"
   },
   {
     "title": "Job Growth Was Overstated, New Data Shows",
@@ -1229,7 +1262,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/11/multimedia/jobs-revisions-wfql/jobs-revisions-wfql-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.639318"
+    "updated_at": "2026-02-19T14:11:24.390366"
   },
   {
     "title": "After a Year of Sluggish Hiring, 2026 Is Off to a Stronger Start",
@@ -1240,7 +1273,7 @@
     "thumbnail": null,
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.639345"
+    "updated_at": "2026-02-19T14:11:24.390395"
   },
   {
     "title": "The Conservative Activists Behind One of Trump’s Biggest Climate Moves",
@@ -1251,7 +1284,7 @@
     "thumbnail": "https://static01.nyt.com/images/2025/07/15/multimedia/10cli-newsletter-01b/15HS-pepfar-tfcq-mediumSquareAt3X-v2.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.639367"
+    "updated_at": "2026-02-19T14:11:24.390419"
   },
   {
     "title": "Bulgarians Adopt the Euro With a Whisper of Melancholy but Few Tears",
@@ -1262,7 +1295,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/03/multimedia/03bulgaria-euro-01-cwkp/03bulgaria-euro-01-cwkp-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.639402"
+    "updated_at": "2026-02-19T14:11:24.390458"
   },
   {
     "title": "‘Neoroyalism’ and What It Says About Trump",
@@ -1273,18 +1306,40 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/03/multimedia/Biz-Trump-Royalism-jpqf/Biz-Trump-Royalism-jpqf-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.639421"
+    "updated_at": "2026-02-19T14:11:24.390479"
   },
   {
-    "title": "Jobs Report Delayed Because of Partial Shutdown",
-    "link": "https://www.nytimes.com/2026/02/02/business/economy/january-jobs-report-delayed-shutdown.html",
-    "source": "NYT > Business > Economy",
-    "category": "Global Economy",
-    "published": "Mon, 02 Feb 2026 19:12:27 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/02/multimedia/02biz-jobs-delay-whzv/02biz-jobs-delay-whzv-mediumSquareAt3X.jpg",
+    "title": "Live Updates: Former Prince Andrew Arrested in Britain Over Epstein Ties",
+    "link": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein",
+    "source": "NYT > World News",
+    "category": "Geopolitics",
+    "published": "Thu, 19 Feb 2026 14:04:20 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/19/multimedia/19prince-andrew-promo1/19prince-andrew-promo1-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.639458"
+    "updated_at": "2026-02-19T14:11:24.507053"
+  },
+  {
+    "title": "Europe Worries About Another Trump Blowup, This One on Tech",
+    "link": "https://www.nytimes.com/2026/02/19/world/europe/europe-united-states-trump-digital-services-act.html",
+    "source": "NYT > World News",
+    "category": "Geopolitics",
+    "published": "Thu, 19 Feb 2026 11:27:07 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/19/multimedia/19digital-services-tariffs-01-tgmf/19digital-services-tariffs-01-tgmf-mediumSquareAt3X.jpg",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "updated_at": "2026-02-19T14:11:24.507155"
+  },
+  {
+    "title": "Alysa Liu Is Skating Again, Her Way This Time",
+    "link": "https://www.nytimes.com/2026/02/19/world/olympics/olympics-alysa-liu-figure-skating.html",
+    "source": "NYT > World News",
+    "category": "Geopolitics",
+    "published": "Thu, 19 Feb 2026 08:00:18 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/19/multimedia/19olympics-liu-01-qtkv/19olympics-liu-01-qtkv-mediumSquareAt3X.jpg",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "updated_at": "2026-02-19T14:11:24.507244"
   },
   {
     "title": "Power Shift in Syria Upends an Archipelago for ISIS Prisoners",
@@ -1295,7 +1350,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/16/multimedia/00int-syria-prisons-promo/00int-syria-prisons-1-zhvq-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.748920"
+    "updated_at": "2026-02-19T14:11:24.507272"
   },
   {
     "title": "A Road Trip from Kandahar to Kabul on Highway 1 in Afghanistan",
@@ -1306,7 +1361,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/01/01/multimedia/00int-afghanistan-highway-promo/00int-afghanistan-highway-top-lqcw-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.748971"
+    "updated_at": "2026-02-19T14:11:24.507307"
   },
   {
     "title": "Botswana’s ‘Corn Lady’ Finds Fame With Food Stands",
@@ -1317,95 +1372,73 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/17/multimedia/00int-botswana-profile-promo/00int-botswana-profile-1-hvmk-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.748992"
+    "updated_at": "2026-02-19T14:11:24.507345"
   },
   {
-    "title": "Alberto Tomba Was an ’80s and ’90s Icon. The Olympics Have Brought Him Back.",
-    "link": "https://www.nytimes.com/2026/02/18/world/europe/alberto-tomba-olympics-skiing-italy.html",
+    "title": "The former prince has been living on King Charles III’s private Sandringham Estate.",
+    "link": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein/the-former-prince-has-been-living-on-king-charles-iiis-private-sandringham-estate",
     "source": "NYT > World News",
     "category": "Geopolitics",
-    "published": "Wed, 18 Feb 2026 18:50:44 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/18/multimedia/18int-olympics-tomba-01-bkjz/18int-olympics-tomba-01-bkjz-mediumSquareAt3X.jpg",
+    "published": "Thu, 19 Feb 2026 14:04:18 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/19/multimedia/19prince-andrew-sandringham-farm-lbzf/19prince-andrew-sandringham-farm-lbzf-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.749070"
+    "updated_at": "2026-02-19T14:11:24.507508"
   },
   {
-    "title": "Ski Mountaineering Makes Its Olympic Debut at the Milan-Cortina Winter Games",
-    "link": "https://www.nytimes.com/2026/02/18/world/olympics/ski-mountaineering-winter-olympics-sport.html",
+    "title": "Andrew Mountbatten-Windsor’s Links to Jeffrey Epstein: A Timeline",
+    "link": "https://www.nytimes.com/2026/02/19/world/europe/prince-andrew-epstein-relationship-timeline.html",
     "source": "NYT > World News",
     "category": "Geopolitics",
-    "published": "Wed, 18 Feb 2026 16:38:16 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/18/multimedia/18olympics-skimo-flpm/18olympics-skimo-flpm-mediumSquareAt3X.jpg",
+    "published": "Thu, 19 Feb 2026 13:44:57 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/19/multimedia/19prince-andrew-timeline-fzqp/19prince-andrew-timeline-fzqp-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.749110"
+    "updated_at": "2026-02-19T14:11:24.507545"
   },
   {
-    "title": "Spain to Investigate Social Media Giants, Escalating Trans-Atlantic Tech Dispute",
-    "link": "https://www.nytimes.com/2026/02/17/world/europe/spain-investigate-social-media.html",
+    "title": "King Charles Issues Statement After Arrest of His Brother, Andrew Mountbatten-Windsor",
+    "link": "https://www.nytimes.com/2026/02/19/world/europe/king-charles-statement-andrew-arrest-uk.html",
     "source": "NYT > World News",
     "category": "Geopolitics",
-    "published": "Tue, 17 Feb 2026 18:20:21 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/17/multimedia/17int-Spain-Tech-pmbv/17int-Spain-Tech-pmbv-mediumSquareAt3X.jpg",
+    "published": "Thu, 19 Feb 2026 13:15:41 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/19/multimedia/19prince-andrew-charles-statement-gzvq/19prince-andrew-charles-statement-gzvq-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.749151"
+    "updated_at": "2026-02-19T14:11:24.507617"
   },
   {
-    "title": "A Rio Carnival Party That Goes On and On",
-    "link": "https://www.nytimes.com/2026/02/17/world/americas/a-rio-carnival-party-that-goes-on-and-on.html",
+    "title": "Several members of the British elite have been named in the Epstein files.",
+    "link": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein/epstein-files-prince-andrew-uk-elite",
     "source": "NYT > World News",
     "category": "Geopolitics",
-    "published": "Tue, 17 Feb 2026 05:01:20 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/17/multimedia/17int-brazil-carnival01-photo-bjcz/17int-brazil-carnival01-photo-bjcz-mediumSquareAt3X.jpg",
+    "published": "Thu, 19 Feb 2026 12:29:08 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/19/multimedia/19prince-andrew-epstein-orbit-tfwq/19prince-andrew-epstein-orbit-tfwq-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.749168"
+    "updated_at": "2026-02-19T14:11:24.507686"
   },
   {
-    "title": "After Activist’s Killing, Tensions Erupt Between France’s Far-Right and Far-Left",
-    "link": "https://www.nytimes.com/2026/02/18/world/europe/france-beating-activist-far-left-right.html",
-    "source": "NYT > World News",
+    "title": "Southeast Asia and the Rohingya Militant Threat",
+    "link": "https://thediplomat.com/2026/02/southeast-asia-and-the-rohingya-militant-threat/",
+    "source": "The Diplomat",
     "category": "Geopolitics",
-    "published": "Wed, 18 Feb 2026 23:03:56 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/18/multimedia/18int-france-right-ckwq/18int-france-right-ckwq-mediumSquareAt3X.jpg",
+    "published": "Thu, 19 Feb 2026 12:35:00 +0900",
+    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2024/08/thediplomat_2024-08-14-053748.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.749247"
+    "updated_at": "2026-02-19T14:11:24.645223"
   },
   {
-    "title": "Journalists Arrested in Cameroon While Covering Secretive U.S. Deportations",
-    "link": "https://www.nytimes.com/2026/02/18/world/africa/cameroon-journalists-arrested-deportees.html",
-    "source": "NYT > World News",
+    "title": "Thailand Wants to Bring Myanmar Back Into ASEAN, Foreign Minister Says",
+    "link": "https://thediplomat.com/2026/02/thailand-wants-to-bring-myanmar-back-into-asean-foreign-minister-says/",
+    "source": "The Diplomat",
     "category": "Geopolitics",
-    "published": "Wed, 18 Feb 2026 23:07:36 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/14/world/18int-cameroon-journalists/14int-cameroon-deportations-mediumSquareAt3X.jpg",
+    "published": "Thu, 19 Feb 2026 11:52:00 +0900",
+    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-19-115734.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.749266"
-  },
-  {
-    "title": "The Country Betting on Immigrants",
-    "link": "https://www.nytimes.com/2026/02/18/world/spain-immigration-isis-prison-syria.html",
-    "source": "NYT > World News",
-    "category": "Geopolitics",
-    "published": "Wed, 18 Feb 2026 21:20:57 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/19/multimedia/19int-theworld-spain-top-kglq/19int-theworld-spain-top-kglq-mediumSquareAt3X-v2.jpg",
-    "importance": 25,
-    "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.749282"
-  },
-  {
-    "title": "An Antarctic Expedition Ends in New Zealand",
-    "link": "https://www.nytimes.com/2026/02/18/climate/antarctica-expedition-return.html",
-    "source": "NYT > World News",
-    "category": "Geopolitics",
-    "published": "Wed, 18 Feb 2026 20:23:13 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/18/multimedia/18cli-voyage-to-antarctica-return-chlm/18cli-voyage-to-antarctica-return-chlm-mediumSquareAt3X.jpg",
-    "importance": 25,
-    "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.749311"
+    "updated_at": "2026-02-19T14:11:24.645252"
   },
   {
     "title": "Study: Central Asia’s Water Tower to Lose One-third of Glacier Mass by 2040",
@@ -1416,7 +1449,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-18-235035.png",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.939840"
+    "updated_at": "2026-02-19T14:11:24.645430"
   },
   {
     "title": "A Tragedy in Indonesia: Poverty, Data, and the Cost of a Schoolbook",
@@ -1427,7 +1460,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-18-230106.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.939903"
+    "updated_at": "2026-02-19T14:11:24.645506"
   },
   {
     "title": "In Australia, Education Is Critical to Geostrategic Competition",
@@ -1438,7 +1471,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-18-223809.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.939968"
+    "updated_at": "2026-02-19T14:11:24.645576"
   },
   {
     "title": "Why Did Buddhism Decline in Asia?",
@@ -1449,7 +1482,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-18-152514.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.939984"
+    "updated_at": "2026-02-19T14:11:24.645595"
   },
   {
     "title": "Indonesia’s Unconventional 2026 Budget",
@@ -1460,29 +1493,62 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-18-142754.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.940026"
+    "updated_at": "2026-02-19T14:11:24.645643"
   },
   {
-    "title": "America Needs to Get Creative on Hong Kong",
-    "link": "https://thediplomat.com/2026/02/america-needs-to-get-creative-on-hong-kong/",
-    "source": "The Diplomat",
+    "title": "36 km in just 10 minutes: Dubai Airport to Palm Jumeirah air taxi service set to launch in 2026",
+    "link": "https://indianexpress.com/article/world/36-km-in-just-10-minutes-dubai-airport-to-palm-jumeirah-air-taxi-service-set-to-launch-in-2026-10540636/",
+    "source": "World | The Indian Express",
     "category": "Geopolitics",
-    "published": "Tue, 17 Feb 2026 22:49:00 +0900",
-    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-17-225132.jpg",
+    "published": "Thu, 19 Feb 2026 13:37:40 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/02/air-taxi-2.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.940105"
+    "updated_at": "2026-02-19T14:11:24.993109"
   },
   {
-    "title": "In Uzbekistan, ‘Farmers Have No Freedom’",
-    "link": "https://thediplomat.com/2026/02/in-uzbekistan-farmers-have-no-freedom/",
-    "source": "The Diplomat",
+    "title": "Q&A on Andrew Mountbatten-Windsor arrest: His links with Jeffrey Epstein, what UK police said and how King Charles reacted",
+    "link": "https://indianexpress.com/article/world/andrew-mountbatten-windsor-arrested-misconduct-public-office-epstein-case-explained-10540975/",
+    "source": "World | The Indian Express",
     "category": "Geopolitics",
-    "published": "Tue, 17 Feb 2026 22:13:00 +0900",
-    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-17-221538.jpg",
+    "published": "Thu, 19 Feb 2026 12:51:38 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/02/Britain-Epstein-Andrew.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:07.940145"
+    "updated_at": "2026-02-19T14:11:24.993131"
+  },
+  {
+    "title": "Andrew Mountbatten-Windsor Arrested Live Updates: ‘Law must take its course’: King Charles reacts to arrest of Brother Andrew",
+    "link": "https://indianexpress.com/article/world/andrew-mountbatten-windsor-arrested-live-updates-10540805/",
+    "source": "World | The Indian Express",
+    "category": "Geopolitics",
+    "published": "Thu, 19 Feb 2026 11:43:01 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/02/US_0c8239.jpg",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "updated_at": "2026-02-19T14:11:24.993166"
+  },
+  {
+    "title": "Epstein files row: Andrew Mountbatten-Windsor, King Charles’ brother, arrested by UK police on suspicion of misconduct in public ⁠office ​",
+    "link": "https://indianexpress.com/article/world/epstein-files-row-uk-police-arrest-king-charles-brother-andrew-on-suspicion-of-misconduct-in-public-%e2%81%a0office-10540734/",
+    "source": "World | The Indian Express",
+    "category": "Geopolitics",
+    "published": "Thu, 19 Feb 2026 10:17:09 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/02/US.jpg",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "updated_at": "2026-02-19T14:11:24.993193"
+  },
+  {
+    "title": "US: 8 skiers dead in California avalanche, thick snow makes retrieval impossible",
+    "link": "https://indianexpress.com/article/world/us-news/skiers-dead-in-california-us-tahoe-avalanche-10540039/",
+    "source": "World | The Indian Express",
+    "category": "Geopolitics",
+    "published": "Thu, 19 Feb 2026 04:18:14 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/02/California-Avalanche.jpg",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "updated_at": "2026-02-19T14:11:24.993279"
   },
   {
     "title": "Death Penalty on the decline in Southeast Asia",
@@ -1493,7 +1559,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/court_8e8a1f.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.284540"
+    "updated_at": "2026-02-19T14:11:24.993339"
   },
   {
     "title": "At least 37 miners killed in Nigeria’s Plateau state from carbon-monoxide poisoning",
@@ -1504,10 +1570,10 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/Indian-Express-image-1.jpeg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.284609"
+    "updated_at": "2026-02-19T14:11:24.993408"
   },
   {
-    "title": "How Dubai call centre employee from Sri Lanka invested ₹370,000 in gold biscuit and won gold Mercedes",
+    "title": "Sri Lankan expat bought gold biscuit for Rs 370,000 in Dubai; he woke up to a call that he now owns a Gold Mercedes",
     "link": "https://indianexpress.com/article/world/sri-lankan-expat-wins-gold-mercedes-dubai-gold-district-investment-10539447/",
     "source": "World | The Indian Express",
     "category": "Geopolitics",
@@ -1515,7 +1581,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/dubai-gold-car-pic.jpeg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.284632"
+    "updated_at": "2026-02-19T14:11:24.993428"
   },
   {
     "title": "Who is Khalilur Rahman? From NSA in Muhammad Yunus administration to Bangladesh’s Foreign Minister in Tarique Rahman govt",
@@ -1526,7 +1592,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/Khalilur-Rahman.jpeg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.284675"
+    "updated_at": "2026-02-19T14:11:24.993474"
   },
   {
     "title": "Bangladesh PM Tarique Rahman to address nation today after forming BNP govt",
@@ -1537,62 +1603,40 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/tarique-rahman-22.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.284713"
+    "updated_at": "2026-02-19T14:11:24.993513"
   },
   {
-    "title": "Cambodia hopes French maps will vindicate it in Thai row",
-    "link": "https://indianexpress.com/article/world/cambodia-thailand-border-dispute-france-colonial-maps-preah-vihear-icj-explained-10538740/",
-    "source": "World | The Indian Express",
-    "category": "Geopolitics",
-    "published": "Wed, 18 Feb 2026 09:44:16 +0000",
-    "thumbnail": "https://images.indianexpress.com/2025/12/thai-army.jpg",
+    "title": "Bill Gates pulls out of India's AI summit over Epstein files controversy",
+    "link": "https://www.bbc.com/news/articles/c309qv9zglno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "category": "Technology",
+    "published": "Thu, 19 Feb 2026 08:13:25 GMT",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a97/live/efd25a30-0d49-11f1-8a17-c3bd2e006216.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.284729"
+    "updated_at": "2026-02-19T14:11:25.058339"
   },
   {
-    "title": "Bangladesh PM Tarique Rahman Day 1 Live Updates: ‘Regardless of being Hindu, Muslim, Bangladesh belongs to all,’ says Rahman in maiden address as PM",
-    "link": "https://indianexpress.com/article/world/bangladesh-pm-tarique-rahman-day-1-live-updates-challenges-bnp-rifts-india-10537966/",
-    "source": "World | The Indian Express",
-    "category": "Geopolitics",
-    "published": "Wed, 18 Feb 2026 05:22:23 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/02/Bangladesh-Tarique-Rahman-LIVE.jpg",
+    "title": "India in talks with US & France to build alternative critical minerals supply chain",
+    "link": "https://indianexpress.com/article/business/india-talks-us-france-build-alternative-critical-minerals-supply-chain-10541014/",
+    "source": "Business | The Indian Express",
+    "category": "Business",
+    "published": "Thu, 19 Feb 2026 12:41:39 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/02/miniral.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.284815"
+    "updated_at": "2026-02-19T14:11:25.440880"
   },
   {
-    "title": "Bangladesh PM Tarique Rahman takes oath: Intense lobbying begins in bureaucracy, police for key postings amid Cabinet reshuffle",
-    "link": "https://indianexpress.com/article/world/tarique-rahman-prime-minister-bureaucracy-lobbying-nasimul-gani-cabinet-secretary-10537233/",
-    "source": "World | The Indian Express",
-    "category": "Geopolitics",
-    "published": "Tue, 17 Feb 2026 14:01:44 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/02/tarique-rahman-45.jpg",
+    "title": "India needs its own critical AI infra at scale to avoid fragility: Jeet Adani",
+    "link": "https://indianexpress.com/article/business/aviation/jeet-adani-ai-sovereignty-india-critical-infrastructure-10540979/",
+    "source": "Business | The Indian Express",
+    "category": "Business",
+    "published": "Thu, 19 Feb 2026 12:28:14 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/02/Jeet-Adani.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.284836"
-  },
-  {
-    "title": "Dubai Ramadan working hours 2026 announced: New timings for government employees",
-    "link": "https://indianexpress.com/article/world/dubai-ramadan-2026-working-hours-public-sector-remote-work-rules-explained-10537201/",
-    "source": "World | The Indian Express",
-    "category": "Geopolitics",
-    "published": "Tue, 17 Feb 2026 13:47:03 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/02/dubai-ramdan.jpeg",
-    "importance": 25,
-    "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.284853"
-  },
-  {
-    "title": "Full list of Bangladesh MPs who took oath as Cabinet ministers in Tarique Rahman’s new government",
-    "link": "https://indianexpress.com/article/world/tarique-rahman-sworn-in-prime-minister-bnp-cabinet-ministers-list-10536895/",
-    "source": "World | The Indian Express",
-    "category": "Geopolitics",
-    "published": "Tue, 17 Feb 2026 12:08:25 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/02/bnp-ministers.jpeg",
-    "importance": 25,
-    "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.284875"
+    "updated_at": "2026-02-19T14:11:25.440911"
   },
   {
     "title": "India, other countries should build on top of America’s AI stack: US AI advisor",
@@ -1603,7 +1647,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/aiii.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.800559"
+    "updated_at": "2026-02-19T14:11:25.441109"
   },
   {
     "title": "India engaging with global partners from position of strength, says EAM Jaishankar",
@@ -1614,7 +1658,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/jaishankar-asean.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.800636"
+    "updated_at": "2026-02-19T14:11:25.441191"
   },
   {
     "title": "India gets its first private sector helicopter assembly line with inauguration of Tata-Airbus facility in Karnataka",
@@ -1625,32 +1669,43 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/modi-macron.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.800709"
+    "updated_at": "2026-02-19T14:11:25.441268"
   },
   {
-    "title": "Indian delegation to visit US next week; exports to US in Jan falls 22%",
-    "link": "https://indianexpress.com/article/business/india-us-trade-deal-delegation-washington-legal-text-cotton-apples-10535614/",
+    "title": "Sustained availability of entry-level jobs must be ensured: Accenture CEO Julie Sweet",
+    "link": "https://indianexpress.com/article/business/sustained-availability-entry-level-jobs-ensured-accenture-ceo-julie-sweet-10541119/",
     "source": "Business | The Indian Express",
     "category": "Business",
-    "published": "Mon, 16 Feb 2026 17:24:39 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/02/Trade_96a372.jpg",
-    "importance": 25,
+    "published": "Thu, 19 Feb 2026 13:55:35 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/02/Accenture-CEO-Julie-Sweet.jpg",
+    "importance": 20,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.800781"
+    "updated_at": "2026-02-19T14:11:25.440840"
   },
   {
-    "title": "Digi infra boost key to India’s global data centre aspiration: Yotta CEO",
-    "link": "https://indianexpress.com/article/business/digital-infra-boost-key-to-indias-global-data-centre-aspiration-10535286/",
+    "title": "RIL, Jio to pump Rs 10 lakh cr to make AI affordable: Ambani",
+    "link": "https://indianexpress.com/article/business/ril-jio-rs-10-lakh-crore-ai-mukesh-ambani-10540617/",
     "source": "Business | The Indian Express",
     "category": "Business",
-    "published": "Mon, 16 Feb 2026 13:28:13 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/02/AI-image.jpg",
-    "importance": 25,
+    "published": "Thu, 19 Feb 2026 09:27:13 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/02/mukesh-ambani-file-.jpg",
+    "importance": 20,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.800883"
+    "updated_at": "2026-02-19T14:11:25.440941"
   },
   {
-    "title": "‘Accident is not act of god, but act of humans, AI can only help in getting better data and analysis",
+    "title": "PM Modi calls for openness, slams countries and firms developing AI ‘confidentially’",
+    "link": "https://indianexpress.com/article/business/pm-modi-ai-summit-delhi-openness-10540552/",
+    "source": "Business | The Indian Express",
+    "category": "Business",
+    "published": "Thu, 19 Feb 2026 08:46:27 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/02/pm-modi-ai-summit.jpg",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "updated_at": "2026-02-19T14:11:25.440975"
+  },
+  {
+    "title": "‘Accident is not act of god, but act of humans, AI can only help in getting better data and analysis’",
     "link": "https://indianexpress.com/article/business/accident-is-not-act-of-god-but-act-of-humans-ai-can-only-help-in-getting-better-data-and-analysis-10539935/",
     "source": "Business | The Indian Express",
     "category": "Business",
@@ -1658,7 +1713,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/Venkatesh-Balasubramanian-3col.jpg",
     "importance": 20,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.800536"
+    "updated_at": "2026-02-19T14:11:25.441086"
   },
   {
     "title": "Adani Group to invest $100 billion in AI-ready data centres by 2035",
@@ -1669,7 +1724,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/Adani-2.jpg",
     "importance": 20,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.800619"
+    "updated_at": "2026-02-19T14:11:25.441171"
   },
   {
     "title": "AI-linked quality inspection to emission monitoring: Use cases offer scale-up potential for MSMEs",
@@ -1680,7 +1735,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/MSME-4col_416e07.jpg",
     "importance": 20,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.800655"
+    "updated_at": "2026-02-19T14:11:25.441211"
   },
   {
     "title": "Meta raises concerns over 3-hour timeline for takedown of social media content",
@@ -1691,7 +1746,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/meta.jpg",
     "importance": 20,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.800673"
+    "updated_at": "2026-02-19T14:11:25.441229"
   },
   {
     "title": "UPI-like AI service for MSMEs on common platform: Vaishnaw",
@@ -1702,7 +1757,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/ashwini-vaishnaw-5-1.jpg",
     "importance": 20,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.800688"
+    "updated_at": "2026-02-19T14:11:25.441246"
   },
   {
     "title": "Adani Group to invest $100 billion in AI-ready data centres by 2035",
@@ -1713,51 +1768,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/02/adani.jpeg",
     "importance": 20,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.800725"
-  },
-  {
-    "title": "Exclusive: Tata, two consortia led by L&T, Bharat Forge shortlisted for making fighter jets",
-    "link": "https://indianexpress.com/article/business/tata-two-consortia-led-by-lt-bharat-forge-shortlisted-for-making-fighter-jets-10535728/",
-    "source": "Business | The Indian Express",
-    "category": "Business",
-    "published": "Tue, 17 Feb 2026 00:00:42 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/02/Tejas-MK_20260216211759.jpg",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.800764"
-  },
-  {
-    "title": "Govt mulling AI intervention to curb 2-wheeler accidents",
-    "link": "https://indianexpress.com/article/business/govt-ai-curb-2-wheeler-accidents-ai-impact-summit-10535548/",
-    "source": "Business | The Indian Express",
-    "category": "Business",
-    "published": "Mon, 16 Feb 2026 16:39:28 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/02/AI-Impact-Summit.png",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.800798"
-  },
-  {
-    "title": "‘AI could be game changer for distributed RE’",
-    "link": "https://indianexpress.com/article/business/ai-could-be-game-changer-for-distributed-re-10535498/",
-    "source": "Business | The Indian Express",
-    "category": "Business",
-    "published": "Mon, 16 Feb 2026 16:37:14 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/02/ai-summit-2-1.jpg",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.800816"
-  },
-  {
-    "title": "Future of UPI, RuPay in value-added services, potential ‘far from fully realised’, says new report",
-    "link": "https://indianexpress.com/article/business/upi-rupay-future-value-added-services-ministry-of-finance-report-10535469/",
-    "source": "Business | The Indian Express",
-    "category": "Business",
-    "published": "Mon, 16 Feb 2026 15:26:02 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/02/UPI-.jpg",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.800838"
+    "updated_at": "2026-02-19T14:11:25.441285"
   },
   {
     "title": "Tech firms will have 48 hours to remove abusive images under new law",
@@ -1768,7 +1779,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbed/live/4211c060-0cf0-11f1-a015-553217367293.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.456387"
+    "updated_at": "2026-02-19T14:11:25.058311"
   },
   {
     "title": "Zuckerberg defends Meta in landmark social media addiction trial",
@@ -1779,18 +1790,18 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd95/live/86ef3de0-0d1b-11f1-b5e2-dd58fc65f0f6.png",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.456415"
+    "updated_at": "2026-02-19T14:11:25.058358"
   },
   {
     "title": "Etsy sells second-hand fashion app Depop to eBay for $1.2bn",
     "link": "https://www.bbc.com/news/articles/cx240kme2k8o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "category": "Technology",
-    "published": "Thu, 19 Feb 2026 01:37:44 GMT",
+    "published": "Thu, 19 Feb 2026 11:07:24 GMT",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac2e/live/6f0f21d0-0d30-11f1-b73d-5f7429e28cb8.png",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.456432"
+    "updated_at": "2026-02-19T14:11:25.058376"
   },
   {
     "title": "Call of Duty advert banned for trivialising sexual violence",
@@ -1801,7 +1812,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9511/live/d4e5d6d0-0cc1-11f1-b7e1-afb6d0884c18.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.456448"
+    "updated_at": "2026-02-19T14:11:25.058394"
   },
   {
     "title": "'I do not trust them' - top streamers left concerned by Discord age checks",
@@ -1812,7 +1823,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9013/live/2ce5caf0-0b5c-11f1-addc-a972ce4af6c2.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.456466"
+    "updated_at": "2026-02-19T14:11:25.058412"
   },
   {
     "title": "V&A displays first YouTube video and watchpage",
@@ -1823,18 +1834,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4223/live/69ca7360-0cb7-11f1-b5e2-dd58fc65f0f6.png",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.456481"
-  },
-  {
-    "title": "Reddit's human content wins amid the AI flood",
-    "link": "https://www.bbc.com/news/articles/c5y4zl0w062o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "category": "Technology",
-    "published": "Tue, 17 Feb 2026 00:03:10 GMT",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a50d/live/3cb7a110-0035-11f1-a8b8-bdd2c5f9bcad.jpg",
-    "importance": 15,
-    "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.456496"
+    "updated_at": "2026-02-19T14:11:25.058429"
   },
   {
     "title": "How dark web agent spotted bedroom wall clue to rescue girl from years of harm",
@@ -1845,7 +1845,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ef8/live/d681e5e0-0827-11f1-b5e2-dd58fc65f0f6.png",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.456513"
+    "updated_at": "2026-02-19T14:11:25.058447"
   },
   {
     "title": "Could Bill Gates and political tussles overshadow AI safety debate in Delhi?",
@@ -1856,7 +1856,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d7c/live/cc610970-0c04-11f1-b629-5b1f327d70c1.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.456531"
+    "updated_at": "2026-02-19T14:11:25.058466"
   },
   {
     "title": "We will do battle with AI chatbots as we did with Grok, says Starmer",
@@ -1867,7 +1867,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/094a/live/520e98d0-0ab6-11f1-afbc-01c60fb356b3.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.456547"
+    "updated_at": "2026-02-19T14:11:25.058484"
   },
   {
     "title": "ByteDance to curb AI video app after Disney legal threat",
@@ -1878,7 +1878,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f87/live/150ed810-0aec-11f1-88b9-a5144df8a4fa.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.456563"
+    "updated_at": "2026-02-19T14:11:25.058501"
   },
   {
     "title": "New Silent Hill game inspired by tiny fishing village in Fife",
@@ -1889,7 +1889,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/243e/live/2f158ff0-0b1f-11f1-b2d9-a9bd89759413.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.456579"
+    "updated_at": "2026-02-19T14:11:25.058518"
   },
   {
     "title": "Stroke survivors trial new at-home tech: 'It's given me my freedom back'",
@@ -1900,18 +1900,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9107/live/ed515dc0-08ed-11f1-94dc-adc7436c6c75.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.456595"
-  },
-  {
-    "title": "AI coding platform's flaws allow BBC reporter to be hacked",
-    "link": "https://www.bbc.com/news/articles/cy4wnw04e8wo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "category": "Technology",
-    "published": "Fri, 13 Feb 2026 00:19:30 GMT",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e2/live/d92dd230-080a-11f1-b56b-bf8bb0174edb.jpg",
-    "importance": 15,
-    "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.456611"
+    "updated_at": "2026-02-19T14:11:25.058535"
   },
   {
     "title": "AI safety leader says 'world is in peril' and quits to study poetry",
@@ -1922,7 +1911,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c09/live/658f9290-0806-11f1-b56b-bf8bb0174edb.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.456627"
+    "updated_at": "2026-02-19T14:11:25.058553"
   },
   {
     "title": "Porn site fined £800,000 for not rolling out age checks",
@@ -1933,7 +1922,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db42/live/d2eba4f0-0815-11f1-8fdd-d9a354700c27.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.456645"
+    "updated_at": "2026-02-19T14:11:25.058572"
   },
   {
     "title": "Prince Harry thanks bereaved families taking on social media firms",
@@ -1944,7 +1933,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92de/live/67485530-07fd-11f1-8981-b35bbe94674f.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.456662"
+    "updated_at": "2026-02-19T14:11:25.058590"
   },
   {
     "title": "Highguard game developer lays off staff just two weeks after release",
@@ -1955,7 +1944,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/661b/live/13026050-07f9-11f1-b7e1-afb6d0884c18.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.456678"
+    "updated_at": "2026-02-19T14:11:25.058607"
   },
   {
     "title": "John Wick game starring Keanu Reeves unveiled at PlayStation showcase",
@@ -1966,7 +1955,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efb3/live/91dff9a0-08df-11f1-961c-5b7d58c0375b.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.456695"
+    "updated_at": "2026-02-19T14:11:25.058625"
   },
   {
     "title": "Amazon's Ring ends deal with surveillance firm after backlash",
@@ -1977,6 +1966,17 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/081a/live/ccd2b870-090e-11f1-a882-79e5fd8f6638.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-02-19T03:41:08.456711"
+    "updated_at": "2026-02-19T14:11:25.058642"
+  },
+  {
+    "title": "Instagram boss says 16 hours of daily use is 'problematic' not addiction",
+    "link": "https://www.bbc.com/news/articles/cn71mgmzljlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "category": "Technology",
+    "published": "Thu, 12 Feb 2026 01:19:57 GMT",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba9b/live/95afd990-076f-11f1-95b3-3990922567a7.jpg",
+    "importance": 15,
+    "importanceLabel": "Low",
+    "updated_at": "2026-02-19T14:11:25.058660"
   }
 ]
