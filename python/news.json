@@ -1,38 +1,5 @@
 [
   {
-    "title": "South Korean Stocks Sink as Global Funds Sell on Iran War Risks",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-09/south-korea-stocks-plunge-as-oil-spike-on-iran-war-hurts-outlook",
-    "source": "Bloomberg Markets",
-    "category": "Markets & Finance",
-    "published": "Mon, 09 Mar 2026 00:11:10 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8Ew86AiiY5k/v0/1200x-1.jpg",
-    "importance": 65,
-    "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:45.266293"
-  },
-  {
-    "title": "Bitcoin Drops to 7-Day Low as Oil Surges on Iran War Concerns",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-09/bitcoin-drops-to-7-day-low-as-oil-surges-on-iran-war-concerns",
-    "source": "Bloomberg Markets",
-    "category": "Markets & Finance",
-    "published": "Mon, 09 Mar 2026 02:49:01 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iii.3pbxed8E/v3/1200x-1.png",
-    "importance": 60,
-    "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:45.266222"
-  },
-  {
-    "title": "Oil prices surge above $110 and shares slide over Iran war",
-    "link": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "category": "Markets & Finance",
-    "published": "Mon, 09 Mar 2026 02:19:19 GMT",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b25/live/6d2ed840-1b56-11f1-b279-7d123f3cf8aa.jpg",
-    "importance": 60,
-    "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:45.661519"
-  },
-  {
     "title": "Surge in jet fuel prices could push up air fares, analysts warn",
     "link": "https://www.bbc.com/news/articles/c14m57k8vgeo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -41,7 +8,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/851e/live/037f6070-1955-11f1-b402-73299da4d55f.jpg",
     "importance": 60,
     "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:45.661641"
+    "updated_at": "2026-03-09T14:09:04.306888"
   },
   {
     "title": "US-Iran-Israel war: Indian national killed, others injured after military projectile hits residential building, says Saudi Arabia govt",
@@ -52,7 +19,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/iran-war-34.jpg",
     "importance": 60,
     "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:46.565776"
+    "updated_at": "2026-03-09T14:09:07.196698"
   },
   {
     "title": "Why the US just gave India a 30-Day emergency window to buy ‘stranded’ Russian oil amid the Iran war",
@@ -63,18 +30,18 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/US-1-7.jpg",
     "importance": 60,
     "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:47.021747"
+    "updated_at": "2026-03-09T14:09:07.774629"
   },
   {
-    "title": "Yardeni Raises Odds of US Market Meltdown to 35% on Iran War",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-09/yardeni-raises-odds-of-markets-meltdown-to-35-on-iran-war-risks",
-    "source": "Bloomberg Markets",
+    "title": "G7 nations to hold emergency meeting on oil as stock markets sink",
+    "link": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
     "category": "Markets & Finance",
-    "published": "Mon, 09 Mar 2026 01:29:01 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTHkt72wTbNw/v0/1200x-1.jpg",
+    "published": "Mon, 09 Mar 2026 11:19:20 GMT",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/322f/live/8366f490-1b8c-11f1-9120-a910fc22c6ac.jpg",
     "importance": 55,
     "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:45.266328"
+    "updated_at": "2026-03-09T14:09:04.306674"
   },
   {
     "title": "There’s an inflation wave coming - what does the Iran war mean for the UK economy?",
@@ -85,7 +52,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c30/live/fa05f930-19b0-11f1-b9ec-35cf11968638.jpg",
     "importance": 55,
     "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:45.661553"
+    "updated_at": "2026-03-09T14:09:04.306789"
   },
   {
     "title": "US eases sanctions on Russian oil sales to India during Iran conflict",
@@ -96,7 +63,18 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5214/live/218fa0d0-1913-11f1-be67-b59dcbe602ca.jpg",
     "importance": 55,
     "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:45.661795"
+    "updated_at": "2026-03-09T14:09:04.306981"
+  },
+  {
+    "title": "Bank of England Hit by 5% Inflation Risk From War in Iran",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/bank-of-england-hit-by-5-inflation-risk-from-war-in-iran",
+    "source": "Bloomberg Economics",
+    "category": "Global Economy",
+    "published": "Mon, 09 Mar 2026 10:21:30 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.8InEn4Bt4k/v1/1200x-1.jpg",
+    "importance": 55,
+    "importanceLabel": "High",
+    "updated_at": "2026-03-09T14:09:06.446532"
   },
   {
     "title": "Weak Jobs Data Underscores Fed’s Dilemma as War Stokes Inflation Risk",
@@ -107,18 +85,18 @@
     "thumbnail": "https://static01.nyt.com/images/2026/03/06/multimedia/06biz-jobs-report-fed-wbkv/06biz-jobs-report-fed-wbkv-mediumSquareAt3X.jpg",
     "importance": 55,
     "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:45.867244"
+    "updated_at": "2026-03-09T14:09:06.539510"
   },
   {
-    "title": "Pakistan Praised Trump. Now It Risks Being Caught Up in His War With Iran",
-    "link": "https://www.nytimes.com/2026/03/07/world/asia/pakistan-trump-us-iran-war.html",
-    "source": "NYT > World News",
+    "title": "Israel-Iran war day 10: Trump says Mojtaba Khamenei an ‘unacceptable’ choice; Iran ramps up its offensive against Israel, Middle East and more",
+    "link": "https://indianexpress.com/article/world/israel-iran-war-day-10-updates-mojtaba-khamenei-trump-israel-middle-east-10572728/",
+    "source": "World | The Indian Express",
     "category": "Geopolitics",
-    "published": "Sat, 07 Mar 2026 20:09:24 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/03/07/multimedia/07int-pakistan-iran-qtwm/07int-pakistan-iran-qtwm-mediumSquareAt3X.jpg",
+    "published": "Mon, 09 Mar 2026 08:37:22 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/03/iran-oil-facility.jpg",
     "importance": 55,
     "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:46.107113"
+    "updated_at": "2026-03-09T14:09:07.196506"
   },
   {
     "title": "Day 9 of Middle East war: US-Israel offensive hits Iran’s energy sites; how Trump and Netanyahu see Tehran’s future",
@@ -129,10 +107,21 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/iran-oil-refinery-attack.jpg",
     "importance": 55,
     "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:46.565930"
+    "updated_at": "2026-03-09T14:09:07.196841"
   },
   {
-    "title": "Oil Soars Toward $120 as Iran War Forces More Production Cuts",
+    "title": "Netflix Goes From M&amp;A Loser to Market Winner Without Warner Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/netflix-goes-from-m-a-loser-to-market-winner-without-warner-deal",
+    "source": "Bloomberg Markets",
+    "category": "Markets & Finance",
+    "published": "Mon, 09 Mar 2026 12:56:00 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iA4x9hcrceo8/v1/1200x-1.jpg",
+    "importance": 50,
+    "importanceLabel": "High",
+    "updated_at": "2026-03-09T14:09:04.191111"
+  },
+  {
+    "title": "Oil Soars Above $100 as Iran War Forces Saudi Production Cuts",
     "link": "https://www.bloomberg.com/news/articles/2026-03-08/latest-oil-market-news-and-analysis-for-march-9",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
@@ -140,18 +129,18 @@
     "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0Gt9zmAYlQ0/v0/1200x-1.jpg",
     "importance": 50,
     "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:45.266107"
+    "updated_at": "2026-03-09T14:09:04.191168"
   },
   {
-    "title": "Stocks Slump After Oil Surges, Dollar Strengthens: Markets Wrap",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-08/oil-tops-100-as-war-rages-stocks-set-to-fall-markets-wrap",
+    "title": "European Gas Prices Spike as Middle East War Dims Supply Outlook",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/european-gas-prices-surge-30-as-middle-east-war-roils-markets",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
-    "published": "Sun, 08 Mar 2026 22:03:17 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaDFIBuj7vxI/v1/1200x-1.jpg",
+    "published": "Mon, 09 Mar 2026 07:08:35 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iABdptj9gvQc/v1/1200x-1.jpg",
     "importance": 50,
     "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:45.266163"
+    "updated_at": "2026-03-09T14:09:04.191233"
   },
   {
     "title": "Crop Prices Jump as War Snarls Trade and Risks Tightening Supply",
@@ -162,29 +151,51 @@
     "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTeQily7H_Ks/v0/1200x-1.jpg",
     "importance": 50,
     "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:45.266345"
+    "updated_at": "2026-03-09T14:09:04.191250"
   },
   {
-    "title": "Aluminum Rises to 2022 High as Iran War Stokes Supply Crunch",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-09/aluminum-rises-to-2022-high-as-iran-war-stokes-supply-crunch",
+    "title": "Traders Bet ECB to Hike Rates Twice as War Ignites Inflation",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/energy-shock-rewrites-europe-s-rate-path-as-traders-bet-on-hikes",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
-    "published": "Mon, 09 Mar 2026 01:46:12 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCjVZxlc6aZ0/v3/1200x-1.png",
+    "published": "Mon, 09 Mar 2026 13:07:39 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEq3ewirduJ8/v0/1200x-1.jpg",
     "importance": 50,
     "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:45.266396"
+    "updated_at": "2026-03-09T14:09:04.191340"
   },
   {
-    "title": "Five ways the Iran war could affect you - in charts",
+    "title": "JPMorgan Sees 10% Correction in S&amp;P 500 as War Risks Build Up",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/jpmorgan-sees-10-correction-in-s-p-500-as-war-risks-build-up",
+    "source": "Bloomberg Markets",
+    "category": "Markets & Finance",
+    "published": "Mon, 09 Mar 2026 13:02:11 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isIm5akn1_tc/v3/1200x-1.png",
+    "importance": 50,
+    "importanceLabel": "High",
+    "updated_at": "2026-03-09T14:09:04.191358"
+  },
+  {
+    "title": "Stagflation Trades Sweep Markets as Trump Signals Widening War",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/stagflation-trades-sweep-markets-as-trump-signals-widening-war",
+    "source": "Bloomberg Markets",
+    "category": "Markets & Finance",
+    "published": "Mon, 09 Mar 2026 07:19:04 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijHikV6_f_x0/v3/1200x-1.png",
+    "importance": 50,
+    "importanceLabel": "High",
+    "updated_at": "2026-03-09T14:09:04.191391"
+  },
+  {
+    "title": "Six ways the Iran war could affect you - in charts",
     "link": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "category": "Markets & Finance",
-    "published": "Fri, 06 Mar 2026 00:05:31 GMT",
+    "published": "Mon, 09 Mar 2026 12:53:49 GMT",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0d5/live/7b26b0c0-194f-11f1-9120-a910fc22c6ac.jpg",
     "importance": 50,
     "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:45.661706"
+    "updated_at": "2026-03-09T14:09:04.306716"
   },
   {
     "title": "Lenders lift mortgage rates as Iran war hits borrowing costs",
@@ -195,29 +206,18 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1280/live/d05a84e0-194f-11f1-801d-ed3cff6bf876.jpg",
     "importance": 50,
     "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:45.661722"
+    "updated_at": "2026-03-09T14:09:04.306927"
   },
   {
-    "title": "UK firms pull fixed energy deals as Iran war pushes up prices",
-    "link": "https://www.bbc.com/news/articles/c3ewwej0p13o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "category": "Markets & Finance",
-    "published": "Thu, 05 Mar 2026 18:25:03 GMT",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39ad/live/c8691ae0-18b3-11f1-97ba-493bedc7637b.jpg",
-    "importance": 50,
-    "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:45.661844"
-  },
-  {
-    "title": "US Inflation Gauges Likely Diverged Before War in Iran",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-07/us-inflation-gauges-likely-diverged-before-war-in-iran",
+    "title": "Policy Makers Spring Into Action as Iran War Pushes Oil Above $100",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-03-09/iran-war-oil-spikes-past-100-as-conflict-risks-deepening-economic-fallout",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Sat, 07 Mar 2026 21:00:00 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix3DbcwB88FE/v1/1200x-1.jpg",
+    "published": "Mon, 09 Mar 2026 12:01:28 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iewDz4XEJpdU/v9/1200x-1.jpg",
     "importance": 50,
     "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:45.761625"
+    "updated_at": "2026-03-09T14:09:06.446496"
   },
   {
     "title": "Why China Is Closely Watching US Congressional Support for the Iran War",
@@ -228,73 +228,40 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2023/05/thediplomat_2023-05-22-003949.jpg",
     "importance": 50,
     "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:46.254363"
+    "updated_at": "2026-03-09T14:09:06.819548"
   },
   {
-    "title": "Middle East war: Air India, Air India Express continue ops, announce additional flights for Indian nationals stranded in UAE",
-    "link": "https://indianexpress.com/article/world/us-israel-iran-war-flights-status-emirates-air-india-ethihad-indigo-uae-10570734/",
-    "source": "World | The Indian Express",
-    "category": "Geopolitics",
-    "published": "Sun, 08 Mar 2026 04:00:21 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/03/passenger-at-dubai-airport-stranded-1.jpg",
-    "importance": 50,
-    "importanceLabel": "High",
-    "updated_at": "2026-03-09T03:37:46.566051"
-  },
-  {
-    "title": "China’s Bond Futures Fall Most This Year on Oil Price Shock",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-09/chinese-sovereign-bonds-slump-as-oil-surge-fans-inflation-worry",
+    "title": "Stocks and Bonds Slide Globally as Oil Tops $100: Markets Wrap",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-08/oil-tops-100-as-war-rages-stocks-set-to-fall-markets-wrap",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
-    "published": "Mon, 09 Mar 2026 02:08:43 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTuUwq2C.uI0/v2/1200x-1.png",
+    "published": "Sun, 08 Mar 2026 22:03:17 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYTs9OVSWYlU/v39/1200x-1.jpg",
     "importance": 45,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.266078"
+    "updated_at": "2026-03-09T14:09:04.191066"
   },
   {
-    "title": "Indonesian Stocks, Rupiah Slump as Iran Conflict Escalates",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-09/indonesian-stocks-rupiah-slump-as-iran-conflict-escalates-mmijqagt",
-    "source": "Bloomberg Markets",
-    "category": "Markets & Finance",
-    "published": "Mon, 09 Mar 2026 02:12:31 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNpHETopGtPA/v2/1200x-1.png",
-    "importance": 45,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.266126"
-  },
-  {
-    "title": "Gold Slumps as Oil Surge Stokes Fears of Higher Interest Rates",
+    "title": "Gold Drops as Oil Surge Stokes Fears of Higher Interest Rates",
     "link": "https://www.bloomberg.com/news/articles/2026-03-08/gold-extends-decline-as-oil-tops-110-and-inflation-fears-mount",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
     "published": "Sun, 08 Mar 2026 22:35:38 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTo61NUjxSt4/v0/1200x-1.jpg",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imK7Z9pqS8TM/v1/1200x-1.jpg",
     "importance": 45,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.266205"
+    "updated_at": "2026-03-09T14:09:04.191092"
   },
   {
-    "title": "Oil Spike Is Clouding the Outlook for Indian Bank Earnings, Interest Rates",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-03-09/ubs-sees-risks-to-indian-banks-profits-from-oil-rbi-supports-bond-market",
-    "source": "Bloomberg Markets",
+    "title": "Faisal Islam: Oil price spiral may be slowed but not stopped by G7 emergency move",
+    "link": "https://www.bbc.com/news/articles/cz7g5vv2gejo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
     "category": "Markets & Finance",
-    "published": "Mon, 09 Mar 2026 02:45:43 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQigwsJAv6rs/v6/1200x-1.jpg",
+    "published": "Mon, 09 Mar 2026 13:17:11 GMT",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/940e/live/19d40410-1bbd-11f1-964c-87b629a369ca.jpg",
     "importance": 45,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.266241"
-  },
-  {
-    "title": "EM Stocks Down 10% From Peak as Oil Surges, Currencies Slide",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-09/em-stocks-down-10-from-peak-as-oil-surges-currencies-slide",
-    "source": "Bloomberg Markets",
-    "category": "Markets & Finance",
-    "published": "Mon, 09 Mar 2026 02:19:33 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3C1L2q.DIn8/v2/1200x-1.png",
-    "importance": 45,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.266311"
+    "updated_at": "2026-03-09T14:09:04.306699"
   },
   {
     "title": "Oil price at two-year high after Qatar warns all Gulf production could stop within days",
@@ -305,18 +272,51 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a75/live/97c35060-196f-11f1-a1cd-a71e69f1cf89.jpg",
     "importance": 45,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.661572"
+    "updated_at": "2026-03-09T14:09:04.306906"
   },
   {
-    "title": "Charting the Global Economy: Oil Prices Top $90 on Iran War",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-07/world-economy-latest-oil-prices-surge-above-90-a-barrel-on-iran-war",
+    "title": "Traders Bet ECB to Hike Rates Twice as War Ignites Inflation",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/energy-shock-rewrites-europe-s-rate-path-as-traders-bet-on-hikes",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Sat, 07 Mar 2026 10:00:00 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3Tp0xmyaRRo/v1/1200x-1.jpg",
+    "published": "Mon, 09 Mar 2026 13:07:39 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEq3ewirduJ8/v0/1200x-1.jpg",
     "importance": 45,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.761679"
+    "updated_at": "2026-03-09T14:09:06.446386"
+  },
+  {
+    "title": "Trump’s War in Iran Roils a Vital Hub of Globalization",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-03-09/trump-s-war-in-iran-and-economic-fallout",
+    "source": "Bloomberg Economics",
+    "category": "Global Economy",
+    "published": "Mon, 09 Mar 2026 12:00:01 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihekJ2KHCtK4/v9/1200x-1.jpg",
+    "importance": 45,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-03-09T14:09:06.446515"
+  },
+  {
+    "title": "Investor Confidence in Euro-Zone Economy Plummets on Iran War",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/investor-confidence-in-euro-zone-economy-plummets-on-iran-war",
+    "source": "Bloomberg Economics",
+    "category": "Global Economy",
+    "published": "Mon, 09 Mar 2026 09:30:00 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irECnz5F5ISk/v3/1200x-1.png",
+    "importance": 45,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-03-09T14:09:06.446674"
+  },
+  {
+    "title": "Live Updates: Oil Price Surge Rattles Markets; Iran’s Choice of Leader Signals Defiance",
+    "link": "https://www.nytimes.com/live/2026/03/09/world/iran-war-trump-israel-lebanon",
+    "source": "NYT > World News",
+    "category": "Geopolitics",
+    "published": "Mon, 09 Mar 2026 14:03:51 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/09/multimedia/09iran-live-promo-2amET-qgmz/09iran-live-promo-2amET-qgmz-mediumSquareAt3X.jpg",
+    "importance": 45,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-03-09T14:09:06.664507"
   },
   {
     "title": "In War’s First Week, a Punishing Military Campaign With No Coherent Endgame",
@@ -327,40 +327,18 @@
     "thumbnail": "https://static01.nyt.com/images/2026/03/07/multimedia/07DC-IRAN-WAR-01-cpwf/07DC-IRAN-WAR-01-cpwf-mediumSquareAt3X.jpg",
     "importance": 45,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.107070"
+    "updated_at": "2026-03-09T14:09:06.664788"
   },
   {
-    "title": "Europe Didn’t Want War With Iran. But So Far, It Can’t Stay Out of It.",
-    "link": "https://www.nytimes.com/2026/03/07/world/europe/europe-iran-trump-war-dilemma.html",
+    "title": "Ed Davey Wants King Charles to Cancel his U.S. State Visit Over Iran War",
+    "link": "https://www.nytimes.com/2026/03/09/world/europe/king-charles-iran-war-uk-us-trump.html",
     "source": "NYT > World News",
     "category": "Geopolitics",
-    "published": "Sat, 07 Mar 2026 10:02:03 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/04/04/multimedia/07int-europe-mideast-photo1-jghk/04int-europe-mideast-photo1-jghk-mediumSquareAt3X.jpg",
+    "published": "Mon, 09 Mar 2026 13:21:09 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-king-charles-cqtf/09israel-iran-king-charles-cqtf-mediumSquareAt3X.jpg",
     "importance": 45,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.107136"
-  },
-  {
-    "title": "Russia Attacks Kharkiv and Kyiv in Ukraine",
-    "link": "https://www.nytimes.com/2026/03/07/world/europe/russia-ukraine-kharkiv-zelensky-airstrike.html",
-    "source": "NYT > World News",
-    "category": "Geopolitics",
-    "published": "Sat, 07 Mar 2026 20:44:45 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/03/07/multimedia/07int-ukraine-attack-mlbz/07int-ukraine-attack-mlbz-mediumSquareAt3X.jpg",
-    "importance": 45,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.107155"
-  },
-  {
-    "title": "For Xi, Trump’s Embrace of War Proves China Needs More Power",
-    "link": "https://www.nytimes.com/2026/03/07/world/asia/china-iran-power.html",
-    "source": "NYT > World News",
-    "category": "Geopolitics",
-    "published": "Sat, 07 Mar 2026 05:15:46 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/03/07/multimedia/07int-china-iran-power-pjtc/07int-china-iran-power-pjtc-mediumSquareAt3X.jpg",
-    "importance": 45,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.107201"
+    "updated_at": "2026-03-09T14:09:06.664828"
   },
   {
     "title": "Crude oil prices surpass USD 100 a barrel as Iran war impedes production and shipping",
@@ -371,18 +349,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/US-2.jpg",
     "importance": 45,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.565668"
-  },
-  {
-    "title": "‘We’re winning the war by a lot’: Trump refuses to rule out sending US ground troops to Iran",
-    "link": "https://indianexpress.com/article/world/us-news/donald-trump-iran-war-ground-troops-operation-epic-fury-10570667/",
-    "source": "World | The Indian Express",
-    "category": "Geopolitics",
-    "published": "Sun, 08 Mar 2026 03:11:35 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/03/US-3-8.jpg",
-    "importance": 45,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.566075"
+    "updated_at": "2026-03-09T14:09:07.196617"
   },
   {
     "title": "Ongoing West Asia conflict may feed through imported inflation; prolonged crisis could impact exchange rate, CAD: Finance Ministry",
@@ -393,62 +360,29 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/Express-Photo-Neeraj-Priyadarshi.jpg",
     "importance": 45,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:47.021670"
+    "updated_at": "2026-03-09T14:09:07.774552"
   },
   {
-    "title": "Japan Stock Fear Gauges Soar as Oil Spike Upends Bull Scenario",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-09/japan-stock-fear-gauges-soar-as-oil-spike-upends-bull-scenario",
+    "title": "US Stocks Extend Declines as Oil Spike Fuels Inflation Concerns",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/us-stock-futures-drop-as-oil-spike-boosts-inflation-fears",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
-    "published": "Mon, 09 Mar 2026 03:08:18 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iawxDi4k24kA/v2/1200x-1.png",
+    "published": "Mon, 09 Mar 2026 11:50:35 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1cv8XRIVO2s/v1/1200x-1.jpg",
     "importance": 40,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.266145"
+    "updated_at": "2026-03-09T14:09:04.191151"
   },
   {
-    "title": "China Inflation Jumps as Oil Adds to Record Holiday Spending",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-09/china-consumer-prices-rebound-driven-by-record-holiday-spending",
+    "title": "South African Central Bank Ready to Act on Market Dysfunction",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/south-african-bonds-plunge-as-oil-surge-fuels-inflation-fears",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
-    "published": "Mon, 09 Mar 2026 01:37:07 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAGHo.2J3E1w/v3/1200x-1.png",
+    "published": "Mon, 09 Mar 2026 10:20:46 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itJkMV4kRqfM/v1/1200x-1.jpg",
     "importance": 40,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.266258"
-  },
-  {
-    "title": "Cathay Pacific, Orient Overseas Navigate Middle East Volatility",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-06/cathay-pacific-orient-overseas-navigate-middle-east-volatility",
-    "source": "Bloomberg Markets",
-    "category": "Markets & Finance",
-    "published": "Fri, 06 Mar 2026 02:11:05 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icQppOTRi8MQ/v1/1200x-1.jpg",
-    "importance": 40,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.266277"
-  },
-  {
-    "title": "Middle East Conflict: How Much Further Can Oil Prices Rise?",
-    "link": "https://www.bloomberg.com/news/videos/2026-03-09/how-much-further-can-oil-prices-rise-video",
-    "source": "Bloomberg Markets",
-    "category": "Markets & Finance",
-    "published": "Mon, 09 Mar 2026 02:02:36 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD23GwCyDT_g/v3/1200x-1.jpg",
-    "importance": 40,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.266362"
-  },
-  {
-    "title": "Trump's Stance on Potential Military Action in Iran",
-    "link": "https://www.bloomberg.com/news/videos/2026-03-08/trump-s-stance-on-potential-military-action-in-iran-video",
-    "source": "Bloomberg Markets",
-    "category": "Markets & Finance",
-    "published": "Sun, 08 Mar 2026 14:17:06 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iraxrC79hGvE/v3/1200x-1.jpg",
-    "importance": 40,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.266429"
+    "updated_at": "2026-03-09T14:09:04.191408"
   },
   {
     "title": "Flight paths squeezed as Iran conflict closes more airspace",
@@ -459,29 +393,18 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e387/live/766dbec0-195e-11f1-9a35-7db562c1d2fd.jpg",
     "importance": 40,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.661590"
+    "updated_at": "2026-03-09T14:09:04.306823"
   },
   {
-    "title": "Bank of England May Be Wary of Looking Past Another Energy Shock",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-08/bank-of-england-may-be-wary-of-looking-past-another-energy-shock",
+    "title": "Pakistan Holds Rates at 10.5% as Oil Surge Clouds Outlook",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/pakistan-holds-rates-at-10-5-as-oil-surge-clouds-outlook",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Sun, 08 Mar 2026 06:00:00 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPsx1aDbbZ8g/v3/1200x-1.png",
+    "published": "Mon, 09 Mar 2026 10:01:11 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq4sEPVw7yzw/v1/1200x-1.jpg",
     "importance": 40,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.761642"
-  },
-  {
-    "title": "Global Economy Faces Widening Strains as Mideast War Intensifies",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-07/global-economy-faces-widening-strains-as-mideast-war-intensifies",
-    "source": "Bloomberg Economics",
-    "category": "Global Economy",
-    "published": "Sat, 07 Mar 2026 10:00:00 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iO6koKu5lSsE/v1/1200x-1.jpg",
-    "importance": 40,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.761696"
+    "updated_at": "2026-03-09T14:09:06.446458"
   },
   {
     "title": "How War in the Persian Gulf Could Spill Into the U.S. Economy",
@@ -492,18 +415,18 @@
     "thumbnail": "https://static01.nyt.com/images/2026/03/05/multimedia/05biz-iran-oil-econ-hkzl/05biz-iran-oil-econ-hkzl-mediumSquareAt3X.jpg",
     "importance": 40,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.867345"
+    "updated_at": "2026-03-09T14:09:06.539614"
   },
   {
-    "title": "Iran’s Security Establishment Celebrates Mojtaba Khamenei’s Selection",
-    "link": "https://www.nytimes.com/2026/03/08/world/middleeast/iran-mojtaba-khamenei-supreme-leader-reactions.html",
+    "title": "Stocks Tank in Asia as Oil Price Surges",
+    "link": "https://www.nytimes.com/2026/03/09/business/stocks-iran-oil.html",
     "source": "NYT > World News",
     "category": "Geopolitics",
-    "published": "Mon, 09 Mar 2026 00:00:35 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/03/08/multimedia/08iran-live-mojtaba-reax-kwvf/08iran-live-mojtaba-reax-kwvf-mediumSquareAt3X.jpg",
+    "published": "Mon, 09 Mar 2026 13:39:30 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/09/multimedia/09Biz-Iran-Stocks-promo-gmck/09Biz-Iran-Stocks-promo-gmck-mediumSquareAt3X.jpg",
     "importance": 40,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.107359"
+    "updated_at": "2026-03-09T14:09:06.664918"
   },
   {
     "title": "In Hindsight: Madame Nhu and the American War in Vietnam",
@@ -514,7 +437,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-06-092222.jpg",
     "importance": 40,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.254585"
+    "updated_at": "2026-03-09T14:09:06.819761"
   },
   {
     "title": "America’s Attack on Iran Should Have Asia-Pacific Countries Very Worried",
@@ -525,18 +448,29 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-03-225117.jpg",
     "importance": 40,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.254666"
+    "updated_at": "2026-03-09T14:09:06.819838"
   },
   {
-    "title": "‘We don’t need people that join wars after we’ve already won’: Trump tells UK it does not need aircraft carriers",
-    "link": "https://indianexpress.com/article/world/us-news/trump-starmer-uk-aircraft-carriers-middle-east-iran-war-10570577/",
+    "title": "Air travel update: Air India expands flights to Europe, New York amid West Asia crisis; here’s all you need to know",
+    "link": "https://indianexpress.com/article/world/israel-iran-war-flights-europe-new-york-west-asia-crisis-heres-all-you-need-to-know-10572627/",
     "source": "World | The Indian Express",
     "category": "Geopolitics",
-    "published": "Sun, 08 Mar 2026 00:50:07 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/03/US-4-2.jpg",
+    "published": "Mon, 09 Mar 2026 07:25:38 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/03/Logo-4.jpg",
     "importance": 40,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.566099"
+    "updated_at": "2026-03-09T14:09:07.196532"
+  },
+  {
+    "title": "Sensex crashes over 2,000 points as crude oil prices cross $115/barrel on Middle East conflict",
+    "link": "https://indianexpress.com/article/business/market/sensex-drops-3-nifty-at-23741-amid-global-sell-off-and-rising-crude-oil-prices-10572421/",
+    "source": "Business | The Indian Express",
+    "category": "Business",
+    "published": "Mon, 09 Mar 2026 04:46:14 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/03/Stock_20260309044426.jpg",
+    "importance": 40,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-03-09T14:09:07.774391"
   },
   {
     "title": "Air Travel update: Over 1,500 flights cancelled globally, ticket prices skyrocket as Middle East war rages",
@@ -547,7 +481,62 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/iran-1600.jpg",
     "importance": 40,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:47.021829"
+    "updated_at": "2026-03-09T14:09:07.774712"
+  },
+  {
+    "title": "EU’s Dombrovskis Says Release of Oil Reserves Is an Option",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/eu-s-dombrovskis-says-release-of-oil-reserves-is-an-option",
+    "source": "Bloomberg Markets",
+    "category": "Markets & Finance",
+    "published": "Mon, 09 Mar 2026 13:59:46 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWDv13sN.tko/v1/1200x-1.jpg",
+    "importance": 35,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-03-09T14:09:04.191133"
+  },
+  {
+    "title": "Macron Plans Hormuz Ship Escorts Once Conflict Calms Down",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/macron-plans-hormuz-ship-escorts-once-conflict-calms-down",
+    "source": "Bloomberg Markets",
+    "category": "Markets & Finance",
+    "published": "Mon, 09 Mar 2026 13:26:22 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isKB5sLbhF24/v1/1200x-1.jpg",
+    "importance": 35,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-03-09T14:09:04.191184"
+  },
+  {
+    "title": "Merz’s Economic Plans Hit Fresh Bump in State Election Loss",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/merz-s-economic-plans-hit-another-bump-with-state-election-loss",
+    "source": "Bloomberg Markets",
+    "category": "Markets & Finance",
+    "published": "Mon, 09 Mar 2026 11:54:17 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGxGr0y5ayQg/v1/1200x-1.jpg",
+    "importance": 35,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-03-09T14:09:04.191288"
+  },
+  {
+    "title": "Russia’s Key Black Sea Port Resumed Oil Loading Over Weekend",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/russia-s-key-black-sea-port-resumed-oil-loading-over-weekend",
+    "source": "Bloomberg Markets",
+    "category": "Markets & Finance",
+    "published": "Mon, 09 Mar 2026 13:08:26 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izQyLamVEchk/v1/1200x-1.png",
+    "importance": 35,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-03-09T14:09:04.191308"
+  },
+  {
+    "title": "Citi’s Kate Moore Sees Safety in US Large Cap Stocks",
+    "link": "https://www.bloomberg.com/news/videos/2026-03-09/citi-s-kate-moore-sees-safety-in-us-large-cap-stocks-video",
+    "source": "Bloomberg Markets",
+    "category": "Markets & Finance",
+    "published": "Mon, 09 Mar 2026 12:47:33 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/il6eHguZjoWE/v3/1200x-1.jpg",
+    "importance": 35,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-03-09T14:09:04.191428"
   },
   {
     "title": "Anthropic vows to sue Pentagon over supply chain risk label",
@@ -558,18 +547,40 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c175/live/f4a56420-18d0-11f1-801d-ed3cff6bf876.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.661813"
+    "updated_at": "2026-03-09T14:09:04.306997"
   },
   {
-    "title": "In Charts: How The Iran Conflict is Disrupting Global Trade",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-07/in-charts-how-the-iran-conflict-is-disrupting-global-trade",
+    "title": "South African Central Bank Ready to Act on Market Dysfunction",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/south-african-bonds-plunge-as-oil-surge-fuels-inflation-fears",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Sat, 07 Mar 2026 08:30:03 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ik4EoLBwzB9w/v0/1200x-1.jpg",
+    "published": "Mon, 09 Mar 2026 10:20:46 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itJkMV4kRqfM/v1/1200x-1.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.761713"
+    "updated_at": "2026-03-09T14:09:06.446425"
+  },
+  {
+    "title": "Mexico Inflation Jump Exceeds Forecasts to Top Target Range",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/mexico-inflation-jumps-more-than-expected-to-breach-target-range",
+    "source": "Bloomberg Economics",
+    "category": "Global Economy",
+    "published": "Mon, 09 Mar 2026 12:28:45 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilGPE.quQNMM/v1/1200x-1.jpg",
+    "importance": 35,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-03-09T14:09:06.446442"
+  },
+  {
+    "title": "Italy Risks Iran Setback in Bid to Exit EU Scrutiny, Scope Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/italy-risks-iran-setback-in-bid-to-exit-eu-scrutiny-scope-says",
+    "source": "Bloomberg Economics",
+    "category": "Global Economy",
+    "published": "Mon, 09 Mar 2026 10:57:20 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRav0pckCqgI/v3/1200x-1.png",
+    "importance": 35,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-03-09T14:09:06.446585"
   },
   {
     "title": "The US Strikes on Iran Are a Reminder to China: Power Is Power",
@@ -580,7 +591,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-07-041958.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.254301"
+    "updated_at": "2026-03-09T14:09:06.819489"
   },
   {
     "title": "‘Like a Startled Crow’: The Precarious Life of Women Amid Myanmar’s Polycrisis",
@@ -591,7 +602,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2024/04/thediplomat_2024-04-15-093555.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.254387"
+    "updated_at": "2026-03-09T14:09:06.819572"
   },
   {
     "title": "Hong Kong Is Beijing’s New ‘Vanguard’ in the Contest for Financial Sovereignty",
@@ -602,7 +613,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2025/03/thediplomat_2025-03-27-172723.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.254435"
+    "updated_at": "2026-03-09T14:09:06.819619"
   },
   {
     "title": "Lee Jae-myung Is a New Kind of President – and South Koreans Approve",
@@ -613,7 +624,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2025/12/thediplomat_2025-12-03-232358.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.254458"
+    "updated_at": "2026-03-09T14:09:06.819642"
   },
   {
     "title": "Philippines Arrests 3 Defense Personnel Over China Spy Claims",
@@ -624,7 +635,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2024/05/thediplomat_2024-05-07-053118.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.254566"
+    "updated_at": "2026-03-09T14:09:06.819744"
   },
   {
     "title": "Black rain over Tehran: Why oil is falling from the sky after massive Israeli airstrikes on Iran",
@@ -635,7 +646,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/Iran-oil-storage-attacked.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.565857"
+    "updated_at": "2026-03-09T14:09:07.196774"
   },
   {
     "title": "WATCH: Why a Southwest flight made a dramatic emergency landing? A Ramadan timer, ‘foreign languages’",
@@ -646,7 +657,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/IE-photo-story-59.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.565881"
+    "updated_at": "2026-03-09T14:09:07.196797"
   },
   {
     "title": "Israel vows to pursue Iran’s next supreme leader amid succession talks",
@@ -657,18 +668,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/Photo-24.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.565903"
-  },
-  {
-    "title": "Dubai, UAE, Abu Dhabi News LIVE Updates: Fire breaks out at oil facility after attack in Fujairah",
-    "link": "https://indianexpress.com/article/world/dubai-news-live-updates-iran-war-uae-abu-dhabi-qatar-saudi-missiles-drones-10570817/",
-    "source": "World | The Indian Express",
-    "category": "Geopolitics",
-    "published": "Sun, 08 Mar 2026 05:06:37 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/03/Logo-1.jpg",
-    "importance": 35,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.565974"
+    "updated_at": "2026-03-09T14:09:07.196817"
   },
   {
     "title": "Remote work, offices shut: Tech giants scramble to respond as Iran war escalates",
@@ -679,7 +679,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d66/live/5ee2f1c0-17ca-11f1-96f2-bf3adf077467.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.740964"
+    "updated_at": "2026-03-09T14:09:07.381318"
   },
   {
     "title": "West Asia conflict hits India’s LNG supplies as Petronet, QatarEnergy issue force majeure notices; Petronet stock plummets",
@@ -690,51 +690,73 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/LNG-supply.jpg",
     "importance": 35,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:47.021891"
+    "updated_at": "2026-03-09T14:09:07.774772"
   },
   {
-    "title": "Fosun Shares Rebound on Shareholders’ Pledge to Boost Stake",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-09/fosun-international-slumps-after-warning-loss-may-widen",
+    "title": "Bank of America Offers $2.75 Billion Loan for Tegna Acquisition",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/bank-of-america-offers-2-75-billion-loan-for-tegna-acquisition",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
-    "published": "Mon, 09 Mar 2026 01:41:31 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ie5frPDhNI0U/v0/1200x-1.jpg",
+    "published": "Mon, 09 Mar 2026 13:25:05 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWLYMlxZrfLc/v1/1200x-1.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.266186"
+    "updated_at": "2026-03-09T14:09:04.191201"
   },
   {
-    "title": "Qatar LNG Outage Erases 2026 Supply Surplus, Morgan Stanley Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-09/qatar-lng-outage-erases-2026-supply-surplus-morgan-stanley-says",
+    "title": "UForce CEO: We're Ready to Ramp Up Production",
+    "link": "https://www.bloomberg.com/news/videos/2026-03-09/uforce-ceo-we-re-ready-to-ramp-up-production-video",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
-    "published": "Mon, 09 Mar 2026 02:01:43 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixRd6VX7qLsw/v3/1200x-1.png",
+    "published": "Mon, 09 Mar 2026 13:23:46 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq7V9SnI8KPM/v3/1200x-1.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.266379"
+    "updated_at": "2026-03-09T14:09:04.191216"
   },
   {
-    "title": "PAG Is Said to Explore Sale of Chicken Meat Producer Fengxiang",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-09/pag-is-said-to-explore-sale-of-chicken-meat-producer-fengxiang",
+    "title": "Saudi Arabia Starts Oil Cuts as It Races to Reroute Exports",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/saudi-arabia-starts-oil-output-cuts-as-shut-hormuz-fills-storage",
     "source": "Bloomberg Markets",
     "category": "Markets & Finance",
-    "published": "Mon, 09 Mar 2026 01:45:17 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYHDbHmGXHdk/v0/1200x-1.jpg",
+    "published": "Mon, 09 Mar 2026 10:52:43 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifp.htprfUic/v3/1200x-1.png",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.266413"
+    "updated_at": "2026-03-09T14:09:04.191266"
   },
   {
-    "title": "Mayor Sadiq Khan invites embattled AI firm Anthropic to expand in London",
-    "link": "https://www.bbc.com/news/articles/czx7915nn8qo?at_medium=RSS&at_campaign=rss",
+    "title": "Volkswagen Pushes Into Energy Storage on Slow EV Battery Demand",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/volkswagen-pushes-into-energy-storage-on-slow-ev-battery-demand",
+    "source": "Bloomberg Markets",
+    "category": "Markets & Finance",
+    "published": "Mon, 09 Mar 2026 12:57:39 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i74n7GR0Su4E/v1/1200x-1.jpg",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-03-09T14:09:04.191374"
+  },
+  {
+    "title": "How high could UK petrol and diesel prices go?",
+    "link": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "category": "Markets & Finance",
-    "published": "Fri, 06 Mar 2026 21:49:18 GMT",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be99/live/65ec6c10-197f-11f1-9120-a910fc22c6ac.jpg",
+    "published": "Mon, 09 Mar 2026 11:22:56 GMT",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6653/live/64a76bc0-1baa-11f1-9f65-e32170917420.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.661608"
+    "updated_at": "2026-03-09T14:09:04.306732"
+  },
+  {
+    "title": "Asia governments to cap fuel prices as oil costs jump",
+    "link": "https://www.bbc.com/news/articles/cm2xp25m9mjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "category": "Markets & Finance",
+    "published": "Mon, 09 Mar 2026 09:44:09 GMT",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e11f/live/fa5679b0-1b9e-11f1-9f65-e32170917420.jpg",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-03-09T14:09:04.306748"
   },
   {
     "title": "Spain's migrants welcome amnesty: 'It will help us in every way'",
@@ -745,7 +767,18 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98b9/live/02506980-1638-11f1-93a7-dffe98812d72.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.661624"
+    "updated_at": "2026-03-09T14:09:04.306765"
+  },
+  {
+    "title": "Mayor Sadiq Khan invites embattled AI firm Anthropic to expand in London",
+    "link": "https://www.bbc.com/news/articles/czx7915nn8qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "category": "Markets & Finance",
+    "published": "Fri, 06 Mar 2026 21:49:18 GMT",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be99/live/65ec6c10-197f-11f1-9120-a910fc22c6ac.jpg",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-03-09T14:09:04.306806"
   },
   {
     "title": "US economy unexpectedly sheds 92,000 jobs in February",
@@ -756,7 +789,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6efa/live/41eb38e0-1962-11f1-a1cd-a71e69f1cf89.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.661657"
+    "updated_at": "2026-03-09T14:09:04.306839"
   },
   {
     "title": "Axel Springer agrees to buy Telegraph Media Group in £575m deal",
@@ -767,7 +800,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4321/live/2ae68450-1959-11f1-a18b-234b2225fd29.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.661674"
+    "updated_at": "2026-03-09T14:09:04.306856"
   },
   {
     "title": "Price of first class stamps to rise to £1.80",
@@ -778,18 +811,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2b/live/57cdcbe0-197c-11f1-9120-a910fc22c6ac.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.661690"
-  },
-  {
-    "title": "Will petrol and diesel prices go up now?",
-    "link": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "category": "Markets & Finance",
-    "published": "Fri, 06 Mar 2026 17:42:03 GMT",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3dc/live/e16d5050-1648-11f1-babb-c32880637b3d.jpg",
-    "importance": 30,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.661737"
+    "updated_at": "2026-03-09T14:09:04.306872"
   },
   {
     "title": "Emirates resumes some Dubai flights – what's the latest on travel to UK?",
@@ -800,7 +822,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44a2/live/d3c3f2d0-1948-11f1-8e5e-abb58cd0aded.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.661757"
+    "updated_at": "2026-03-09T14:09:04.306948"
   },
   {
     "title": "One in 7 shops in UK has turned cashless in the past year, survey finds",
@@ -811,7 +833,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bf4/live/c11b1b60-189c-11f1-a247-59d304ef583d.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.661778"
+    "updated_at": "2026-03-09T14:09:04.306964"
   },
   {
     "title": "Heating oil costs 'worrying' for rural residents",
@@ -822,29 +844,51 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a555/live/9a063ff0-18c9-11f1-badc-a3d794a6a8a8.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.661828"
+    "updated_at": "2026-03-09T14:09:04.307013"
   },
   {
-    "title": "TfL hack in 2024 affected around 10 million people, BBC can reveal",
-    "link": "https://www.bbc.com/news/articles/cz0ggkr2g77o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "category": "Markets & Finance",
-    "published": "Fri, 06 Mar 2026 00:05:12 GMT",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2be/live/02f3e1c0-1933-11f1-801d-ed3cff6bf876.jpg",
-    "importance": 30,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.661861"
-  },
-  {
-    "title": "Seoul Flags US Hint of No Tariff Hike If Investment Bill Passes",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-09/seoul-flags-us-hint-of-no-tariff-hike-if-investment-bill-passes",
+    "title": "EU’s Dombrovskis Says Release of Oil Reserves Is an Option",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/eu-s-dombrovskis-says-release-of-oil-reserves-is-an-option",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Mon, 09 Mar 2026 03:14:10 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iArJkXWwBMkk/v0/1200x-1.jpg",
+    "published": "Mon, 09 Mar 2026 13:59:46 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWDv13sN.tko/v1/1200x-1.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.761483"
+    "updated_at": "2026-03-09T14:09:06.446341"
+  },
+  {
+    "title": "SNB Must Be in Market ‘Right Now’ to Weaken Franc, Junius Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/snb-must-be-in-market-right-now-to-weaken-franc-junius-says",
+    "source": "Bloomberg Economics",
+    "category": "Global Economy",
+    "published": "Mon, 09 Mar 2026 12:21:37 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwNbw0DozwX4/v3/1200x-1.png",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-03-09T14:09:06.446479"
+  },
+  {
+    "title": "Chile Risk Premium Jumps From Seven-Year-Low as ‘Reality Bites’",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/chile-risk-premium-jumps-from-seven-year-low-as-reality-bites",
+    "source": "Bloomberg Economics",
+    "category": "Global Economy",
+    "published": "Mon, 09 Mar 2026 11:00:00 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivZ0Kv.NUJ9c/v1/1200x-1.jpg",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-03-09T14:09:06.446568"
+  },
+  {
+    "title": "India Farmers Stage Fresh Protest in Delhi Against US Trade Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/india-farmers-stage-fresh-protest-in-delhi-against-us-trade-deal",
+    "source": "Bloomberg Economics",
+    "category": "Global Economy",
+    "published": "Mon, 09 Mar 2026 10:54:50 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibZJfGkiZIbg/v0/1200x-1.jpg",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-03-09T14:09:06.446603"
   },
   {
     "title": "Japan’s Stagflation Risk Mounts With $100 Oil and Sagging Yen",
@@ -855,40 +899,18 @@
     "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8kMYGrFZt2o/v0/1200x-1.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.761517"
+    "updated_at": "2026-03-09T14:09:06.446640"
   },
   {
-    "title": "UK Jobs Market Became Less Gloomy Last Month, Recruiters Say",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-09/uk-jobs-market-became-less-gloomy-last-month-recruiters-say",
+    "title": "German Industry Suffers Setback With Iran Impact Still to Come",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/german-industrial-production-unexpectedly-drops-orders-plummet",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Mon, 09 Mar 2026 00:01:00 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGmqsL27NhY0/v0/1200x-1.jpg",
+    "published": "Mon, 09 Mar 2026 07:16:47 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOAt4NYBg7aM/v1/1200x-1.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.761555"
-  },
-  {
-    "title": "Oil Market Chaos to Deepen as More Gulf Giants Cut Output",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-08/oil-market-chaos-set-to-deepen-as-more-gulf-giants-cut-output",
-    "source": "Bloomberg Economics",
-    "category": "Global Economy",
-    "published": "Sun, 08 Mar 2026 11:43:12 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imihszqOvzJY/v1/1200x-1.jpg",
-    "importance": 30,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.761609"
-  },
-  {
-    "title": "Trump’s Africa Minerals Push Faces Long Road to Match Dominant China",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-03-07/trump-s-africa-minerals-push-faces-long-road-to-match-dominant-china",
-    "source": "Bloomberg Economics",
-    "category": "Global Economy",
-    "published": "Sat, 07 Mar 2026 11:45:01 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJ1EHapE7sDE/v10/1200x-1.jpg",
-    "importance": 30,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.761663"
+    "updated_at": "2026-03-09T14:09:06.446657"
   },
   {
     "title": "Trump Aides Remain Bullish Despite Rising Unemployment and Gas Prices",
@@ -899,7 +921,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/03/06/multimedia/06biz-jobs-report-trump-econ-hassett-ljch/06biz-jobs-report-trump-econ-hassett-ljch-mediumSquareAt3X.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.867197"
+    "updated_at": "2026-03-09T14:09:06.539463"
   },
   {
     "title": "Democrats Blame Trump For Jobs Report as Republicans Play Defense",
@@ -910,7 +932,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/03/06/multimedia/06biz-jobs-report-politics-Schumer-bvtk/06biz-jobs-report-politics-Schumer-bvtk-mediumSquareAt3X.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.867217"
+    "updated_at": "2026-03-09T14:09:06.539483"
   },
   {
     "title": "Health Care Has Become the Lifeblood of the Labor Market",
@@ -921,7 +943,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/24/multimedia/00biz-healthcare-jobs-wcvh/00biz-healthcare-jobs-wcvh-mediumSquareAt3X.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.867326"
+    "updated_at": "2026-03-09T14:09:06.539595"
   },
   {
     "title": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored",
@@ -932,7 +954,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/21/business/00taiwan-chips/00taiwan-chips-mediumSquareAt3X-v2.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.867501"
+    "updated_at": "2026-03-09T14:09:06.539772"
   },
   {
     "title": "‘Mother Russia’ Review: A New Play That’s as Funny as It’s Smart",
@@ -943,7 +965,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/25/multimedia/22CUL-MOTHER-RUSSIA-1-bzqg/22CUL-MOTHER-RUSSIA-1-bzqg-mediumSquareAt3X-v2.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.867523"
+    "updated_at": "2026-03-09T14:09:06.539794"
   },
   {
     "title": "Top Fed Official Sees Little Effect on Rate Outlook From Supreme Court’s Tariff Ruling",
@@ -954,7 +976,29 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/23/multimedia/23DC-Fed-jvpq/23DC-Fed-jvpq-mediumSquareAt3X.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:45.867566"
+    "updated_at": "2026-03-09T14:09:06.539837"
+  },
+  {
+    "title": "Fear and Hope for Iranians Trapped Between Bombs and Defiant Rulers",
+    "link": "https://www.nytimes.com/2026/03/09/world/europe/iranians-destruction-bombs-despair.html",
+    "source": "NYT > World News",
+    "category": "Geopolitics",
+    "published": "Mon, 09 Mar 2026 12:01:14 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/09/multimedia/09int-iran-voices-mkzf/09int-iran-voices-mkzf-mediumSquareAt3X.jpg",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-03-09T14:09:06.664535"
+  },
+  {
+    "title": "Ukraine Helps U.S. Mideast Bases With Stopping Drones",
+    "link": "https://www.nytimes.com/2026/03/09/world/middleeast/ukraine-shahed-drone-middle-east.html",
+    "source": "NYT > World News",
+    "category": "Geopolitics",
+    "published": "Mon, 09 Mar 2026 13:29:53 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/09/multimedia/09int-ukraine-iran-gbtf/09int-ukraine-iran-gbtf-mediumSquareAt3X.jpg",
+    "importance": 30,
+    "importanceLabel": "Medium",
+    "updated_at": "2026-03-09T14:09:06.664597"
   },
   {
     "title": "Iran’s Revolutionary Guards: The Spine of a Militarized State",
@@ -965,7 +1009,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/03/08/multimedia/08int-iran-guards-wfzb/08int-iran-guards-wfzb-mediumSquareAt3X.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.106925"
+    "updated_at": "2026-03-09T14:09:06.664681"
   },
   {
     "title": "A Loose Band of Emerging Powers Is Divided Over Iran",
@@ -976,7 +1020,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/03/07/multimedia/07int-iran-brics-1-wchl/07int-iran-brics-1-wchl-mediumSquareAt3X.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.106974"
+    "updated_at": "2026-03-09T14:09:06.664718"
   },
   {
     "title": "Ahead of Colombia’s Elections, Violence on the Campaign Trail Rattles Politicians",
@@ -987,7 +1031,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/03/08/multimedia/08colombia-violence-elections-promo/08colombia-violence-elections-01-jlbk-mediumSquareAt3X.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.107019"
+    "updated_at": "2026-03-09T14:09:06.664742"
   },
   {
     "title": "In Russia’s Former Capital, Restoring the Past to Survive the Present",
@@ -998,40 +1042,40 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/27/multimedia/xxint-russia-restoration-activism-promo-sub-bzwl/xxint-russia-restoration-activism-promo-sub-bzwl-mediumSquareAt3X.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.107045"
+    "updated_at": "2026-03-09T14:09:06.664764"
   },
   {
-    "title": "How Good Intentions Helped Pave Trump’s Road to Iran",
-    "link": "https://www.nytimes.com/2026/03/07/world/middleeast/trump-iran-human-rights-international-law.html",
+    "title": "Dozens Wounded in Bahrain as Arab States Condemn Iranian Strikes",
+    "link": "https://www.nytimes.com/2026/03/09/world/middleeast/bahrain-iran-strikes.html",
     "source": "NYT > World News",
     "category": "Geopolitics",
-    "published": "Sat, 07 Mar 2026 10:01:51 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/03/07/multimedia/07int-ideas-humanitarian01-alt-cmfj/07int-ideas-humanitarian01-alt-cmfj-mediumSquareAt3X.jpg",
+    "published": "Mon, 09 Mar 2026 13:44:58 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-bahrain-gulf-thcz/09israel-iran-bahrain-gulf-thcz-mediumSquareAt3X.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.107177"
+    "updated_at": "2026-03-09T14:09:06.664808"
   },
   {
-    "title": "U.S. Tomahawk Hit Naval Base Beside Iranian School, Video Shows",
-    "link": "https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html",
+    "title": "Israeli Forces Raid New Areas in Southern Lebanon",
+    "link": "https://www.nytimes.com/2026/03/09/world/middleeast/israeli-forces-raid-southern-lebanon.html",
     "source": "NYT > World News",
     "category": "Geopolitics",
-    "published": "Mon, 09 Mar 2026 01:44:31 +0000",
-    "thumbnail": null,
+    "published": "Mon, 09 Mar 2026 13:08:08 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-Lebanon-wlpk/09israel-iran-Lebanon-wlpk-mediumSquareAt3X.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.107334"
+    "updated_at": "2026-03-09T14:09:06.664846"
   },
   {
-    "title": "Here’s What Happened in the Conflict on Sunday",
-    "link": "https://www.nytimes.com/2026/03/08/world/middleeast/iran-war-mojtaba-khamenei.html",
+    "title": "Australia Urged to Protect Members of the Iranian Women’s Soccer Team",
+    "link": "https://www.nytimes.com/2026/03/09/world/middleeast/iran-women-soccer-football-team-australia.html",
     "source": "NYT > World News",
     "category": "Geopolitics",
-    "published": "Sun, 08 Mar 2026 23:13:40 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/03/08/multimedia/08iran-live-four-fronts-pwqc/08iran-live-four-fronts-pwqc-mediumSquareAt3X.jpg",
+    "published": "Mon, 09 Mar 2026 13:43:10 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-soccer-team-jbkw/09israel-iran-soccer-team-jbkw-mediumSquareAt3X.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.107381"
+    "updated_at": "2026-03-09T14:09:06.664868"
   },
   {
     "title": "China Really Thinks It Is Just Defending Itself",
@@ -1042,7 +1086,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2024/12/thediplomat_2024-12-06-161013.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.254320"
+    "updated_at": "2026-03-09T14:09:06.819507"
   },
   {
     "title": "South Korea and the Philippines Expand Ties in Nuclear Energy and Critical Minerals",
@@ -1053,7 +1097,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-07-024026.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.254342"
+    "updated_at": "2026-03-09T14:09:06.819527"
   },
   {
     "title": "Coupang’s Data Breach and the Urgency of Data Governance Reform in South Korea",
@@ -1064,7 +1108,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-07-000339.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.254411"
+    "updated_at": "2026-03-09T14:09:06.819595"
   },
   {
     "title": "India and Canada Reset: Pragmatism Takes Precedence Over Recriminations",
@@ -1075,7 +1119,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-06-222554.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.254479"
+    "updated_at": "2026-03-09T14:09:06.819661"
   },
   {
     "title": "Counterterrorism Expert Ajmal Sohail on Pakistan’s ISI Targeting the Chinese in Afghanistan",
@@ -1086,7 +1130,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-06-222350.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.254525"
+    "updated_at": "2026-03-09T14:09:06.819703"
   },
   {
     "title": "Thai Election Commission Certifies Remaining Parliamentary Seats",
@@ -1097,18 +1141,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-06-085324.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.254605"
-  },
-  {
-    "title": "Assessing North Korea’s New Economic Five-Year Plan",
-    "link": "https://thediplomat.com/2026/03/assessing-north-koreas-new-economic-five-year-plan/",
-    "source": "The Diplomat",
-    "category": "Geopolitics",
-    "published": "Thu, 05 Mar 2026 23:42:00 +0900",
-    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-25-224120.png",
-    "importance": 30,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.254687"
+    "updated_at": "2026-03-09T14:09:06.819780"
   },
   {
     "title": "Ali Khamenei’s son Mojtaba chosen as Iran’s new supreme leader",
@@ -1119,7 +1152,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/US-2-2.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.565712"
+    "updated_at": "2026-03-09T14:09:07.196637"
   },
   {
     "title": "Video: Kuwait govt building engulfs in fire after Iran launches new wave of strikes",
@@ -1130,7 +1163,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/kuwait-3.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.565795"
+    "updated_at": "2026-03-09T14:09:07.196715"
   },
   {
     "title": "Consensus reached on Ayatollah Ali Khamenei’s successor, says Iran’s Assembly of Experts",
@@ -1141,7 +1174,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/iraq-iran-us.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.565819"
+    "updated_at": "2026-03-09T14:09:07.196738"
   },
   {
     "title": "One killed, two injured in Pakistan petrol pump shooting",
@@ -1152,7 +1185,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/pakistan-attack.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.565836"
+    "updated_at": "2026-03-09T14:09:07.196754"
   },
   {
     "title": "‘In my opinion, that was done by Iran’: Trump rejects reports linking US to Iran school strike",
@@ -1163,18 +1196,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/Graves-being-prepared-for-those-killed-in-a-US-Israeli-strike-on-a-girls-school-in-Minab-Iran.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.565954"
-  },
-  {
-    "title": "Pakistani driver killed after missile debris falls on vehicle; here’s what we know",
-    "link": "https://indianexpress.com/article/world/dubai-pakistani-driver-killed-missile-debris-falls-vehicle-10570768/",
-    "source": "World | The Indian Express",
-    "category": "Geopolitics",
-    "published": "Sun, 08 Mar 2026 04:27:21 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/03/Photo-21.jpg",
-    "importance": 30,
-    "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:46.566029"
+    "updated_at": "2026-03-09T14:09:07.196864"
   },
   {
     "title": "Iran vs Israel: Sworn enemies once operated secret oil joint venture",
@@ -1185,7 +1207,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/petroll_1a7805.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:47.021524"
+    "updated_at": "2026-03-09T14:09:07.774411"
   },
   {
     "title": "‘Essential partner’: US gives India one-month waiver to buy Russia oil",
@@ -1196,7 +1218,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/Venezuela_Oil_76943-fda87.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:47.021648"
+    "updated_at": "2026-03-09T14:09:07.774530"
   },
   {
     "title": "India in talks with US on Trump’s proposal to provide risk insurance to energy cargoes transiting Strait of Hormuz",
@@ -1207,7 +1229,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/Strait-of-Hormuz_20260305153807.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:47.021771"
+    "updated_at": "2026-03-09T14:09:07.774654"
   },
   {
     "title": "Markets roil as conflict spreads: Rupee crosses 92, Sensex sinks below 80,000",
@@ -1218,51 +1240,62 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/rupee-pixabay-1200.jpg",
     "importance": 30,
     "importanceLabel": "Medium",
-    "updated_at": "2026-03-09T03:37:47.021848"
+    "updated_at": "2026-03-09T14:09:07.774730"
   },
   {
-    "title": "Japan’s Real Wages Advance for First Time in 13 Months",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-08/japan-s-real-wages-advance-for-first-time-in-13-months",
+    "title": "Almost 1-in-10 Bank of England Staff to Leave Under Savings Push",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/almost-1-in-10-bank-of-england-staff-to-leave-under-savings-push",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Sun, 08 Mar 2026 23:32:30 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLimWfcdOP.c/v2/1200x-1.png",
+    "published": "Mon, 09 Mar 2026 13:36:06 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQTQWIVr2wbY/v1/1200x-1.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:45.761538"
+    "updated_at": "2026-03-09T14:09:06.446367"
   },
   {
-    "title": "Xi’s Central Asia Outreach Pays Off With a Fundraising Blitz",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-08/xi-s-central-asia-outreach-pays-off-with-a-fundraising-blitz",
+    "title": "Campbell’s Soup Heirs, Colleges Fight Over $65 Million Endowment",
+    "link": "https://www.bloomberg.com/news/features/2026-03-09/campbell-s-soup-heirs-fight-for-slice-of-uarts-endowment-after-school-closes",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Sun, 08 Mar 2026 22:00:00 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inhVewmdZF20/v2/1200x-1.jpg",
+    "published": "Mon, 09 Mar 2026 13:00:02 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.xOR24J8Q_8/v1/1200x-1.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:45.761576"
+    "updated_at": "2026-03-09T14:09:06.446408"
   },
   {
-    "title": "Swiss Put Cash Into Constitution to Guard Against Its Demise",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-08/swiss-put-cash-into-constitution-to-guard-against-its-demise",
+    "title": "Asia Races to Contain Energy Crunch as Oil Drives Past $100",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/asia-races-to-contain-energy-crunch-as-war-drives-oil-past-100",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Sun, 08 Mar 2026 11:12:08 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igyFDapq.ehU/v1/1200x-1.jpg",
+    "published": "Mon, 09 Mar 2026 09:44:38 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iolDK6B.FMOg/v1/1200x-1.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:45.761593"
+    "updated_at": "2026-03-09T14:09:06.446548"
   },
   {
-    "title": "ECB Rate-Hike Bets Test Officials’ Attempts to Keep Their Cool",
-    "link": "https://www.bloomberg.com/news/articles/2026-03-07/ecb-rate-hike-bets-test-officials-attempts-to-keep-their-cool",
+    "title": "Hungary Posts $6.4 Billion Monthly Deficit After Orban Spending",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/hungary-posts-6-4-billion-monthly-deficit-after-orban-spending",
     "source": "Bloomberg Economics",
     "category": "Global Economy",
-    "published": "Sat, 07 Mar 2026 08:00:00 GMT",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_9KnNl1VQ7s/v1/1200x-1.jpg",
+    "published": "Mon, 09 Mar 2026 10:44:30 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCx0ubS5GW2g/v1/1200x-1.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:45.761734"
+    "updated_at": "2026-03-09T14:09:06.446620"
+  },
+  {
+    "title": "Meloni Readies Law to Tackle Energy Price Spikes in Italy",
+    "link": "https://www.bloomberg.com/news/articles/2026-03-09/meloni-readies-law-to-tackle-energy-price-spikes-in-italy",
+    "source": "Bloomberg Economics",
+    "category": "Global Economy",
+    "published": "Mon, 09 Mar 2026 08:22:20 GMT",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXhMT2lLk1eY/v1/1200x-1.jpg",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "updated_at": "2026-03-09T14:09:06.446690"
   },
   {
     "title": "What to know about the report.",
@@ -1273,7 +1306,7 @@
     "thumbnail": null,
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:45.867169"
+    "updated_at": "2026-03-09T14:09:06.539436"
   },
   {
     "title": "Young and Looking for Work? We Want to Hear from You.",
@@ -1284,7 +1317,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/03/06/multimedia/06biz-jobs-report-callout-mhft/06biz-jobs-report-callout-mhft-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:45.867262"
+    "updated_at": "2026-03-09T14:09:06.539528"
   },
   {
     "title": "What to know about the jobs report.",
@@ -1295,7 +1328,7 @@
     "thumbnail": null,
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:45.867288"
+    "updated_at": "2026-03-09T14:09:06.539555"
   },
   {
     "title": "Big Revisions Are a Reason to Question the Jobs Numbers, Not to Dismiss Them",
@@ -1306,7 +1339,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/03/06/multimedia/06biz-econ-data-1-bjqv/06biz-econ-data-1-bjqv-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:45.867308"
+    "updated_at": "2026-03-09T14:09:06.539575"
   },
   {
     "title": "Top Aide to Labor Secretary Is Placed on Leave",
@@ -1317,7 +1350,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/01/12/multimedia/04BIZ-LABOR-STAFFER/12biz-labor-aides-wpkv-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:45.867362"
+    "updated_at": "2026-03-09T14:09:06.539632"
   },
   {
     "title": "Bessent Says Global Tariffs Will Rise to 15% This Week",
@@ -1328,7 +1361,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/20/multimedia/04dc-tariffs/20scotus-tariffs-ru-pwbg-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:45.867379"
+    "updated_at": "2026-03-09T14:09:06.539650"
   },
   {
     "title": "Tariffs Confound Small Businesses Again",
@@ -1339,7 +1372,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/03/02/multimedia/00biz-tariffs-companies-jktc/00biz-tariffs-companies-jktc-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:45.867397"
+    "updated_at": "2026-03-09T14:09:06.539667"
   },
   {
     "title": "The Unexpected Winners From Trump’s New Global Tariff",
@@ -1350,7 +1383,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/03/02/multimedia/02dc-trade-promo-zlpw/02dc-trade-promo-zlpw-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:45.867418"
+    "updated_at": "2026-03-09T14:09:06.539688"
   },
   {
     "title": "Trump’s Tariffs Are Adding Steel Mill Jobs, and Crushing American Factories",
@@ -1361,7 +1394,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/26/multimedia/00Biz-Steel-Tariffs-01-kzfm/00Biz-Steel-Tariffs-01-kzfm-mediumSquareAt3X-v2.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:45.867441"
+    "updated_at": "2026-03-09T14:09:06.539711"
   },
   {
     "title": "Trump Officials Seek to ‘Reimagine’ Unemployment Benefits, Targeting Fraud",
@@ -1372,7 +1405,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/24/multimedia/24dc-trump-jobs-01-clhb/24dc-trump-jobs-01-clhb-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:45.867464"
+    "updated_at": "2026-03-09T14:09:06.539734"
   },
   {
     "title": "Is It Safe to Travel to Mexico Right Now, Given the Cartel Violence?",
@@ -1383,7 +1416,7 @@
     "thumbnail": "https://static01.nyt.com/images/2026/02/24/multimedia/24trav-mexico-zcvf/24trav-mexico-zcvf-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:45.867482"
+    "updated_at": "2026-03-09T14:09:06.539753"
   },
   {
     "title": "Trump Administration Scrambles to Pick Up the Pieces of Broken Tariffs",
@@ -1394,7 +1427,62 @@
     "thumbnail": "https://static01.nyt.com/images/2025/12/30/multimedia/00dc-tariff-court-hfo-mthw/00dc-tariff-court-hfo-mthw-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:45.867542"
+    "updated_at": "2026-03-09T14:09:06.539814"
+  },
+  {
+    "title": "On the Road With Zelensky, Weathered, Weary and Fighting On",
+    "link": "https://www.nytimes.com/2026/03/09/world/europe/ukraine-zelensky-frontline-tour.html",
+    "source": "NYT > World News",
+    "category": "Geopolitics",
+    "published": "Mon, 09 Mar 2026 04:01:26 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/09/multimedia/09-int-ukraine-zelensky-wjcl/09-int-ukraine-zelensky-wjcl-mediumSquareAt3X.jpg",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "updated_at": "2026-03-09T14:09:06.664555"
+  },
+  {
+    "title": "Trial of Ekrem Imamoglu, Erdogan’s Rival, Begins in Turkey",
+    "link": "https://www.nytimes.com/2026/03/09/world/middleeast/turkey-trial-imamoglu-erdogan.html",
+    "source": "NYT > World News",
+    "category": "Geopolitics",
+    "published": "Mon, 09 Mar 2026 13:09:45 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/09/multimedia/09int-turkey-mayor-trial-02-wjgz/09int-turkey-mayor-trial-02-wjgz-mediumSquareAt3X.jpg",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "updated_at": "2026-03-09T14:09:06.664578"
+  },
+  {
+    "title": "Is the Trial of Erdogan’s Top Rival More About Corruption or Politics?",
+    "link": "https://www.nytimes.com/2026/03/09/world/middleeast/turkey-erdogan-mayor-ekrem-imamoglu.html",
+    "source": "NYT > World News",
+    "category": "Geopolitics",
+    "published": "Mon, 09 Mar 2026 10:22:51 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/08/multimedia/08turkey-mayor-trial-001-kplh/08turkey-mayor-trial-001-kplh-mediumSquareAt3X.jpg",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "updated_at": "2026-03-09T14:09:06.664620"
+  },
+  {
+    "title": "The Suburb That Won’t Sleep",
+    "link": "https://www.nytimes.com/2026/03/09/world/canada/mississauga-toronto-ridgeway-immigration.html",
+    "source": "NYT > World News",
+    "category": "Geopolitics",
+    "published": "Mon, 09 Mar 2026 04:01:11 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/08/multimedia/08int-canada-ontario-dispatch-01-cjpm/08int-canada-ontario-dispatch-01-cjpm-mediumSquareAt3X.jpg",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "updated_at": "2026-03-09T14:09:06.664640"
+  },
+  {
+    "title": "Explosion Damages Synagogue in Belgium",
+    "link": "https://www.nytimes.com/2026/03/09/world/europe/explosion-synagogue-belgium.html",
+    "source": "NYT > World News",
+    "category": "Geopolitics",
+    "published": "Mon, 09 Mar 2026 13:57:17 +0000",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/09/multimedia/09Belgium-synagogue-hgjk/09Belgium-synagogue-hgjk-mediumSquareAt3X.jpg",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "updated_at": "2026-03-09T14:09:06.664657"
   },
   {
     "title": "Gen Z-Backed Rapper Is on Course to Lead Nepal With Landslide Win",
@@ -1405,73 +1493,29 @@
     "thumbnail": "https://static01.nyt.com/images/2026/03/07/multimedia/07-int-nepal-election-zfqw-PROMO/07-int-nepal-election-zfqw-mediumSquareAt3X.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.106953"
+    "updated_at": "2026-03-09T14:09:06.664699"
   },
   {
-    "title": "Trump Assembles a New Coalition to ‘Eradicate’ Cartels",
-    "link": "https://www.nytimes.com/2026/03/07/world/americas/trump-latin-american-coalition-cartels.html",
+    "title": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/09/world/iran-war-trump-israel-lebanon/heres-the-latest",
     "source": "NYT > World News",
     "category": "Geopolitics",
-    "published": "Sun, 08 Mar 2026 04:16:17 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/03/07/multimedia/07int-shield-americas-summit-01-bplg/07int-shield-americas-summit-01-bplg-mediumSquareAt3X.jpg",
+    "published": "Mon, 09 Mar 2026 14:01:57 +0000",
+    "thumbnail": null,
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.107093"
+    "updated_at": "2026-03-09T14:09:06.664899"
   },
   {
-    "title": "Surfers in Munich (Yes, Munich) Just Want Their Wave Back",
-    "link": "https://www.nytimes.com/2026/03/07/world/europe/munich-surfing-wave.html",
-    "source": "NYT > World News",
+    "title": "All in the Family: Citizenship, Crime, and Plausible Deniability in Cambodia",
+    "link": "https://thediplomat.com/2026/03/all-in-the-family-citizenship-crime-and-plausible-deniability-in-cambodia/",
+    "source": "The Diplomat",
     "category": "Geopolitics",
-    "published": "Sat, 07 Mar 2026 05:01:09 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/03/07/multimedia/07int-germany-wave-01-phzc-promo/07int-germany-wave-01-phzc-mediumSquareAt3X.jpg",
+    "published": "Mon, 09 Mar 2026 10:42:00 +0900",
+    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2024/02/thediplomat_2024-02-13-050032.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.107220"
-  },
-  {
-    "title": "Lebanon at ‘Tipping Point’ as It Seeks to Disarm Hezbollah",
-    "link": "https://www.nytimes.com/2026/03/06/world/middleeast/lebanon-hezbollah-iran-disarm.html",
-    "source": "NYT > World News",
-    "category": "Geopolitics",
-    "published": "Fri, 06 Mar 2026 08:59:40 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/03/06/multimedia/06int-lebanon-internal-6-jtqm/06int-lebanon-internal-6-jtqm-mediumSquareAt3X.jpg",
-    "importance": 25,
-    "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.107243"
-  },
-  {
-    "title": "He Had a Purple Heart, PTSD and a Rap Sheet. He Had to Leave the U.S.",
-    "link": "https://www.nytimes.com/2026/03/06/world/asia/south-korea-deportee-immigration.html",
-    "source": "NYT > World News",
-    "category": "Geopolitics",
-    "published": "Fri, 06 Mar 2026 05:00:24 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/25/multimedia/00-int-skorea-deportee-01-bvhm/00-int-skorea-deportee-01-bvhm-mediumSquareAt3X.jpg",
-    "importance": 25,
-    "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.107262"
-  },
-  {
-    "title": "Large Fire in Glasgow Forces Closure of Major Train Station",
-    "link": "https://www.nytimes.com/2026/03/08/world/europe/glasgow-central-train-station-fire.html",
-    "source": "NYT > World News",
-    "category": "Geopolitics",
-    "published": "Mon, 09 Mar 2026 03:28:55 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/03/08/multimedia/08xp-fire-kwlz/08xp-fire-kwlz-mediumSquareAt3X.jpg",
-    "importance": 25,
-    "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.107282"
-  },
-  {
-    "title": "Democrats Seize on Oil Topping $100 a Barrel, as Trump Downplays Jump",
-    "link": "https://www.nytimes.com/2026/03/08/world/middleeast/democrats-republicans-trump-oil-prices-midterms.html",
-    "source": "NYT > World News",
-    "category": "Geopolitics",
-    "published": "Mon, 09 Mar 2026 02:58:10 +0000",
-    "thumbnail": "https://static01.nyt.com/images/2026/03/08/multimedia/08iran-live-oil-pol-reaction/08biz-iran-oil-price-qctl-mediumSquareAt3X.jpg",
-    "importance": 25,
-    "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.107302"
+    "updated_at": "2026-03-09T14:09:06.819434"
   },
   {
     "title": "What Jimmy Lai’s 20-Year Sentence Means for Hong Kong’s International Status",
@@ -1482,7 +1526,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-09-075913.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.254273"
+    "updated_at": "2026-03-09T14:09:06.819468"
   },
   {
     "title": "As Tehran Burns, South Asia Trembles",
@@ -1493,7 +1537,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-06-205409.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.254496"
+    "updated_at": "2026-03-09T14:09:06.819678"
   },
   {
     "title": "‘Kyi Pyar-Gate’ Rocks Myanmar’s National Unity Government",
@@ -1504,7 +1548,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2024/01/thediplomat_2024-01-31-053013.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.254547"
+    "updated_at": "2026-03-09T14:09:06.819725"
   },
   {
     "title": "Beijing’s Balkan Classrooms",
@@ -1515,7 +1559,7 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2023/11/thediplomat_2023-11-21-192424.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.254624"
+    "updated_at": "2026-03-09T14:09:06.819799"
   },
   {
     "title": "Umar Khalid: 2,000 Days in Prison Without Trial",
@@ -1526,7 +1570,51 @@
     "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/01/thediplomat_2026-01-06-030713.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.254643"
+    "updated_at": "2026-03-09T14:09:06.819816"
+  },
+  {
+    "title": "How countries have responded to sharp rise in crude oil price",
+    "link": "https://indianexpress.com/article/world/how-countries-responded-to-crude-oil-price-rise-10572769/",
+    "source": "World | The Indian Express",
+    "category": "Geopolitics",
+    "published": "Mon, 09 Mar 2026 08:41:16 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/03/Philippines_oil.jpg",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "updated_at": "2026-03-09T14:09:07.196468"
+  },
+  {
+    "title": "Gracie Mansion Protests: Explosive device thrown during protest outside NYC mayor’s residence; Mamdani condemns violence",
+    "link": "https://indianexpress.com/article/world/us-news/nyc-mayor-zohran-mamdani-gracie-mansion-explosive-device-arrests-10572388/",
+    "source": "World | The Indian Express",
+    "category": "Geopolitics",
+    "published": "Mon, 09 Mar 2026 07:13:40 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/03/US-1-15.jpg",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "updated_at": "2026-03-09T14:09:07.196556"
+  },
+  {
+    "title": "US death toll rises: 7th service member succumbs to injuries as ‘Operation Epic Fury’ hits grim new milestone",
+    "link": "https://indianexpress.com/article/world/us-news/us-death-toll-rises-7th-service-member-succumbs-to-injuries-as-operation-epic-fury-hits-grim-new-milestone-10572264/",
+    "source": "World | The Indian Express",
+    "category": "Geopolitics",
+    "published": "Mon, 09 Mar 2026 06:45:33 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/03/US-4-3.jpg",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "updated_at": "2026-03-09T14:09:07.196580"
+  },
+  {
+    "title": "Epstein Files: Newly released photo shows man resembling ex-prince Andrew with young woman on his lap",
+    "link": "https://indianexpress.com/article/world/prince-andrew-epstein-files-new-photo-young-woman-10572198/",
+    "source": "World | The Indian Express",
+    "category": "Geopolitics",
+    "published": "Mon, 09 Mar 2026 03:41:02 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/03/US-3-11.jpg",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "updated_at": "2026-03-09T14:09:07.196599"
   },
   {
     "title": "Gen Z protest deaths in Nepal: Inquiry panel for action against those behind crackdown",
@@ -1537,7 +1625,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/nepal-4cols.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.565733"
+    "updated_at": "2026-03-09T14:09:07.196656"
   },
   {
     "title": "Watch | Target, set, destroyed: Saudi Arabia releases video of drone interceptions",
@@ -1548,29 +1636,18 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/drone.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.565753"
+    "updated_at": "2026-03-09T14:09:07.196676"
   },
   {
-    "title": "Loud blast heard near US embassy in Oslo, Norway, police say",
-    "link": "https://indianexpress.com/article/world/us-news/us-embassy-explosion-norway-police-investigation-no-casualties-10570826/",
+    "title": "Dubai, Abu Dhabi News Live Updates: UAE air defences intercept 12 ballistic missiles, 17 UAVs",
+    "link": "https://indianexpress.com/article/world/dubai-news-live-updates-iran-war-uae-abu-dhabi-qatar-saudi-missiles-drones-10570817/",
     "source": "World | The Indian Express",
     "category": "Geopolitics",
-    "published": "Sun, 08 Mar 2026 04:30:01 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/03/US-1-12.jpg",
+    "published": "Sun, 08 Mar 2026 05:06:37 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/03/US-5-2.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.566004"
-  },
-  {
-    "title": "Balendra defeats ex-PM Oli, RSP set to form Nepal govt",
-    "link": "https://indianexpress.com/article/world/balendra-defeats-ex-pm-oli-rsp-set-to-form-nepal-govt-10570588/",
-    "source": "World | The Indian Express",
-    "category": "Geopolitics",
-    "published": "Sat, 07 Mar 2026 23:08:40 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/03/balen-4cols.jpg",
-    "importance": 25,
-    "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.566116"
+    "updated_at": "2026-03-09T14:09:07.196882"
   },
   {
     "title": "Deepfake attack: 'Many people could have been cheated'",
@@ -1581,7 +1658,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d627/live/d8cc3a80-122c-11f1-87fc-7d3b323315e3.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.741097"
+    "updated_at": "2026-03-09T14:09:07.381452"
   },
   {
     "title": "BlackRock fund limits withdrawals as redemptions rattle private credit",
@@ -1592,18 +1669,18 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/blackrock.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:47.021550"
+    "updated_at": "2026-03-09T14:09:07.774430"
   },
   {
     "title": "LPG price hiked to balance consumer interest, oil cos’ finances; no plan to raise petrol, diesel prices: Govt sources",
-    "link": "https://indianexpress.com/article/business/lpg-price-hike-consumer-interest-oil-companies-raise-petrol-diesel-prices-10570219/",
+    "link": "https://indianexpress.com/article/business/economy/lpg-price-hike-consumer-interest-oil-companies-raise-petrol-diesel-prices-10570219/",
     "source": "Business | The Indian Express",
     "category": "Business",
     "published": "Sat, 07 Mar 2026 14:42:04 +0000",
     "thumbnail": "https://images.indianexpress.com/2024/03/LPG_4fe4af.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:47.021602"
+    "updated_at": "2026-03-09T14:09:07.774480"
   },
   {
     "title": "West Asia conflict: Govt orders refiners to maximise LPG production to ensure continued cooking gas availability",
@@ -1614,7 +1691,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/refinery-Credits-Unsplash.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:47.021723"
+    "updated_at": "2026-03-09T14:09:07.774605"
   },
   {
     "title": "Crude tanker rates go through the roof amid West Asia conflict",
@@ -1625,18 +1702,7 @@
     "thumbnail": "https://images.indianexpress.com/2023/08/Crude-oil-tanker-Nevskiy-Prospect-owned-by-Russias-leading-tanker-group-Sovcomflot-transits-the-Bosphorus-in-Istanbul-Turkey.-Reuters-File.jpg",
     "importance": 25,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:47.021865"
-  },
-  {
-    "title": "Amid West Asian conflict, 4 lakh tonne basmati stuck at ports, in transit: Exporters",
-    "link": "https://indianexpress.com/article/business/commodities/amid-west-asian-conflict-4-lakh-tn-basmati-stuck-at-ports-in-transit-exporters-10563816/",
-    "source": "Business | The Indian Express",
-    "category": "Business",
-    "published": "Tue, 03 Mar 2026 19:30:03 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/03/iran-rubble-fire.jpg",
-    "importance": 25,
-    "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:47.021909"
+    "updated_at": "2026-03-09T14:09:07.774747"
   },
   {
     "title": "TikTok won't protect DMs with controversial privacy tech, saying it would put users at risk",
@@ -1647,7 +1713,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/642d/live/9816c7c0-1723-11f1-9120-a910fc22c6ac.jpg",
     "importance": 20,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.740983"
+    "updated_at": "2026-03-09T14:09:07.381352"
   },
   {
     "title": "OpenAI changes deal with US military after backlash",
@@ -1658,7 +1724,18 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5756/live/aae10e40-17ed-11f1-b048-c9424b2cf5fd.jpg",
     "importance": 20,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.741045"
+    "updated_at": "2026-03-09T14:09:07.381401"
+  },
+  {
+    "title": "Government spent Rs 89 crore to advertise September 2025 GST rate cuts",
+    "link": "https://indianexpress.com/article/business/gst-rate-cuts-govt-spent-89-crore-advertise-september-2025-10573192/",
+    "source": "Business | The Indian Express",
+    "category": "Business",
+    "published": "Mon, 09 Mar 2026 12:53:48 +0000",
+    "thumbnail": "https://images.indianexpress.com/2026/03/GST.jpg",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "updated_at": "2026-03-09T14:09:07.774357"
   },
   {
     "title": "EXCLUSIVE: Govt looks at nuanced, graded age-based restrictions on social media for children",
@@ -1669,7 +1746,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/social-media-1600.jpg",
     "importance": 20,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:47.021571"
+    "updated_at": "2026-03-09T14:09:07.774450"
   },
   {
     "title": "Customers to have zero liability in case of lender negligence: RBI’s draft guidelines on digital fraud",
@@ -1680,7 +1757,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/RBI-Reserve-Bank-of-India-Reuters-1200.jpeg",
     "importance": 20,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:47.021626"
+    "updated_at": "2026-03-09T14:09:07.774508"
   },
   {
     "title": "How to Grow on Instagram in 2026 with Stormlikes",
@@ -1691,7 +1768,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/leadimageie1_77c7a5.png",
     "importance": 20,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:47.021686"
+    "updated_at": "2026-03-09T14:09:07.774568"
   },
   {
     "title": "Top 5 Trusted Websites to Buy Instagram Followers in 2026",
@@ -1702,7 +1779,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/leadimageie_62c5b6.png",
     "importance": 20,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:47.021703"
+    "updated_at": "2026-03-09T14:09:07.774585"
   },
   {
     "title": "With 25,900 quintals of rice, foodgrains arrive in Mizoram via rail for the first time",
@@ -1713,7 +1790,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/Railway-officials-pose-with-a-wagon-in-Aizawl.-Northeast-Frontier-Railway.jpg",
     "importance": 20,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:47.021790"
+    "updated_at": "2026-03-09T14:09:07.774673"
   },
   {
     "title": "Women borrowers rise at 14.2% CAGR, emerging as key growth drivers for lenders: Report",
@@ -1724,18 +1801,7 @@
     "thumbnail": "https://images.indianexpress.com/2026/03/loan-file-photo.jpg",
     "importance": 20,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:47.021809"
-  },
-  {
-    "title": "1 in 3 auctioned coal blocks miss operational deadlines",
-    "link": "https://indianexpress.com/article/business/1-in-3-auctioned-coal-blocks-miss-operational-deadlines-10563814/",
-    "source": "Business | The Indian Express",
-    "category": "Business",
-    "published": "Tue, 03 Mar 2026 19:28:21 +0000",
-    "thumbnail": "https://images.indianexpress.com/2026/03/coal-express-archive-1200.jpg",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:47.021927"
+    "updated_at": "2026-03-09T14:09:07.774691"
   },
   {
     "title": "TfL hack in 2024 affected around 10 million people, BBC can reveal",
@@ -1746,7 +1812,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2be/live/02f3e1c0-1933-11f1-801d-ed3cff6bf876.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.740851"
+    "updated_at": "2026-03-09T14:09:07.381207"
   },
   {
     "title": "Mayor Sadiq Khan invites embattled AI firm Anthropic to expand in London",
@@ -1757,7 +1823,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be99/live/65ec6c10-197f-11f1-9120-a910fc22c6ac.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.740878"
+    "updated_at": "2026-03-09T14:09:07.381231"
   },
   {
     "title": "Xbox confirms new console is coming - but can it revive the brand?",
@@ -1768,7 +1834,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eb9/live/3e9d8f20-194f-11f1-b048-c9424b2cf5fd.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.740895"
+    "updated_at": "2026-03-09T14:09:07.381249"
   },
   {
     "title": "Musk tells jury 'people read too much' into his posts",
@@ -1779,7 +1845,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fe0/live/2027c030-1812-11f1-9154-e1fd43ccfa04.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.740911"
+    "updated_at": "2026-03-09T14:09:07.381265"
   },
   {
     "title": "Father claims Google's AI product fuelled son's delusional spiral",
@@ -1790,7 +1856,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0708/live/dc170490-1812-11f1-9154-e1fd43ccfa04.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.740929"
+    "updated_at": "2026-03-09T14:09:07.381282"
   },
   {
     "title": "Regulator contacts Meta over workers watching intimate AI glasses videos",
@@ -1801,7 +1867,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa98/live/8d1953c0-17db-11f1-992f-8778a9867203.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.740946"
+    "updated_at": "2026-03-09T14:09:07.381299"
   },
   {
     "title": "Video game Highguard axed weeks after release",
@@ -1812,7 +1878,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/661b/live/13026050-07f9-11f1-b7e1-afb6d0884c18.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.741012"
+    "updated_at": "2026-03-09T14:09:07.381368"
   },
   {
     "title": "Can an AI recruiter really spot a good carer?",
@@ -1823,7 +1889,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fae9/live/c41983a0-17b2-11f1-a2ea-c9162e82aeaa.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.741028"
+    "updated_at": "2026-03-09T14:09:07.381385"
   },
   {
     "title": "Amazon says drones damaged three facilities in UAE and Bahrain",
@@ -1834,7 +1900,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5baa/live/a5e55a50-16b1-11f1-bf96-b78779c3b393.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.741062"
+    "updated_at": "2026-03-09T14:09:07.381417"
   },
   {
     "title": "The spin-off game starring a 'weirdo' Pokémon that's got reviewers raving",
@@ -1845,7 +1911,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c084/live/c15db050-16f4-11f1-a694-e5c2b699acf9.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.741081"
+    "updated_at": "2026-03-09T14:09:07.381436"
   },
   {
     "title": "UK launches consultation asking for views on under-16s social media ban",
@@ -1856,7 +1922,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f851/live/440ef890-1607-11f1-9120-a910fc22c6ac.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.741113"
+    "updated_at": "2026-03-09T14:09:07.381469"
   },
   {
     "title": "Could a huge data centre revitalise Ayrshire - or ruin it?",
@@ -1867,7 +1933,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e22/live/756a0770-13d9-11f1-801d-ed3cff6bf876.png",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.741130"
+    "updated_at": "2026-03-09T14:09:07.381485"
   },
   {
     "title": "Trump orders government to stop using Anthropic in battle over AI use",
@@ -1878,7 +1944,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e0/live/32bf1ff0-1433-11f1-b048-c9424b2cf5fd.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.741147"
+    "updated_at": "2026-03-09T14:09:07.381502"
   },
   {
     "title": "'I was on Instagram all day' - woman tells landmark trial",
@@ -1889,7 +1955,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b5a/live/c9586ed0-13cf-11f1-9120-a910fc22c6ac.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.741163"
+    "updated_at": "2026-03-09T14:09:07.381518"
   },
   {
     "title": "Anthropic boss rejects Pentagon demand to drop AI safeguards",
@@ -1900,7 +1966,7 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7142/live/8c4d2350-136b-11f1-986d-69868da76563.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.741180"
+    "updated_at": "2026-03-09T14:09:07.381535"
   },
   {
     "title": "Burger King rolls out AI headsets that track employee 'friendliness'",
@@ -1911,6 +1977,6 @@
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3569/live/0bbe0ec0-135c-11f1-911e-799f6530902b.jpg",
     "importance": 15,
     "importanceLabel": "Low",
-    "updated_at": "2026-03-09T03:37:46.741197"
+    "updated_at": "2026-03-09T14:09:07.381552"
   }
 ]
