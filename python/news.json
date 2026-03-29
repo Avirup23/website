@@ -9,7 +9,7 @@
     "published": "Sun, 29 Mar 2026 07:56:20 +0530",
     "importance": 52,
     "importanceLabel": "High",
-    "fetched_at": "2026-03-29T11:32:48.837008"
+    "fetched_at": "2026-03-29T12:02:56.339186"
   },
   {
     "source": "rss",
@@ -21,7 +21,7 @@
     "published": "2026-03-27T22:56:30+00:00",
     "importance": 52,
     "importanceLabel": "High",
-    "fetched_at": "2026-03-29T11:33:10.716317"
+    "fetched_at": "2026-03-29T12:03:04.951421"
   },
   {
     "source": "rss",
@@ -33,7 +33,7 @@
     "published": "Sun, 29 Mar 2026 15:52:28 +0530",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:47.987448"
+    "fetched_at": "2026-03-29T12:02:55.893056"
   },
   {
     "source": "rss",
@@ -45,7 +45,7 @@
     "published": "Sun, 29 Mar 2026 12:22:22 +0530",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:48.837008"
+    "fetched_at": "2026-03-29T12:02:56.339073"
   },
   {
     "source": "rss",
@@ -57,7 +57,7 @@
     "published": "Sun, 29 Mar 2026 10:35:30 +0530",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:48.837008"
+    "fetched_at": "2026-03-29T12:02:56.339132"
   },
   {
     "source": "rss",
@@ -69,7 +69,7 @@
     "published": "Mon, 02 Feb 2026 00:00:00 GMT",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:54.308474"
+    "fetched_at": "2026-03-29T12:02:57.563021"
   },
   {
     "source": "rss",
@@ -81,7 +81,7 @@
     "published": "Fri, 27 Mar 2026 21:02:28 +0300",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:59.251781"
+    "fetched_at": "2026-03-29T12:02:59.380248"
   },
   {
     "source": "rss",
@@ -93,7 +93,7 @@
     "published": "Sat, 28 Mar 2026 23:15:08 +0000",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:33:05.153980"
+    "fetched_at": "2026-03-29T12:03:02.429085"
   },
   {
     "source": "rss",
@@ -105,7 +105,7 @@
     "published": "Fri, 27 Mar 2026 21:15:00 +0900",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:33:06.157122"
+    "fetched_at": "2026-03-29T12:03:02.678905"
   },
   {
     "source": "rss",
@@ -117,7 +117,7 @@
     "published": "2026-03-29T03:19:33+00:00",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:33:09.409408"
+    "fetched_at": "2026-03-29T12:03:04.396440"
   },
   {
     "source": "rss",
@@ -129,19 +129,7 @@
     "published": "Sat, 28 Mar 2026 15:42:21 GMT",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:33.101640"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Economics",
-    "title": "India Says Iran War Could Hit Growth, Widen Fiscal Deficit",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXXavhrfiVzg/v1/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-28/india-says-iran-war-could-hit-growth-widen-fiscal-deficit",
-    "published": "Sat, 28 Mar 2026 15:42:21 GMT",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:34.562761"
+    "fetched_at": "2026-03-29T12:02:52.988384"
   },
   {
     "source": "rss",
@@ -153,7 +141,7 @@
     "published": "Fri, 27 Mar 2026 14:01:07 GMT",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:36.477869"
+    "fetched_at": "2026-03-29T12:02:53.278111"
   },
   {
     "source": "rss",
@@ -165,7 +153,7 @@
     "published": "Tue, 03 Mar 2026 13:47:30 -0500",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:39.619641"
+    "fetched_at": "2026-03-29T12:02:53.655937"
   },
   {
     "source": "rss",
@@ -177,7 +165,7 @@
     "published": "Sun, 01 Mar 2026 22:15:20 -0500",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:39.619641"
+    "fetched_at": "2026-03-29T12:02:53.655985"
   },
   {
     "source": "rss",
@@ -189,7 +177,7 @@
     "published": "Wed, 31 Jul 2024 18:48:00 GMT",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:40.877467"
+    "fetched_at": "2026-03-29T12:02:53.726285"
   },
   {
     "source": "rss",
@@ -201,7 +189,19 @@
     "published": "Sat, 28 Mar 2026 03:04:47 GMT",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:42.034562"
+    "fetched_at": "2026-03-29T12:02:54.004879"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "International homepage",
+    "title": "The Iran war will cement China’s superpower status",
+    "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F60daf278-eba7-41fd-9801-10e81106408c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/47edd17c-366f-42e4-b0cf-c20e065210d2",
+    "published": "Sun, 29 Mar 2026 11:00:11 GMT",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-29T12:02:55.027466"
   },
   {
     "source": "rss",
@@ -213,7 +213,7 @@
     "published": "Wed, 25 Mar 2026 21:42:16 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:46.904904"
+    "fetched_at": "2026-03-29T12:02:55.248939"
   },
   {
     "source": "rss",
@@ -225,7 +225,7 @@
     "published": "Sun, 29 Mar 2026 16:34:56 +0530",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:47.987448"
+    "fetched_at": "2026-03-29T12:02:55.893041"
   },
   {
     "source": "rss",
@@ -237,7 +237,7 @@
     "published": "Sat, 28 Mar 2026 00:43:27 +0530",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:47.988768"
+    "fetched_at": "2026-03-29T12:02:55.893097"
   },
   {
     "source": "rss",
@@ -249,7 +249,7 @@
     "published": "Sat, 28 Mar 2026 00:26:43 +0530",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:47.988768"
+    "fetched_at": "2026-03-29T12:02:55.893110"
   },
   {
     "source": "rss",
@@ -261,7 +261,7 @@
     "published": "Sun, 29 Mar 2026 15:40:13 +0530",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:48.837008"
+    "fetched_at": "2026-03-29T12:02:56.338980"
   },
   {
     "source": "rss",
@@ -273,19 +273,7 @@
     "published": "Sun, 29 Mar 2026 13:46:06 +0530",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:48.837008"
-  },
-  {
-    "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "News - South China Morning Post",
-    "title": "Finance chief says Hong Kong remains stable as oil prices surge amid Mideast turmoil",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/29/deb74d65-1fc7-47a2-952a-d96acb1ea4f9_33e96d1d.jpg?itok=ncV_JRua&v=1774769200",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3348287/finance-chief-says-hong-kong-remains-stable-oil-prices-surge-amid-global-turmoil?utm_source=rss_feed",
-    "published": "Sun, 29 Mar 2026 07:26:45 +0000",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:50.662622"
+    "fetched_at": "2026-03-29T12:02:56.339055"
   },
   {
     "source": "rss",
@@ -297,7 +285,7 @@
     "published": "Sat, 28 Mar 2026 14:56:44 GMT",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:55.195228"
+    "fetched_at": "2026-03-29T12:02:58.078866"
   },
   {
     "source": "rss",
@@ -309,19 +297,31 @@
     "published": "Tue, 24 Mar 2026 05:58:35 GMT",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:55.195228"
+    "fetched_at": "2026-03-29T12:02:58.078918"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "TASS",
-    "title": "Jet fuel prices surge twofold due to conflict in the Middle East — expert",
+    "title": "Zelensky’s regime bears all hallmarks of terrorist organization — Russian senator",
     "thumbnail": null,
-    "url": "https://tass.com/politics/2108537",
-    "published": "Sun, 29 Mar 2026 10:56:42 +0300",
+    "url": "https://tass.com/politics/1969627",
+    "published": "Fri, 06 Jun 2025 11:42:09 +0300",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:57.196817"
+    "fetched_at": "2026-03-29T12:02:59.144834"
+  },
+  {
+    "source": "rss",
+    "category": "Russian Media",
+    "outlet": "TASS",
+    "title": "Russian stocks down as main trading session opens",
+    "thumbnail": null,
+    "url": "https://tass.com/economy/1969629",
+    "published": "Fri, 06 Jun 2025 11:40:44 +0300",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-29T12:02:59.144847"
   },
   {
     "source": "rss",
@@ -333,7 +333,7 @@
     "published": "Fri, 27 Mar 2026 18:48:48 +0300",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:59.251781"
+    "fetched_at": "2026-03-29T12:02:59.380277"
   },
   {
     "source": "rss",
@@ -345,7 +345,7 @@
     "published": "Fri, 27 Mar 2026 16:16:56 +0300",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:59.251781"
+    "fetched_at": "2026-03-29T12:02:59.380319"
   },
   {
     "source": "rss",
@@ -357,7 +357,7 @@
     "published": "Fri, 27 Mar 2026 14:31:00 +0300",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:59.251781"
+    "fetched_at": "2026-03-29T12:02:59.380372"
   },
   {
     "source": "rss",
@@ -369,7 +369,7 @@
     "published": "Fri, 27 Mar 2026 14:15:00 +0300",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:59.251781"
+    "fetched_at": "2026-03-29T12:02:59.380387"
   },
   {
     "source": "rss",
@@ -381,19 +381,7 @@
     "published": "Thu, 26 Mar 2026 20:37:00 +0300",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:59.251781"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "The Moscow Times - Independent News From Russia",
-    "title": "Forget Discounts – Russian Oil Is Now Selling at a Premium, Deputy PM Novak Says",
-    "thumbnail": null,
-    "url": "https://www.themoscowtimes.com/2026/03/26/forget-discounts-russian-oil-is-now-selling-at-a-premium-deputy-pm-novak-says-a92347",
-    "published": "Thu, 26 Mar 2026 17:09:33 +0300",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:32:59.251781"
+    "fetched_at": "2026-03-29T12:02:59.380413"
   },
   {
     "source": "rss",
@@ -405,7 +393,7 @@
     "published": "Sat, 28 Mar 2026 00:01:00 +0900",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:33:06.157122"
+    "fetched_at": "2026-03-29T12:03:02.678834"
   },
   {
     "source": "rss",
@@ -417,7 +405,7 @@
     "published": "Fri, 27 Mar 2026 23:30:00 +0900",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:33:06.157122"
+    "fetched_at": "2026-03-29T12:03:02.678846"
   },
   {
     "source": "rss",
@@ -429,7 +417,7 @@
     "published": "Fri, 27 Mar 2026 22:42:00 +0900",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:33:06.157122"
+    "fetched_at": "2026-03-29T12:03:02.678870"
   },
   {
     "source": "rss",
@@ -441,7 +429,7 @@
     "published": "Fri, 27 Mar 2026 22:03:00 +0900",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:33:06.157122"
+    "fetched_at": "2026-03-29T12:03:02.678894"
   },
   {
     "source": "rss",
@@ -453,7 +441,7 @@
     "published": "2026-03-28T15:49:01+00:00",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:33:07.846807"
+    "fetched_at": "2026-03-29T12:03:03.294603"
   },
   {
     "source": "rss",
@@ -465,7 +453,7 @@
     "published": "2026-03-29T05:17:26+00:00",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:33:09.409408"
+    "fetched_at": "2026-03-29T12:03:04.396412"
   },
   {
     "source": "rss",
@@ -477,7 +465,7 @@
     "published": "2026-03-29T07:11:22+00:00",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:33:10.716317"
+    "fetched_at": "2026-03-29T12:03:04.951264"
   },
   {
     "source": "rss",
@@ -489,7 +477,7 @@
     "published": "2026-03-29T05:55:29+00:00",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:33:10.716317"
+    "fetched_at": "2026-03-29T12:03:04.951305"
   },
   {
     "source": "rss",
@@ -501,7 +489,7 @@
     "published": "2026-03-29T01:05:49+00:00",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:33:10.716317"
+    "fetched_at": "2026-03-29T12:03:04.951319"
   },
   {
     "source": "rss",
@@ -513,7 +501,7 @@
     "published": "2026-03-28T15:43:25+00:00",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-29T11:33:10.716317"
+    "fetched_at": "2026-03-29T12:03:04.951352"
   },
   {
     "source": "rss",
@@ -525,7 +513,7 @@
     "published": "Sun, 29 Mar 2026 07:45:27 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:33.101640"
+    "fetched_at": "2026-03-29T12:02:52.988256"
   },
   {
     "source": "rss",
@@ -537,7 +525,7 @@
     "published": "Sun, 29 Mar 2026 07:02:38 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:33.101640"
+    "fetched_at": "2026-03-29T12:02:52.988271"
   },
   {
     "source": "rss",
@@ -549,7 +537,7 @@
     "published": "Sun, 29 Mar 2026 04:17:13 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:33.101640"
+    "fetched_at": "2026-03-29T12:02:52.988294"
   },
   {
     "source": "rss",
@@ -561,7 +549,7 @@
     "published": "Sun, 29 Mar 2026 00:00:00 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:33.101640"
+    "fetched_at": "2026-03-29T12:02:52.988324"
   },
   {
     "source": "rss",
@@ -573,7 +561,7 @@
     "published": "Sat, 28 Mar 2026 20:00:00 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:33.101640"
+    "fetched_at": "2026-03-29T12:02:52.988355"
   },
   {
     "source": "rss",
@@ -585,115 +573,7 @@
     "published": "Sat, 28 Mar 2026 14:16:54 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:33.101640"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Economics",
-    "title": "New Delhi Street Stalls Show the Cost of India’s Energy Crunch",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOjnTBwrsjvk/v1/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-29/india-lpg-crisis-new-delhi-street-stalls-show-the-cost-of-iran-energy-crunch",
-    "published": "Sun, 29 Mar 2026 00:00:00 GMT",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:34.562761"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Economics",
-    "title": "US Job Market Likely Thawed Out This Month After February Chill",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipoO9ePt9kXA/v1/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-28/us-job-market-probably-thawed-out-this-month-after-february-chill",
-    "published": "Sat, 28 Mar 2026 20:00:00 GMT",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:34.562761"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Economics",
-    "title": "Another Two India-Bound LPG Tankers Exit Gulf Through Hormuz",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQybV08kWoy0/v0/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-28/another-two-india-bound-lpg-tankers-exit-gulf-through-hormuz",
-    "published": "Sat, 28 Mar 2026 10:37:32 GMT",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:34.562761"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Economics",
-    "title": "India Plans 100 Airports, 200 Helipads to Boost Connectivity",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEJK2lZhQ6ik/v1/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-28/india-plans-100-airports-200-helipads-to-boost-connectivity",
-    "published": "Sat, 28 Mar 2026 10:50:39 GMT",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:34.562761"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Economics",
-    "title": "Iran War Shockwaves Threaten More Damage to US Allies",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVP72OjU2Jb0/v0/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-03-28/more-iran-war-shockwaves-are-coming-for-us-allies-new-economy",
-    "published": "Sat, 28 Mar 2026 10:45:01 GMT",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:34.562761"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Economics",
-    "title": "Iran War Leaves Global Economic Leaders Searching for Answers",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2cWL.Hz253c/v1/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-28/war-forces-global-elite-to-stare-into-abyss-of-perpetual-shocks",
-    "published": "Sat, 28 Mar 2026 10:18:12 GMT",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:34.562761"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Economics",
-    "title": "Charting the Global Economy: Extensive Growth Toll From Iran War",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRdeXgbR8OVM/v1/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-28/world-economy-latest-growth-toll-from-iran-war-broad-in-scope-surveys-show",
-    "published": "Sat, 28 Mar 2026 09:00:00 GMT",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:34.562761"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Economics",
-    "title": "France Unveils Limited Aid to Offset Iran War Impact on Economy",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJVxLvTwAo6o/v1/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-27/france-unveils-limited-aid-to-offset-iran-war-impact-on-economy",
-    "published": "Fri, 27 Mar 2026 18:23:16 GMT",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:34.562761"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Economics",
-    "title": "Inflation Expectations Are Stable, Says Apollo's Slok",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIZ9YeD3RAvQ/v3/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/videos/2026-03-27/inflation-expectations-are-stable-says-apollo-s-slok-video",
-    "published": "Fri, 27 Mar 2026 17:30:39 GMT",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:34.562761"
+    "fetched_at": "2026-03-29T12:02:52.988411"
   },
   {
     "source": "rss",
@@ -702,10 +582,10 @@
     "title": "Iran War Live Updates: Israel Strikes Tehran as Regional Diplomats Gather in Pakistan for Talks",
     "thumbnail": "https://static01.nyt.com/images/2026/03/29/multimedia/29mideast-promo-74rfd/29mideast-promo-74rfd-mediumSquareAt3X.jpg",
     "url": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil",
-    "published": "Sun, 29 Mar 2026 11:22:50 +0000",
+    "published": "Sun, 29 Mar 2026 11:48:29 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:35.124937"
+    "fetched_at": "2026-03-29T12:02:53.124744"
   },
   {
     "source": "rss",
@@ -717,7 +597,7 @@
     "published": "Sat, 28 Mar 2026 19:53:21 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:35.124937"
+    "fetched_at": "2026-03-29T12:02:53.124756"
   },
   {
     "source": "rss",
@@ -729,7 +609,7 @@
     "published": "Sat, 28 Mar 2026 22:22:12 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:35.124937"
+    "fetched_at": "2026-03-29T12:02:53.124781"
   },
   {
     "source": "rss",
@@ -741,7 +621,7 @@
     "published": "Sat, 28 Mar 2026 14:21:47 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:35.124937"
+    "fetched_at": "2026-03-29T12:02:53.124994"
   },
   {
     "source": "rss",
@@ -753,7 +633,7 @@
     "published": "Sat, 28 Mar 2026 20:21:04 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:35.124937"
+    "fetched_at": "2026-03-29T12:02:53.125008"
   },
   {
     "source": "rss",
@@ -765,7 +645,7 @@
     "published": "Sat, 28 Mar 2026 16:26:21 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:35.124937"
+    "fetched_at": "2026-03-29T12:02:53.125018"
   },
   {
     "source": "rss",
@@ -777,7 +657,7 @@
     "published": "Sun, 29 Mar 2026 07:58:36 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:35.124937"
+    "fetched_at": "2026-03-29T12:02:53.125073"
   },
   {
     "source": "rss",
@@ -789,7 +669,7 @@
     "published": "Sat, 28 Mar 2026 11:00:01 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:36.477869"
+    "fetched_at": "2026-03-29T12:02:53.278096"
   },
   {
     "source": "rss",
@@ -801,7 +681,7 @@
     "published": "Fri, 28 Sep 2018 09:49:07 EDT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:38.415206"
+    "fetched_at": "2026-03-29T12:02:53.448796"
   },
   {
     "source": "rss",
@@ -813,7 +693,7 @@
     "published": "Tue, 03 Mar 2026 10:36:35 -0500",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:39.619641"
+    "fetched_at": "2026-03-29T12:02:53.655958"
   },
   {
     "source": "rss",
@@ -825,7 +705,7 @@
     "published": "Fri, 27 Feb 2026 08:02:43 -0500",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:39.619641"
+    "fetched_at": "2026-03-29T12:02:53.656006"
   },
   {
     "source": "rss",
@@ -837,7 +717,7 @@
     "published": "Wed, 25 Feb 2026 11:54:55 -0500",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:39.619641"
+    "fetched_at": "2026-03-29T12:02:53.656016"
   },
   {
     "source": "rss",
@@ -849,7 +729,7 @@
     "published": "Thu, 12 Dec 2024 08:32:00 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:40.877467"
+    "fetched_at": "2026-03-29T12:02:53.726184"
   },
   {
     "source": "rss",
@@ -861,7 +741,7 @@
     "published": "Wed, 31 Jul 2024 18:41:00 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:40.877467"
+    "fetched_at": "2026-03-29T12:02:53.726302"
   },
   {
     "source": "rss",
@@ -873,7 +753,7 @@
     "published": "Fri, 27 Mar 2026 12:00:39 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:42.034562"
+    "fetched_at": "2026-03-29T12:02:54.004898"
   },
   {
     "source": "rss",
@@ -885,7 +765,7 @@
     "published": "Fri, 27 Mar 2026 00:01:01 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:42.034562"
+    "fetched_at": "2026-03-29T12:02:54.004907"
   },
   {
     "source": "rss",
@@ -897,7 +777,7 @@
     "published": "Fri, 27 Mar 2026 12:13:36 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:42.034562"
+    "fetched_at": "2026-03-29T12:02:54.004916"
   },
   {
     "source": "rss",
@@ -909,7 +789,7 @@
     "published": "Thu, 26 Mar 2026 13:19:38 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:42.035682"
+    "fetched_at": "2026-03-29T12:02:54.004989"
   },
   {
     "source": "rss",
@@ -921,7 +801,7 @@
     "published": "Sun, 29 Mar 2026 04:00:08 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:45.797675"
+    "fetched_at": "2026-03-29T12:02:55.027487"
   },
   {
     "source": "rss",
@@ -933,7 +813,7 @@
     "published": "Thu, 26 Mar 2026 13:57:17 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:46.904904"
+    "fetched_at": "2026-03-29T12:02:55.248851"
   },
   {
     "source": "rss",
@@ -945,7 +825,7 @@
     "published": "Mon, 23 Mar 2026 20:22:19 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:46.904904"
+    "fetched_at": "2026-03-29T12:02:55.248984"
   },
   {
     "source": "rss",
@@ -957,7 +837,7 @@
     "published": "Thu, 19 Mar 2026 13:50:01 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:46.904904"
+    "fetched_at": "2026-03-29T12:02:55.249011"
   },
   {
     "source": "rss",
@@ -969,19 +849,31 @@
     "published": "Thu, 19 Mar 2026 11:32:29 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:46.904904"
+    "fetched_at": "2026-03-29T12:02:55.249025"
   },
   {
     "source": "rss",
     "category": "Indian Media",
     "outlet": "Economic Times",
-    "title": "Dividend, bonus issue alert: IREDA among 12 stocks turning ex-date for corporate actions this week. Do you own any?",
+    "title": "8 midcap stocks with massive upside potential of up to 75%. Do you own any?",
     "thumbnail": null,
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-bonus-issue-alert-ireda-among-12-stocks-turning-ex-date-for-corporate-actions-this-week-do-you-own-any/slideshow/129876771.cms",
-    "published": "Sun, 29 Mar 2026 11:45:41 +0530",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/8-midcap-stocks-with-massive-upside-potential-of-up-to-75-do-you-own-any/slideshow/129876422.cms",
+    "published": "Sun, 29 Mar 2026 11:22:00 +0530",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.988768"
+    "fetched_at": "2026-03-29T12:02:55.893005"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "Economic Times",
+    "title": "Market trading guide: Buy ACME Solar and Dalmia Bharat on Monday for short-term gains up to 16%. Here’s why",
+    "thumbnail": null,
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-acme-solar-and-dalmia-bharat-on-monday-for-short-term-gains-up-to-16-heres-why/articleshow/129876087.cms",
+    "published": "Sun, 29 Mar 2026 10:58:14 +0530",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-29T12:02:55.893026"
   },
   {
     "source": "rss",
@@ -993,7 +885,7 @@
     "published": "Sat, 28 Mar 2026 00:49:50 +0530",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.988768"
+    "fetched_at": "2026-03-29T12:02:55.893083"
   },
   {
     "source": "rss",
@@ -1005,7 +897,7 @@
     "published": "Thu, 26 Mar 2026 01:00:45 +0530",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.988768"
+    "fetched_at": "2026-03-29T12:02:55.893123"
   },
   {
     "source": "rss",
@@ -1017,7 +909,7 @@
     "published": "Thu, 26 Mar 2026 00:52:23 +0530",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.988768"
+    "fetched_at": "2026-03-29T12:02:55.893135"
   },
   {
     "source": "rss",
@@ -1029,7 +921,7 @@
     "published": "Thu, 25 Mar 2021 23:14:01 +0530",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.988768"
+    "fetched_at": "2026-03-29T12:02:55.893162"
   },
   {
     "source": "rss",
@@ -1041,7 +933,7 @@
     "published": "Fri, 12 Mar 2021 16:53:26 +0530",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.988768"
+    "fetched_at": "2026-03-29T12:02:55.893176"
   },
   {
     "source": "rss",
@@ -1053,7 +945,7 @@
     "published": "Sun, 07 Feb 2021 13:01:32 +0530",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.988768"
+    "fetched_at": "2026-03-29T12:02:55.893189"
   },
   {
     "source": "rss",
@@ -1065,7 +957,7 @@
     "published": "Sun, 29 Mar 2026 15:54:57 +0530",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:48.837008"
+    "fetched_at": "2026-03-29T12:02:56.338953"
   },
   {
     "source": "rss",
@@ -1077,7 +969,7 @@
     "published": "Sun, 29 Mar 2026 15:31:32 +0530",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:48.837008"
+    "fetched_at": "2026-03-29T12:02:56.338997"
   },
   {
     "source": "rss",
@@ -1089,7 +981,7 @@
     "published": "Sun, 29 Mar 2026 15:20:17 +0530",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:48.837008"
+    "fetched_at": "2026-03-29T12:02:56.339016"
   },
   {
     "source": "rss",
@@ -1101,7 +993,7 @@
     "published": "Sun, 29 Mar 2026 11:27:45 +0530",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:48.837008"
+    "fetched_at": "2026-03-29T12:02:56.339109"
   },
   {
     "source": "rss",
@@ -1113,7 +1005,7 @@
     "published": "Sun, 29 Mar 2026 09:20:53 +0530",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:48.837008"
+    "fetched_at": "2026-03-29T12:02:56.339154"
   },
   {
     "source": "rss",
@@ -1125,7 +1017,7 @@
     "published": "Sun, 29 Mar 2026 08:57:24 +0530",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:48.837008"
+    "fetched_at": "2026-03-29T12:02:56.339170"
   },
   {
     "source": "rss",
@@ -1137,7 +1029,19 @@
     "published": "Sat, 28 Mar 2026 15:20:45 +0530",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:48.837008"
+    "fetched_at": "2026-03-29T12:02:56.339219"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "News - South China Morning Post",
+    "title": "Japan upgrades destroyer with Tomahawk missiles. Why it might pose a threat to China",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/29/58777191-e1fb-4189-b6d3-99ce532a0da6_0e2f8980.jpg?itok=iFcGQjvS&v=1774780215",
+    "url": "https://www.scmp.com/news/china/military/article/3348299/japan-upgrades-destroyer-tomahawk-missiles-why-it-might-pose-threat-china?utm_source=rss_feed",
+    "published": "Sun, 29 Mar 2026 12:00:08 +0000",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-29T12:02:57.026048"
   },
   {
     "source": "rss",
@@ -1149,7 +1053,7 @@
     "published": "Sun, 29 Mar 2026 11:26:21 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:50.662622"
+    "fetched_at": "2026-03-29T12:02:57.026078"
   },
   {
     "source": "rss",
@@ -1161,7 +1065,7 @@
     "published": "Sun, 29 Mar 2026 11:00:09 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:50.662622"
+    "fetched_at": "2026-03-29T12:02:57.026093"
   },
   {
     "source": "rss",
@@ -1173,7 +1077,7 @@
     "published": "Sun, 29 Mar 2026 10:00:09 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:50.662622"
+    "fetched_at": "2026-03-29T12:02:57.026143"
   },
   {
     "source": "rss",
@@ -1185,7 +1089,7 @@
     "published": "Sun, 29 Mar 2026 09:59:55 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:50.662622"
+    "fetched_at": "2026-03-29T12:02:57.026154"
   },
   {
     "source": "rss",
@@ -1197,7 +1101,7 @@
     "published": "Sun, 29 Mar 2026 08:30:09 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:50.662622"
+    "fetched_at": "2026-03-29T12:02:57.026199"
   },
   {
     "source": "rss",
@@ -1209,7 +1113,7 @@
     "published": "Sun, 29 Mar 2026 08:00:10 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:50.662622"
+    "fetched_at": "2026-03-29T12:02:57.026211"
   },
   {
     "source": "rss",
@@ -1221,7 +1125,7 @@
     "published": "",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:52.033113"
+    "fetched_at": "2026-03-29T12:02:57.191662"
   },
   {
     "source": "rss",
@@ -1233,7 +1137,7 @@
     "published": "",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:52.033113"
+    "fetched_at": "2026-03-29T12:02:57.191726"
   },
   {
     "source": "rss",
@@ -1245,7 +1149,7 @@
     "published": "",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:52.033113"
+    "fetched_at": "2026-03-29T12:02:57.191786"
   },
   {
     "source": "rss",
@@ -1257,7 +1161,7 @@
     "published": "",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:52.033113"
+    "fetched_at": "2026-03-29T12:02:57.191801"
   },
   {
     "source": "rss",
@@ -1269,7 +1173,7 @@
     "published": "",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:52.033113"
+    "fetched_at": "2026-03-29T12:02:57.191816"
   },
   {
     "source": "rss",
@@ -1281,7 +1185,7 @@
     "published": "Thu, 12 Mar 2026 00:00:00 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:54.308474"
+    "fetched_at": "2026-03-29T12:02:57.562799"
   },
   {
     "source": "rss",
@@ -1293,7 +1197,7 @@
     "published": "Thu, 12 Mar 2026 00:00:00 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:54.308474"
+    "fetched_at": "2026-03-29T12:02:57.562838"
   },
   {
     "source": "rss",
@@ -1305,7 +1209,7 @@
     "published": "Wed, 11 Mar 2026 00:00:00 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:54.308474"
+    "fetched_at": "2026-03-29T12:02:57.562854"
   },
   {
     "source": "rss",
@@ -1317,7 +1221,7 @@
     "published": "Wed, 11 Mar 2026 00:00:00 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:54.308474"
+    "fetched_at": "2026-03-29T12:02:57.562869"
   },
   {
     "source": "rss",
@@ -1329,7 +1233,7 @@
     "published": "Mon, 09 Mar 2026 00:00:00 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:54.308474"
+    "fetched_at": "2026-03-29T12:02:57.562929"
   },
   {
     "source": "rss",
@@ -1341,7 +1245,7 @@
     "published": "Fri, 06 Feb 2026 00:00:00 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:54.308474"
+    "fetched_at": "2026-03-29T12:02:57.562973"
   },
   {
     "source": "rss",
@@ -1353,7 +1257,7 @@
     "published": "Fri, 06 Feb 2026 00:00:00 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:54.308474"
+    "fetched_at": "2026-03-29T12:02:57.562989"
   },
   {
     "source": "rss",
@@ -1365,7 +1269,7 @@
     "published": "Tue, 03 Feb 2026 00:00:00 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:54.308474"
+    "fetched_at": "2026-03-29T12:02:57.563005"
   },
   {
     "source": "rss",
@@ -1377,7 +1281,7 @@
     "published": "Sun, 22 Mar 2026 08:52:17 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:55.195228"
+    "fetched_at": "2026-03-29T12:02:58.078802"
   },
   {
     "source": "rss",
@@ -1389,7 +1293,7 @@
     "published": "Tue, 24 Mar 2026 05:58:08 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:55.195228"
+    "fetched_at": "2026-03-29T12:02:58.078824"
   },
   {
     "source": "rss",
@@ -1401,7 +1305,7 @@
     "published": "Tue, 24 Mar 2026 12:34:01 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:55.195228"
+    "fetched_at": "2026-03-29T12:02:58.078834"
   },
   {
     "source": "rss",
@@ -1413,7 +1317,7 @@
     "published": "Thu, 19 Mar 2026 12:22:52 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:55.195228"
+    "fetched_at": "2026-03-29T12:02:58.078855"
   },
   {
     "source": "rss",
@@ -1425,7 +1329,7 @@
     "published": "Mon, 23 Mar 2026 02:14:34 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:55.195228"
+    "fetched_at": "2026-03-29T12:02:58.078876"
   },
   {
     "source": "rss",
@@ -1437,7 +1341,7 @@
     "published": "Tue, 24 Mar 2026 14:30:31 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:55.195228"
+    "fetched_at": "2026-03-29T12:02:58.078887"
   },
   {
     "source": "rss",
@@ -1449,7 +1353,7 @@
     "published": "Sun, 22 Mar 2026 13:32:54 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:55.195228"
+    "fetched_at": "2026-03-29T12:02:58.078897"
   },
   {
     "source": "rss",
@@ -1461,91 +1365,79 @@
     "published": "Thu, 26 Mar 2026 11:59:00 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:55.195228"
+    "fetched_at": "2026-03-29T12:02:58.078907"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "TASS",
-    "title": "Twenty-seven Ukrainian drones shot down in regions — Russian Defense Ministry",
+    "title": "German exports to Russia down 5.3% in April month-on-month",
     "thumbnail": null,
-    "url": "https://tass.com/defense/2108579",
-    "published": "Sun, 29 Mar 2026 13:58:36 +0300",
+    "url": "https://tass.com/economy/1969687",
+    "published": "Fri, 06 Jun 2025 13:04:25 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:57.196817"
+    "fetched_at": "2026-03-29T12:02:59.144641"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "TASS",
-    "title": "Russia ready to host Olympic Games in the future — Putin",
+    "title": "Press review: Europe seeks to block US-Russia thaw as Russia eyes role in US-Iran talks",
     "thumbnail": null,
-    "url": "https://tass.com/sports/2108565",
-    "published": "Sun, 29 Mar 2026 13:26:32 +0300",
+    "url": "https://tass.com/pressreview/1969589",
+    "published": "Fri, 06 Jun 2025 13:00:01 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:57.196817"
+    "fetched_at": "2026-03-29T12:02:59.144710"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "TASS",
-    "title": "Russian troops liberate Kovsharovka settlement",
+    "title": "EU must conclude arms limitation agreement with Russia, says Orban",
     "thumbnail": null,
-    "url": "https://tass.com/defense/2108563",
-    "published": "Sun, 29 Mar 2026 13:10:03 +0300",
+    "url": "https://tass.com/world/1969637",
+    "published": "Fri, 06 Jun 2025 12:18:57 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:57.196817"
+    "fetched_at": "2026-03-29T12:02:59.144777"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "TASS",
-    "title": "Air defenses downed 13 guided bombs, 345 drones — Russian Defense Ministry",
+    "title": "Bank of Russia sells yuan worth $83 mln with settlements on June 5",
     "thumbnail": null,
-    "url": "https://tass.com/defense/2108561",
-    "published": "Sun, 29 Mar 2026 12:47:31 +0300",
+    "url": "https://tass.com/economy/1969635",
+    "published": "Fri, 06 Jun 2025 12:15:52 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:57.196817"
+    "fetched_at": "2026-03-29T12:02:59.144791"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "TASS",
-    "title": "Sri Lanka, Russia discuss energy cooperation",
+    "title": "Dodon calls on Sandu, Recean not to succumb to Western attempts to drag Moldova into war",
     "thumbnail": null,
-    "url": "https://tass.com/economy/2108521",
-    "published": "Sun, 29 Mar 2026 08:48:58 +0300",
+    "url": "https://tass.com/world/1969631",
+    "published": "Fri, 06 Jun 2025 11:53:27 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:57.196817"
+    "fetched_at": "2026-03-29T12:02:59.144819"
   },
   {
     "source": "rss",
     "category": "Russian Media",
-    "outlet": "TASS",
-    "title": "Russian Battlegroup West downed 68 Ukrainian drones over day",
+    "outlet": "The Moscow Times - Independent News From Russia",
+    "title": "Russia Reports Fire in Strike on Major Baltic Port",
     "thumbnail": null,
-    "url": "https://tass.com/defense/2108517",
-    "published": "Sun, 29 Mar 2026 08:25:05 +0300",
+    "url": "https://www.themoscowtimes.com/2026/03/29/russia-reports-fire-in-strike-on-major-baltic-port-a92365",
+    "published": "Sun, 29 Mar 2026 13:30:00 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:57.196817"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "TASS",
-    "title": "Russian Battlegroup North destroyed 142 Ukrainian drones",
-    "thumbnail": null,
-    "url": "https://tass.com/defense/2108515",
-    "published": "Sun, 29 Mar 2026 08:23:49 +0300",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:57.196817"
+    "fetched_at": "2026-03-29T12:02:59.380208"
   },
   {
     "source": "rss",
@@ -1557,7 +1449,7 @@
     "published": "Sat, 28 Mar 2026 13:45:22 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:59.251781"
+    "fetched_at": "2026-03-29T12:02:59.380229"
   },
   {
     "source": "rss",
@@ -1569,7 +1461,7 @@
     "published": "Fri, 27 Mar 2026 17:46:06 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:59.251781"
+    "fetched_at": "2026-03-29T12:02:59.380290"
   },
   {
     "source": "rss",
@@ -1581,7 +1473,7 @@
     "published": "Fri, 27 Mar 2026 17:22:00 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:59.251781"
+    "fetched_at": "2026-03-29T12:02:59.380306"
   },
   {
     "source": "rss",
@@ -1593,7 +1485,7 @@
     "published": "Fri, 27 Mar 2026 12:50:43 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:59.251781"
+    "fetched_at": "2026-03-29T12:02:59.380400"
   },
   {
     "source": "rss",
@@ -1605,7 +1497,7 @@
     "published": "Thu, 26 Mar 2026 18:52:05 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:59.251781"
+    "fetched_at": "2026-03-29T12:02:59.380427"
   },
   {
     "source": "rss",
@@ -1617,7 +1509,7 @@
     "published": "Thu, 26 Mar 2026 18:09:56 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:59.251781"
+    "fetched_at": "2026-03-29T12:02:59.380441"
   },
   {
     "source": "rss",
@@ -1629,7 +1521,7 @@
     "published": "Sun, 29 Mar 2026 06:57:42 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.153980"
+    "fetched_at": "2026-03-29T12:03:02.429004"
   },
   {
     "source": "rss",
@@ -1641,7 +1533,7 @@
     "published": "Sat, 28 Mar 2026 22:23:34 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.153980"
+    "fetched_at": "2026-03-29T12:03:02.429101"
   },
   {
     "source": "rss",
@@ -1653,7 +1545,7 @@
     "published": "Sat, 28 Mar 2026 21:51:03 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.153980"
+    "fetched_at": "2026-03-29T12:03:02.429123"
   },
   {
     "source": "rss",
@@ -1665,7 +1557,7 @@
     "published": "Sun, 29 Mar 2026 11:10:43 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.591584"
+    "fetched_at": "2026-03-29T12:03:02.547903"
   },
   {
     "source": "rss",
@@ -1677,7 +1569,7 @@
     "published": "Sun, 29 Mar 2026 09:30:28 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.591584"
+    "fetched_at": "2026-03-29T12:03:02.547962"
   },
   {
     "source": "rss",
@@ -1689,7 +1581,7 @@
     "published": "Sun, 29 Mar 2026 08:54:04 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.591584"
+    "fetched_at": "2026-03-29T12:03:02.547992"
   },
   {
     "source": "rss",
@@ -1701,7 +1593,7 @@
     "published": "Sun, 29 Mar 2026 08:44:59 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.591584"
+    "fetched_at": "2026-03-29T12:03:02.548006"
   },
   {
     "source": "rss",
@@ -1713,7 +1605,7 @@
     "published": "Sun, 29 Mar 2026 08:11:52 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.591584"
+    "fetched_at": "2026-03-29T12:03:02.548034"
   },
   {
     "source": "rss",
@@ -1725,7 +1617,7 @@
     "published": "Fri, 27 Mar 2026 22:09:00 +0900",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:06.157122"
+    "fetched_at": "2026-03-29T12:03:02.678882"
   },
   {
     "source": "rss",
@@ -1737,7 +1629,7 @@
     "published": "Fri, 27 Mar 2026 04:33:00 +0900",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:06.157122"
+    "fetched_at": "2026-03-29T12:03:02.678969"
   },
   {
     "source": "rss",
@@ -1749,7 +1641,7 @@
     "published": "2026-03-02T13:31:50+00:00",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:07.846807"
+    "fetched_at": "2026-03-29T12:03:03.294521"
   },
   {
     "source": "rss",
@@ -1761,7 +1653,7 @@
     "published": "2026-03-29T11:11:42+00:00",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:07.846807"
+    "fetched_at": "2026-03-29T12:03:03.294539"
   },
   {
     "source": "rss",
@@ -1773,19 +1665,7 @@
     "published": "2026-03-29T02:54:22+00:00",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:07.846807"
-  },
-  {
-    "source": "rss",
-    "category": "Alternative & Independent",
-    "outlet": "Geopolitics: Geopolitical news, analysis, & discussion",
-    "title": "Why Does USA Want War With Iran? Complete Explainer",
-    "thumbnail": "https://external-preview.redd.it/JfDKKmJx1SmsQPB5ZiuJ5bXTV4irfNDSISSj9UDNd5k.jpeg?width=640&crop=smart&auto=webp&s=8404726b892ae87fa80991b36a682531612bc378",
-    "url": "https://www.reddit.com/r/geopolitics/comments/1s6sh9n/why_does_usa_want_war_with_iran_complete_explainer/",
-    "published": "2026-03-29T11:21:24+00:00",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:07.846807"
+    "fetched_at": "2026-03-29T12:03:03.294614"
   },
   {
     "source": "rss",
@@ -1797,7 +1677,7 @@
     "published": "2026-03-29T04:02:46+00:00",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:09.409408"
+    "fetched_at": "2026-03-29T12:03:04.396284"
   },
   {
     "source": "rss",
@@ -1809,7 +1689,7 @@
     "published": "2026-03-28T22:52:01+00:00",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:09.409408"
+    "fetched_at": "2026-03-29T12:03:04.396350"
   },
   {
     "source": "rss",
@@ -1821,7 +1701,7 @@
     "published": "2026-03-29T08:47:40+00:00",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:09.409408"
+    "fetched_at": "2026-03-29T12:03:04.396379"
   },
   {
     "source": "rss",
@@ -1833,7 +1713,19 @@
     "published": "2026-03-28T20:04:33+00:00",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:09.409408"
+    "fetched_at": "2026-03-29T12:03:04.396402"
+  },
+  {
+    "source": "rss",
+    "category": "Alternative & Independent",
+    "outlet": "World News",
+    "title": "Pope Leo XIV rejects claims that God justifies war during Palm Sunday Mass",
+    "thumbnail": "https://external-preview.redd.it/AIlmzakr4oJL7iueisep7ny5NJbXfvOGOCMTzXaRxJw.jpeg?width=640&crop=smart&auto=webp&s=5a96c69e6b7620bf280d7001c86328f4df634390",
+    "url": "https://www.reddit.com/r/worldnews/comments/1s6rgyg/pope_leo_xiv_rejects_claims_that_god_justifies/",
+    "published": "2026-03-29T10:22:50+00:00",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-29T12:03:04.396421"
   },
   {
     "source": "rss",
@@ -1845,19 +1737,7 @@
     "published": "2026-03-28T19:25:26+00:00",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:09.409408"
-  },
-  {
-    "source": "rss",
-    "category": "Alternative & Independent",
-    "outlet": "World News",
-    "title": "Finland to audit whether US is actually delivering NATO-bought weapons to Ukraine",
-    "thumbnail": "https://external-preview.redd.it/JMKYORaX8Q-mgdBsFOITxDSO4ExFVJVpNxvZYlefBpA.jpeg?width=216&crop=smart&auto=webp&s=87d3d4169c8dd3cd6f6ebf98fa5b55bee9676880",
-    "url": "https://www.reddit.com/r/worldnews/comments/1s5xczd/finland_to_audit_whether_us_is_actually/",
-    "published": "2026-03-28T11:01:12+00:00",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:09.409408"
+    "fetched_at": "2026-03-29T12:03:04.396458"
   },
   {
     "source": "rss",
@@ -1869,7 +1749,7 @@
     "published": "2025-10-13T09:49:41+00:00",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:10.716317"
+    "fetched_at": "2026-03-29T12:03:04.951221"
   },
   {
     "source": "rss",
@@ -1881,7 +1761,7 @@
     "published": "2026-03-29T01:27:12+00:00",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:10.716317"
+    "fetched_at": "2026-03-29T12:03:04.951236"
   },
   {
     "source": "rss",
@@ -1893,7 +1773,7 @@
     "published": "2026-03-28T21:07:02+00:00",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:10.716317"
+    "fetched_at": "2026-03-29T12:03:04.951292"
   },
   {
     "source": "rss",
@@ -1905,7 +1785,7 @@
     "published": "2026-03-28T08:54:58+00:00",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:10.716317"
+    "fetched_at": "2026-03-29T12:03:04.951401"
   },
   {
     "source": "rss",
@@ -1917,7 +1797,7 @@
     "published": "Sun, 29 Mar 2026 09:11:04 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:33.101640"
+    "fetched_at": "2026-03-29T12:02:52.988236"
   },
   {
     "source": "rss",
@@ -1929,7 +1809,7 @@
     "published": "Sun, 29 Mar 2026 06:01:55 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:33.101640"
+    "fetched_at": "2026-03-29T12:02:52.988281"
   },
   {
     "source": "rss",
@@ -1941,7 +1821,7 @@
     "published": "Sat, 28 Mar 2026 14:08:25 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:33.101640"
+    "fetched_at": "2026-03-29T12:02:52.988304"
   },
   {
     "source": "rss",
@@ -1953,7 +1833,7 @@
     "published": "Sun, 29 Mar 2026 01:44:16 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:33.101640"
+    "fetched_at": "2026-03-29T12:02:52.988314"
   },
   {
     "source": "rss",
@@ -1965,7 +1845,7 @@
     "published": "Sat, 28 Mar 2026 19:00:00 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:33.101640"
+    "fetched_at": "2026-03-29T12:02:52.988366"
   },
   {
     "source": "rss",
@@ -1977,7 +1857,7 @@
     "published": "Sat, 28 Mar 2026 16:07:30 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:33.101640"
+    "fetched_at": "2026-03-29T12:02:52.988375"
   },
   {
     "source": "rss",
@@ -1989,7 +1869,7 @@
     "published": "Sat, 28 Mar 2026 15:20:16 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:33.101640"
+    "fetched_at": "2026-03-29T12:02:52.988393"
   },
   {
     "source": "rss",
@@ -2001,67 +1881,7 @@
     "published": "Sat, 28 Mar 2026 15:03:56 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:33.101640"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Economics",
-    "title": "Mideast Aluminum Makers Suffer Damage From Iranian Attacks",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEeRAqaQkhKM/v0/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-28/emirates-global-aluminium-says-smelter-site-damaged-in-attack-mnaeo4uk",
-    "published": "Sat, 28 Mar 2026 14:08:25 GMT",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:34.562761"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Economics",
-    "title": "Italy Energy Measures Won’t Break Fiscal Limits, Giorgetti Says",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaP0BKz4uQMs/v1/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-28/italy-energy-measures-won-t-break-fiscal-limits-giorgetti-says",
-    "published": "Sat, 28 Mar 2026 13:04:54 GMT",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:34.562761"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Economics",
-    "title": "Pakistan Gets Initial IMF Approval for $1.2 Billion of Loans",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igVtEPM7mRP8/v0/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-28/pakistan-gets-initial-imf-approval-for-1-2-billion-of-loans",
-    "published": "Sat, 28 Mar 2026 07:21:21 GMT",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:34.562761"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Economics",
-    "title": "Australia Plans to Underwrite Fuel Purchases by Private Firms",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXIPmbOynFYk/v0/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-28/australia-plans-to-underwrite-fuel-purchases-by-private-firms",
-    "published": "Sat, 28 Mar 2026 00:58:44 GMT",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:34.562761"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Economics",
-    "title": "Flyers Book $34,000 Private Jets to Escape TSA Hell at Airports",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ik0SKNU8M1mA/v0/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-27/tsa-chaos-drives-surge-in-private-jet-bookings-and-line-sitting-services",
-    "published": "Fri, 27 Mar 2026 18:47:02 GMT",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:34.562761"
+    "fetched_at": "2026-03-29T12:02:52.988403"
   },
   {
     "source": "rss",
@@ -2073,7 +1893,7 @@
     "published": "Sun, 29 Mar 2026 08:16:54 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:35.124937"
+    "fetched_at": "2026-03-29T12:02:53.124714"
   },
   {
     "source": "rss",
@@ -2085,7 +1905,7 @@
     "published": "Sun, 29 Mar 2026 11:28:28 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:35.124937"
+    "fetched_at": "2026-03-29T12:02:53.124731"
   },
   {
     "source": "rss",
@@ -2097,7 +1917,7 @@
     "published": "Sat, 28 Mar 2026 19:52:22 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:35.124937"
+    "fetched_at": "2026-03-29T12:02:53.124770"
   },
   {
     "source": "rss",
@@ -2109,7 +1929,7 @@
     "published": "Sun, 29 Mar 2026 00:29:42 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:35.124937"
+    "fetched_at": "2026-03-29T12:02:53.124967"
   },
   {
     "source": "rss",
@@ -2121,7 +1941,7 @@
     "published": "Sat, 28 Mar 2026 19:27:59 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:35.124937"
+    "fetched_at": "2026-03-29T12:02:53.124982"
   },
   {
     "source": "rss",
@@ -2133,7 +1953,7 @@
     "published": "Fri, 27 Mar 2026 09:36:19 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:35.124937"
+    "fetched_at": "2026-03-29T12:02:53.125029"
   },
   {
     "source": "rss",
@@ -2145,7 +1965,7 @@
     "published": "Fri, 27 Mar 2026 06:56:32 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:35.124937"
+    "fetched_at": "2026-03-29T12:02:53.125042"
   },
   {
     "source": "rss",
@@ -2157,7 +1977,19 @@
     "published": "Sun, 29 Mar 2026 11:22:48 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:35.124937"
+    "fetched_at": "2026-03-29T12:02:53.125060"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "Business News",
+    "title": "Logan Paul sold a Pokémon card for more than $16 million. Here's why investors are watching",
+    "thumbnail": null,
+    "url": "https://www.cnbc.com/2026/03/29/pokemon-card-values-rise-logan-paul-pikachu-auction.html",
+    "published": "Sun, 29 Mar 2026 12:00:01 GMT",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-29T12:02:53.278055"
   },
   {
     "source": "rss",
@@ -2169,7 +2001,7 @@
     "published": "Sat, 28 Mar 2026 12:00:01 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:36.477869"
+    "fetched_at": "2026-03-29T12:02:53.278079"
   },
   {
     "source": "rss",
@@ -2181,7 +2013,7 @@
     "published": "Fri, 27 Mar 2026 13:39:35 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:36.477869"
+    "fetched_at": "2026-03-29T12:02:53.278124"
   },
   {
     "source": "rss",
@@ -2193,7 +2025,7 @@
     "published": "Fri, 27 Mar 2026 13:06:11 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:36.477869"
+    "fetched_at": "2026-03-29T12:02:53.278138"
   },
   {
     "source": "rss",
@@ -2205,7 +2037,7 @@
     "published": "Fri, 27 Mar 2026 02:09:30 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:36.477869"
+    "fetched_at": "2026-03-29T12:02:53.278152"
   },
   {
     "source": "rss",
@@ -2217,7 +2049,7 @@
     "published": "Thu, 26 Mar 2026 18:28:16 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:36.477869"
+    "fetched_at": "2026-03-29T12:02:53.278165"
   },
   {
     "source": "rss",
@@ -2229,7 +2061,7 @@
     "published": "Thu, 26 Mar 2026 20:33:24 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:36.477869"
+    "fetched_at": "2026-03-29T12:02:53.278179"
   },
   {
     "source": "rss",
@@ -2241,7 +2073,7 @@
     "published": "Thu, 26 Mar 2026 17:13:24 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:36.477869"
+    "fetched_at": "2026-03-29T12:02:53.278192"
   },
   {
     "source": "rss",
@@ -2253,7 +2085,7 @@
     "published": "Thu, 26 Mar 2026 15:02:46 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:36.477869"
+    "fetched_at": "2026-03-29T12:02:53.278206"
   },
   {
     "source": "rss",
@@ -2265,7 +2097,7 @@
     "published": "Thu, 26 Mar 2026 17:59:17 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:36.477869"
+    "fetched_at": "2026-03-29T12:02:53.278218"
   },
   {
     "source": "rss",
@@ -2277,7 +2109,7 @@
     "published": "Thu, 26 Mar 2026 15:54:11 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:36.477869"
+    "fetched_at": "2026-03-29T12:02:53.278231"
   },
   {
     "source": "rss",
@@ -2289,7 +2121,7 @@
     "published": "Thu, 26 Mar 2026 15:59:50 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:36.477869"
+    "fetched_at": "2026-03-29T12:02:53.278245"
   },
   {
     "source": "rss",
@@ -2301,19 +2133,7 @@
     "published": "Wed, 25 Mar 2026 18:04:00 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:36.477869"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Business News",
-    "title": "Delta suspends 'specialty services' perk for members of Congress, cites DHS shutdown",
-    "thumbnail": null,
-    "url": "https://www.cnbc.com/2026/03/24/delta-airlines-congress-dhs-shutdown-tsa.html",
-    "published": "Tue, 24 Mar 2026 18:50:33 GMT",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:36.477869"
+    "fetched_at": "2026-03-29T12:02:53.278262"
   },
   {
     "source": "rss",
@@ -2325,7 +2145,7 @@
     "published": "Wed, 03 Oct 2018 07:28:17 EDT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:38.415206"
+    "fetched_at": "2026-03-29T12:02:53.448692"
   },
   {
     "source": "rss",
@@ -2337,7 +2157,7 @@
     "published": "Tue, 02 Oct 2018 18:02:25 EDT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:38.415206"
+    "fetched_at": "2026-03-29T12:02:53.448708"
   },
   {
     "source": "rss",
@@ -2349,7 +2169,7 @@
     "published": "Tue, 02 Oct 2018 14:49:03 EDT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:38.415206"
+    "fetched_at": "2026-03-29T12:02:53.448717"
   },
   {
     "source": "rss",
@@ -2361,7 +2181,7 @@
     "published": "Tue, 02 Oct 2018 12:35:12 EDT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:38.415206"
+    "fetched_at": "2026-03-29T12:02:53.448727"
   },
   {
     "source": "rss",
@@ -2373,7 +2193,7 @@
     "published": "Mon, 01 Oct 2018 15:00:39 EDT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:38.415206"
+    "fetched_at": "2026-03-29T12:02:53.448736"
   },
   {
     "source": "rss",
@@ -2385,7 +2205,7 @@
     "published": "Mon, 01 Oct 2018 11:24:42 EDT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:38.415206"
+    "fetched_at": "2026-03-29T12:02:53.448744"
   },
   {
     "source": "rss",
@@ -2397,7 +2217,7 @@
     "published": "Mon, 01 Oct 2018 11:02:37 EDT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:38.415206"
+    "fetched_at": "2026-03-29T12:02:53.448752"
   },
   {
     "source": "rss",
@@ -2409,7 +2229,7 @@
     "published": "Sun, 30 Sep 2018 08:56:16 EDT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:38.415206"
+    "fetched_at": "2026-03-29T12:02:53.448761"
   },
   {
     "source": "rss",
@@ -2421,7 +2241,7 @@
     "published": "Fri, 28 Sep 2018 16:32:19 EDT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:38.415206"
+    "fetched_at": "2026-03-29T12:02:53.448769"
   },
   {
     "source": "rss",
@@ -2433,7 +2253,7 @@
     "published": "Fri, 28 Sep 2018 12:15:34 EDT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:38.415206"
+    "fetched_at": "2026-03-29T12:02:53.448779"
   },
   {
     "source": "rss",
@@ -2445,7 +2265,7 @@
     "published": "Fri, 28 Sep 2018 11:56:16 EDT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:38.415206"
+    "fetched_at": "2026-03-29T12:02:53.448787"
   },
   {
     "source": "rss",
@@ -2457,7 +2277,7 @@
     "published": "Fri, 28 Sep 2018 11:05:19 EDT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:38.415206"
+    "fetched_at": "2026-03-29T12:02:53.448804"
   },
   {
     "source": "rss",
@@ -2469,7 +2289,7 @@
     "published": "Fri, 28 Sep 2018 07:16:22 EDT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:38.415206"
+    "fetched_at": "2026-03-29T12:02:53.448811"
   },
   {
     "source": "rss",
@@ -2481,7 +2301,7 @@
     "published": "Thu, 27 Sep 2018 11:14:40 EDT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:38.415206"
+    "fetched_at": "2026-03-29T12:02:53.448820"
   },
   {
     "source": "rss",
@@ -2493,7 +2313,7 @@
     "published": "Fri, 20 Mar 2026 14:29:45 -0400",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:39.619641"
+    "fetched_at": "2026-03-29T12:02:53.655852"
   },
   {
     "source": "rss",
@@ -2505,7 +2325,7 @@
     "published": "Thu, 19 Mar 2026 17:30:40 -0400",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:39.619641"
+    "fetched_at": "2026-03-29T12:02:53.655869"
   },
   {
     "source": "rss",
@@ -2517,7 +2337,7 @@
     "published": "Thu, 19 Mar 2026 13:14:36 -0400",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:39.619641"
+    "fetched_at": "2026-03-29T12:02:53.655884"
   },
   {
     "source": "rss",
@@ -2529,7 +2349,7 @@
     "published": "Wed, 18 Mar 2026 20:20:08 -0400",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:39.619641"
+    "fetched_at": "2026-03-29T12:02:53.655894"
   },
   {
     "source": "rss",
@@ -2541,7 +2361,7 @@
     "published": "Mon, 16 Mar 2026 14:41:57 -0400",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:39.619641"
+    "fetched_at": "2026-03-29T12:02:53.655904"
   },
   {
     "source": "rss",
@@ -2553,7 +2373,7 @@
     "published": "Wed, 11 Mar 2026 21:59:44 -0500",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:39.619641"
+    "fetched_at": "2026-03-29T12:02:53.655915"
   },
   {
     "source": "rss",
@@ -2565,7 +2385,7 @@
     "published": "Wed, 04 Mar 2026 22:40:25 -0500",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:39.619641"
+    "fetched_at": "2026-03-29T12:02:53.655926"
   },
   {
     "source": "rss",
@@ -2577,7 +2397,7 @@
     "published": "Tue, 03 Mar 2026 12:01:29 -0500",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:39.619641"
+    "fetched_at": "2026-03-29T12:02:53.655947"
   },
   {
     "source": "rss",
@@ -2589,7 +2409,7 @@
     "published": "Mon, 02 Mar 2026 11:19:08 -0500",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:39.619641"
+    "fetched_at": "2026-03-29T12:02:53.655973"
   },
   {
     "source": "rss",
@@ -2601,7 +2421,7 @@
     "published": "Fri, 27 Feb 2026 11:34:37 -0500",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:39.619641"
+    "fetched_at": "2026-03-29T12:02:53.655996"
   },
   {
     "source": "rss",
@@ -2613,7 +2433,7 @@
     "published": "Wed, 11 Jun 2025 07:09:00 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:40.877467"
+    "fetched_at": "2026-03-29T12:02:53.726137"
   },
   {
     "source": "rss",
@@ -2625,7 +2445,7 @@
     "published": "Tue, 06 May 2025 11:59:00 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:40.877467"
+    "fetched_at": "2026-03-29T12:02:53.726166"
   },
   {
     "source": "rss",
@@ -2637,7 +2457,7 @@
     "published": "Thu, 12 Dec 2024 08:32:00 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:40.877467"
+    "fetched_at": "2026-03-29T12:02:53.726214"
   },
   {
     "source": "rss",
@@ -2649,7 +2469,7 @@
     "published": "Fri, 22 Nov 2024 08:34:00 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:40.877467"
+    "fetched_at": "2026-03-29T12:02:53.726246"
   },
   {
     "source": "rss",
@@ -2661,7 +2481,7 @@
     "published": "Fri, 22 Nov 2024 08:34:00 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:40.877467"
+    "fetched_at": "2026-03-29T12:02:53.726269"
   },
   {
     "source": "rss",
@@ -2673,7 +2493,7 @@
     "published": "Fri, 01 Mar 2024 14:47:00 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:40.877467"
+    "fetched_at": "2026-03-29T12:02:53.726316"
   },
   {
     "source": "rss",
@@ -2685,7 +2505,7 @@
     "published": "Tue, 27 Feb 2024 12:40:00 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:40.877467"
+    "fetched_at": "2026-03-29T12:02:53.726349"
   },
   {
     "source": "rss",
@@ -2697,7 +2517,7 @@
     "published": "Sun, 29 Mar 2026 11:12:33 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:42.034562"
+    "fetched_at": "2026-03-29T12:02:54.004851"
   },
   {
     "source": "rss",
@@ -2709,7 +2529,7 @@
     "published": "Sat, 28 Mar 2026 00:41:55 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:42.034562"
+    "fetched_at": "2026-03-29T12:02:54.004868"
   },
   {
     "source": "rss",
@@ -2721,7 +2541,7 @@
     "published": "Fri, 27 Mar 2026 18:28:34 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:42.034562"
+    "fetched_at": "2026-03-29T12:02:54.004888"
   },
   {
     "source": "rss",
@@ -2733,7 +2553,7 @@
     "published": "Fri, 27 Mar 2026 11:03:29 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:42.034562"
+    "fetched_at": "2026-03-29T12:02:54.004925"
   },
   {
     "source": "rss",
@@ -2745,7 +2565,7 @@
     "published": "Fri, 27 Mar 2026 01:25:17 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:42.034562"
+    "fetched_at": "2026-03-29T12:02:54.004935"
   },
   {
     "source": "rss",
@@ -2757,7 +2577,7 @@
     "published": "Thu, 26 Mar 2026 23:36:14 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:42.034562"
+    "fetched_at": "2026-03-29T12:02:54.004944"
   },
   {
     "source": "rss",
@@ -2769,7 +2589,7 @@
     "published": "Fri, 27 Mar 2026 06:32:59 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:42.034562"
+    "fetched_at": "2026-03-29T12:02:54.004953"
   },
   {
     "source": "rss",
@@ -2781,7 +2601,7 @@
     "published": "Fri, 27 Mar 2026 00:44:24 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:42.034562"
+    "fetched_at": "2026-03-29T12:02:54.004962"
   },
   {
     "source": "rss",
@@ -2793,7 +2613,7 @@
     "published": "Thu, 26 Mar 2026 16:14:54 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:42.034562"
+    "fetched_at": "2026-03-29T12:02:54.004971"
   },
   {
     "source": "rss",
@@ -2805,7 +2625,7 @@
     "published": "Thu, 26 Mar 2026 17:29:13 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:42.035682"
+    "fetched_at": "2026-03-29T12:02:54.004980"
   },
   {
     "source": "rss",
@@ -2817,19 +2637,7 @@
     "published": "Sun, 29 Mar 2026 09:11:38 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:45.797675"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "International homepage",
-    "title": "Eurozone borrowing costs soar on fears of fiscal hit from Iran shock",
-    "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb3a70cda-86bb-4963-a94b-948677708ad5.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/8fbabe23-f9d7-4d6e-b7e0-2281a28d0b2c",
-    "published": "Sun, 29 Mar 2026 04:00:17 GMT",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:45.797675"
+    "fetched_at": "2026-03-29T12:02:55.027446"
   },
   {
     "source": "rss",
@@ -2841,7 +2649,7 @@
     "published": "Sun, 29 Mar 2026 04:00:17 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:45.797675"
+    "fetched_at": "2026-03-29T12:02:55.027476"
   },
   {
     "source": "rss",
@@ -2853,7 +2661,7 @@
     "published": "Sun, 29 Mar 2026 04:00:17 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:45.797675"
+    "fetched_at": "2026-03-29T12:02:55.027497"
   },
   {
     "source": "rss",
@@ -2865,7 +2673,7 @@
     "published": "Sun, 29 Mar 2026 04:00:17 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:45.797675"
+    "fetched_at": "2026-03-29T12:02:55.027506"
   },
   {
     "source": "rss",
@@ -2877,19 +2685,19 @@
     "published": "Sat, 28 Mar 2026 21:22:15 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:45.797675"
+    "fetched_at": "2026-03-29T12:02:55.027516"
   },
   {
     "source": "rss",
     "category": "European Media",
     "outlet": "International homepage",
-    "title": "Eli Lilly to sign $2bn deal for AI drug development with Hong Kong biotech",
-    "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0af27fd1-2ebd-44ad-a4ad-2ba32d1f2179.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/4efaf8cd-d415-46bb-8fb9-367e4eb3a781",
-    "published": "Sun, 29 Mar 2026 11:00:11 GMT",
+    "title": "Eurozone borrowing costs soar on fears of fiscal hit from Iran shock",
+    "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb3a70cda-86bb-4963-a94b-948677708ad5.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/8fbabe23-f9d7-4d6e-b7e0-2281a28d0b2c",
+    "published": "Sun, 29 Mar 2026 04:00:17 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:45.797675"
+    "fetched_at": "2026-03-29T12:02:55.027526"
   },
   {
     "source": "rss",
@@ -2901,7 +2709,7 @@
     "published": "Sat, 28 Mar 2026 21:12:01 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:45.797675"
+    "fetched_at": "2026-03-29T12:02:55.027535"
   },
   {
     "source": "rss",
@@ -2913,7 +2721,7 @@
     "published": "Sun, 29 Mar 2026 04:00:08 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:45.797675"
+    "fetched_at": "2026-03-29T12:02:55.027545"
   },
   {
     "source": "rss",
@@ -2925,7 +2733,7 @@
     "published": "Sun, 29 Mar 2026 10:00:09 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:45.797675"
+    "fetched_at": "2026-03-29T12:02:55.027553"
   },
   {
     "source": "rss",
@@ -2937,7 +2745,7 @@
     "published": "Thu, 26 Mar 2026 13:57:17 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:46.904904"
+    "fetched_at": "2026-03-29T12:02:55.248875"
   },
   {
     "source": "rss",
@@ -2949,7 +2757,7 @@
     "published": "Thu, 26 Mar 2026 13:57:17 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:46.904904"
+    "fetched_at": "2026-03-29T12:02:55.248890"
   },
   {
     "source": "rss",
@@ -2961,7 +2769,7 @@
     "published": "Thu, 26 Mar 2026 13:57:17 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:46.904904"
+    "fetched_at": "2026-03-29T12:02:55.248904"
   },
   {
     "source": "rss",
@@ -2973,7 +2781,7 @@
     "published": "Wed, 25 Mar 2026 22:48:41 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:46.904904"
+    "fetched_at": "2026-03-29T12:02:55.248918"
   },
   {
     "source": "rss",
@@ -2985,7 +2793,7 @@
     "published": "Wed, 25 Mar 2026 21:09:06 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:46.904904"
+    "fetched_at": "2026-03-29T12:02:55.248953"
   },
   {
     "source": "rss",
@@ -2997,7 +2805,7 @@
     "published": "Wed, 25 Mar 2026 20:46:00 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:46.904904"
+    "fetched_at": "2026-03-29T12:02:55.248968"
   },
   {
     "source": "rss",
@@ -3009,7 +2817,7 @@
     "published": "Thu, 19 Mar 2026 13:50:01 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:46.904904"
+    "fetched_at": "2026-03-29T12:02:55.248996"
   },
   {
     "source": "rss",
@@ -3021,7 +2829,7 @@
     "published": "Thu, 19 Mar 2026 00:10:32 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:46.904904"
+    "fetched_at": "2026-03-29T12:02:55.249040"
   },
   {
     "source": "rss",
@@ -3033,7 +2841,7 @@
     "published": "Wed, 18 Mar 2026 18:51:33 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:46.904904"
+    "fetched_at": "2026-03-29T12:02:55.249053"
   },
   {
     "source": "rss",
@@ -3045,187 +2853,19 @@
     "published": "Tue, 17 Mar 2026 20:36:33 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:46.904904"
+    "fetched_at": "2026-03-29T12:02:55.249065"
   },
   {
     "source": "rss",
     "category": "Indian Media",
-    "outlet": "Moneycontrol Latest News",
-    "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
-    "thumbnail": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy-378x213_200.jpg",
-    "url": "https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html",
-    "published": "Tue, 23 Apr 2024 13:41:02 +0530",
+    "outlet": "Economic Times",
+    "title": "Mutual fund NFO: Only one passive fund opens for subscription this week. Check dates, details",
+    "thumbnail": null,
+    "url": "https://economictimes.indiatimes.com/mf/analysis/mutual-fund-nfo-only-one-passive-fund-opens-for-subscription-this-week-check-dates-details/slideshow/129876506.cms",
+    "published": "Sun, 29 Mar 2026 11:38:07 +0530",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.451571"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Moneycontrol Latest News",
-    "title": "Buy Tejas Networks; target of Rs 1100: Emkay Global Financial",
-    "thumbnail": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_1_200.jpg",
-    "url": "https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html",
-    "published": "Tue, 23 Apr 2024 13:36:47 +0530",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.451571"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Moneycontrol Latest News",
-    "title": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial",
-    "thumbnail": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_5_200.jpg",
-    "url": "https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html",
-    "published": "Tue, 23 Apr 2024 13:36:44 +0530",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.451571"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Moneycontrol Latest News",
-    "title": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial",
-    "thumbnail": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_5_200.jpg",
-    "url": "https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html",
-    "published": "Tue, 23 Apr 2024 13:36:44 +0530",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.451571"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Moneycontrol Latest News",
-    "title": "Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial",
-    "thumbnail": "https://www.moneycontrol.com/news_image_files/2023/200x200/R/Reduce-2_200.jpg",
-    "url": "https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html",
-    "published": "Tue, 23 Apr 2024 13:26:31 +0530",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.451571"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Moneycontrol Latest News",
-    "title": "Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial",
-    "thumbnail": "https://www.moneycontrol.com/news_image_files/2024/200x200/r/reduced-378x213_200.jpg",
-    "url": "https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html",
-    "published": "Tue, 23 Apr 2024 13:22:33 +0530",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.451571"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Moneycontrol Latest News",
-    "title": "Reduce Wipro; target of Rs 410: ICICI Securities",
-    "thumbnail": "https://www.moneycontrol.com/news_image_files/2023/200x200/R/Reduce-5_200.jpg",
-    "url": "https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html",
-    "published": "Tue, 23 Apr 2024 12:22:08 +0530",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.451571"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Moneycontrol Latest News",
-    "title": "Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities",
-    "thumbnail": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1-378x213_200.jpg",
-    "url": "https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html",
-    "published": "Tue, 23 Apr 2024 12:05:52 +0530",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.451571"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Moneycontrol Latest News",
-    "title": "Buy Patel Engineering; target of Rs 80: ICICI Direct",
-    "thumbnail": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_3_200.jpg",
-    "url": "https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html",
-    "published": "Tue, 23 Apr 2024 12:05:43 +0530",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.451571"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Moneycontrol Latest News",
-    "title": "Accumulate Infosys; target of Rs 1531: KR Choksey",
-    "thumbnail": "https://www.moneycontrol.com/news_image_files/2023/200x200/A/Accumulate_1280x720_3_200.jpg",
-    "url": "https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html",
-    "published": "Tue, 23 Apr 2024 12:05:06 +0530",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.451571"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Moneycontrol Latest News",
-    "title": "Buy Jindal Drilling and Industries; target of Rs 960: Anand Rathi",
-    "thumbnail": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy-378x213_200.jpg",
-    "url": "https://www.moneycontrol.com/news/recommendations/buy-jindal-drillingindustries-targetrs-960-anand-rathi_17531431.html",
-    "published": "Tue, 23 Apr 2024 12:04:28 +0530",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.451571"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Moneycontrol Latest News",
-    "title": "Buy Navneet Education; target of Rs 182: Prabhudas Lilladher",
-    "thumbnail": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_3_200.jpg",
-    "url": "https://www.moneycontrol.com/news/recommendations/buy-navneet-education-targetrs-182-prabhudas-lilladher_17531441.html",
-    "published": "Tue, 23 Apr 2024 12:04:07 +0530",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.451571"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Moneycontrol Latest News",
-    "title": "Sell Indus Tower; target of Rs 260: ICICI Securities",
-    "thumbnail": "https://www.moneycontrol.com/news_image_files/2017/200x200/s/sell1-1_200.jpg",
-    "url": "https://www.moneycontrol.com/news/recommendations/sell-indus-tower-targetrs-260-icici-securities_17531381.html",
-    "published": "Tue, 23 Apr 2024 11:56:53 +0530",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.451571"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Moneycontrol Latest News",
-    "title": "Buy City Union Bank; target of Rs 170: ICICI Securities",
-    "thumbnail": "https://www.moneycontrol.com/news_image_files/2017/200x200/s/sell2_200.jpg",
-    "url": "https://www.moneycontrol.com/news/recommendations/buy-city-union-bank-targetrs-170-icici-securities_17531361.html",
-    "published": "Tue, 23 Apr 2024 11:46:51 +0530",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.451571"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Moneycontrol Latest News",
-    "title": "Buy Hatsun Agro Products; target of Rs 1190: ICICI Securities",
-    "thumbnail": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_3_200.jpg",
-    "url": "https://www.moneycontrol.com/news/recommendations/buy-hatsun-agro-products-targetrs-1190-icici-securities_17531371.html",
-    "published": "Tue, 23 Apr 2024 11:46:43 +0530",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.451571"
+    "fetched_at": "2026-03-29T12:02:55.892984"
   },
   {
     "source": "rss",
@@ -3237,31 +2877,7 @@
     "published": "Sun, 29 Mar 2026 14:06:54 +0530",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.987448"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Economic Times",
-    "title": "NCLAT dismisses BSE pleas challenging NCLT’s power to defreeze demat accounts in insolvency cases",
-    "thumbnail": null,
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/nclat-dismisses-bse-pleas-challenging-nclts-power-to-defreeze-demat-accounts-in-insolvency-cases/articleshow/129877891.cms",
-    "published": "Sun, 29 Mar 2026 14:12:44 +0530",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.987448"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Economic Times",
-    "title": "Mcap of 7 of top-10 most valued firms drops by Rs 1.75 lakh cr; Reliance biggest laggard",
-    "thumbnail": null,
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-7-of-top-10-most-valued-firms-drops-by-rs-1-75-lakh-cr-reliance-biggest-laggard/articleshow/129877989.cms",
-    "published": "Sun, 29 Mar 2026 14:24:53 +0530",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.987448"
+    "fetched_at": "2026-03-29T12:02:55.893070"
   },
   {
     "source": "rss",
@@ -3273,7 +2889,7 @@
     "published": "Thu, 26 Mar 2026 00:46:44 +0530",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:47.988768"
+    "fetched_at": "2026-03-29T12:02:55.893148"
   },
   {
     "source": "rss",
@@ -3285,7 +2901,7 @@
     "published": "Sun, 29 Mar 2026 13:55:22 +0530",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:48.837008"
+    "fetched_at": "2026-03-29T12:02:56.339037"
   },
   {
     "source": "rss",
@@ -3297,7 +2913,7 @@
     "published": "Sun, 29 Mar 2026 11:28:48 +0530",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:48.837008"
+    "fetched_at": "2026-03-29T12:02:56.339091"
   },
   {
     "source": "rss",
@@ -3309,7 +2925,19 @@
     "published": "Sun, 29 Mar 2026 07:00:45 +0530",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:48.837008"
+    "fetched_at": "2026-03-29T12:02:56.339201"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "News - South China Morning Post",
+    "title": "French prosecutors open terror probe after Bank of America attack attempt",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/29/f01a9cbf-10de-4305-a890-2c2d786cce2e_59e4eec5.jpg?itok=u8-nCmDu&v=1774784757",
+    "url": "https://www.scmp.com/news/world/europe/article/3348307/french-prosecutors-open-terror-probe-after-bank-america-attack-attempt?utm_source=rss_feed",
+    "published": "Sun, 29 Mar 2026 11:45:58 +0000",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-29T12:02:57.026066"
   },
   {
     "source": "rss",
@@ -3321,7 +2949,7 @@
     "published": "Sun, 29 Mar 2026 10:35:13 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:50.662622"
+    "fetched_at": "2026-03-29T12:02:57.026104"
   },
   {
     "source": "rss",
@@ -3333,7 +2961,7 @@
     "published": "Sun, 29 Mar 2026 10:18:10 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:50.662622"
+    "fetched_at": "2026-03-29T12:02:57.026117"
   },
   {
     "source": "rss",
@@ -3345,7 +2973,7 @@
     "published": "Sun, 29 Mar 2026 10:00:13 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:50.662622"
+    "fetched_at": "2026-03-29T12:02:57.026128"
   },
   {
     "source": "rss",
@@ -3357,7 +2985,7 @@
     "published": "Sun, 29 Mar 2026 09:00:13 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:50.662622"
+    "fetched_at": "2026-03-29T12:02:57.026164"
   },
   {
     "source": "rss",
@@ -3369,7 +2997,7 @@
     "published": "Sun, 29 Mar 2026 09:00:10 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:50.662622"
+    "fetched_at": "2026-03-29T12:02:57.026176"
   },
   {
     "source": "rss",
@@ -3381,7 +3009,7 @@
     "published": "Sun, 29 Mar 2026 08:44:04 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:50.662622"
+    "fetched_at": "2026-03-29T12:02:57.026188"
   },
   {
     "source": "rss",
@@ -3393,19 +3021,7 @@
     "published": "Sun, 29 Mar 2026 07:36:34 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:50.662622"
-  },
-  {
-    "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "News - South China Morning Post",
-    "title": "Hong Kong’s ageing challenge: is Singapore’s Kampung Admiralty model the answer?",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/28/5ed15ca2-50c6-4418-b1d3-1910db8999b0_6ea83e83.jpg?itok=Z3bBJTjd&v=1774692503",
-    "url": "https://www.scmp.com/business/article/3348254/hong-kongs-ageing-challenge-singapores-kampung-admiralty-model-answer?utm_source=rss_feed",
-    "published": "Sun, 29 Mar 2026 07:30:08 +0000",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:50.662622"
+    "fetched_at": "2026-03-29T12:02:57.026222"
   },
   {
     "source": "rss",
@@ -3417,7 +3033,7 @@
     "published": "",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:52.033113"
+    "fetched_at": "2026-03-29T12:02:57.191636"
   },
   {
     "source": "rss",
@@ -3429,7 +3045,7 @@
     "published": "",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:52.033113"
+    "fetched_at": "2026-03-29T12:02:57.191680"
   },
   {
     "source": "rss",
@@ -3441,7 +3057,7 @@
     "published": "",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:52.033113"
+    "fetched_at": "2026-03-29T12:02:57.191696"
   },
   {
     "source": "rss",
@@ -3453,7 +3069,7 @@
     "published": "",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:52.033113"
+    "fetched_at": "2026-03-29T12:02:57.191711"
   },
   {
     "source": "rss",
@@ -3465,7 +3081,7 @@
     "published": "",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:52.033113"
+    "fetched_at": "2026-03-29T12:02:57.191741"
   },
   {
     "source": "rss",
@@ -3477,7 +3093,7 @@
     "published": "",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:52.033113"
+    "fetched_at": "2026-03-29T12:02:57.191756"
   },
   {
     "source": "rss",
@@ -3489,7 +3105,7 @@
     "published": "",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:52.033113"
+    "fetched_at": "2026-03-29T12:02:57.191771"
   },
   {
     "source": "rss",
@@ -3501,7 +3117,7 @@
     "published": "",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:52.033113"
+    "fetched_at": "2026-03-29T12:02:57.191831"
   },
   {
     "source": "rss",
@@ -3513,7 +3129,7 @@
     "published": "",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:52.033113"
+    "fetched_at": "2026-03-29T12:02:57.191846"
   },
   {
     "source": "rss",
@@ -3525,7 +3141,7 @@
     "published": "",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:52.033113"
+    "fetched_at": "2026-03-29T12:02:57.191861"
   },
   {
     "source": "rss",
@@ -3537,7 +3153,7 @@
     "published": "Thu, 12 Mar 2026 00:00:00 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:54.308474"
+    "fetched_at": "2026-03-29T12:02:57.562822"
   },
   {
     "source": "rss",
@@ -3549,7 +3165,7 @@
     "published": "Tue, 10 Mar 2026 00:00:00 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:54.308474"
+    "fetched_at": "2026-03-29T12:02:57.562884"
   },
   {
     "source": "rss",
@@ -3561,7 +3177,7 @@
     "published": "Tue, 10 Mar 2026 00:00:00 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:54.308474"
+    "fetched_at": "2026-03-29T12:02:57.562898"
   },
   {
     "source": "rss",
@@ -3573,7 +3189,7 @@
     "published": "Tue, 10 Mar 2026 00:00:00 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:54.308474"
+    "fetched_at": "2026-03-29T12:02:57.562912"
   },
   {
     "source": "rss",
@@ -3585,7 +3201,7 @@
     "published": "Mon, 09 Mar 2026 00:00:00 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:54.308474"
+    "fetched_at": "2026-03-29T12:02:57.562943"
   },
   {
     "source": "rss",
@@ -3597,7 +3213,7 @@
     "published": "Tue, 24 Feb 2026 00:00:00 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:54.308474"
+    "fetched_at": "2026-03-29T12:02:57.562958"
   },
   {
     "source": "rss",
@@ -3609,7 +3225,7 @@
     "published": "Tue, 24 Mar 2026 06:30:28 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:55.195228"
+    "fetched_at": "2026-03-29T12:02:58.078771"
   },
   {
     "source": "rss",
@@ -3621,7 +3237,7 @@
     "published": "Thu, 26 Mar 2026 10:16:27 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:55.195228"
+    "fetched_at": "2026-03-29T12:02:58.078790"
   },
   {
     "source": "rss",
@@ -3633,7 +3249,7 @@
     "published": "Fri, 20 Mar 2026 09:46:30 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:55.195228"
+    "fetched_at": "2026-03-29T12:02:58.078813"
   },
   {
     "source": "rss",
@@ -3645,7 +3261,7 @@
     "published": "Thu, 26 Mar 2026 10:57:35 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:55.195228"
+    "fetched_at": "2026-03-29T12:02:58.078844"
   },
   {
     "source": "rss",
@@ -3657,91 +3273,103 @@
     "published": "Thu, 26 Mar 2026 14:56:50 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:55.195228"
+    "fetched_at": "2026-03-29T12:02:58.078929"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "TASS",
-    "title": "US attack against Iran caused harmful consequences for peace — Peskov",
+    "title": "Khrunichev Center begins production of three Angara-A5M rockets for launching ROS modules",
     "thumbnail": null,
-    "url": "https://tass.com/economy/2108547",
-    "published": "Sun, 29 Mar 2026 11:50:02 +0300",
+    "url": "https://tass.com/science/1969671",
+    "published": "Fri, 06 Jun 2025 13:03:51 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:57.196817"
+    "fetched_at": "2026-03-29T12:02:59.144663"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "TASS",
-    "title": "Board of Peace appears less current amid US aggression in Iran — Peskov",
+    "title": "Gagauzia head faces court: recent developments",
     "thumbnail": null,
-    "url": "https://tass.com/politics/2108545",
-    "published": "Sun, 29 Mar 2026 11:45:48 +0300",
+    "url": "https://tass.com/world/1969667",
+    "published": "Fri, 06 Jun 2025 13:03:02 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:57.196817"
+    "fetched_at": "2026-03-29T12:02:59.144678"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "TASS",
-    "title": "Ukraine planted explosives in Seversky Donets — Donbass Canal",
+    "title": "Trump-Musk clash costs both hefty sums in one day — media",
     "thumbnail": null,
-    "url": "https://tass.com/defense/2108543",
-    "published": "Sun, 29 Mar 2026 11:43:38 +0300",
+    "url": "https://tass.com/economy/1969669",
+    "published": "Fri, 06 Jun 2025 13:01:16 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:57.196817"
+    "fetched_at": "2026-03-29T12:02:59.144696"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "TASS",
-    "title": "Bahrain, Kuwait keep airspace closed",
+    "title": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
     "thumbnail": null,
-    "url": "https://tass.com/economy/2108541",
-    "published": "Sun, 29 Mar 2026 11:37:15 +0300",
+    "url": "https://tass.com/world/1969663",
+    "published": "Fri, 06 Jun 2025 12:45:53 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:57.196817"
+    "fetched_at": "2026-03-29T12:02:59.144726"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "TASS",
-    "title": "Plant in Togliatti attacked by drones — authorities",
+    "title": "WHO reports over 8,500 global attacks on health facilities since 2018 — director general",
     "thumbnail": null,
-    "url": "https://tass.com/emergencies/2108539",
-    "published": "Sun, 29 Mar 2026 11:35:50 +0300",
+    "url": "https://tass.com/society/1969643",
+    "published": "Fri, 06 Jun 2025 12:34:36 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:57.196817"
+    "fetched_at": "2026-03-29T12:02:59.144747"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "TASS",
-    "title": "Peacemakers will win, Dmitriev says",
+    "title": "Shadow of 'potential brutal divorce' between Trump-Musk looms over Republicans — TV",
     "thumbnail": null,
-    "url": "https://tass.com/politics/2108523",
-    "published": "Sun, 29 Mar 2026 09:47:50 +0300",
+    "url": "https://tass.com/world/1969641",
+    "published": "Fri, 06 Jun 2025 12:31:08 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:57.196817"
+    "fetched_at": "2026-03-29T12:02:59.144763"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "TASS",
-    "title": "Five people killed in bombing of Iranian port — TV",
+    "title": "Attacks ahead of meeting between IAEA, Rosatom chiefs 'pressure tool,' ZNPP believes",
     "thumbnail": null,
-    "url": "https://tass.com/world/2108519",
-    "published": "Sun, 29 Mar 2026 08:37:26 +0300",
+    "url": "https://tass.com/world/1969633",
+    "published": "Fri, 06 Jun 2025 12:01:09 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:57.196817"
+    "fetched_at": "2026-03-29T12:02:59.144805"
+  },
+  {
+    "source": "rss",
+    "category": "Russian Media",
+    "outlet": "TASS",
+    "title": "Rosatom CEO, IAEA chief meet in Kaliningrad",
+    "thumbnail": null,
+    "url": "https://tass.com/economy/1969625",
+    "published": "Fri, 06 Jun 2025 11:39:50 +0300",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-29T12:02:59.144860"
   },
   {
     "source": "rss",
@@ -3753,7 +3381,7 @@
     "published": "Fri, 27 Mar 2026 19:00:42 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:59.251781"
+    "fetched_at": "2026-03-29T12:02:59.380263"
   },
   {
     "source": "rss",
@@ -3765,7 +3393,7 @@
     "published": "Fri, 27 Mar 2026 15:15:58 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:32:59.251781"
+    "fetched_at": "2026-03-29T12:02:59.380354"
   },
   {
     "source": "rss",
@@ -3777,7 +3405,7 @@
     "published": "Sun, 29 Mar 2026 06:23:32 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.153980"
+    "fetched_at": "2026-03-29T12:03:02.429030"
   },
   {
     "source": "rss",
@@ -3789,7 +3417,7 @@
     "published": "Sun, 29 Mar 2026 04:39:55 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.153980"
+    "fetched_at": "2026-03-29T12:03:02.429049"
   },
   {
     "source": "rss",
@@ -3801,7 +3429,7 @@
     "published": "Sun, 29 Mar 2026 01:08:56 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.153980"
+    "fetched_at": "2026-03-29T12:03:02.429066"
   },
   {
     "source": "rss",
@@ -3813,7 +3441,7 @@
     "published": "Sat, 28 Mar 2026 16:53:02 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.153980"
+    "fetched_at": "2026-03-29T12:03:02.429141"
   },
   {
     "source": "rss",
@@ -3825,7 +3453,7 @@
     "published": "Sat, 28 Mar 2026 16:34:04 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.153980"
+    "fetched_at": "2026-03-29T12:03:02.429157"
   },
   {
     "source": "rss",
@@ -3837,7 +3465,7 @@
     "published": "Sat, 28 Mar 2026 15:27:08 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.153980"
+    "fetched_at": "2026-03-29T12:03:02.429173"
   },
   {
     "source": "rss",
@@ -3849,7 +3477,7 @@
     "published": "Sat, 28 Mar 2026 14:29:02 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.153980"
+    "fetched_at": "2026-03-29T12:03:02.429190"
   },
   {
     "source": "rss",
@@ -3861,7 +3489,7 @@
     "published": "Sat, 28 Mar 2026 14:24:42 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.153980"
+    "fetched_at": "2026-03-29T12:03:02.429206"
   },
   {
     "source": "rss",
@@ -3873,7 +3501,7 @@
     "published": "Sat, 28 Mar 2026 06:22:00 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.153980"
+    "fetched_at": "2026-03-29T12:03:02.429221"
   },
   {
     "source": "rss",
@@ -3885,7 +3513,7 @@
     "published": "Fri, 27 Mar 2026 23:05:57 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.153980"
+    "fetched_at": "2026-03-29T12:03:02.429238"
   },
   {
     "source": "rss",
@@ -3897,7 +3525,7 @@
     "published": "Fri, 27 Mar 2026 21:45:57 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.153980"
+    "fetched_at": "2026-03-29T12:03:02.429255"
   },
   {
     "source": "rss",
@@ -3909,7 +3537,7 @@
     "published": "Sun, 29 Mar 2026 11:09:04 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.591584"
+    "fetched_at": "2026-03-29T12:03:02.547930"
   },
   {
     "source": "rss",
@@ -3921,7 +3549,7 @@
     "published": "Sun, 29 Mar 2026 10:33:51 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.591584"
+    "fetched_at": "2026-03-29T12:03:02.547948"
   },
   {
     "source": "rss",
@@ -3933,7 +3561,7 @@
     "published": "Sun, 29 Mar 2026 09:15:57 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.591584"
+    "fetched_at": "2026-03-29T12:03:02.547977"
   },
   {
     "source": "rss",
@@ -3945,7 +3573,7 @@
     "published": "Sun, 29 Mar 2026 08:21:13 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.591584"
+    "fetched_at": "2026-03-29T12:03:02.548020"
   },
   {
     "source": "rss",
@@ -3957,7 +3585,7 @@
     "published": "Sun, 29 Mar 2026 07:31:17 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.591584"
+    "fetched_at": "2026-03-29T12:03:02.548048"
   },
   {
     "source": "rss",
@@ -3969,7 +3597,7 @@
     "published": "Sun, 29 Mar 2026 07:30:22 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.591584"
+    "fetched_at": "2026-03-29T12:03:02.548062"
   },
   {
     "source": "rss",
@@ -3981,7 +3609,7 @@
     "published": "Sun, 29 Mar 2026 07:20:58 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.592780"
+    "fetched_at": "2026-03-29T12:03:02.548076"
   },
   {
     "source": "rss",
@@ -3993,7 +3621,7 @@
     "published": "Sun, 29 Mar 2026 07:15:40 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.592780"
+    "fetched_at": "2026-03-29T12:03:02.548090"
   },
   {
     "source": "rss",
@@ -4005,7 +3633,7 @@
     "published": "Sun, 29 Mar 2026 07:15:19 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.592780"
+    "fetched_at": "2026-03-29T12:03:02.548104"
   },
   {
     "source": "rss",
@@ -4017,7 +3645,7 @@
     "published": "Sun, 29 Mar 2026 07:14:59 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:05.592780"
+    "fetched_at": "2026-03-29T12:03:02.548117"
   },
   {
     "source": "rss",
@@ -4029,7 +3657,7 @@
     "published": "Sat, 28 Mar 2026 02:33:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:06.157122"
+    "fetched_at": "2026-03-29T12:03:02.678804"
   },
   {
     "source": "rss",
@@ -4041,7 +3669,7 @@
     "published": "Sat, 28 Mar 2026 02:05:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:06.157122"
+    "fetched_at": "2026-03-29T12:03:02.678822"
   },
   {
     "source": "rss",
@@ -4053,7 +3681,7 @@
     "published": "Fri, 27 Mar 2026 23:39:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:06.157122"
+    "fetched_at": "2026-03-29T12:03:02.678858"
   },
   {
     "source": "rss",
@@ -4065,7 +3693,7 @@
     "published": "Fri, 27 Mar 2026 21:31:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:06.157122"
+    "fetched_at": "2026-03-29T12:03:02.678916"
   },
   {
     "source": "rss",
@@ -4077,7 +3705,7 @@
     "published": "Fri, 27 Mar 2026 14:45:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:06.157122"
+    "fetched_at": "2026-03-29T12:03:02.678927"
   },
   {
     "source": "rss",
@@ -4089,7 +3717,7 @@
     "published": "Fri, 27 Mar 2026 06:15:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:06.157122"
+    "fetched_at": "2026-03-29T12:03:02.678937"
   },
   {
     "source": "rss",
@@ -4101,7 +3729,7 @@
     "published": "Fri, 27 Mar 2026 14:38:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:06.157122"
+    "fetched_at": "2026-03-29T12:03:02.678947"
   },
   {
     "source": "rss",
@@ -4113,7 +3741,7 @@
     "published": "Fri, 27 Mar 2026 14:17:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:06.157122"
+    "fetched_at": "2026-03-29T12:03:02.678958"
   },
   {
     "source": "rss",
@@ -4125,7 +3753,7 @@
     "published": "2026-03-29T05:05:27+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:07.846807"
+    "fetched_at": "2026-03-29T12:03:03.294552"
   },
   {
     "source": "rss",
@@ -4137,7 +3765,7 @@
     "published": "2026-03-29T05:32:58+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:07.846807"
+    "fetched_at": "2026-03-29T12:03:03.294568"
   },
   {
     "source": "rss",
@@ -4149,7 +3777,7 @@
     "published": "2026-03-29T01:07:22+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:07.846807"
+    "fetched_at": "2026-03-29T12:03:03.294579"
   },
   {
     "source": "rss",
@@ -4161,7 +3789,7 @@
     "published": "2026-03-28T20:17:46+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:07.846807"
+    "fetched_at": "2026-03-29T12:03:03.294590"
   },
   {
     "source": "rss",
@@ -4173,7 +3801,7 @@
     "published": "2026-03-28T16:57:46+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:07.846807"
+    "fetched_at": "2026-03-29T12:03:03.294623"
   },
   {
     "source": "rss",
@@ -4185,7 +3813,7 @@
     "published": "2026-03-28T19:35:51+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:07.846807"
+    "fetched_at": "2026-03-29T12:03:03.294632"
   },
   {
     "source": "rss",
@@ -4197,7 +3825,7 @@
     "published": "2026-03-28T07:33:31+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:07.846807"
+    "fetched_at": "2026-03-29T12:03:03.294640"
   },
   {
     "source": "rss",
@@ -4209,7 +3837,7 @@
     "published": "2026-03-29T10:13:55+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:07.846807"
+    "fetched_at": "2026-03-29T12:03:03.294650"
   },
   {
     "source": "rss",
@@ -4221,7 +3849,7 @@
     "published": "2026-03-28T20:19:53+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:07.846807"
+    "fetched_at": "2026-03-29T12:03:03.294664"
   },
   {
     "source": "rss",
@@ -4233,7 +3861,19 @@
     "published": "2026-03-28T20:23:07+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:07.846807"
+    "fetched_at": "2026-03-29T12:03:03.294673"
+  },
+  {
+    "source": "rss",
+    "category": "Alternative & Independent",
+    "outlet": "Geopolitics: Geopolitical news, analysis, & discussion",
+    "title": "AI got the blame for the Iran school bombing. The truth is far more worrying • LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity",
+    "thumbnail": "https://external-preview.redd.it/XiMvyCY-XLckWunCF2AlbDP498YKmfRVC05EG4A7RWU.jpeg?width=640&crop=smart&auto=webp&s=c58faf9006c7d5eabb08bedad63d2f7245372dd6",
+    "url": "https://www.reddit.com/r/geopolitics/comments/1s631xq/ai_got_the_blame_for_the_iran_school_bombing_the/",
+    "published": "2026-03-28T15:16:31+00:00",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-29T12:03:03.294693"
   },
   {
     "source": "rss",
@@ -4245,7 +3885,7 @@
     "published": "2026-03-26T06:42:13+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:09.409408"
+    "fetched_at": "2026-03-29T12:03:04.396309"
   },
   {
     "source": "rss",
@@ -4257,7 +3897,7 @@
     "published": "2026-03-29T03:20:10+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:09.409408"
+    "fetched_at": "2026-03-29T12:03:04.396320"
   },
   {
     "source": "rss",
@@ -4269,19 +3909,7 @@
     "published": "2026-03-29T05:11:34+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:09.409408"
-  },
-  {
-    "source": "rss",
-    "category": "Alternative & Independent",
-    "outlet": "World News",
-    "title": "US has destroyed only a third of Iran’s missiles, intelligence suggests",
-    "thumbnail": "https://external-preview.redd.it/3RFMg48J0nGOXnJd5Exf-o59ezUCNi9k-lO6hRvIuWw.jpeg?width=640&crop=smart&auto=webp&s=835bc9b05335208414eb77ee1ebda167e9c47817",
-    "url": "https://www.reddit.com/r/worldnews/comments/1s6dx5e/us_has_destroyed_only_a_third_of_irans_missiles/",
-    "published": "2026-03-28T22:24:46+00:00",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:09.409408"
+    "fetched_at": "2026-03-29T12:03:04.396361"
   },
   {
     "source": "rss",
@@ -4293,7 +3921,19 @@
     "published": "2026-03-29T09:54:22+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:09.409408"
+    "fetched_at": "2026-03-29T12:03:04.396370"
+  },
+  {
+    "source": "rss",
+    "category": "Alternative & Independent",
+    "outlet": "World News",
+    "title": "US has destroyed only a third of Iran’s missiles, intelligence suggests",
+    "thumbnail": "https://external-preview.redd.it/3RFMg48J0nGOXnJd5Exf-o59ezUCNi9k-lO6hRvIuWw.jpeg?width=640&crop=smart&auto=webp&s=835bc9b05335208414eb77ee1ebda167e9c47817",
+    "url": "https://www.reddit.com/r/worldnews/comments/1s6dx5e/us_has_destroyed_only_a_third_of_irans_missiles/",
+    "published": "2026-03-28T22:24:46+00:00",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-29T12:03:04.396392"
   },
   {
     "source": "rss",
@@ -4305,7 +3945,7 @@
     "published": "2026-03-28T16:57:07+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:09.409408"
+    "fetched_at": "2026-03-29T12:03:04.396430"
   },
   {
     "source": "rss",
@@ -4317,7 +3957,7 @@
     "published": "2026-03-28T23:02:22+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:09.409408"
+    "fetched_at": "2026-03-29T12:03:04.396449"
   },
   {
     "source": "rss",
@@ -4329,7 +3969,7 @@
     "published": "2024-09-26T16:48:09+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:10.716317"
+    "fetched_at": "2026-03-29T12:03:04.951196"
   },
   {
     "source": "rss",
@@ -4341,7 +3981,7 @@
     "published": "2026-03-29T02:34:20+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:10.716317"
+    "fetched_at": "2026-03-29T12:03:04.951250"
   },
   {
     "source": "rss",
@@ -4353,7 +3993,7 @@
     "published": "2026-03-28T20:03:48+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:10.716317"
+    "fetched_at": "2026-03-29T12:03:04.951278"
   },
   {
     "source": "rss",
@@ -4365,7 +4005,7 @@
     "published": "2026-03-28T18:07:19+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:10.716317"
+    "fetched_at": "2026-03-29T12:03:04.951371"
   },
   {
     "source": "rss",
@@ -4377,7 +4017,7 @@
     "published": "2026-03-28T01:52:31+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:10.716317"
+    "fetched_at": "2026-03-29T12:03:04.951388"
   },
   {
     "source": "rss",
@@ -4389,237 +4029,6 @@
     "published": "2026-03-28T08:28:42+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-29T11:33:10.716317"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "🤥  **Trump isn’t in charge, just doing what he’s told - Ex-top official **\n\nTrump “does not have agency,” says Catherine Austin Fitts , former Assistant Secretary of Housing and Urban Development under George H.W. Bush.\n\n💬 \"If you look at what we're financing in Gaza, that's a holocaust… But Trump doesn't have the power to say no to a whole bunch of things that the MAGA group want him to say no to,” says the US investment banker.\n\nOne of the reasons is “because everybody in America wants their check. And to get their check, he [Trump] has got to suck up to the people who are printing the money.\n\n💬 \"So let me explain the problem. You've got $6 trillion a year of expenses, $4 trillion a year of revenues, and that means you're dependent on the bankers for $2 trillion. And what everybody in America wants is their check. So, the only way you can get their check is to do what the bankers say, right?\"\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "🤥  **Trump isn’t in charge, just doing what he’s told - Ex-top official **",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67450",
-    "posted_at": "2026-03-29T10:27:01+00:00",
-    "fetched_at": "2026-03-29T10:47:07.615863"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "**😱**** ****🇮🇱****🇮🇷**** Conservative Zionist shill touts ‘absolutely precise’ US bombing of Iran**\n\nMarc Thiessen claims that the US bombing campaign unleashed on Iran has been “stunning in its precision.”\n\n💬 \"Everyone's running around saying we hit a school—yeah, by accident! One out of 10,000 targets, we misfired!\" says the political commentator, who has the gall to chuckle at this point.\n\nIran has labeled the February 28 Tomahawk cruise missile strike on the elementary school in Minab, which killed around 168 children, a deliberate war crime.\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "**😱**** ****🇮🇱****🇮🇷**** Conservative Zionist shill touts ‘absolutely precise’ US bombing of Iran**",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67449",
-    "posted_at": "2026-03-29T09:45:30+00:00",
-    "fetched_at": "2026-03-29T10:47:07.615997"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "😶 **‘Pendulum went too far’: BlackRock CEP shrugs off woke overreach **\n\nJuggernaut BlackRock’s puppet master Larry Fink, who in a 2017 interview openly said that his company would “force behaviors” on woke-related matters, pivoted with startling speed.\n\nAsked whether, in hindsight, the woke era was a flop, he fires back:\n\n💬 “Society moves, the pendulum moves all the time. So, do I believe the pendulum five years ago was too far? Yes. Do I believe we're more pragmatic? You know, I'm personally more pragmatic, too.”\n\n❓ Did BlackRock pressure companies?  \n\n💬 “It was never our intention…”\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "😶 **‘Pendulum went too far’: BlackRock CEP shrugs off woke overreach **",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67448",
-    "posted_at": "2026-03-29T09:05:29+00:00",
-    "fetched_at": "2026-03-29T10:47:07.616112"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "🚨 🇮🇷 **Iran strike knocks out US AWACS at Saudi air base, threatens air command network**\n\nImages circulating on social media suggest Iran may have hit one of America’s most critical airborne command-and-control assets at Prince Sultan Air Base in Saudi Arabia. Early indications point to at least one E-3G Sentry AWACS aircraft being destroyed.\n\n👉 The E-3G is far more than a flying radar: it’s a battle-management node that coordinates fighters, tankers, and coalition operations. \nLosing one can compress surveillance coverage, disrupt tanker sequencing, and slow commanders’ ability to maintain a reliable regional air picture.\n\nBuilt on a modified Boeing 707-320B, the Sentry system is already fragile. \n\n📊 E-3 AWACS have a dismal mission-capable rate hovering around 40%, and no clear replacement exists. \n\n📑 The E-7 Wedgetail program, the logical successor, was cut from the 2026 budget by Secretary of War Pete Hegseth.\n\nFor now, the US relies on two aging pillars for airborne battle management: the E-3 Sentry and the E-2 Hawkeye.\n\n🔶 The loss of even a single E-3 would strike at the very backbone of US airborne command-and-control.\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "🚨 🇮🇷 **Iran strike knocks out US AWACS at Saudi air base, threatens air command network**",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67446",
-    "posted_at": "2026-03-29T08:24:16+00:00",
-    "fetched_at": "2026-03-29T10:47:07.616248"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "🇮🇷 🇺🇸 **Iran publicly condemns US Navy officers behind Minab school massacre\n**\nThe Iranian embassy in South Africa called Leigh R. Tate, the commander, and Jeffrey E. York, the executive officer of the USS Spruance, two “criminals,” in a post on X.\n\n“Don’t they have children of their own?” it queried.\n\nSimilar posts featuring photos of the two US Navy officers have been made by Iranian embassies across the world.\n\nIran has accused them of authorizing the launch of Tomahawk missiles three times at the children’s elementary school in Minab.\n\n‼️ The attack, carried out on February 28, took 168 innocent lives.\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "🇮🇷 🇺🇸 **Iran publicly condemns US Navy officers behind Minab school massacre",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67445",
-    "posted_at": "2026-03-29T07:50:18+00:00",
-    "fetched_at": "2026-03-29T10:47:07.616334"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "🚨 🇺🇸 **A US Air Force KC-135R Stratotanker declares emergency over Jordan**\n\nThe tanker is returning to Ben Gurion International Airport in Tel Aviv following a mission over Iraq in support of the military campaign against Iran, flight tracker shows.\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "🚨 🇺🇸 **A US Air Force KC-135R Stratotanker declares emergency over Jordan**",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67444",
-    "posted_at": "2026-03-29T07:09:15+00:00",
-    "fetched_at": "2026-03-29T10:47:07.616386"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "🇵🇰 **Pakistan Pashtun tribes pledge weapons & support to Iran **\n\nTribal leaders of the FATA Loya Jirga, representing various Pashtun tribes, met Iran’s Consul General to mourn the martyrdom of Supreme Leader Ayatollah Khamenei and senior officials, while condemning Israeli attacks.\n\n👆 They pledged full solidarity with Iran, and declared that if needed, “15 million tribal people are ready to join Iran with weapons and help in jihad against Israel.” \n\nThe elders reaffirmed their stance: “We stand with the oppressed, against tyranny, and will not hesitate to make sacrifices for Islam.”\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "🇵🇰 **Pakistan Pashtun tribes pledge weapons & support to Iran **",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67443",
-    "posted_at": "2026-03-29T07:03:01+00:00",
-    "fetched_at": "2026-03-29T10:47:07.616465"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "🚨 🇮🇷 😟 **Conservative mouthpiece hypes sending troops into Iran - right after Trump tells everyone to watch his show**\n\nMark Levin wasted no time pushing the idea of sending US forces into Iran during the latest episode of Life, Liberty & Levin.\n\nAccording to the commentator, American troops must swoop in to grab Iran’s uranium before it’s used for “dirty bombs” or sophisticated missiles.\n\n💬 “We’ve got to get the uranium,” Levin insisted, as he downplayed the scale.\n\n💬 “He [Trump] is not talking about sending regular Army infantry in by the hundreds of thousands. The men he’s talking about, the units he’s talking about, they are specialized,” Levin said.\n\nAll of this came just two hours after Trump boosted Levin on Truth Social, hyping the show and calling for “hitting Iran, HARD!!!”\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "🚨 🇮🇷 😟 **Conservative mouthpiece hypes sending troops into Iran - right after Trump tells everyone to watch his show**",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67442",
-    "posted_at": "2026-03-29T06:20:18+00:00",
-    "fetched_at": "2026-03-29T10:47:07.616569"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "🤥 😨 **Boxed-in Trump scrambles for way out of Iran war amid no-win options**\n\nDonald Trump has reportedly urged senior aides to stress that the war with Iran will end soon, highlighting the four-to-six-week timeline he has publicly outlined, reports Reuters citing a White House official.\n\n👉 However, the source conceded that the floated timeline looks “shaky.” \n\nTrump’s options, according to the outlet, are to accept a flawed deal and declare victory, or double down and risk a further conflagration that could damage his presidency.\n\n🔴 Diplomatic flurries haven’t changed the battlefield reality. Iran is still squeezing Gulf energy flows and launching strikes, while global prices climb and Trump’s approval sinks.\n\nBehind the scenes, the scramble for an off-ramp is reportedly intensifying. The 15-point proposal, quietly funneled through backchannels via Pakistan, underscores this growing urgency. \n\nHowever, analysts tell the publication that the core problem is that no one can define what “winning” actually looks like.\n\n🗣 Trump has been sticking to his hedging act, sending out mixed signals laced with louder threats, possibly including the use of ground troops.\n\nWith midterm elections approaching, the White House is growing increasingly concerned about the war’s political fallout, the outlet reports, citing a former senior Trump administration official.\n\n📊 Trump’s overall approval rating has fallen to 36%, the lowest since his return to the White House, a Reuters/Ipsos poll has found.\nOpinion polls show the war is overwhelmingly unpopular with Americans - and that discontent will only deepen if high gas prices persist.\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "🤥 😨 **Boxed-in Trump scrambles for way out of Iran war amid no-win options**",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67441",
-    "posted_at": "2026-03-29T05:42:01+00:00",
-    "fetched_at": "2026-03-29T10:47:07.616758"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "😱 🇺🇸 **Trump’s tariffs, Hormuz oil shock threaten to destroy world’s 7th largest economy**\n\nIndonesia’s energy imports are more diversified than those of many of its neighbors, relying on Gulf countries for ~25% of its oil and 30-35% of its natural gas.\n\n👉 The problem is, the country’s economy has been severely ‘softened up’ by Trump’s tariff wars over the past year.\n\nIn February, on the eve of the Iran crisis and after seven grueling rounds of trade negotiations, Indonesia and the US signed what was supposed to be a landmark agreement putting the tariff dispute to rest.\n\nThe deal promised to drop US duties on Indonesian goods from 32% to 19%, and introduced exemptions on low-margin, high markup commodities like coffee, cocoa, rubber and palm oil, critical minerals and rare earths.\n\nIndonesia agreed to drop barriers on 99% of US goods, and pledged to buy $33B in US energy, food and aircraft.\nAfter the Supreme Court ruled his tariffs unconstitutional, Trump launched an “unfair trade” probe into Indonesia, seeking to salvage US leverage.\nThen the Iran war hit.\n\n💬 “The economy is heading into a perfect storm,” Siwage Dharma Negara, a Singapore-based Indonesia specialist, told Fortune. “This is something we’ve never imagined before.” \n\nMajor risks include:\n\n🔴 The prospect of a MSCI downgrade of Indonesia’s “emerging market” status, threatening investments and capital outflows\n\n🔴  Moody’s and Fitch’s moves to downgrade outlooks on Indonesia’s sovereign debt, citing “reduced predictability in policymaking” and “budgetary pressures”\n\n🔴  Vulnerabilities from having just 21-25 days of fuel reserves\n\n🔴 Industrial competitiveness fears if energy costs stay elevated\n\n🔴 Tightening budgetary resources amid oil priced in at $70 a barrel (it’s now $100+)\n\n🔴 High societal sensitivities to cost of living protests\n\nMedium-to-long term, Indonesia has options: pivoting to BRICS for conditionality-free loans from the NDB, more energy trade with Russia, and exports/imports to and from China, etc. Short term, however, Trump has trapped Jakarta in a fiscal pincer that could prove impossible to escape\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "😱 🇺🇸 **Trump’s tariffs, Hormuz oil shock threaten to destroy world’s 7th largest economy**",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67440",
-    "posted_at": "2026-03-29T04:58:01+00:00",
-    "fetched_at": "2026-03-29T10:47:07.616974"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "**📈****🌾 Trump’s Iran war triggers global food crisis — fertilizer shock spirals**\n\nThe longer the US-Israeli war on Iran drags on, the closer the world moves toward a full-blown food crisis — and it’s already underway, according to The Telegraph.\n\n🌏 The war has cut off key fertilizer supplies (urea, ammonia, sulphur) at a critical moment in the global planting season.\n🌏 ** Nearly 45%** of globally traded nitrogen is now disrupted, blocked or at risk.\n💬 “It is the number one alert today,” warned WTO official Jean-Marie Paugam, adding **some countries could face mass hunger.**\n\n💬 “If the war goes on… it is going to be a really horrifying crisis unlike anything any of us have ever seen before,” UN expert Abdolreza Abbassian cautioned.\n\n⛔️ Dozens of fertilizer shipments are stuck:\n💬 “We have 24 vessels… that cannot get out to the farmer-customers,” said industry head Corey Rosenbusch.\n🌏 Prices are exploding — urea up 60%, diesel surging — hitting farmers worldwide just before planting season.\n\n🌏 Meanwhile, China, Russia and Turkey are hoarding supplies, tightening export controls and deepening the crisis. Russia, however, is expected to continue supplying key partners in Africa and the Global South, helping offset the impact for vulnerable regions.\n\n🌏 US farmers aren’t spared either — facing shortages and rising costs despite Washington’s “energy dominance” claims.\n\n🌏 The consequences are delayed — but inevitable:\n👉 fertilizer shock now\n👉 crop failures later\n👉 food inflation and shortages in 2027\n\nThe Telegraph warns the world is entering **a “Hobbesian” phase** where survival means growing your own food and energy.\n\n💀 [You reap what you sow.](https://t.me/geopolitics_prime/67377)\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "**📈****🌾 Trump’s Iran war triggers global food crisis — fertilizer shock spirals**",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67439",
-    "posted_at": "2026-03-29T04:16:01+00:00",
-    "fetched_at": "2026-03-29T10:47:07.617183"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "**☠️****⚰️**** ‘I love my job’ — Canada’s MAiD 'doctor' celebrates assisted DEATH**\n\nDr. Ellen Wiebe, a leading practitioner of Canada’s euthanasia program, says she has overseen “over 400” deaths — and calls it the “very best work” of her career.\n\n💬 “This is the very best work I’ve ever done in the last seven years.”\n\n💬 “All you really needed was some more drugs, but you want my drugs? I’ll give them to you,” she said, giggling.\n\nMeanwhile, Canada’s MAiD system keeps expanding. What was once pitched as a last-resort option for the terminally ill now covers chronic conditions, disability — and increasingly, social suffering.\n\n💀 [MAiD deaths have surged into the tens of thousands](https://t.me/geopolitics_prime/61191), with critics warning of a system where poverty, isolation, and despair are quietly reclassified as “unbearable suffering.”\n\nAnd yet, for its most enthusiastic practitioners, this isn’t a moral dilemma — it’s fun.\n💬 “So, Liz, right now you love life and you want to live... but there's lots of nasty illnesses you might get **HA-HA-HA**.”💀\n\n🪦 Because in today’s Canada, [the line between care and killing ](https://t.me/geopolitics_prime/53934)isn’t just blurred … it’s something to be proud of ⚰️\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "**☠️****⚰️**** ‘I love my job’ — Canada’s MAiD 'doctor' celebrates assisted DEATH**",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67438",
-    "posted_at": "2026-03-29T03:03:01+00:00",
-    "fetched_at": "2026-03-29T10:47:07.617331"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "**☠️**** Pentagon eyes ground ops in Iran — as ‘peacemaker’ Trump declares ‘victory’**\n\nThe Pentagon is **preparing for weeks of ground operations in Iran**, involving raids by Special Operations forces and conventional troops — a move that could open a far more dangerous phase of the war, The Washington Post reported.\n\n⛴ And right on cue, United States Central Command proudly announced that **the USS Tripoli and 3,500 Sailors and **[**Marines**](https://t.me/geopolitics_prime/67435)** have just arrived** in the region — ready to be targeted by Iran.\n\n🗺 According to The Washington Post, these plans have been in development for weeks, with options including seizures of Iranian territory like Kharg Island and strikes near the Strait of Hormuz. \n\n💀 Officials admit any ground phase would expose US forces to drones, missiles and improvised explosives — risks already reflected in mounting casualties: 13 troops killed and over 300 wounded so far.\n\n⬇️Trump [declares “victory” daily](https://t.me/geopolitics_prime/67376), calling himself [a “peacemaker.” ](https://t.me/geopolitics_prime/67379)\n\n⬇️Secretary of State Marco Rubio claims the US “can achieve all of our objectives without ground troops.” \n\n🪖 Meanwhile, Pentagon planners quietly prepare ground troops.\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "**☠️**** Pentagon eyes ground ops in Iran — as ‘peacemaker’ Trump declares ‘victory’**",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67436",
-    "posted_at": "2026-03-29T02:14:53+00:00",
-    "fetched_at": "2026-03-29T10:47:07.617486"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "**☠️**** ‘There's a special operations mission being planned’ — ex-CIA analyst**\n\nFormer CIA analyst Larry Johnson suggested that “[**the Marines**](https://t.me/geopolitics_prime/67434)** are being used as bait**, as a deception, [to distract attention](https://t.me/geopolitics_prime/67259)” while the US plans another ground mission.\n\n💬 “What we're witnessing is grand political theatre: **Donald Trump playing a role** — both a distracted person, someone who's constantly changing his mind, [behaving very erratically](https://t.me/geopolitics_prime/67376) — all of this **to create cover for a pretty dramatic special operations mission inside Iran** to perhaps locate and/or seize nuclear fuel from Iran,” Johnson explained.\n\n💬 “It would appear that there is some other operation planned,” he added, suggesting [Trump’s goal remains defeating Iran](https://t.me/geopolitics_prime/67378) — not making peace.\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "**☠️**** ‘There's a special operations mission being planned’ — ex-CIA analyst**",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67435",
-    "posted_at": "2026-03-29T01:01:16+00:00",
-    "fetched_at": "2026-03-29T10:47:07.617603"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "**☠️**** ‘Prepare your family’ — Marine Corps commander warns of ‘MASS MOBILIZATION’ for Iran war**\n\nIn a blunt letter dated March 26, Lieutenant General Leonard Anderson, US Marine Corps Commander, tells Marines that **“a mass mobilization could become reality.”**\n\n💬 “**This is not a theoretical exercise.** Our forces are currently engaged in operations connected to Iran and are positioned to preserve stability in the Western Hemisphere,” he declared.\n\n👑 [“Peace president” ](https://t.me/geopolitics_prime/54445)— now with a ground invasion add-on.\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "**☠️**** ‘Prepare your family’ — Marine Corps commander warns of ‘MASS MOBILIZATION’ for Iran war**",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67434",
-    "posted_at": "2026-03-28T23:52:52+00:00",
-    "fetched_at": "2026-03-29T10:47:07.617709"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "🇮🇷💥 **ULTIMATUM: Condemn bombing of Iranian universities or US universities will be hit — IRGC**\n\nAfter repeated US‑Israeli strikes on Iranian universities — including the latest bombing of Tehran’s University of Science and Technology — the IRGC issued a warning.\n\n💬 \"Warning to the criminal rulers of America! The Zionist American invading forces have bombed Tehran University of Science and Technology, targeting Iranian universities with their bombings for the umpteenth time,\" the IRGC statement said, quoted by Tasnim.\n\n💬 “The reckless rulers of the White House should know that from now on, **all universities of the occupying regime and American universities **in the West Asia region** are legitimate targets** for us until two universities are struck in retaliation for the Iranian universities that have been destroyed,” the IRGC stated.\n\n👉 The White House has two days **to condemn its own war crimes **— or watch its own academic institutions in the Middle East become the price of its aggression.\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "🇮🇷💥 **ULTIMATUM: Condemn bombing of Iranian universities or US universities will be hit — IRGC**",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67433",
-    "posted_at": "2026-03-28T22:38:12+00:00",
-    "fetched_at": "2026-03-29T10:47:07.617836"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "**🤡**** Epstein's safe: FBI LEFT HARD DRIVES — then played hot potato for 5 days**\n\nUnder Trump’s first administration, the FBI cracked open Jeffrey Epstein’s safe — **and then just walked away**.\n📑 Hard drives. Diamonds. Passports.\n🔍 Five days later — gone.\n\nAccording to Business Insider, here’s how “evidence handling” worked:\n\n1️⃣ July 2019 — FBI raids Epstein’s Manhattan mansion. Agents use a chainsaw to open a metal safe. Inside: loose diamonds, cash, fake passports, **HARD DRIVES**, CDs.\n\n2️⃣ No warrant for the safe’s contents. So they **leave everything IN THE MIDDLE OF THE FLOOR** — hard drives, binders, diamonds — piled up like forgotten laundry.\n\n3️⃣ House manager Merwin Dela Cruz arrives. Door broken. Alarm disabled. He decides the items “were not safe to be left alone.” **Packs them into two suitcases.**\n\n4️⃣ The suitcases go to Richard Kahn’s doorman. **Kahn — Epstein’s longtime accountant** — isn’t even in New York. Takes possession three or four days later. Brings the bags into his apartment. Leaves them in his dining room. Claims he never looked inside.\n\n5️⃣** FIVE DAYS AFTER **the raid, they return with a warrant. **The safe is empty**. Kahn delivers the suitcases the same day.\n\n🤦‍♂️ The most sensitive evidence in a major sex-trafficking case… Handled like lost luggage.\n\n💎 Prosecutors later confirmed the safe contained 48 loose diamonds — the exact number Epstein left to his fiancée in his will.\n\n☠️ The hard drives? What was on them remains unclear. The FBI never looked before they were left on the floor.\n\n⏳ This isn’t the first time Epstein’s hard drives “disappeared.”\n\nIn 2005, computers were removed from Epstein’s Palm Beach home just before a search warrant was executed. They ended up with a private investigations firm. Locked in storage. Epstein’s accountant paid the storage fees. Those hard drives were never seen again.\n\n📹🤥 Now, under Trump 2.0: [“no client list”](https://t.me/geopolitics_prime/57673), no accomplices, nothing to investigate anymore.\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "**🤡**** Epstein's safe: FBI LEFT HARD DRIVES — then played hot potato for 5 days**",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67430",
-    "posted_at": "2026-03-28T21:38:57+00:00",
-    "fetched_at": "2026-03-29T10:47:07.618075"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "**🔥****♟ ‘They’re playing 6D chess again!’ — Iran & Pakistan unite to troll the Epstein Regime **\n\nIran’s Parliament Speaker, Mohammad Ghalibaf and Pakistan’s Defense Minister, Khawaja Asif, ripped into Trump's absurd logic.\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "**🔥****♟ ‘They’re playing 6D chess again!’ — Iran & Pakistan unite to troll the Epstein Regime **",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67428",
-    "posted_at": "2026-03-28T20:29:01+00:00",
-    "fetched_at": "2026-03-29T10:47:07.618126"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "**🤡 Iran’s clown prince pledges undying allegiance to the country bombing his homeland**\n\n💬 “Can you imagine Iran going from ‘death to America’ to ‘God bless America’?” [Reza Pahlavi ](https://t.me/geopolitics_prime/62798)asked at CPAC, US conservatives’ biggest and most influential annual gathering.\n💬 “Imagine a new Middle East where Iran is a friend of Israel,” he added.\n💬 “Across Iran and in the diaspora, millions of Iranians have called on me to lead the transition to democracy,” Pahlavi said, ‘humbly’ accepting.\n\nKissing up to Trump by highlighting the failures of past presidents in challenging Iran, Pahlavi could barely get another word in edgewise before the crowd started randomly chanting “thank you Trump!”\n\n__Yes, thank you Mr. President, for murdering nearly 2k Iranians and injuring 20k more, for __[__targeting schools__](https://t.me/geopolitics_prime/66045)__, hospitals, residential areas, and civilian industry.\n\nFor setting the Persian Gulf on fire at Israel’s behest and driving the planet to the brink of a global depression. __\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "**🤡 Iran’s clown prince pledges undying allegiance to the country bombing his homeland**",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67427",
-    "posted_at": "2026-03-28T19:42:01+00:00",
-    "fetched_at": "2026-03-29T10:47:07.618251"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "🪖🇺🇸 **US Marine landing in Iran? 1975 Mayaguez disaster shows why that’s a very bad idea**\n\nThe US military has [no good options for a ground invasion](https://t.me/geopolitics_prime/67259) of Iran, [with the country’s geography,](https://t.me/geopolitics_prime/67287) defenders’ zeal and advanced armament certain to not just give Marines a bloody nose, but become the US’s worst defeat since Indochina. \n\nSpeaking of Indochina, an incident immediately following the liberation of Saigon and the fall of Phnom Penh reveals why amphibious assaults can be extremely risky.\n\nIn May 1975, US forces attempted to seize Koh Tang, a remote island ~52 km off Cambodia’s mainland.\n\nMarines were deployed to rescue the crew of the SS Mayaguez, a US container ship seized by the Khmer Rouge on suspicion of espionage.\n\nThe operation was **a total disaster,** plagued from start to finish by intel failures, poor planning, and lack of coordination.\n\n🌏 President Ford, afraid of looking weak in front of Vietnam and China, canceled negotiations and turned to force almost immediately\n\n🌏 The 39 sailors captured by the Khmer Rouge were not on Koh Tang, but moved to the mainland and released before the Marine assault even began\n\n🌏 During preparations, a CH-53 helicopter crashed, killing all 23 US personnel on board\n\n🌏 Once ~220 Marines did land, instead of the expected poorly-trained militia, they were confronted by a battalion of 100-300 crack Khmer Rouge naval infantry, armed with heavy machine guns, anti-tank weapons and mortars\n\n🌏 In a desperate and chaotic 14-hour battle with almost no naval or air support, 18 Marines were killed, and three additional CH-53s were destroyed. Three troops were left behind during evacuation and executed\n\n🌏 Ford blamed Defense Secretary Schlesinger for the disaster, and fired him several months later\n\n🌏Despite the humiliation and notwithstanding the Khmer Rouge’s atrocities, revealed several years later, the US recognized them as Cambodia’s legitimate government after they were ousted by the Vietnamese army in 1979. The CIA would provide them with $214M in covert aid through the 80s\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "🪖🇺🇸 **US Marine landing in Iran? 1975 Mayaguez disaster shows why that’s a very bad idea**",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67421",
-    "posted_at": "2026-03-28T19:01:01+00:00",
-    "fetched_at": "2026-03-29T10:47:07.618470"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "**💸**** Massie: A few people make money off war - not America**\n\n💬 \"A few people in America make a lot of money off of war, so they want the music to keep going,\" Congressman Thomas Massie said.\n\n💬 “I have this theory that there’s $50bn a year of things that need to get blown up and replaced in order for this segment of the economy to stay healthy,” he added.\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "**💸**** Massie: A few people make money off war - not America**",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67420",
-    "posted_at": "2026-03-28T18:19:01+00:00",
-    "fetched_at": "2026-03-29T10:47:07.618533"
+    "fetched_at": "2026-03-29T12:03:04.951436"
   }
 ]
