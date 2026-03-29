@@ -20,6 +20,17 @@ let newsData     = {};
 let telegramData = [];
 let activeTab    = 'all';
 
+marked.use({ breaks: true, gfm: true, mangle: false, headerIds: false });
+function parseTgInline(text) {
+  const cleaned = text.replace(/\*/g, '');
+  return `<strong>${cleaned.trim()}</strong>`;
+}
+
+function parseTgMarkdown(text) {
+  const cleaned = text.replace(/\*/g, '');
+  return marked.parse(cleaned);
+}
+
 async function init() {
   try {
     const items = await fetch(NEWS_JSON).then(r => r.json());
@@ -118,9 +129,16 @@ function buildCard(a, cat) {
 function renderTelegram() {
   const container = document.getElementById('tg-view');
   container.innerHTML = '';
-  if (!telegramData.length) { container.innerHTML = '<div class="state-msg">No Telegram messages.</div>'; return; }
+  if (!telegramData.length) {
+    container.innerHTML = '<div class="state-msg">No Telegram messages.</div>';
+    return;
+  }
   const byChannel = {};
-  telegramData.forEach(m => { const ch = m.channel || 'unknown'; if (!byChannel[ch]) byChannel[ch] = []; byChannel[ch].push(m); });
+  telegramData.forEach(m => {
+    const ch = m.channel || 'unknown';
+    if (!byChannel[ch]) byChannel[ch] = [];
+    byChannel[ch].push(m);
+  });
   Object.entries(byChannel).forEach(([ch, msgs]) => {
     const section = document.createElement('div');
     section.innerHTML = `<div class="section-label">@${ch} — ${msgs[0]?.channel_title || ch} <span class="count">${msgs.length}</span></div><div class="tg-grid"></div>`;
@@ -132,11 +150,19 @@ function renderTelegram() {
 function buildTgCard(m) {
   const card = document.createElement('div');
   card.className = 'tg-card';
-  const time = m.posted_at ? new Date(m.posted_at).toLocaleString('en-GB', { day:'numeric', month:'short', hour:'2-digit', minute:'2-digit' }) : '';
+
+  const time = m.posted_at ? new Date(m.posted_at).toLocaleString('en-GB', {
+    day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit'
+  }) : '';
+
+  const hasBody = !!(m.full_text && m.full_text.trim());
+  const headline = m.headline ? parseTgInline(m.headline) : '(no text)';
+
+  // Build the card HTML first
   card.innerHTML = `
-    <div class="tg-channel">@${m.channel}</div>
-    <div class="tg-headline">${m.headline || '(no text)'}</div>
-    <div class="tg-body">${m.full_text || ''}</div>
+    <div class="tg-channel">@${m.channel} — ${m.channel_title || ''}</div>
+    <div class="tg-headline">${headline}</div>
+    ${hasBody ? `<button class="tg-toggle">Read more ▾</button><div class="tg-body"></div>` : ''}
     <div class="tg-footer">
       <div class="tg-stats">
         ${m.views    ? `<span>👁 ${m.views.toLocaleString()}</span>` : ''}
@@ -145,12 +171,29 @@ function buildTgCard(m) {
       </div>
       <span class="tg-time">${time}</span>
     </div>`;
-  card.onclick = () => window.open(m.message_url, '_blank');
+
+  // Now query elements and wire up toggle
+  if (hasBody) {
+    const btn  = card.querySelector('.tg-toggle');
+    const body = card.querySelector('.tg-body');
+
+    body.innerHTML = parseTgMarkdown(m.full_text);
+    body.style.display = 'none';
+
+    btn.addEventListener('click', e => {
+      e.stopPropagation();
+      const isHidden = body.style.display === 'none';
+      body.style.display = isHidden ? 'block' : 'none';
+      btn.textContent = isHidden ? 'Show less ▴' : 'Read more ▾';
+    });
+  }
+
+  card.onclick = () => window.open(m.url || m.message_url, '_blank');
   return card;
 }
 
 function renderTicker() {
-  const critical = Object.values(newsData).flat().filter(a => (a.importance || 0) >= 70).slice(0, 12);
+  const critical = Object.values(newsData).flat().filter(a => (a.importance || 0) >= 50).slice(0, 12);
   if (!critical.length) return;
   document.querySelector('.ticker-inner').textContent = critical.map(a => a.title).join('   ◆   ') + '   ◆   ';
 }

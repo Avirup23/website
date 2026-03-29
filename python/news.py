@@ -1,9 +1,11 @@
+from datetime import datetime
+import urllib.parse
 import feedparser
-import json
+import timedelta
 import asyncio
+import json
 import os
 import re
-from datetime import datetime
 
 # ══════════════════════════════════════════════════════════════════════════════
 # CREDENTIALS — set these as GitHub Secrets (or in your local environment)
@@ -20,7 +22,6 @@ REDDIT_CLIENT_SECRET = os.environ.get("REDDIT_CLIENT_SECRET", "")
 RSS_FEEDS = {
     "American Media": [
         "https://feeds.bloomberg.com/markets/news.rss",
-        "https://feeds.bloomberg.com/economics/news.rss",
         "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
         "https://www.cnbc.com/id/10001147/device/rss/rss.html",
         "http://rss.cnn.com/rss/money_news_companies.rss",
@@ -98,11 +99,31 @@ def fetch_rss() -> list[dict]:
                 for e in feed.entries[:15]:
                     title = e.get("title", "")
                     s = score(title)
+
+                    # --- thumbnail extraction ---
+                    thumb = None
+                    # 1. media:thumbnail or media:content
+                    media = e.get("media_thumbnail") or e.get("media_content")
+                    if media and isinstance(media, list):
+                        thumb = media[0].get("url")
+                    # 2. enclosure (podcasts / image enclosures)
+                    if not thumb:
+                        for enc in e.get("enclosures", []):
+                            if enc.get("type", "").startswith("image"):
+                                thumb = enc.get("url"); break
+                    # 3. <img> in summary/content HTML
+                    if not thumb:
+                        html = e.get("summary", "") or (e.get("content") or [{}])[0].get("value", "")
+                        m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', html)
+                        if m:
+                            thumb = m.group(1)
+
                     items.append({
                         "source":    "rss",
                         "category":  category,
                         "outlet":    feed.feed.get("title", url),
                         "title":     title,
+                        "thumbnail": thumb,          # ← new
                         "url":       e.get("link", ""),
                         "published": e.get("published", ""),
                         "importance": s,
@@ -114,28 +135,31 @@ def fetch_rss() -> list[dict]:
     print(f"  ✅ RSS: {len(items)} articles")
     return items
 
-
 async def _telegram_fetch() -> list[dict]:
     from telethon import TelegramClient
     from telethon.sessions import StringSession
+    from datetime import timezone
     items = []
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=12)
     async with TelegramClient(StringSession(TELEGRAM_SESSION), int(TELEGRAM_API_ID), TELEGRAM_API_HASH) as client:
         for ch in TELEGRAM_CHANNELS:
             try:
                 entity = await client.get_entity(ch)
-                async for msg in client.iter_messages(entity, limit=30):
+                async for msg in client.iter_messages(entity, limit=200, offset_date=None):
                     if not msg.text:
                         continue
+                    if msg.date and msg.date < cutoff:
+                        break          # messages are chronological desc, so stop here
                     items.append({
-                        "source":       "telegram",
-                        "channel":      ch,
+                        "source":        "telegram",
+                        "channel":       ch,
                         "channel_title": getattr(entity, "title", ch),
-                        "full_text":    msg.text.strip(),
-                        "headline":     msg.text.strip().splitlines()[0][:280],
-                        "has_media":    msg.media is not None,
-                        "url":          f"https://t.me/{ch}/{msg.id}",
-                        "posted_at":    msg.date.isoformat() if msg.date else None,
-                        "fetched_at":   datetime.utcnow().isoformat(),
+                        "full_text":     msg.text.strip(),
+                        "headline":      msg.text.strip().splitlines()[0][:280],
+                        "has_media":     msg.media is not None,
+                        "url":           f"https://t.me/{ch}/{msg.id}",
+                        "posted_at":     msg.date.isoformat() if msg.date else None,
+                        "fetched_at":    datetime.utcnow().isoformat(),
                     })
             except Exception as ex:
                 print(f"  ❌ Telegram @{ch}: {ex}")

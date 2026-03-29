@@ -6,6 +6,7 @@
   <title>Signal — News Intelligence</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='80'>📡</text></svg>">
   <link rel="stylesheet" href="../css/news.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
 </head>
 <body>
 
@@ -17,7 +18,7 @@
   <!-- Masthead -->
   <header class="masthead">
     <div class="masthead-top">
-      <div class="masthead-title">SIG<span>NAL</span></div>
+      <div class="masthead-title">HEAD<span>LINES</span></div>
       <div class="masthead-meta" id="masthead-meta">
         Loading…
       </div>
@@ -33,7 +34,6 @@
     <div id="news-view"></div>
     <div id="tg-view" style="display:none;"></div>
   </main>
-
   <script src="../javascript/news.js"></script>
   <script>
     // Update masthead meta after load
@@ -43,6 +43,5 @@
       el.innerHTML = `${now.toLocaleDateString('en-GB', {weekday:'long', day:'numeric', month:'long', year:'numeric'})}<br>Last updated ${now.toLocaleTimeString('en-GB', {hour:'2-digit', minute:'2-digit'})}`;
     });
   </script>
-
 </body>
 </html>
