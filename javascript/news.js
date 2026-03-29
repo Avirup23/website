@@ -75,7 +75,7 @@ function buildTabs() {
   nav.innerHTML = '';
   addTab(nav, 'all', 'All Sources');
   CATEGORY_ORDER.forEach(cat => { if (newsData[cat]?.length) addTab(nav, cat, cat); });
-  if (redditData.length)   addTab(nav, 'reddit',   '🟠 Reddit',   true);
+  if (redditData.length)   addTab(nav, 'reddit',   '👾 Reddit',   true);
   if (telegramData.length) addTab(nav, 'telegram', '✈ Telegram',  true);
 }
 
