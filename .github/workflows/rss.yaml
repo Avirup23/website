@@ -22,7 +22,7 @@ jobs:
 
       - run: pip install feedparser telethon # praw
 
-      - run: python fetch.py
+      - run: python news.py
         env:
           TELEGRAM_API_ID:      ${{ secrets.TELEGRAM_API_ID }}
           TELEGRAM_API_HASH:    ${{ secrets.TELEGRAM_API_HASH }}
