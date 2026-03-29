@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: "3.10"
 
-      - run: pip install feedparser telethon # praw
+      - run: pip install feedparser telethon timedelta # praw
 
       - run: python python/news.py
         env:
