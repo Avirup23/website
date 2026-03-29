@@ -196,7 +196,7 @@ if __name__ == "__main__":
     # RSS articles sorted by importance; Telegram/Reddit stay chronological within their block
     all_items.sort(key=lambda x: (x["source"] != "rss", -x.get("importance", 0)))
 
-    out = os.path.join(os.path.dirname(__file__), "news.json")
+    out = os.path.join(os.path.dirname(__file__), "python/news.json")
     with open(out, "w", encoding="utf-8") as f:
         json.dump(all_items, f, indent=2, ensure_ascii=False)
 
