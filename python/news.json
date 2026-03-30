@@ -1,63 +1,75 @@
 [
   {
     "source": "rss",
+    "category": "American Media",
+    "outlet": "Bloomberg Markets",
+    "title": "Indian Rupee Jumps as Central Bank Races to Shore Up Currency",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNHLM5wtErEI/v0/1200x-1.jpg",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-30/indian-rupee-surges-as-rbi-s-cap-on-limits-sparks-dollar-sales",
+    "published": "Mon, 30 Mar 2026 03:37:01 GMT",
+    "importance": 60,
+    "importanceLabel": "High",
+    "fetched_at": "2026-03-30T06:17:31.621015"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "mint - markets",
+    "title": "Stock market crash: Despite escalation in the US-Iran war, Nifty 50 may not fall below 22,000; here's why",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/Stock_market_crash_Nifty_50_today_US_Iran_war_1774848214307_1774848214479.jpg",
+    "url": "https://www.livemint.com/market/stock-market-news/stock-market-crash-despite-escalation-in-the-israel-us-iran-war-nifty-50-may-not-fall-below-22-000-heres-why-11774845254361.html",
+    "published": "Mon, 30 Mar 2026 10:56:12 +0530",
+    "importance": 60,
+    "importanceLabel": "High",
+    "fetched_at": "2026-03-30T06:17:35.602306"
+  },
+  {
+    "source": "rss",
     "category": "Indian Media",
     "outlet": "mint - markets",
     "title": "Sensex plunges 1,200 points; investors lose  ₹5 lakh crore— 5 key factors behind stock market crash explained",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/Stock_market_1774841385733_1774841392112.png",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/Stock_market_1774841385733_1774841392112.png",
     "url": "https://www.livemint.com/market/stock-market-news/sensex-plunges-1-200-points-investors-lose-5-lakh-crore-5-key-factors-behind-stock-market-crash-explained-11774841157511.html",
     "published": "Mon, 30 Mar 2026 09:21:08 +0530",
     "importance": 60,
     "importanceLabel": "High",
-    "fetched_at": "2026-03-30T04:11:04.161511"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "Stock market today: Gift Nifty below 22,500; US-Iran war, India VIX to gold, silver rates — eight stocks to buy or sell",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/US_Iran_war_Stock_market_today_Gold_Rate_today_1774839870083_1774839870284.JPG",
-    "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-below-22500-us-iran-war-india-vix-gold-silver-rates-stocks-to-buy-or-sell-30-march-2026-11774839768295.html",
-    "published": "Mon, 30 Mar 2026 08:56:35 +0530",
-    "importance": 60,
-    "importanceLabel": "High",
-    "fetched_at": "2026-03-30T04:11:04.161742"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "Stock Market Crash LIVE: Sensex trims losses, down 500 pts, Nifty holds 22,600; banks, NBFCs drag",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/INDIA-FUNDS-ABSL-AMC-0_1742379066038_1774835756202.JPG",
-    "url": "https://www.livemint.com/market/stock-market-news/sensex-today-stock-market-today-nifty-gold-rate-today-silver-rate-today-us-iran-war-crude-oil-prices-trump-30-march-2026-11774835572512.html",
-    "published": "Mon, 30 Mar 2026 07:29:58 +0530",
-    "importance": 60,
-    "importanceLabel": "High",
-    "fetched_at": "2026-03-30T04:11:04.162061"
+    "fetched_at": "2026-03-30T06:17:35.602561"
   },
   {
     "source": "rss",
     "category": "American Media",
     "outlet": "Bloomberg Markets",
-    "title": "Indian Rupee Surges as RBI’s Cap on Positions Spurs Dollar Sales",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNHLM5wtErEI/v0/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-30/indian-rupee-surges-as-rbi-s-cap-on-limits-sparks-dollar-sales",
-    "published": "Mon, 30 Mar 2026 03:37:01 GMT",
+    "title": "India Forces Banks to Unwind Rupee Bets, Sparking Short Squeeze",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEKkUcXY0vGQ/v3/1200x-1.png",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-30/india-unleashes-curbs-on-rupee-bets-as-intervention-costs-swell",
+    "published": "Mon, 30 Mar 2026 00:30:04 GMT",
     "importance": 52,
     "importanceLabel": "High",
-    "fetched_at": "2026-03-30T04:11:01.178987"
+    "fetched_at": "2026-03-30T06:17:31.621044"
   },
   {
     "source": "rss",
-    "category": "American Media",
-    "outlet": "NYT > World News",
-    "title": "Iran War Live Updates: Trump Says Iran Agreed to Allow 20 More Ships of Oil Through Strait of Hormuz",
-    "thumbnail": "https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-promo-5pm-cgtk/29israel-iran-promo-5pm-cgtk-mediumSquareAt3X.jpg",
-    "url": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil",
-    "published": "Mon, 30 Mar 2026 03:45:24 +0000",
+    "category": "Indian Media",
+    "outlet": "Economic Times",
+    "title": "Bank stocks fall up to 3% as RBI forex clampdown sparks Rs 4,000 crore loss fear",
+    "thumbnail": null,
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/bank-stocks-fall-up-to-3-as-rbi-forex-clampdown-sparks-rs-4000-crore-loss-fear/articleshow/129891409.cms",
+    "published": "Mon, 30 Mar 2026 10:05:50 +0530",
     "importance": 52,
     "importanceLabel": "High",
-    "fetched_at": "2026-03-30T04:11:01.497770"
+    "fetched_at": "2026-03-30T06:17:35.248372"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "mint - markets",
+    "title": "Speciality Medicines shares list at IPO price on BSE SME, gain 4% post stock market debut",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/Listing_1774848314322_1774848314426.jpg",
+    "url": "https://www.livemint.com/market/stock-market-news/speciality-medicines-shares-list-at-ipo-price-on-bse-sme-gain-4-post-stock-market-debut-11774848207652.html",
+    "published": "Mon, 30 Mar 2026 10:57:09 +0530",
+    "importance": 52,
+    "importanceLabel": "High",
+    "fetched_at": "2026-03-30T06:17:35.602270"
   },
   {
     "source": "rss",
@@ -69,7 +81,7 @@
     "published": "Mon, 30 Mar 2026 09:19:34 +0530",
     "importance": 52,
     "importanceLabel": "High",
-    "fetched_at": "2026-03-30T04:11:04.161564"
+    "fetched_at": "2026-03-30T06:17:35.602597"
   },
   {
     "source": "rss",
@@ -81,103 +93,31 @@
     "published": "Mon, 30 Mar 2026 09:10:09 +0530",
     "importance": 52,
     "importanceLabel": "High",
-    "fetched_at": "2026-03-30T04:11:04.161608"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "Stocks to watch: Coal India, JSW Steel, RailTel, NHPC among 10 shares in focus today",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/stock_1774840529078_1774840529241.JPG",
-    "url": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-coal-india-jsw-steel-railtel-nhpc-among-10-shares-in-focus-11774838722593.html",
-    "published": "Mon, 30 Mar 2026 08:52:38 +0530",
-    "importance": 52,
-    "importanceLabel": "High",
-    "fetched_at": "2026-03-30T04:11:04.161783"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "Nifty 50, Sensex today: What to expect from Indian stock market in trade on March 30",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/29/1600x900/logo/2-0-1460540078-iStock-947361300-0_1679725601484_1774800776717.jpg",
-    "url": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-march-30-11774800551610.html",
-    "published": "Mon, 30 Mar 2026 07:15:58 +0530",
-    "importance": 52,
-    "importanceLabel": "High",
-    "fetched_at": "2026-03-30T04:11:04.162098"
+    "fetched_at": "2026-03-30T06:17:35.602631"
   },
   {
     "source": "rss",
     "category": "Chinese Media",
-    "outlet": "outbrain",
-    "title": "Over 3,000 protests staged across US on one month of strikes against Iran, scale 'suggests mounting public dissatisfaction that risks more chaos': expert",
-    "thumbnail": null,
-    "url": "https://www.globaltimes.cn/page/202603/1357823.shtml",
-    "published": "Mon, 30 Mar 2026 00:00:00 GMT",
+    "outlet": "News - South China Morning Post",
+    "title": "Hong Kong stocks fall with Asia as Iran conflict drives oil prices higher",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/30/a4afbb68-9b39-479f-a36c-d55f1f8f133c_9a4bf82a.jpg?itok=0LXymWvf&v=1774850877",
+    "url": "https://www.scmp.com/business/article/3348360/hong-kong-stocks-fall-asia-iran-conflict-drives-oil-prices-higher?utm_source=rss_feed",
+    "published": "Mon, 30 Mar 2026 06:10:13 +0000",
     "importance": 52,
     "importanceLabel": "High",
-    "fetched_at": "2026-03-30T04:11:05.554025"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "TASS",
-    "title": "US, Israel discuss next steps against Iran’s military-industrial enterprises — CNN",
-    "thumbnail": null,
-    "url": "https://tass.com/world/2108665",
-    "published": "Mon, 30 Mar 2026 02:25:00 +0300",
-    "importance": 52,
-    "importanceLabel": "High",
-    "fetched_at": "2026-03-30T04:11:07.086699"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "TASS",
-    "title": "Strikes target Mehrabad Airport, branch of Iran’s Central Bank in Tehran — TV",
-    "thumbnail": null,
-    "url": "https://tass.com/world/2108661",
-    "published": "Mon, 30 Mar 2026 01:57:59 +0300",
-    "importance": 52,
-    "importanceLabel": "High",
-    "fetched_at": "2026-03-30T04:11:07.086793"
-  },
-  {
-    "source": "rss",
-    "category": "Middle East",
-    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "Iran war live: Trump says wants to take Iran’s oil; Kuwait power site hit",
-    "thumbnail": null,
-    "url": "https://www.aljazeera.com/news/liveblog/2026/3/30/iran-war-live-worker-killed-in-kuwait-israel-intercepts-drones-from-yemen?traffic_source=rss",
-    "published": "Mon, 30 Mar 2026 00:00:44 +0000",
-    "importance": 52,
-    "importanceLabel": "High",
-    "fetched_at": "2026-03-30T04:11:09.896887"
+    "fetched_at": "2026-03-30T06:17:36.366073"
   },
   {
     "source": "rss",
     "category": "American Media",
     "outlet": "Bloomberg Markets",
-    "title": "Stocks Drop, Oil Rises on Iran War Widening Fears: Markets Wrap",
+    "title": "Stocks Drop, Oil Up on Fears of Widening Iran War: Markets Wrap",
     "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJqX9WgTpelI/v1/1200x-1.jpg",
     "url": "https://www.bloomberg.com/news/articles/2026-03-29/investor-unease-builds-entering-war-s-fifth-week-markets-wrap",
     "published": "Sun, 29 Mar 2026 19:31:25 GMT",
     "importance": 51,
     "importanceLabel": "High",
-    "fetched_at": "2026-03-30T04:11:01.178831"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "Oil Gains as Iran War Escalates With Houthi Attacks on Israel",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikSbMTOWVuiA/v0/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-29/latest-oil-market-news-and-analysis-for-march-30",
-    "published": "Sun, 29 Mar 2026 22:04:09 GMT",
-    "importance": 51,
-    "importanceLabel": "High",
-    "fetched_at": "2026-03-30T04:11:01.179021"
+    "fetched_at": "2026-03-30T06:17:31.620760"
   },
   {
     "source": "rss",
@@ -189,31 +129,43 @@
     "published": "",
     "importance": 51,
     "importanceLabel": "High",
-    "fetched_at": "2026-03-30T04:11:05.157130"
+    "fetched_at": "2026-03-30T06:17:36.710499"
   },
   {
     "source": "rss",
     "category": "American Media",
     "outlet": "Bloomberg Markets",
-    "title": "Japan’s Latest Warnings on FX Intervention and Oil Help Buoy Yen",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.N5D_cXvGPQ/v0/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-30/japan-s-fx-chief-warns-of-bold-action-after-yen-tops-160",
-    "published": "Mon, 30 Mar 2026 00:21:02 GMT",
+    "title": "Strikes Continue as Houthis Join Iran War, Raising Escalation Fears",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUmXqB2aNrEk/v3/1200x-1.jpg",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-30/strikes-continue-as-houthis-join-iran-war-raising-escalation-fears",
+    "published": "Mon, 30 Mar 2026 06:02:42 GMT",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:01.178780"
+    "fetched_at": "2026-03-30T06:17:31.620728"
   },
   {
     "source": "rss",
     "category": "American Media",
     "outlet": "Bloomberg Markets",
-    "title": "RBI Steps In as Rupee Hits Fresh Low Amid Iran War",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq7NPkiRcJ70/v6/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-03-30/rbi-s-rupee-defense-in-focus-as-fiis-keep-selling-indian-stocks",
-    "published": "Mon, 30 Mar 2026 02:45:58 GMT",
+    "title": "Fears of Widening Iran War Grow | The China Show 3/30/2026",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVzjAWSN7Z5Q/v3/1200x-1.jpg",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-30/the-china-show-3-30-2026-video",
+    "published": "Mon, 30 Mar 2026 05:26:34 GMT",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:01.179182"
+    "fetched_at": "2026-03-30T06:17:31.620897"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "Bloomberg Markets",
+    "title": "Iran War Escalation Triggers Risk Aversion | The Asia Trade 3/30/2026",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilwrQpWK7eG4/v3/1200x-1.jpg",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-30/the-asia-trade-3-30-2026-video",
+    "published": "Mon, 30 Mar 2026 05:26:05 GMT",
+    "importance": 44,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:31.620929"
   },
   {
     "source": "rss",
@@ -225,79 +177,103 @@
     "published": "Sun, 29 Mar 2026 08:16:54 +0000",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:01.497643"
+    "fetched_at": "2026-03-30T06:17:32.126844"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "NYT > World News",
+    "title": "Trump Says Iran Agreed to Allow 20 More Ships of Oil Through Strait of Hormuz",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-promo-5pm-cgtk/29israel-iran-promo-5pm-cgtk-mediumSquareAt3X.jpg",
+    "url": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil",
+    "published": "Mon, 30 Mar 2026 05:48:43 +0000",
+    "importance": 44,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:32.126969"
   },
   {
     "source": "rss",
     "category": "European Media",
     "outlet": "BBC News",
-    "title": "Oil rises above $115 and Asia shares slide as Iran war escalates",
+    "title": "Oil rises above $115 and Asia shares slide as Iran war enters fifth week",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a744/live/29a533f0-2bdf-11f1-b2aa-4d44460d139f.jpg",
     "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 30 Mar 2026 03:34:37 GMT",
+    "published": "Mon, 30 Mar 2026 06:16:43 GMT",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:02.654175"
+    "fetched_at": "2026-03-30T06:17:33.317080"
   },
   {
     "source": "rss",
     "category": "European Media",
     "outlet": "International homepage",
-    "title": "Oil hits $116 as Trump hails Iran deal prospects",
-    "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F033a3ff3-3a88-4f6b-80d4-9aa9457572dd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/dcf55026-1c12-4643-84c2-d68f86b012eb",
-    "published": "Mon, 30 Mar 2026 00:26:15 GMT",
+    "title": "How Hungary sidesteps Europe’s fraud watchdog",
+    "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb3a48967-3471-4656-8ee1-0b7e5dfdc697.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/89730f92-9d8d-4de3-88d6-ddab87ca400a",
+    "published": "Mon, 30 Mar 2026 04:00:07 GMT",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:03.269981"
+    "fetched_at": "2026-03-30T06:17:34.343473"
   },
   {
     "source": "rss",
     "category": "Indian Media",
     "outlet": "Economic Times",
-    "title": "Oil Price Today (March 30): Oil jumps 3% to near $120 amid expectations of US ground offensive in Iran. What lies ahead?",
+    "title": "Explained: How RBI’s safety net to protect falling rupee could mean Rs 4,000 crore shock for banks",
+    "thumbnail": null,
+    "url": "https://economictimes.indiatimes.com/markets/forex/explained-how-rbis-safety-net-to-protect-falling-rupee-could-mean-rs-4000-crore-shock-for-banks/articleshow/129891261.cms",
+    "published": "Mon, 30 Mar 2026 09:51:08 +0530",
+    "importance": 44,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:35.248430"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "Economic Times",
+    "title": "Oil jumps 3% to near $120 amid expectations of US ground offensive in Iran. What lies ahead?",
     "thumbnail": null,
     "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-march-30-oil-jumps-3-to-near-120-amid-expectations-of-us-ground-offensive-in-iran-what-lies-ahead/articleshow/129890295.cms",
     "published": "Mon, 30 Mar 2026 08:22:44 +0530",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:03.914748"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Economic Times",
-    "title": "MTM losses likely for lenders as yields on govt bonds hit 12-month high",
-    "thumbnail": null,
-    "url": "https://economictimes.indiatimes.com/markets/bonds/mtm-losses-likely-for-lenders-as-yields-on-govt-bonds-hit-12-month-high/articleshow/129889264.cms",
-    "published": "Mon, 30 Mar 2026 05:38:02 +0530",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:03.914898"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Economic Times",
-    "title": "India unleashes curbs on rupee bets as intervention costs swell",
-    "thumbnail": null,
-    "url": "https://economictimes.indiatimes.com/markets/forex/india-unleashes-curbs-on-rupee-bets-as-intervention-costs-swell/articleshow/129889456.cms",
-    "published": "Mon, 30 Mar 2026 06:25:30 +0530",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:03.914943"
+    "fetched_at": "2026-03-30T06:17:35.248473"
   },
   {
     "source": "rss",
     "category": "Indian Media",
     "outlet": "mint - markets",
-    "title": "Asian markets today: Nikkei 225, Kospi fall up to 5% as US-Iran war enters fifth week",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/Kospi_1774835846599_1774835846719.jpg",
-    "url": "https://www.livemint.com/market/stock-market-news/asian-markets-today-nikkei-225-kospi-fall-up-to-5-as-us-iran-war-enters-fifth-week-11774833779050.html",
-    "published": "Mon, 30 Mar 2026 07:40:25 +0530",
+    "title": "Axis Bank, Kotak to IDFC First: Bank stocks fall after RBI caps rupee positions; Bank Nifty slips over 2%",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/INDIA-SEBI-DERIVATIES-0_1699190303412_1774845156670.JPG",
+    "url": "https://www.livemint.com/market/stock-market-news/axis-bank-kotak-to-idfc-first-bank-stocks-fall-after-rbi-caps-rupee-positions-bank-nifty-slips-over-2-11774844511072.html",
+    "published": "Mon, 30 Mar 2026 09:53:11 +0530",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:04.162022"
+    "fetched_at": "2026-03-30T06:17:35.602444"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "mint - markets",
+    "title": "Emiac Technologies IPO Day 2: Here's GMP, subscription status, other key details",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/IPO_1774842753891_1774842754020.jpeg",
+    "url": "https://www.livemint.com/market/ipo/emiac-technologies-ipo-day-2-heres-gmp-subscription-status-other-key-details-11774841511502.html",
+    "published": "Mon, 30 Mar 2026 09:42:04 +0530",
+    "importance": 44,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:35.602520"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "News - South China Morning Post",
+    "title": "China ‘left-behind aunties’, known as senior girl group, gain popularity for charm, dance skills",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/24/8d841d68-4eb0-4d20-ae5a-a295b0dde591_5934a913.jpg?itok=69cDAu6r&v=1774335835",
+    "url": "https://www.scmp.com/news/people-culture/gender-diversity/article/3347686/china-left-behind-aunties-known-senior-girl-group-gain-popularity-charm-dance-skills?utm_source=rss_feed",
+    "published": "Mon, 30 Mar 2026 06:00:09 +0000",
+    "importance": 44,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:36.366127"
   },
   {
     "source": "rss",
@@ -309,7 +285,7 @@
     "published": "Mon, 30 Mar 2026 02:59:07 +0000",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:04.894651"
+    "fetched_at": "2026-03-30T06:17:36.366481"
   },
   {
     "source": "rss",
@@ -321,7 +297,19 @@
     "published": "Mon, 30 Mar 2026 02:47:18 +0000",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:04.894698"
+    "fetched_at": "2026-03-30T06:17:36.366519"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "outbrain",
+    "title": "Over 3,000 protests staged across US on one month of strikes against Iran, scale 'suggests mounting public dissatisfaction that risks more chaos': expert",
+    "thumbnail": null,
+    "url": "https://www.globaltimes.cn/page/202603/1357823.shtml",
+    "published": "Mon, 30 Mar 2026 00:00:00 GMT",
+    "importance": 44,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:37.145268"
   },
   {
     "source": "rss",
@@ -333,19 +321,7 @@
     "published": "Mon, 30 Mar 2026 05:25:00 +0300",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:07.086426"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "RT World News",
-    "title": "Kuwait desalination plant damaged as Trump seeks to seize Iran’s oil",
-    "thumbnail": "https://mf.b37mrtl.ru/files/2026.03/thumbnail/69c9bb6a20302765f179b45a.jpg",
-    "url": "https://www.rt.com/news/636682-iran-us-israel-war-latest/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "published": "Sun, 29 Mar 2026 22:11:34 +0000",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:09.789256"
+    "fetched_at": "2026-03-30T06:17:38.993089"
   },
   {
     "source": "rss",
@@ -357,7 +333,7 @@
     "published": "Mon, 30 Mar 2026 01:24:55 +0000",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:09.896718"
+    "fetched_at": "2026-03-30T06:17:43.844439"
   },
   {
     "source": "rss",
@@ -369,7 +345,7 @@
     "published": "Mon, 30 Mar 2026 01:09:32 +0000",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:09.896760"
+    "fetched_at": "2026-03-30T06:17:43.844473"
   },
   {
     "source": "rss",
@@ -381,31 +357,19 @@
     "published": "Mon, 30 Mar 2026 00:53:36 +0000",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:09.896801"
+    "fetched_at": "2026-03-30T06:17:43.844507"
   },
   {
     "source": "rss",
     "category": "Middle East",
     "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "European nations criticise Israel’s death penalty plans",
+    "title": "Iran war live: Trump says wants to take Iran’s oil; Kuwait power site hit",
     "thumbnail": null,
-    "url": "https://www.aljazeera.com/news/2026/3/29/european-nations-criticise-israels-death-penalty-plans?traffic_source=rss",
-    "published": "Sun, 29 Mar 2026 22:44:25 +0000",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/3/30/iran-war-live-worker-killed-in-kuwait-israel-intercepts-drones-from-yemen?traffic_source=rss",
+    "published": "Mon, 30 Mar 2026 00:00:44 +0000",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:09.896974"
-  },
-  {
-    "source": "rss",
-    "category": "Middle East",
-    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "Iran accuses US of plotting ground attack, as Israel steps up bombardment",
-    "thumbnail": null,
-    "url": "https://www.aljazeera.com/news/2026/3/29/iran-accuses-us-of-plotting-ground-attack-as-israel-steps-up-bombardment?traffic_source=rss",
-    "published": "Sun, 29 Mar 2026 22:36:05 +0000",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:09.897014"
+    "fetched_at": "2026-03-30T06:17:43.844579"
   },
   {
     "source": "rss",
@@ -417,7 +381,7 @@
     "published": "",
     "importance": 39,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:05.157091"
+    "fetched_at": "2026-03-30T06:17:36.710473"
   },
   {
     "source": "rss",
@@ -429,7 +393,7 @@
     "published": "",
     "importance": 39,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:05.157159"
+    "fetched_at": "2026-03-30T06:17:36.710524"
   },
   {
     "source": "rss",
@@ -441,7 +405,7 @@
     "published": "",
     "importance": 39,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:05.157315"
+    "fetched_at": "2026-03-30T06:17:36.710652"
   },
   {
     "source": "rss",
@@ -453,7 +417,19 @@
     "published": "Sun, 29 Mar 2026 11:12:33 GMT",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:02.654331"
+    "fetched_at": "2026-03-30T06:17:33.317181"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "Economic Times",
+    "title": "MTM losses likely for lenders as yields on govt bonds hit 12-month high",
+    "thumbnail": null,
+    "url": "https://economictimes.indiatimes.com/markets/bonds/mtm-losses-likely-for-lenders-as-yields-on-govt-bonds-hit-12-month-high/articleshow/129889264.cms",
+    "published": "Mon, 30 Mar 2026 05:38:02 +0530",
+    "importance": 37,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:35.248587"
   },
   {
     "source": "rss",
@@ -465,7 +441,19 @@
     "published": "Sun, 29 Mar 2026 14:32:06 GMT",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:06.119967"
+    "fetched_at": "2026-03-30T06:17:37.779631"
+  },
+  {
+    "source": "rss",
+    "category": "Russian Media",
+    "outlet": "RT World News",
+    "title": "Trump reportedly considering raid to ‘extract’ Iran’s uranium (PHOTOS, VIDEOS)",
+    "thumbnail": "https://mf.b37mrtl.ru/files/2026.03/thumbnail/69c9bb6a20302765f179b45a.jpg",
+    "url": "https://www.rt.com/news/636682-iran-us-israel-war-latest/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "Sun, 29 Mar 2026 22:11:34 +0000",
+    "importance": 37,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:43.685841"
   },
   {
     "source": "rss",
@@ -477,7 +465,7 @@
     "published": "Sun, 29 Mar 2026 14:14:55 +0000",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:09.789448"
+    "fetched_at": "2026-03-30T06:17:43.686016"
   },
   {
     "source": "rss",
@@ -489,103 +477,31 @@
     "published": "Sun, 29 Mar 2026 13:08:35 +0000",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:09.789491"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "RT World News",
-    "title": "US prepares for ‘weeks‘ of ground raids in Iran – WaPo",
-    "thumbnail": "https://mf.b37mrtl.ru/files/2026.03/thumbnail/69c8ab3d85f5400cbe49ca51.png",
-    "url": "https://www.rt.com/news/636595-us-plans-ground-raids-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "published": "Sun, 29 Mar 2026 04:39:55 +0000",
-    "importance": 37,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:09.789665"
-  },
-  {
-    "source": "rss",
-    "category": "Middle East",
-    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "Israeli police bar priest from Jerusalem’s Holy Sepulchre on Palm Sunday",
-    "thumbnail": null,
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/israeli-police-bar-priest-from-jerusalems-holy-sepulchre-on-palm-sunday?traffic_source=rss",
-    "published": "Sun, 29 Mar 2026 21:01:50 +0000",
-    "importance": 37,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:09.897059"
-  },
-  {
-    "source": "rss",
-    "category": "Middle East",
-    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "A premature ceasefire risks ‘another round of conflict’ in future",
-    "thumbnail": null,
-    "url": "https://www.aljazeera.com/video/quotable/2026/3/29/a-premature-ceasefire-risks-another-round-of-conflict-in-future?traffic_source=rss",
-    "published": "Sun, 29 Mar 2026 20:58:56 +0000",
-    "importance": 37,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:09.897102"
+    "fetched_at": "2026-03-30T06:17:43.686054"
   },
   {
     "source": "rss",
     "category": "American Media",
     "outlet": "Bloomberg Markets",
-    "title": "Investors Balk at Terms in JPMorgan’s $7.2 Billion Sealed Air Debt Deal",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iN_0zqGocfNY/v0/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-30/investors-balk-at-terms-in-jpmorgan-s-7-2-billion-sealed-air-debt-deal",
-    "published": "Mon, 30 Mar 2026 04:00:00 GMT",
+    "title": "FTSE 100 Set to Fall on Iran War Escalation Worries",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaLvEP1a9iEs/v0/1200x-1.png",
+    "url": "https://www.bloomberg.com/news/live-blog/2026-03-30/ftse-100-live-iran-war-trump-pound-gilts-usd-gold-oil-prices-what-s-moving-uk-markets-right-now-markets-today-mncrtj9b",
+    "published": "Mon, 30 Mar 2026 05:52:04 GMT",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:01.178913"
+    "fetched_at": "2026-03-30T06:17:31.620822"
   },
   {
     "source": "rss",
     "category": "American Media",
     "outlet": "Bloomberg Markets",
-    "title": "Iran War Drives Stagflation Risks: Citi",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIHfsBnt3NMk/v3/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/videos/2026-03-30/iran-war-drives-stagflation-risks-citi-video",
-    "published": "Mon, 30 Mar 2026 03:46:10 GMT",
+    "title": "Why Curbs on Speculation Won't Resolve Indian Rupee Woes",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1.lRcEilzL0/v3/1200x-1.jpg",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-30/why-curbs-on-speculation-won-t-resolve-indian-rupee-woes-video",
+    "published": "Mon, 30 Mar 2026 04:59:38 GMT",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:01.178946"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "Government Bonds Rally Around the World on Slowdown Concerns",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1sgOXIJhZKo/v2/1200x-1.png",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-30/bonds-everywhere-are-rallying-as-global-slowdown-fears-intensify",
-    "published": "Mon, 30 Mar 2026 02:31:53 GMT",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:01.179235"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "Global Oil Market in for a Shock: Fahmy",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icljmiqsPfJk/v3/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/videos/2026-03-30/global-oil-market-in-for-a-shock-fahmy",
-    "published": "Mon, 30 Mar 2026 02:25:22 GMT",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:01.179274"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "New Zealand to Fill Markets Gap With Return of NZX Index Futures",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDVhRto8RkAs/v0/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-30/new-zealand-to-fill-markets-gap-with-return-of-nzx-index-futures",
-    "published": "Mon, 30 Mar 2026 02:24:30 GMT",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:01.179307"
+    "fetched_at": "2026-03-30T06:17:31.621073"
   },
   {
     "source": "rss",
@@ -597,115 +513,103 @@
     "published": "Mon, 30 Mar 2026 03:10:52 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:01.497594"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "NYT > World News",
-    "title": "This Is What Happens When the Gas Runs Out",
-    "thumbnail": "https://static01.nyt.com/images/2026/03/27/multimedia/00Biz-LNG-Cliff-01-tkqj/00Biz-LNG-Cliff-01-tkqj-mediumSquareAt3X.jpg",
-    "url": "https://www.nytimes.com/2026/03/30/business/lng-supply-asia-qatar-iran.html",
-    "published": "Mon, 30 Mar 2026 04:01:22 +0000",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:01.498341"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "BBC News",
-    "title": "Tech CEOs suddenly love blaming AI for mass job cuts. Why?",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6255/live/1413e9f0-23dd-11f1-934f-036468834728.jpg",
-    "url": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 29 Mar 2026 23:07:04 GMT",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:02.654295"
+    "fetched_at": "2026-03-30T06:17:32.126801"
   },
   {
     "source": "rss",
     "category": "European Media",
     "outlet": "International homepage",
-    "title": "Donald Trump says US could ‘take the oil in Iran’",
-    "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3aa747d8-220b-499d-86ce-6e4f684c4cd9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/3bd9fb6c-2985-4d24-b86b-23b7884031f5",
-    "published": "Sun, 29 Mar 2026 23:51:04 GMT",
+    "title": "Oil rises close to $115 as Trump stokes fears of protracted conflict",
+    "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F033a3ff3-3a88-4f6b-80d4-9aa9457572dd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/dcf55026-1c12-4643-84c2-d68f86b012eb",
+    "published": "Mon, 30 Mar 2026 00:26:15 GMT",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:03.269935"
+    "fetched_at": "2026-03-30T06:17:34.343282"
   },
   {
     "source": "rss",
     "category": "European Media",
     "outlet": "International homepage",
-    "title": "Pro-AI group to spend $100mn on US midterm elections as backlash grows",
-    "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F662a8cb6-cb86-4832-8473-071dd31f36b6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/6a3f1938-759d-4ae4-924e-6a0feac14e24",
-    "published": "Mon, 30 Mar 2026 00:03:16 GMT",
+    "title": "TotalEnergies made bumper profit on Middle East oil bet",
+    "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9fa23e5e-0387-47c8-aa6c-6c81ae5f9f8d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/eba87bd4-7e55-4a7b-b14c-71bf486bfd31",
+    "published": "Mon, 30 Mar 2026 04:00:26 GMT",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:03.270070"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "International homepage",
-    "title": "Yen strengthens after Japan official warns of ‘decisive action’",
-    "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F687f4ef0-7ba1-4011-99a8-fab39b1a35eb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/afe09b9e-b951-42e2-a8fc-c7863c3338df",
-    "published": "Mon, 30 Mar 2026 02:53:49 GMT",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:03.270108"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Economic Times",
-    "title": "Financial services companies buck weak market to rock IPO show",
-    "thumbnail": null,
-    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/financial-services-companies-buck-weak-market-to-rock-ipo-show/articleshow/129889244.cms",
-    "published": "Mon, 30 Mar 2026 05:33:01 +0530",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:03.914853"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Economic Times",
-    "title": "Brent heads for record monthly jump as Iran conflict widens",
-    "thumbnail": null,
-    "url": "https://economictimes.indiatimes.com/markets/commodities/news/brent-heads-for-record-monthly-jump-as-iran-conflict-widens/articleshow/129890169.cms",
-    "published": "Mon, 30 Mar 2026 08:10:26 +0530",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:03.914986"
+    "fetched_at": "2026-03-30T06:17:34.343313"
   },
   {
     "source": "rss",
     "category": "Indian Media",
     "outlet": "mint - markets",
-    "title": "Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Bharti Airtel shares on March 30",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/Dharmesh_Shah_2022_03_1708927453301_1774840384544.jpg",
-    "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-bharti-airtel-shares-on-march-30-11774839589434.html",
-    "published": "Mon, 30 Mar 2026 08:45:31 +0530",
+    "title": "Vivid Electromech IPO day 3: GMP, subscription status, other details of NSE SME IPO",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/SME_IPO_1764142526419_1764142531755_1774847856315.png",
+    "url": "https://www.livemint.com/market/ipo/vivid-electromech-ipo-day-3-gmp-subscription-status-other-details-of-nse-sme-ipo-11774847692197.html",
+    "published": "Mon, 30 Mar 2026 11:09:40 +0530",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:04.161822"
+    "fetched_at": "2026-03-30T06:17:35.602234"
   },
   {
     "source": "rss",
     "category": "Indian Media",
     "outlet": "mint - markets",
-    "title": "Sai Parenteral's IPO allotment likely today: Latest GMP, step-by-step guide to check allotment status online",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/sai_parenterals_IPO_1774839375314_1774839375485.jpeg",
-    "url": "https://www.livemint.com/market/ipo/sai-parenterals-ipo-allotment-likely-today-latest-gmp-steps-by-step-guide-to-check-allotment-status-online-11774839188656.html",
-    "published": "Mon, 30 Mar 2026 08:35:49 +0530",
+    "title": "IRB Infra share price surges nearly 11% as stock turns ex-bonus today",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/irb_share_price_1774846337150_1774846337297.jpg",
+    "url": "https://www.livemint.com/market/stock-market-news/irb-infra-bonus-issue-last-day-to-buy-irb-infra-shares-stock-surges-nearly-11-on-turning-ex-bonus-today-11774845250697.html",
+    "published": "Mon, 30 Mar 2026 10:30:22 +0530",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:04.161863"
+    "fetched_at": "2026-03-30T06:17:35.602339"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "mint - markets",
+    "title": "Central Mine Planning share price makes lacklustre debut, lists at 7% discount to the IPO price",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/stock_1774845207281_1774845207409.jpg",
+    "url": "https://www.livemint.com/market/stock-market-news/central-mine-planning-share-price-makes-lacklustre-debut-lists-at-7-discount-to-the-ipo-price-11774843978799.html",
+    "published": "Mon, 30 Mar 2026 10:08:00 +0530",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:35.602374"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "mint - markets",
+    "title": "Stock market holidays: BSE, NSE closed for first holiday of the week tomorrow due to Mahavir Jayanti 2026",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/INDIA-STOCKS-2_1754232739357_1754232749283_1774844641613.jpg",
+    "url": "https://www.livemint.com/market/stock-market-news/stock-market-holidays-bse-nse-closed-for-first-holiday-of-the-week-tomorrow-to-mark-mahavir-jayanti-2026-11774844416188.html",
+    "published": "Mon, 30 Mar 2026 09:58:01 +0530",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:35.602409"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "News - South China Morning Post",
+    "title": "Thai undertaker brings corpse to petrol station to prove fuel need",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/30/647f30d0-ec13-4f79-9f92-fee59dabd692_76d0d6f0.jpg?itok=vvlg9Sdi&v=1774849826",
+    "url": "https://www.scmp.com/week-asia/people/article/3348358/thai-undertaker-brings-corpse-petrol-station-prove-fuel-need?utm_source=rss_feed",
+    "published": "Mon, 30 Mar 2026 05:50:34 +0000",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:36.366163"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "News - South China Morning Post",
+    "title": "Ant smuggling in China, new airport rules in Hong Kong: 5 weekend reads you missed",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/30/39062d34-4604-4047-8293-4d0fb11ab777_9026d833.jpg?itok=FzAdUvPu&v=1774842914",
+    "url": "https://www.scmp.com/news/world/article/3348349/ant-smuggling-china-new-airport-rules-hong-kong-5-weekend-reads-you-missed?utm_source=rss_feed",
+    "published": "Mon, 30 Mar 2026 04:30:09 +0000",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:36.366271"
   },
   {
     "source": "rss",
@@ -717,7 +621,7 @@
     "published": "Mon, 30 Mar 2026 04:00:08 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:04.894432"
+    "fetched_at": "2026-03-30T06:17:36.366310"
   },
   {
     "source": "rss",
@@ -729,7 +633,7 @@
     "published": "Mon, 30 Mar 2026 03:41:43 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:04.894482"
+    "fetched_at": "2026-03-30T06:17:36.366344"
   },
   {
     "source": "rss",
@@ -741,7 +645,7 @@
     "published": "Mon, 30 Mar 2026 03:40:26 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:04.894523"
+    "fetched_at": "2026-03-30T06:17:36.366376"
   },
   {
     "source": "rss",
@@ -753,43 +657,55 @@
     "published": "Mon, 30 Mar 2026 02:45:34 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:04.894737"
+    "fetched_at": "2026-03-30T06:17:36.366552"
   },
   {
     "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "News - South China Morning Post",
-    "title": "Where can Japan store its nuclear waste? Island plan raises alarm",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/30/191ae6a7-f360-441a-b9cc-74c0e197d9c6_066251a5.jpg?itok=lJNO2wKY&v=1774836010",
-    "url": "https://www.scmp.com/week-asia/health-environment/article/3348336/where-can-japan-store-its-nuclear-waste-island-plan-raises-alarm?utm_source=rss_feed",
-    "published": "Mon, 30 Mar 2026 02:30:18 +0000",
+    "category": "Russian Media",
+    "outlet": "TASS",
+    "title": "Ukraine loses up to 8,900 troops, mercenaries in special op zone over week — expert",
+    "thumbnail": null,
+    "url": "https://tass.com/politics/2108715",
+    "published": "Mon, 30 Mar 2026 08:45:41 +0300",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:04.894806"
+    "fetched_at": "2026-03-30T06:17:38.992694"
   },
   {
     "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "News - South China Morning Post",
-    "title": "Israel adds US$10 billion to its war chest with defence budget increase",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/30/231d3a57-7055-415e-98d0-4041734327e4_d1fa2830.jpg?itok=yvUunsTm&v=1774837589",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3348339/israel-adds-us10-billion-its-war-chest-defence-budget-increase?utm_source=rss_feed",
-    "published": "Mon, 30 Mar 2026 02:26:31 +0000",
+    "category": "Russian Media",
+    "outlet": "TASS",
+    "title": "Israel, US attack amusement park in central Iran",
+    "thumbnail": null,
+    "url": "https://tass.com/world/2108713",
+    "published": "Mon, 30 Mar 2026 08:20:35 +0300",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:04.894928"
+    "fetched_at": "2026-03-30T06:17:38.992743"
   },
   {
     "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "News - South China Morning Post",
-    "title": "Observatory cancels amber rainstorm warning at 11am after heavy rain in Hong Kong",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/30/9c42c1ee-40c4-4136-a1cc-4300fdda1601_e0acf2d2.jpg?itok=BD8hLaAt&v=1774837489",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3348338/hong-kong-observatory-issues-amber-rainstorm-warning-thundery-showers-expected?utm_source=rss_feed",
-    "published": "Mon, 30 Mar 2026 02:24:51 +0000",
+    "category": "Russian Media",
+    "outlet": "TASS",
+    "title": "US does not oppose humanitarian oil supplies to Cuba, including from Russia — Trump",
+    "thumbnail": null,
+    "url": "https://tass.com/world/2108709",
+    "published": "Mon, 30 Mar 2026 08:01:23 +0300",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:04.894965"
+    "fetched_at": "2026-03-30T06:17:38.992792"
+  },
+  {
+    "source": "rss",
+    "category": "Russian Media",
+    "outlet": "TASS",
+    "title": "Russian women detained in California in January remain in custody — ICE",
+    "thumbnail": null,
+    "url": "https://tass.com/society/2108707",
+    "published": "Mon, 30 Mar 2026 07:47:46 +0300",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:38.992837"
   },
   {
     "source": "rss",
@@ -801,19 +717,7 @@
     "published": "Mon, 30 Mar 2026 06:45:01 +0300",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:07.086206"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "TASS",
-    "title": "US to allow Russian oil tanker to reach Cuba — NYT",
-    "thumbnail": null,
-    "url": "https://tass.com/world/2108659",
-    "published": "Mon, 30 Mar 2026 01:42:00 +0300",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:07.086839"
+    "fetched_at": "2026-03-30T06:17:38.992932"
   },
   {
     "source": "rss",
@@ -825,7 +729,7 @@
     "published": "Mon, 30 Mar 2026 02:27:14 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:09.789124"
+    "fetched_at": "2026-03-30T06:17:43.685747"
   },
   {
     "source": "rss",
@@ -837,7 +741,43 @@
     "published": "Mon, 30 Mar 2026 00:36:39 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:09.789178"
+    "fetched_at": "2026-03-30T06:17:43.685793"
+  },
+  {
+    "source": "rss",
+    "category": "Middle East",
+    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "title": "‘We’re killing them, bro’: Israelis correct Iranian online streamer",
+    "thumbnail": null,
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/were-killing-them-bro-israelis-correct-iranian-online-streamer?traffic_source=rss",
+    "published": "Mon, 30 Mar 2026 05:54:18 +0000",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:43.844104"
+  },
+  {
+    "source": "rss",
+    "category": "Middle East",
+    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "title": "Trump says Iran’s ‘had regime change’ as he describes ‘boatloads of oil’",
+    "thumbnail": null,
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/trump-says-irans-had-regime-change-as-he-describes-boatloads-of-oil?traffic_source=rss",
+    "published": "Mon, 30 Mar 2026 05:20:03 +0000",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:43.844186"
+  },
+  {
+    "source": "rss",
+    "category": "Middle East",
+    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "title": "Australia to halve fuel tax as global energy crisis deepens",
+    "thumbnail": null,
+    "url": "https://www.aljazeera.com/news/2026/3/30/australia-to-halve-fuel-tax-as-global-energy-crisis-deepens?traffic_source=rss",
+    "published": "Mon, 30 Mar 2026 04:47:36 +0000",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:43.844261"
   },
   {
     "source": "rss",
@@ -849,7 +789,7 @@
     "published": "Mon, 30 Mar 2026 00:52:55 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:09.896841"
+    "fetched_at": "2026-03-30T06:17:43.844541"
   },
   {
     "source": "rss",
@@ -861,7 +801,7 @@
     "published": "",
     "importance": 33,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:05.157233"
+    "fetched_at": "2026-03-30T06:17:36.710577"
   },
   {
     "source": "rss",
@@ -873,7 +813,7 @@
     "published": "Fri, 27 Mar 2026 21:15:00 +0900",
     "importance": 33,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:10.046442"
+    "fetched_at": "2026-03-30T06:17:44.022533"
   },
   {
     "source": "rss",
@@ -885,7 +825,31 @@
     "published": "Sat, 28 Mar 2026 19:53:21 +0000",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:01.497808"
+    "fetched_at": "2026-03-30T06:17:32.127003"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "BBC News",
+    "title": "Tech CEOs suddenly love blaming AI for mass job cuts. Why?",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6255/live/1413e9f0-23dd-11f1-934f-036468834728.jpg",
+    "url": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 29 Mar 2026 23:07:04 GMT",
+    "importance": 31,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:33.317151"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "International homepage",
+    "title": "Donald Trump says US could ‘take the oil in Iran’",
+    "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3aa747d8-220b-499d-86ce-6e4f684c4cd9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/3bd9fb6c-2985-4d24-b86b-23b7884031f5",
+    "published": "Sun, 29 Mar 2026 23:51:04 GMT",
+    "importance": 31,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:34.343243"
   },
   {
     "source": "rss",
@@ -897,19 +861,7 @@
     "published": "Sun, 29 Mar 2026 20:00:02 GMT",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:03.270035"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "International homepage",
-    "title": "Israel blocks Catholic cardinal from Holy Sepulchre on Palm Sunday",
-    "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1f4c6039-1226-45d3-8d23-d503d887b2ca.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/ec798184-1d08-46dd-8fcf-c06a2efd1977",
-    "published": "Sun, 29 Mar 2026 21:37:44 GMT",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:03.270141"
+    "fetched_at": "2026-03-30T06:17:34.343513"
   },
   {
     "source": "rss",
@@ -921,7 +873,19 @@
     "published": "Sun, 29 Mar 2026 14:32:19 +0000",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:03.617794"
+    "fetched_at": "2026-03-30T06:17:34.622519"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "Economic Times",
+    "title": "Financial services companies buck weak market to rock IPO show",
+    "thumbnail": null,
+    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/financial-services-companies-buck-weak-market-to-rock-ipo-show/articleshow/129889244.cms",
+    "published": "Mon, 30 Mar 2026 05:33:01 +0530",
+    "importance": 31,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:35.248550"
   },
   {
     "source": "rss",
@@ -933,7 +897,7 @@
     "published": "Sat, 28 Mar 2026 13:45:22 +0300",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:07.376688"
+    "fetched_at": "2026-03-30T06:17:39.823184"
   },
   {
     "source": "rss",
@@ -945,7 +909,19 @@
     "published": "Sun, 29 Mar 2026 12:05:42 +0000",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:09.789532"
+    "fetched_at": "2026-03-30T06:17:43.686091"
+  },
+  {
+    "source": "rss",
+    "category": "Russian Media",
+    "outlet": "RT World News",
+    "title": "US prepares for ‘weeks‘ of ground raids in Iran – WaPo",
+    "thumbnail": "https://mf.b37mrtl.ru/files/2026.03/thumbnail/69c8ab3d85f5400cbe49ca51.png",
+    "url": "https://www.rt.com/news/636595-us-plans-ground-raids-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "Sun, 29 Mar 2026 04:39:55 +0000",
+    "importance": 31,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:43.686203"
   },
   {
     "source": "rss",
@@ -957,7 +933,7 @@
     "published": "Sat, 28 Mar 2026 23:15:08 +0000",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:09.789757"
+    "fetched_at": "2026-03-30T06:17:43.686284"
   },
   {
     "source": "rss",
@@ -969,7 +945,7 @@
     "published": "Sun, 29 Mar 2026 22:00:00 +0900",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:10.046014"
+    "fetched_at": "2026-03-30T06:17:44.022185"
   },
   {
     "source": "rss",
@@ -981,7 +957,7 @@
     "published": "Fri, 27 Mar 2026 21:02:28 +0300",
     "importance": 29,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.376743"
+    "fetched_at": "2026-03-30T06:17:39.823233"
   },
   {
     "source": "rss",
@@ -993,7 +969,7 @@
     "published": "Fri, 27 Mar 2026 18:48:48 +0300",
     "importance": 29,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.376833"
+    "fetched_at": "2026-03-30T06:17:39.823315"
   },
   {
     "source": "rss",
@@ -1005,103 +981,67 @@
     "published": "Fri, 27 Mar 2026 14:15:00 +0300",
     "importance": 29,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.377122"
+    "fetched_at": "2026-03-30T06:17:39.823562"
   },
   {
     "source": "rss",
     "category": "American Media",
     "outlet": "Bloomberg Markets",
-    "title": "Swiss Real Estate Scion Lauber Joins Rush to Access Retail Cash",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/il2t4MFlQ.x0/v0/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-30/swiss-real-estate-scion-lauber-joins-rush-to-access-retail-cash",
-    "published": "Mon, 30 Mar 2026 04:00:00 GMT",
+    "title": "Iran Escalation Looks 'Very Much Likely': Analyst",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNR.GFrSYLLE/v3/1200x-1.jpg",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-30/iran-escalation-looks-very-much-likely-analyst-video",
+    "published": "Mon, 30 Mar 2026 06:04:30 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.178871"
+    "fetched_at": "2026-03-30T06:17:31.620694"
   },
   {
     "source": "rss",
     "category": "American Media",
     "outlet": "Bloomberg Markets",
-    "title": "Citi's McCormick Sees Steeper Yield Curve Globally",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irG4nIItpdio/v3/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/videos/2026-03-30/citi-s-mccormick-sees-steeper-yield-curve-globally-video",
-    "published": "Mon, 30 Mar 2026 03:21:59 GMT",
+    "title": "Australian Fund With $123 Billion Weighs Private Credit Boost",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irYwbGgJ1ytk/v2/1200x-1.png",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-30/australian-fund-with-123-billion-weighs-private-credit-boost",
+    "published": "Mon, 30 Mar 2026 04:55:40 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.179053"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "Hua Medicine on Earnings, Business Expansion Plans",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i75i41ERT7xQ/v3/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/videos/2026-03-30/hua-medicine-on-earnings-business-expansion-plans-video",
-    "published": "Mon, 30 Mar 2026 03:19:34 GMT",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.179085"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "Innovent Biologics Bullish on China Obesity Drug Outlook",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq_QT9N0Xeto/v3/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/videos/2026-03-30/innovent-biologics-bullish-on-china-obesity-drug-outlook-video",
-    "published": "Mon, 30 Mar 2026 03:10:56 GMT",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.179117"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "China Increases Overseas Investment Quota by Most Since 2021",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGuu6dZTYa6o/v2/1200x-1.png",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-30/china-adds-quota-for-overseas-investment-by-most-since-2021",
-    "published": "Mon, 30 Mar 2026 02:23:14 GMT",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.179150"
+    "fetched_at": "2026-03-30T06:17:31.621101"
   },
   {
     "source": "rss",
     "category": "American Media",
     "outlet": "NYT > World News",
-    "title": "He Led Congo for 18 Years. Now, Joseph Kabila Is a Hunted Man.",
-    "thumbnail": "https://static01.nyt.com/images/2026/03/26/multimedia/00int-congo-kabila-1-wqfg/00int-congo-kabila-1-wqfg-mediumSquareAt3X.jpg",
-    "url": "https://www.nytimes.com/2026/03/30/world/africa/he-led-congo-for-18-years-now-hes-a-hunted-man.html",
-    "published": "Mon, 30 Mar 2026 04:01:10 +0000",
+    "title": "In Australia, Victoria and Tasmania Waive Transit Fares as Fuel Prices Soar",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/30/multimedia/30int-oz-free-transit-vhjf/30int-oz-free-transit-vhjf-mediumSquareAt3X.jpg",
+    "url": "https://www.nytimes.com/2026/03/30/world/australia/australia-melbourne-free-transit.html",
+    "published": "Mon, 30 Mar 2026 05:28:04 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.498378"
+    "fetched_at": "2026-03-30T06:17:32.127448"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "NYT > World News",
+    "title": "Asia Depends on L.N.G. From the Middle East. This Is What Happens When It Runs Out.",
+    "thumbnail": "https://static01.nyt.com/images/2026/03/27/multimedia/00Biz-LNG-Cliff-01-tkqj/00Biz-LNG-Cliff-01-tkqj-mediumSquareAt3X.jpg",
+    "url": "https://www.nytimes.com/2026/03/30/business/lng-supply-asia-qatar-iran.html",
+    "published": "Mon, 30 Mar 2026 04:01:23 +0000",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:32.127481"
   },
   {
     "source": "rss",
     "category": "European Media",
-    "outlet": "BBC News",
-    "title": "Compensation details for millions of drivers set to be revealed",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09ba/live/d4f128a0-29e5-11f1-81d4-f1e3c77fafb4.jpg",
-    "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 29 Mar 2026 23:04:10 GMT",
+    "outlet": "International homepage",
+    "title": "Insurers give Emirates ‘outrageously’ cheap war insurance cover",
+    "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F594df6e0-6508-42cf-976e-8b4be7983213.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/25108328-2fd4-4697-9ea9-52f7a2e5348e",
+    "published": "Mon, 30 Mar 2026 04:00:17 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:02.654253"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "BBC News",
-    "title": "Why Chinese tech companies are racing to set up in Hong Kong",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6b4/live/4807f780-29e4-11f1-934f-036468834728.jpg",
-    "url": "https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 29 Mar 2026 23:07:12 GMT",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:02.654401"
+    "fetched_at": "2026-03-30T06:17:34.343441"
   },
   {
     "source": "rss",
@@ -1113,7 +1053,7 @@
     "published": "Mon, 30 Mar 2026 01:00:03 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:03.270177"
+    "fetched_at": "2026-03-30T06:17:34.343547"
   },
   {
     "source": "rss",
@@ -1125,7 +1065,43 @@
     "published": "Mon, 30 Mar 2026 05:53:46 +0530",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:03.914805"
+    "fetched_at": "2026-03-30T06:17:35.248512"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "mint - markets",
+    "title": "HAL, BEL, other defence stocks among key beneficiaries as DAC clear  ₹2.38 lakh crore deals",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/Defence_1767851355530_1767851361770_1774850978814.png",
+    "url": "https://www.livemint.com/market/stock-market-news/hal-bel-other-defence-stocks-among-key-beneficiaries-as-dac-clear-rs-2-38-lakh-crore-deals-11774848617726.html",
+    "published": "Mon, 30 Mar 2026 11:44:05 +0530",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:35.602147"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "mint - markets",
+    "title": "Amir Chand Jagdish Kumar IPO allotment date likely today. GMP, steps to check share allotment status online",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/DJI_0052_Moment_1774582201543_1774582228944_1774849307240.jpg",
+    "url": "https://www.livemint.com/market/ipo/amir-chand-jagdish-kumar-ipo-allotment-date-likely-today-gmp-steps-to-check-share-allotment-status-online-11774848735009.html",
+    "published": "Mon, 30 Mar 2026 11:13:40 +0530",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:35.602195"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "mint - markets",
+    "title": "KNR Constructions share price jumps 8.5% on order win worth  ₹1,734 crore from NHAI in Telangana",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/gd70f5493189350f0737302b3e9d20084f484c5909356fbdc7_1724647995684_1774844415572.jpg",
+    "url": "https://www.livemint.com/market/stock-market-news/knr-constructions-share-price-jumps-8-5-on-order-win-worth-rs-1-734-crore-from-nhai-in-telangana-11774842917901.html",
+    "published": "Mon, 30 Mar 2026 09:52:04 +0530",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:35.602487"
   },
   {
     "source": "rss",
@@ -1137,43 +1113,19 @@
     "published": "Mon, 30 Mar 2026 09:08:11 +0530",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:04.161650"
+    "fetched_at": "2026-03-30T06:17:35.602665"
   },
   {
     "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "From ‘next HDFC’ to reality check: What’s ailing Bajaj Housing Finance?",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/29/1600x900/logo/Screenshot_2024-04-24_105050_1713936039424_1774783786878.png",
-    "url": "https://www.livemint.com/market/stock-market-news/bajaj-housing-finance-share-price-fall-valuation-11774779907497.html",
-    "published": "Mon, 30 Mar 2026 09:00:27 +0530",
+    "category": "Chinese Media",
+    "outlet": "News - South China Morning Post",
+    "title": "Malaysia jails ex-babysitter for 1 year over toddler’s death",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/30/da707bbd-9dd8-424d-99e1-200da7add1f2_19c0cf49.jpg?itok=L4spiwPS&v=1774846191",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3348354/malaysia-jails-ex-babysitter-1-year-over-toddlers-death?utm_source=rss_feed",
+    "published": "Mon, 30 Mar 2026 04:49:58 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:04.161693"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "Powerica IPO allotment in focus today; latest GMP, 6 steps to check status",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/Powerica_IPO_1774838950745_1774838955134.png",
-    "url": "https://www.livemint.com/market/ipo/powerica-ipo-gmp-today-powerica-ipo-allotment-date-powerica-ipo-subscription-status-powerica-ipo-date-11774837691527.html",
-    "published": "Mon, 30 Mar 2026 08:25:22 +0530",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:04.161900"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today - 30 March 2026",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/Buy_or_sell_stocks_Sumeet_Bagadia_1681456126399_1774838493859.jpg",
-    "url": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-30-march-2026-11774836338248.html",
-    "published": "Mon, 30 Mar 2026 08:12:18 +0530",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:04.161939"
+    "fetched_at": "2026-03-30T06:17:36.366237"
   },
   {
     "source": "rss",
@@ -1185,31 +1137,19 @@
     "published": "Mon, 30 Mar 2026 03:22:07 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:04.894567"
+    "fetched_at": "2026-03-30T06:17:36.366411"
   },
   {
     "source": "rss",
     "category": "Chinese Media",
     "outlet": "News - South China Morning Post",
-    "title": "Tai Po blaze hearing suspended as fire alarm goes off during morning break",
+    "title": "Tai Po blaze hearing resumes after fire alarm goes off during morning break",
     "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/30/c19a8e40-1dcb-4488-b5ba-3bf4322f2b05_93ef02af.jpg?itok=BnnrSoTH&v=1774843691",
     "url": "https://www.scmp.com/news/hong-kong/society/article/3348331/suspicious-voting-procedures-hong-kongs-wang-fuk-court-estate-resident-says?utm_source=rss_feed",
     "published": "Mon, 30 Mar 2026 03:00:54 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:04.894606"
-  },
-  {
-    "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "News - South China Morning Post",
-    "title": "UN Security Council’s inaction is tearing the world apart",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/29/49924058-039a-4c91-b6d1-60edb015ff0c_141008fc.jpg?itok=L66_Fkoe&v=1774758694",
-    "url": "https://www.scmp.com/opinion/world-opinion/article/3348274/un-security-councils-inaction-tearing-world-apart?utm_source=rss_feed",
-    "published": "Mon, 30 Mar 2026 02:30:09 +0000",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:04.894888"
+    "fetched_at": "2026-03-30T06:17:36.366443"
   },
   {
     "source": "rss",
@@ -1221,7 +1161,7 @@
     "published": "Mon, 30 Mar 2026 06:25:01 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.086279"
+    "fetched_at": "2026-03-30T06:17:38.992969"
   },
   {
     "source": "rss",
@@ -1233,7 +1173,7 @@
     "published": "Mon, 30 Mar 2026 06:02:54 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.086332"
+    "fetched_at": "2026-03-30T06:17:38.993013"
   },
   {
     "source": "rss",
@@ -1245,7 +1185,7 @@
     "published": "Mon, 30 Mar 2026 05:50:01 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.086377"
+    "fetched_at": "2026-03-30T06:17:38.993051"
   },
   {
     "source": "rss",
@@ -1257,7 +1197,7 @@
     "published": "Mon, 30 Mar 2026 05:07:44 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.086470"
+    "fetched_at": "2026-03-30T06:17:38.993125"
   },
   {
     "source": "rss",
@@ -1269,31 +1209,43 @@
     "published": "Mon, 30 Mar 2026 04:57:43 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.086516"
+    "fetched_at": "2026-03-30T06:17:38.993165"
   },
   {
     "source": "rss",
-    "category": "Russian Media",
-    "outlet": "TASS",
-    "title": "Serbian president plans to discuss extension of gas agreement on Monday",
+    "category": "Middle East",
+    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "title": "Canadian YouTuber captures congestion of dozens of ships in Hormuz Strait",
     "thumbnail": null,
-    "url": "https://tass.com/world/2108669",
-    "published": "Mon, 30 Mar 2026 02:58:00 +0300",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/canadian-youtuber-captures-congestion-of-dozens-of-ships-in-hormuz-strait?traffic_source=rss",
+    "published": "Mon, 30 Mar 2026 05:40:30 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.086650"
+    "fetched_at": "2026-03-30T06:17:43.844144"
   },
   {
     "source": "rss",
-    "category": "Russian Media",
-    "outlet": "TASS",
-    "title": "NORAD F-16 fighter jets intercept aircraft near residence of US president",
+    "category": "Middle East",
+    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "title": "Fakhar Zaman charged with ball‑tampering by Pakistan board in PSL",
     "thumbnail": null,
-    "url": "https://tass.com/world/2108663",
-    "published": "Mon, 30 Mar 2026 02:10:00 +0300",
+    "url": "https://www.aljazeera.com/sports/2026/3/30/fakhar-zaman-charged-with-ball%e2%80%91tampering-by-pakistan-board-in-psl?traffic_source=rss",
+    "published": "Mon, 30 Mar 2026 04:54:26 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.086741"
+    "fetched_at": "2026-03-30T06:17:43.844226"
+  },
+  {
+    "source": "rss",
+    "category": "Middle East",
+    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "title": "Amnesty warns of human rights risks at 2026 World Cup",
+    "thumbnail": null,
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/amnesty-warns-of-human-rights-risks-at-2026-world-cup?traffic_source=rss",
+    "published": "Mon, 30 Mar 2026 04:21:07 +0000",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:43.844293"
   },
   {
     "source": "rss",
@@ -1305,7 +1257,7 @@
     "published": "Mon, 30 Mar 2026 03:29:40 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:09.896563"
+    "fetched_at": "2026-03-30T06:17:43.844327"
   },
   {
     "source": "rss",
@@ -1317,19 +1269,43 @@
     "published": "Mon, 30 Mar 2026 02:13:21 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:09.896666"
+    "fetched_at": "2026-03-30T06:17:43.844400"
   },
   {
     "source": "rss",
-    "category": "Middle East",
-    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "How will the Houthis’ involvement shape the war?",
+    "category": "Chinese Media",
+    "outlet": "Nikkei Asia",
+    "title": "Grief and inflation haunt Myanmar's earthquake survivors",
     "thumbnail": null,
-    "url": "https://www.aljazeera.com/video/inside-story/2026/3/29/how-will-the-houthis-involvement-shape-the-war?traffic_source=rss",
-    "published": "Sun, 29 Mar 2026 22:46:09 +0000",
-    "importance": 28,
+    "url": "https://asia.nikkei.com/economy/natural-disasters/grief-and-inflation-haunt-myanmar-s-earthquake-survivors",
+    "published": "",
+    "importance": 27,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:09.896930"
+    "fetched_at": "2026-03-30T06:17:36.710384"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "Nikkei Asia",
+    "title": "PetroChina readies $32bn development drive as oil supply risks flare",
+    "thumbnail": null,
+    "url": "https://asia.nikkei.com/spotlight/iran-tensions/petrochina-readies-32bn-development-drive-as-oil-supply-risks-flare",
+    "published": "",
+    "importance": 27,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:36.710421"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "Nikkei Asia",
+    "title": "Jeffrey Sachs warns Mideast conflict could spiral into World War III",
+    "thumbnail": null,
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/jeffrey-sachs-warns-mideast-conflict-could-spiral-into-world-war-iii",
+    "published": "",
+    "importance": 27,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:36.710448"
   },
   {
     "source": "rss",
@@ -1341,7 +1317,7 @@
     "published": "Sat, 28 Mar 2026 22:22:12 +0000",
     "importance": 25,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.497885"
+    "fetched_at": "2026-03-30T06:17:32.127070"
   },
   {
     "source": "rss",
@@ -1353,7 +1329,7 @@
     "published": "Sat, 28 Mar 2026 20:21:04 +0000",
     "importance": 25,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.498206"
+    "fetched_at": "2026-03-30T06:17:32.127348"
   },
   {
     "source": "rss",
@@ -1365,7 +1341,7 @@
     "published": "Sat, 28 Mar 2026 11:00:01 GMT",
     "importance": 25,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.596910"
+    "fetched_at": "2026-03-30T06:17:32.379702"
   },
   {
     "source": "rss",
@@ -1377,7 +1353,31 @@
     "published": "Fri, 27 Mar 2026 14:01:07 GMT",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.596951"
+    "fetched_at": "2026-03-30T06:17:32.379738"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "BBC News",
+    "title": "Compensation details for millions of drivers set to be revealed",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09ba/live/d4f128a0-29e5-11f1-81d4-f1e3c77fafb4.jpg",
+    "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 29 Mar 2026 23:04:10 GMT",
+    "importance": 24,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:33.317120"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "BBC News",
+    "title": "Why Chinese tech companies are racing to set up in Hong Kong",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6b4/live/4807f780-29e4-11f1-934f-036468834728.jpg",
+    "url": "https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 29 Mar 2026 23:07:12 GMT",
+    "importance": 24,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:33.317239"
   },
   {
     "source": "rss",
@@ -1389,7 +1389,19 @@
     "published": "Sun, 29 Mar 2026 11:24:25 GMT",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:06.119803"
+    "fetched_at": "2026-03-30T06:17:37.779518"
+  },
+  {
+    "source": "rss",
+    "category": "Russian Media",
+    "outlet": "TASS",
+    "title": "Serbian president plans to discuss extension of gas agreement on Monday",
+    "thumbnail": null,
+    "url": "https://tass.com/world/2108669",
+    "published": "Mon, 30 Mar 2026 02:58:00 +0300",
+    "importance": 24,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:38.993278"
   },
   {
     "source": "rss",
@@ -1401,7 +1413,7 @@
     "published": "Sun, 29 Mar 2026 12:30:00 +0300",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.376631"
+    "fetched_at": "2026-03-30T06:17:39.823134"
   },
   {
     "source": "rss",
@@ -1413,7 +1425,7 @@
     "published": "Fri, 27 Mar 2026 17:46:06 +0300",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.376875"
+    "fetched_at": "2026-03-30T06:17:39.823358"
   },
   {
     "source": "rss",
@@ -1425,7 +1437,7 @@
     "published": "Fri, 27 Mar 2026 16:16:56 +0300",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.376980"
+    "fetched_at": "2026-03-30T06:17:39.823440"
   },
   {
     "source": "rss",
@@ -1437,7 +1449,7 @@
     "published": "Sun, 29 Mar 2026 15:32:45 +0000",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:09.789400"
+    "fetched_at": "2026-03-30T06:17:43.685975"
   },
   {
     "source": "rss",
@@ -1449,7 +1461,7 @@
     "published": "Sun, 29 Mar 2026 06:57:42 +0000",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:09.789571"
+    "fetched_at": "2026-03-30T06:17:43.686125"
   },
   {
     "source": "rss",
@@ -1461,31 +1473,7 @@
     "published": "Sun, 29 Mar 2026 06:23:32 +0000",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:09.789615"
-  },
-  {
-    "source": "rss",
-    "category": "Middle East",
-    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "IRGC spokesperson says Trump ‘only understands the language of force’",
-    "thumbnail": null,
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/irgc-spokesperson-says-trump-only-understands-the-language-of?traffic_source=rss",
-    "published": "Sun, 29 Mar 2026 20:31:14 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:09.897145"
-  },
-  {
-    "source": "rss",
-    "category": "Middle East",
-    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "Qatari TV station hit in Iran",
-    "thumbnail": null,
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/qatari-tv-station-hit-in-iran?traffic_source=rss",
-    "published": "Sun, 29 Mar 2026 20:11:23 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:09.897181"
+    "fetched_at": "2026-03-30T06:17:43.686163"
   },
   {
     "source": "rss",
@@ -1497,7 +1485,7 @@
     "published": "Sat, 28 Mar 2026 00:01:00 +0900",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.046151"
+    "fetched_at": "2026-03-30T06:17:44.022306"
   },
   {
     "source": "rss",
@@ -1509,7 +1497,7 @@
     "published": "Fri, 27 Mar 2026 23:30:00 +0900",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.046196"
+    "fetched_at": "2026-03-30T06:17:44.022345"
   },
   {
     "source": "rss",
@@ -1521,7 +1509,7 @@
     "published": "",
     "importance": 21,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:05.157188"
+    "fetched_at": "2026-03-30T06:17:36.710551"
   },
   {
     "source": "rss",
@@ -1533,7 +1521,7 @@
     "published": "",
     "importance": 21,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:05.157261"
+    "fetched_at": "2026-03-30T06:17:36.710600"
   },
   {
     "source": "rss",
@@ -1545,7 +1533,7 @@
     "published": "",
     "importance": 21,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:05.157288"
+    "fetched_at": "2026-03-30T06:17:36.710625"
   },
   {
     "source": "rss",
@@ -1557,7 +1545,7 @@
     "published": "",
     "importance": 21,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:05.157341"
+    "fetched_at": "2026-03-30T06:17:36.710676"
   },
   {
     "source": "rss",
@@ -1569,7 +1557,7 @@
     "published": "",
     "importance": 21,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:05.157366"
+    "fetched_at": "2026-03-30T06:17:36.710700"
   },
   {
     "source": "rss",
@@ -1581,19 +1569,67 @@
     "published": "",
     "importance": 21,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:05.157417"
+    "fetched_at": "2026-03-30T06:17:36.710747"
   },
   {
     "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "Nikkei Asia",
-    "title": "Macron in East Asia, BOJ economic survey, Indonesia inflation",
-    "thumbnail": null,
-    "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/macron-in-east-asia-boj-economic-survey-indonesia-inflation",
-    "published": "",
-    "importance": 21,
+    "category": "American Media",
+    "outlet": "Bloomberg Markets",
+    "title": "Chinese Cargoes Hint at Fuels Relief for Neighbors Despite Curbs",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipY9ngHl1qRw/v0/1200x-1.jpg",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-30/chinese-cargoes-hint-at-fuels-relief-for-neighbors-despite-curbs",
+    "published": "Mon, 30 Mar 2026 04:25:24 GMT",
+    "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:05.157442"
+    "fetched_at": "2026-03-30T06:17:31.620655"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "Bloomberg Markets",
+    "title": "Glencore, Canada Near Deal to Save Threatened Copper Facility",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iszy.U3OnLfg/v3/1200x-1.png",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-30/glencore-canada-close-in-on-deal-to-save-threatened-quebec-copper-facility",
+    "published": "Mon, 30 Mar 2026 06:00:00 GMT",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:31.620792"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "Bloomberg Markets",
+    "title": "BYD Signals It’s Confident Exports Will Beat 2026 Target By 15%",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iETE8ksX3U4U/v0/1200x-1.jpg",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-30/byd-signals-it-s-confident-exports-will-beat-2026-target-by-15",
+    "published": "Mon, 30 Mar 2026 05:40:30 GMT",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:31.620857"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "Bloomberg Markets",
+    "title": "Insight with Haslinda Amin 03/30/2026",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iS0NaCAMVGYE/v3/1200x-1.jpg",
+    "url": "https://www.bloomberg.com/news/videos/2026-03-30/insight-with-haslinda-amin-03-30-2026-video",
+    "published": "Mon, 30 Mar 2026 05:25:47 GMT",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:31.620956"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "Bloomberg Markets",
+    "title": "New Zealand Explores Swapping IEA Tickets to Secure Fuel Supply",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq1yErvYgHD8/v0/1200x-1.jpg",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-30/new-zealand-explores-swapping-iea-tickets-to-secure-fuel-supply",
+    "published": "Mon, 30 Mar 2026 05:25:35 GMT",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:31.620986"
   },
   {
     "source": "rss",
@@ -1605,7 +1641,7 @@
     "published": "Sat, 28 Mar 2026 19:52:22 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.497848"
+    "fetched_at": "2026-03-30T06:17:32.127039"
   },
   {
     "source": "rss",
@@ -1617,7 +1653,7 @@
     "published": "Sat, 28 Mar 2026 19:27:59 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.498158"
+    "fetched_at": "2026-03-30T06:17:32.127304"
   },
   {
     "source": "rss",
@@ -1629,7 +1665,7 @@
     "published": "Sat, 28 Mar 2026 16:26:21 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.498266"
+    "fetched_at": "2026-03-30T06:17:32.127380"
   },
   {
     "source": "rss",
@@ -1641,7 +1677,7 @@
     "published": "Fri, 27 Mar 2026 09:36:19 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.498306"
+    "fetched_at": "2026-03-30T06:17:32.127414"
   },
   {
     "source": "rss",
@@ -1653,7 +1689,7 @@
     "published": "Sat, 28 Mar 2026 12:00:01 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.596862"
+    "fetched_at": "2026-03-30T06:17:32.379660"
   },
   {
     "source": "rss",
@@ -1665,7 +1701,7 @@
     "published": "Sat, 28 Mar 2026 03:04:47 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:02.654437"
+    "fetched_at": "2026-03-30T06:17:33.317268"
   },
   {
     "source": "rss",
@@ -1677,7 +1713,7 @@
     "published": "Fri, 27 Mar 2026 18:28:34 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:02.654472"
+    "fetched_at": "2026-03-30T06:17:33.317298"
   },
   {
     "source": "rss",
@@ -1689,7 +1725,43 @@
     "published": "Fri, 27 Mar 2026 12:13:36 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:02.654542"
+    "fetched_at": "2026-03-30T06:17:33.317356"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "International homepage",
+    "title": "Private capital: what are the risks?",
+    "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F08fad5f9-f750-4a6a-81f4-851b97439be4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/214371b3-aad0-405d-88f3-28b371f4c776",
+    "published": "Mon, 30 Mar 2026 04:00:26 GMT",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:34.343342"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "International homepage",
+    "title": "What to do when the ‘public good’ of information goes bad",
+    "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc79068ff-bec6-4c65-bf2b-d9544601f923.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/c1af9258-a77d-469c-8b8b-b455321786b3",
+    "published": "Mon, 30 Mar 2026 04:00:26 GMT",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:34.343377"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "International homepage",
+    "title": "America’s gig economy",
+    "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8b726ccb-de11-4c9d-aaa7-f73fc7c08fb7.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/35923259-841c-40aa-b182-68b73dd4c89d",
+    "published": "Mon, 30 Mar 2026 04:00:26 GMT",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:34.343407"
   },
   {
     "source": "rss",
@@ -1701,7 +1773,7 @@
     "published": "Sat, 28 Mar 2026 00:43:27 +0530",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:03.915072"
+    "fetched_at": "2026-03-30T06:17:35.248659"
   },
   {
     "source": "rss",
@@ -1713,19 +1785,19 @@
     "published": "Sat, 28 Mar 2026 00:26:43 +0530",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:03.915113"
+    "fetched_at": "2026-03-30T06:17:35.248695"
   },
   {
     "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "Gold, Silver Rates Today: MCX gold rate falls below  ₹1.47 lakh, silver prices drop 0.5% to below  ₹2.27 lakh per kg",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/30/1600x900/logo/gold_and_silver_prices_March_31_markets_news_India_1743385413433_1774837283286.jpg",
-    "url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-rate-today-us-iran-war-crude-oil-prices-donald-trump-us-fed-rate-cut-30-march-2026-11774837182653.html",
-    "published": "Mon, 30 Mar 2026 07:54:38 +0530",
+    "category": "Chinese Media",
+    "outlet": "News - South China Morning Post",
+    "title": "42 arrested in HK$180 million crackdown on triad-linked renovation projects",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/30/5fadbe3c-00da-475a-adb1-1d3e9cd18710_e30b79c6.jpg?itok=nk5kSF80&v=1774847815",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3348355/icac-arrests-42-hk180-million-crackdown-triad-linked-renovation-projects?utm_source=rss_feed",
+    "published": "Mon, 30 Mar 2026 05:28:09 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:04.161984"
+    "fetched_at": "2026-03-30T06:17:36.366199"
   },
   {
     "source": "rss",
@@ -1737,31 +1809,7 @@
     "published": "Mon, 30 Mar 2026 02:41:27 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:04.894771"
-  },
-  {
-    "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "News - South China Morning Post",
-    "title": "Hong Kong’s autism support services are fragmented. Can the private sector help?",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/29/63fc7a5a-56d5-48b7-91df-6641f34ce0ae_122e3a0a.jpg?itok=I9I-ELsV&v=1774782847",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3348304/hong-kongs-autism-support-services-are-fragmented-can-private-sector-help?utm_source=rss_feed",
-    "published": "Mon, 30 Mar 2026 02:30:13 +0000",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:04.894848"
-  },
-  {
-    "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "News - South China Morning Post",
-    "title": "‘Lighthouses in space’: the Chinese jam-proof satellite network to fill GPS gaps",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/29/b37bfd61-0d83-4781-8781-b8051c57a4cb_49e8b70f.jpg?itok=7iyjYY0-&v=1774790765",
-    "url": "https://www.scmp.com/news/china/science/article/3348318/lighthouses-space-chinese-jam-proof-satellite-network-fill-gps-gaps?utm_source=rss_feed",
-    "published": "Mon, 30 Mar 2026 02:01:05 +0000",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:04.895006"
+    "fetched_at": "2026-03-30T06:17:36.366580"
   },
   {
     "source": "rss",
@@ -1773,7 +1821,7 @@
     "published": "Mon, 30 Mar 2026 07:08:01 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.086150"
+    "fetched_at": "2026-03-30T06:17:38.992880"
   },
   {
     "source": "rss",
@@ -1785,7 +1833,7 @@
     "published": "Mon, 30 Mar 2026 04:40:00 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.086559"
+    "fetched_at": "2026-03-30T06:17:38.993201"
   },
   {
     "source": "rss",
@@ -1797,7 +1845,7 @@
     "published": "Mon, 30 Mar 2026 04:07:01 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.086607"
+    "fetched_at": "2026-03-30T06:17:38.993241"
   },
   {
     "source": "rss",
@@ -1809,7 +1857,7 @@
     "published": "Fri, 27 Mar 2026 19:00:42 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.376788"
+    "fetched_at": "2026-03-30T06:17:39.823274"
   },
   {
     "source": "rss",
@@ -1821,7 +1869,7 @@
     "published": "Fri, 27 Mar 2026 17:22:00 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.376924"
+    "fetched_at": "2026-03-30T06:17:39.823401"
   },
   {
     "source": "rss",
@@ -1833,7 +1881,7 @@
     "published": "Fri, 27 Mar 2026 14:31:00 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.377077"
+    "fetched_at": "2026-03-30T06:17:39.823523"
   },
   {
     "source": "rss",
@@ -1845,7 +1893,7 @@
     "published": "Sun, 29 Mar 2026 01:08:56 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:09.789710"
+    "fetched_at": "2026-03-30T06:17:43.686242"
   },
   {
     "source": "rss",
@@ -1857,7 +1905,19 @@
     "published": "Sat, 28 Mar 2026 22:23:34 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:09.789797"
+    "fetched_at": "2026-03-30T06:17:43.686319"
+  },
+  {
+    "source": "rss",
+    "category": "Middle East",
+    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "title": "By the 50th anniversary of Land Day, Palestinians lose most of their land",
+    "thumbnail": null,
+    "url": "https://www.aljazeera.com/features/2026/3/30/by-the-50th-anniversary-of-land-day-palestinians-lose-most-of-their-land?traffic_source=rss",
+    "published": "Mon, 30 Mar 2026 05:54:38 +0000",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:43.844050"
   },
   {
     "source": "rss",
@@ -1869,7 +1929,7 @@
     "published": "Mon, 30 Mar 2026 02:58:14 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:09.896614"
+    "fetched_at": "2026-03-30T06:17:43.844361"
   },
   {
     "source": "rss",
@@ -1881,7 +1941,7 @@
     "published": "Fri, 27 Mar 2026 22:42:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.046314"
+    "fetched_at": "2026-03-30T06:17:44.022418"
   },
   {
     "source": "rss",
@@ -1893,7 +1953,7 @@
     "published": "Fri, 27 Mar 2026 22:09:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.046357"
+    "fetched_at": "2026-03-30T06:17:44.022455"
   },
   {
     "source": "rss",
@@ -1905,19 +1965,7 @@
     "published": "Fri, 27 Mar 2026 22:03:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.046400"
-  },
-  {
-    "source": "rss",
-    "category": "Alternative & Independent",
-    "outlet": "The Diplomat",
-    "title": "Takaichi Sanae and the Constitutional Revision Debate",
-    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-27-144133.jpg",
-    "url": "https://thediplomat.com/2026/03/takaichi-sanae-and-the-constitutional-revision-debate/",
-    "published": "Fri, 27 Mar 2026 14:38:00 +0900",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.046589"
+    "fetched_at": "2026-03-30T06:17:44.022495"
   },
   {
     "source": "rss",
@@ -1929,7 +1977,7 @@
     "published": "Thu, 26 Mar 2026 20:37:00 +0300",
     "importance": 18,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.377212"
+    "fetched_at": "2026-03-30T06:17:39.823639"
   },
   {
     "source": "rss",
@@ -1941,7 +1989,7 @@
     "published": "Thu, 26 Mar 2026 18:52:05 +0300",
     "importance": 18,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.377289"
+    "fetched_at": "2026-03-30T06:17:39.823679"
   },
   {
     "source": "rss",
@@ -1953,7 +2001,7 @@
     "published": "Thu, 26 Mar 2026 18:09:56 +0300",
     "importance": 18,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.377336"
+    "fetched_at": "2026-03-30T06:17:39.823718"
   },
   {
     "source": "rss",
@@ -1965,7 +2013,7 @@
     "published": "Sun, 29 Mar 2026 19:14:47 +0000",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.497690"
+    "fetched_at": "2026-03-30T06:17:32.126901"
   },
   {
     "source": "rss",
@@ -1977,7 +2025,7 @@
     "published": "Sun, 29 Mar 2026 17:56:02 +0000",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.497728"
+    "fetched_at": "2026-03-30T06:17:32.126936"
   },
   {
     "source": "rss",
@@ -1989,7 +2037,7 @@
     "published": "Sun, 29 Mar 2026 12:00:01 GMT",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.596808"
+    "fetched_at": "2026-03-30T06:17:32.379612"
   },
   {
     "source": "rss",
@@ -2001,7 +2049,7 @@
     "published": "Sun, 29 Mar 2026 20:34:22 +0000",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:09.789303"
+    "fetched_at": "2026-03-30T06:17:43.685878"
   },
   {
     "source": "rss",
@@ -2013,7 +2061,7 @@
     "published": "Sun, 29 Mar 2026 17:55:46 +0000",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:09.789352"
+    "fetched_at": "2026-03-30T06:17:43.685933"
   },
   {
     "source": "rss",
@@ -2025,7 +2073,7 @@
     "published": "Fri, 27 Mar 2026 13:39:35 GMT",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.596991"
+    "fetched_at": "2026-03-30T06:17:32.379772"
   },
   {
     "source": "rss",
@@ -2037,7 +2085,7 @@
     "published": "Sat, 28 Mar 2026 00:41:55 GMT",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:02.654366"
+    "fetched_at": "2026-03-30T06:17:33.317210"
   },
   {
     "source": "rss",
@@ -2049,7 +2097,7 @@
     "published": "Fri, 27 Mar 2026 12:00:39 GMT",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:02.654509"
+    "fetched_at": "2026-03-30T06:17:33.317328"
   },
   {
     "source": "rss",
@@ -2061,7 +2109,7 @@
     "published": "Fri, 27 Mar 2026 11:03:29 GMT",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:02.654576"
+    "fetched_at": "2026-03-30T06:17:33.317385"
   },
   {
     "source": "rss",
@@ -2073,7 +2121,7 @@
     "published": "Sat, 28 Mar 2026 00:49:50 +0530",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:03.915030"
+    "fetched_at": "2026-03-30T06:17:35.248625"
   },
   {
     "source": "rss",
@@ -2085,31 +2133,7 @@
     "published": "",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:05.157392"
-  },
-  {
-    "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "Nikkei Asia",
-    "title": "FamilyMart tests translation system for customers from abroad",
-    "thumbnail": null,
-    "url": "https://asia.nikkei.com/business/business-trends/familymart-tests-translation-system-for-customers-from-abroad",
-    "published": "",
-    "importance": 15,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:05.157467"
-  },
-  {
-    "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "Nikkei Asia",
-    "title": "Huawei poaches top German scientist, as scholars blame academic system",
-    "thumbnail": null,
-    "url": "https://asia.nikkei.com/business/technology/huawei-poaches-top-german-scientist-as-scholars-blame-academic-system",
-    "published": "",
-    "importance": 15,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:05.157492"
+    "fetched_at": "2026-03-30T06:17:36.710723"
   },
   {
     "source": "rss",
@@ -2121,7 +2145,7 @@
     "published": "Fri, 27 Mar 2026 15:15:58 +0300",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.377028"
+    "fetched_at": "2026-03-30T06:17:39.823480"
   },
   {
     "source": "rss",
@@ -2133,7 +2157,7 @@
     "published": "Fri, 27 Mar 2026 12:50:43 +0300",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:07.377170"
+    "fetched_at": "2026-03-30T06:17:39.823602"
   },
   {
     "source": "rss",
@@ -2145,7 +2169,7 @@
     "published": "Sat, 28 Mar 2026 02:05:00 +0900",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.046111"
+    "fetched_at": "2026-03-30T06:17:44.022271"
   },
   {
     "source": "rss",
@@ -2157,19 +2181,7 @@
     "published": "Fri, 27 Mar 2026 23:39:00 +0900",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.046269"
-  },
-  {
-    "source": "rss",
-    "category": "Alternative & Independent",
-    "outlet": "The Diplomat",
-    "title": "What Does North Korea Think of Japan’s Prime Minister?",
-    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-27-142334.jpeg",
-    "url": "https://thediplomat.com/2026/03/what-does-north-korea-think-of-japans-prime-minister/",
-    "published": "Fri, 27 Mar 2026 14:17:00 +0900",
-    "importance": 15,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.046628"
+    "fetched_at": "2026-03-30T06:17:44.022381"
   },
   {
     "source": "rss",
@@ -2181,7 +2193,7 @@
     "published": "Sun, 29 Mar 2026 00:29:42 +0000",
     "importance": 14,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.498106"
+    "fetched_at": "2026-03-30T06:17:32.127261"
   },
   {
     "source": "rss",
@@ -2193,7 +2205,7 @@
     "published": "Fri, 27 Mar 2026 02:09:30 GMT",
     "importance": 14,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.597078"
+    "fetched_at": "2026-03-30T06:17:32.379847"
   },
   {
     "source": "rss",
@@ -2205,7 +2217,7 @@
     "published": "Thu, 26 Mar 2026 18:28:16 GMT",
     "importance": 14,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.597120"
+    "fetched_at": "2026-03-30T06:17:32.379896"
   },
   {
     "source": "rss",
@@ -2217,7 +2229,19 @@
     "published": "Thu, 26 Mar 2026 13:57:17 +0000",
     "importance": 14,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:03.617944"
+    "fetched_at": "2026-03-30T06:17:34.622650"
+  },
+  {
+    "source": "rss",
+    "category": "Alternative & Independent",
+    "outlet": "The Diplomat",
+    "title": "Takaichi Sanae and the Constitutional Revision Debate",
+    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-27-144133.jpg",
+    "url": "https://thediplomat.com/2026/03/takaichi-sanae-and-the-constitutional-revision-debate/",
+    "published": "Fri, 27 Mar 2026 14:38:00 +0900",
+    "importance": 14,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:44.022665"
   },
   {
     "source": "rss",
@@ -2229,7 +2253,7 @@
     "published": "Fri, 27 Mar 2026 13:06:11 GMT",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.597035"
+    "fetched_at": "2026-03-30T06:17:32.379810"
   },
   {
     "source": "rss",
@@ -2241,7 +2265,7 @@
     "published": "Thu, 26 Mar 2026 17:13:24 GMT",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.597202"
+    "fetched_at": "2026-03-30T06:17:32.379969"
   },
   {
     "source": "rss",
@@ -2253,7 +2277,7 @@
     "published": "Thu, 26 Mar 2026 15:59:50 GMT",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.597394"
+    "fetched_at": "2026-03-30T06:17:32.380104"
   },
   {
     "source": "rss",
@@ -2265,7 +2289,7 @@
     "published": "Thu, 26 Mar 2026 23:36:14 GMT",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:02.654644"
+    "fetched_at": "2026-03-30T06:17:33.317445"
   },
   {
     "source": "rss",
@@ -2277,7 +2301,7 @@
     "published": "Fri, 27 Mar 2026 06:32:59 GMT",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:02.654677"
+    "fetched_at": "2026-03-30T06:17:33.317474"
   },
   {
     "source": "rss",
@@ -2289,7 +2313,7 @@
     "published": "Thu, 26 Mar 2026 13:57:17 +0000",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:03.617853"
+    "fetched_at": "2026-03-30T06:17:34.622572"
   },
   {
     "source": "rss",
@@ -2301,7 +2325,7 @@
     "published": "Thu, 26 Mar 2026 13:57:17 +0000",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:03.617902"
+    "fetched_at": "2026-03-30T06:17:34.622614"
   },
   {
     "source": "rss",
@@ -2313,7 +2337,7 @@
     "published": "Wed, 25 Mar 2026 21:42:16 +0000",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:03.618066"
+    "fetched_at": "2026-03-30T06:17:34.622754"
   },
   {
     "source": "rss",
@@ -2325,7 +2349,7 @@
     "published": "Thu, 26 Mar 2026 01:00:45 +0530",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:03.915155"
+    "fetched_at": "2026-03-30T06:17:35.248731"
   },
   {
     "source": "rss",
@@ -2337,7 +2361,7 @@
     "published": "Fri, 27 Mar 2026 12:53:48 GMT",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:06.120004"
+    "fetched_at": "2026-03-30T06:17:37.779664"
   },
   {
     "source": "rss",
@@ -2349,7 +2373,7 @@
     "published": "Fri, 27 Mar 2026 11:58:31 GMT",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:06.120061"
+    "fetched_at": "2026-03-30T06:17:37.779712"
   },
   {
     "source": "rss",
@@ -2361,7 +2385,7 @@
     "published": "Fri, 27 Mar 2026 11:24:58 GMT",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:06.120104"
+    "fetched_at": "2026-03-30T06:17:37.779750"
   },
   {
     "source": "rss",
@@ -2373,7 +2397,7 @@
     "published": "Sat, 28 Mar 2026 02:33:00 +0900",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.046070"
+    "fetched_at": "2026-03-30T06:17:44.022235"
   },
   {
     "source": "rss",
@@ -2385,19 +2409,7 @@
     "published": "Fri, 27 Mar 2026 21:31:00 +0900",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.046480"
-  },
-  {
-    "source": "rss",
-    "category": "Alternative & Independent",
-    "outlet": "The Diplomat",
-    "title": "How an Indonesian Pulp Giant Built a Carbon Project to Save a Forest From Itself",
-    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-27-150943.jpg",
-    "url": "https://thediplomat.com/2026/03/how-an-indonesian-pulp-giant-built-a-carbon-project-to-save-a-forest-from-itself/",
-    "published": "Fri, 27 Mar 2026 14:45:00 +0900",
-    "importance": 11,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.046518"
+    "fetched_at": "2026-03-30T06:17:44.022568"
   },
   {
     "source": "rss",
@@ -2409,7 +2421,19 @@
     "published": "Fri, 27 Mar 2026 06:15:00 +0900",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.046552"
+    "fetched_at": "2026-03-30T06:17:44.022633"
+  },
+  {
+    "source": "rss",
+    "category": "Alternative & Independent",
+    "outlet": "The Diplomat",
+    "title": "What Does North Korea Think of Japan’s Prime Minister?",
+    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-27-142334.jpeg",
+    "url": "https://thediplomat.com/2026/03/what-does-north-korea-think-of-japans-prime-minister/",
+    "published": "Fri, 27 Mar 2026 14:17:00 +0900",
+    "importance": 11,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:44.022701"
   },
   {
     "source": "rss",
@@ -2421,7 +2445,7 @@
     "published": "Wed, 25 Mar 2026 20:46:00 +0000",
     "importance": 9,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:03.618154"
+    "fetched_at": "2026-03-30T06:17:34.622830"
   },
   {
     "source": "rss",
@@ -2433,7 +2457,7 @@
     "published": "Thu, 26 Mar 2026 20:33:24 GMT",
     "importance": 8,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.597162"
+    "fetched_at": "2026-03-30T06:17:32.379934"
   },
   {
     "source": "rss",
@@ -2445,7 +2469,7 @@
     "published": "Thu, 26 Mar 2026 15:02:46 GMT",
     "importance": 8,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.597272"
+    "fetched_at": "2026-03-30T06:17:32.380004"
   },
   {
     "source": "rss",
@@ -2457,7 +2481,7 @@
     "published": "Thu, 26 Mar 2026 17:59:17 GMT",
     "importance": 8,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.597314"
+    "fetched_at": "2026-03-30T06:17:32.380036"
   },
   {
     "source": "rss",
@@ -2469,7 +2493,7 @@
     "published": "Thu, 26 Mar 2026 15:54:11 GMT",
     "importance": 8,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.597353"
+    "fetched_at": "2026-03-30T06:17:32.380069"
   },
   {
     "source": "rss",
@@ -2481,7 +2505,7 @@
     "published": "Fri, 27 Mar 2026 01:25:17 GMT",
     "importance": 8,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:02.654610"
+    "fetched_at": "2026-03-30T06:17:33.317415"
   },
   {
     "source": "rss",
@@ -2493,7 +2517,7 @@
     "published": "Fri, 27 Mar 2026 00:44:24 GMT",
     "importance": 8,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:02.654709"
+    "fetched_at": "2026-03-30T06:17:33.317502"
   },
   {
     "source": "rss",
@@ -2505,7 +2529,19 @@
     "published": "Thu, 26 Mar 2026 13:57:17 +0000",
     "importance": 8,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:03.617982"
+    "fetched_at": "2026-03-30T06:17:34.622681"
+  },
+  {
+    "source": "rss",
+    "category": "Alternative & Independent",
+    "outlet": "The Diplomat",
+    "title": "How an Indonesian Pulp Giant Built a Carbon Project to Save a Forest From Itself",
+    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-27-150943.jpg",
+    "url": "https://thediplomat.com/2026/03/how-an-indonesian-pulp-giant-built-a-carbon-project-to-save-a-forest-from-itself/",
+    "published": "Fri, 27 Mar 2026 14:45:00 +0900",
+    "importance": 8,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:44.022603"
   },
   {
     "source": "rss",
@@ -2517,7 +2553,7 @@
     "published": "Wed, 25 Mar 2026 18:04:00 GMT",
     "importance": 7,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:01.597434"
+    "fetched_at": "2026-03-30T06:17:32.380138"
   },
   {
     "source": "rss",
@@ -2529,7 +2565,7 @@
     "published": "Thu, 26 Mar 2026 00:52:23 +0530",
     "importance": 7,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:03.915195"
+    "fetched_at": "2026-03-30T06:17:35.248765"
   },
   {
     "source": "rss",
@@ -2541,19 +2577,7 @@
     "published": "Wed, 25 Mar 2026 13:55:28 GMT",
     "importance": 7,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:06.119854"
-  },
-  {
-    "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "Business",
-    "title": "2026 ZGC Forum showcases tech‑industry integration",
-    "thumbnail": "https://news.cgtn.com/news/2026-03-25/2026-ZGC-Forum-showcases-tech-industry-integration-1LNr3GmVV3a/img/8653dff0f0084bc484a090c2a1d83591/8653dff0f0084bc484a090c2a1d83591-1920.png",
-    "url": "https://news.cgtn.com/news/2026-03-25/2026-ZGC-Forum-showcases-tech-industry-integration-1LNr3GmVV3a/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published": "Wed, 25 Mar 2026 05:48:55 GMT",
-    "importance": 7,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:06.119928"
+    "fetched_at": "2026-03-30T06:17:37.779561"
   },
   {
     "source": "rss",
@@ -2565,7 +2589,7 @@
     "published": "Wed, 25 Mar 2026 22:48:41 +0000",
     "importance": 5,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:03.618022"
+    "fetched_at": "2026-03-30T06:17:34.622716"
   },
   {
     "source": "rss",
@@ -2577,7 +2601,7 @@
     "published": "Wed, 25 Mar 2026 21:09:06 +0000",
     "importance": 5,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:03.618108"
+    "fetched_at": "2026-03-30T06:17:34.622791"
   },
   {
     "source": "rss",
@@ -2589,7 +2613,7 @@
     "published": "Thu, 26 Mar 2026 00:46:44 +0530",
     "importance": 5,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:03.915263"
+    "fetched_at": "2026-03-30T06:17:35.248802"
   },
   {
     "source": "reddit",
@@ -2602,7 +2626,20 @@
     "published": "2026-03-29T12:32:19+00:00",
     "importance": 65,
     "importanceLabel": "High",
-    "fetched_at": "2026-03-30T04:11:11.704040"
+    "fetched_at": "2026-03-30T06:17:45.885592"
+  },
+  {
+    "source": "reddit",
+    "category": "Reddit",
+    "subreddit": "worldnews",
+    "outlet": "r/worldnews",
+    "title": "Solar is winning the energy race - The world’s cheapest power source is scaling at warp speed, pushing coal, gas and nuclear aside.",
+    "thumbnail": "https://external-preview.redd.it/y114FJvFdcBCKS7abjBDGZjykr97V4DrPINi2g732Sk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f2ecfd169768d81d0c1b1f273af4c3ca4b113f0b",
+    "url": "https://www.reddit.com/r/worldnews/comments/1s7gy81/solar_is_winning_the_energy_race_the_worlds/",
+    "published": "2026-03-30T04:39:17+00:00",
+    "importance": 60,
+    "importanceLabel": "High",
+    "fetched_at": "2026-03-30T06:17:45.353070"
   },
   {
     "source": "reddit",
@@ -2615,7 +2652,7 @@
     "published": "2026-03-30T04:02:54+00:00",
     "importance": 52,
     "importanceLabel": "High",
-    "fetched_at": "2026-03-30T04:11:11.265570"
+    "fetched_at": "2026-03-30T06:17:45.352105"
   },
   {
     "source": "reddit",
@@ -2628,20 +2665,7 @@
     "published": "2026-03-30T01:29:22+00:00",
     "importance": 52,
     "importanceLabel": "High",
-    "fetched_at": "2026-03-30T04:11:11.265739"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "worldnews",
-    "outlet": "r/worldnews",
-    "title": "Israeli military suspends battalion involved in assaulting, detaining CNN crew in West Bank",
-    "thumbnail": "https://external-preview.redd.it/s0-Ul9epVwTDFay-whoX-hsWS1GGjxWp9tI7XpiAkfs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3f229cd9936cd4c86215327d38adc83bfd354ef",
-    "url": "https://www.reddit.com/r/worldnews/comments/1s7asuz/israeli_military_suspends_battalion_involved_in/",
-    "published": "2026-03-29T23:43:34+00:00",
-    "importance": 52,
-    "importanceLabel": "High",
-    "fetched_at": "2026-03-30T04:11:11.266652"
+    "fetched_at": "2026-03-30T06:17:45.352255"
   },
   {
     "source": "reddit",
@@ -2654,7 +2678,7 @@
     "published": "2026-03-30T03:00:53+00:00",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:10.835462"
+    "fetched_at": "2026-03-30T06:17:44.717454"
   },
   {
     "source": "reddit",
@@ -2667,7 +2691,7 @@
     "published": "2026-03-30T03:41:20+00:00",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:10.835777"
+    "fetched_at": "2026-03-30T06:17:44.717800"
   },
   {
     "source": "reddit",
@@ -2680,7 +2704,7 @@
     "published": "2026-03-29T17:08:00+00:00",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.265908"
+    "fetched_at": "2026-03-30T06:17:45.352467"
   },
   {
     "source": "reddit",
@@ -2693,33 +2717,7 @@
     "published": "2026-03-29T21:06:57+00:00",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.266058"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "worldnews",
-    "outlet": "r/worldnews",
-    "title": "North Korea conducts test for missile it claims can target US mainland",
-    "thumbnail": "https://external-preview.redd.it/CvrWUfuuoVZCCm8LG0iWsDdmsmkTVHdGclLmX2c4p4Y.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=74444072eddf491f1e365a105335e8f8c8aeff3e",
-    "url": "https://www.reddit.com/r/worldnews/comments/1s7akrf/north_korea_conducts_test_for_missile_it_claims/",
-    "published": "2026-03-29T23:33:50+00:00",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.266204"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "worldnews",
-    "outlet": "r/worldnews",
-    "title": "European allies say Russia is helping Iran more than the U.S. has acknowledged, sources say",
-    "thumbnail": "https://external-preview.redd.it/J3iWRoY0LI2oYBH3Lb-tKAVHnDbSo3VNfZ2_g3xILxI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d8fb439059f18c97542246c3909ff2db3f040725",
-    "url": "https://www.reddit.com/r/worldnews/comments/1s71x9n/european_allies_say_russia_is_helping_iran_more/",
-    "published": "2026-03-29T17:53:45+00:00",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.266346"
+    "fetched_at": "2026-03-30T06:17:45.352532"
   },
   {
     "source": "reddit",
@@ -2732,20 +2730,33 @@
     "published": "2026-03-30T01:20:30+00:00",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.266426"
+    "fetched_at": "2026-03-30T06:17:45.352662"
   },
   {
     "source": "reddit",
     "category": "Reddit",
     "subreddit": "worldnews",
     "outlet": "r/worldnews",
-    "title": "Indian worker killed in Iranian attack on Kuwait power, desalination plant",
-    "thumbnail": "https://external-preview.redd.it/dPJ4i3UjgrVxcxZ7FNxFVSRHqzI2bR8AOGjQV1XTOpc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4e6be646b1ded1e530e746627b9e00b048b85599",
-    "url": "https://www.reddit.com/r/worldnews/comments/1s7aynu/indian_worker_killed_in_iranian_attack_on_kuwait/",
-    "published": "2026-03-29T23:50:44+00:00",
+    "title": "European allies say Russia is helping Iran more than the U.S. has acknowledged, sources say",
+    "thumbnail": "https://external-preview.redd.it/J3iWRoY0LI2oYBH3Lb-tKAVHnDbSo3VNfZ2_g3xILxI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d8fb439059f18c97542246c3909ff2db3f040725",
+    "url": "https://www.reddit.com/r/worldnews/comments/1s71x9n/european_allies_say_russia_is_helping_iran_more/",
+    "published": "2026-03-29T17:53:45+00:00",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.266938"
+    "fetched_at": "2026-03-30T06:17:45.352789"
+  },
+  {
+    "source": "reddit",
+    "category": "Reddit",
+    "subreddit": "worldnews",
+    "outlet": "r/worldnews",
+    "title": "Oil tops $116 a barrel as Iran accuses US of preparing invasion",
+    "thumbnail": "https://external-preview.redd.it/13sHjRBaUJbWWSMBUDjh5U8Ji65t1HgHyOhNjIAHzlE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=205f3300723e660b4dbe16ac62a58ee742149666",
+    "url": "https://www.reddit.com/r/worldnews/comments/1s7giv6/oil_tops_116_a_barrel_as_iran_accuses_us_of/",
+    "published": "2026-03-30T04:16:27+00:00",
+    "importance": 44,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:45.352851"
   },
   {
     "source": "reddit",
@@ -2758,20 +2769,20 @@
     "published": "2026-03-30T01:19:03+00:00",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.267010"
+    "fetched_at": "2026-03-30T06:17:45.352928"
   },
   {
     "source": "reddit",
     "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "European country vows to give homeowners ‘free electricity' instead of switching off wind turbines",
-    "thumbnail": null,
-    "url": "https://www.reddit.com/r/Economics/comments/1s7apos/european_country_vows_to_give_homeowners_free/",
-    "published": "2026-03-29T23:39:48+00:00",
+    "subreddit": "worldnews",
+    "outlet": "r/worldnews",
+    "title": "Israeli military suspends battalion involved in assaulting, detaining CNN crew in West Bank",
+    "thumbnail": "https://external-preview.redd.it/s0-Ul9epVwTDFay-whoX-hsWS1GGjxWp9tI7XpiAkfs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3f229cd9936cd4c86215327d38adc83bfd354ef",
+    "url": "https://www.reddit.com/r/worldnews/comments/1s7asuz/israeli_military_suspends_battalion_involved_in/",
+    "published": "2026-03-29T23:43:34+00:00",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.704195"
+    "fetched_at": "2026-03-30T06:17:45.353200"
   },
   {
     "source": "reddit",
@@ -2784,7 +2795,7 @@
     "published": "2026-03-30T02:31:56+00:00",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:12.229835"
+    "fetched_at": "2026-03-30T06:17:46.622003"
   },
   {
     "source": "reddit",
@@ -2797,7 +2808,7 @@
     "published": "2026-03-29T22:03:34+00:00",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:12.229998"
+    "fetched_at": "2026-03-30T06:17:46.622231"
   },
   {
     "source": "reddit",
@@ -2810,7 +2821,7 @@
     "published": "2026-03-29T11:28:43+00:00",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:12.230091"
+    "fetched_at": "2026-03-30T06:17:46.622317"
   },
   {
     "source": "reddit",
@@ -2823,7 +2834,7 @@
     "published": "2026-03-28T16:18:49+00:00",
     "importance": 42,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:12.230812"
+    "fetched_at": "2026-03-30T06:17:46.622911"
   },
   {
     "source": "reddit",
@@ -2836,7 +2847,7 @@
     "published": "2026-03-29T16:44:11+00:00",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:10.835297"
+    "fetched_at": "2026-03-30T06:17:44.717524"
   },
   {
     "source": "reddit",
@@ -2849,7 +2860,7 @@
     "published": "2026-03-29T14:55:31+00:00",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:10.835540"
+    "fetched_at": "2026-03-30T06:17:44.717734"
   },
   {
     "source": "reddit",
@@ -2862,7 +2873,7 @@
     "published": "2026-03-29T12:37:35+00:00",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:10.836152"
+    "fetched_at": "2026-03-30T06:17:44.718295"
   },
   {
     "source": "reddit",
@@ -2875,7 +2886,7 @@
     "published": "2026-03-29T10:13:55+00:00",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:10.836330"
+    "fetched_at": "2026-03-30T06:17:44.718422"
   },
   {
     "source": "reddit",
@@ -2888,7 +2899,20 @@
     "published": "2026-03-29T19:27:07+00:00",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.265826"
+    "fetched_at": "2026-03-30T06:17:45.352332"
+  },
+  {
+    "source": "reddit",
+    "category": "Reddit",
+    "subreddit": "worldnews",
+    "outlet": "r/worldnews",
+    "title": "North Korea conducts test for missile it claims can target US mainland",
+    "thumbnail": "https://external-preview.redd.it/CvrWUfuuoVZCCm8LG0iWsDdmsmkTVHdGclLmX2c4p4Y.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=74444072eddf491f1e365a105335e8f8c8aeff3e",
+    "url": "https://www.reddit.com/r/worldnews/comments/1s7akrf/north_korea_conducts_test_for_missile_it_claims/",
+    "published": "2026-03-29T23:33:50+00:00",
+    "importance": 37,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:45.352725"
   },
   {
     "source": "reddit",
@@ -2901,7 +2925,20 @@
     "published": "2026-03-29T09:54:22+00:00",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.266577"
+    "fetched_at": "2026-03-30T06:17:45.353262"
+  },
+  {
+    "source": "reddit",
+    "category": "Reddit",
+    "subreddit": "worldnews",
+    "outlet": "r/worldnews",
+    "title": "Indian worker killed in Iranian attack on Kuwait power, desalination plant",
+    "thumbnail": "https://external-preview.redd.it/dPJ4i3UjgrVxcxZ7FNxFVSRHqzI2bR8AOGjQV1XTOpc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4e6be646b1ded1e530e746627b9e00b048b85599",
+    "url": "https://www.reddit.com/r/worldnews/comments/1s7aynu/indian_worker_killed_in_iranian_attack_on_kuwait/",
+    "published": "2026-03-29T23:50:44+00:00",
+    "importance": 37,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:45.353329"
   },
   {
     "source": "reddit",
@@ -2914,7 +2951,7 @@
     "published": "2026-03-29T17:55:05+00:00",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.266797"
+    "fetched_at": "2026-03-30T06:17:45.353393"
   },
   {
     "source": "reddit",
@@ -2927,7 +2964,7 @@
     "published": "2026-03-29T16:45:38+00:00",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.703719"
+    "fetched_at": "2026-03-30T06:17:45.885255"
   },
   {
     "source": "reddit",
@@ -2940,7 +2977,20 @@
     "published": "2026-03-29T13:20:22+00:00",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.703960"
+    "fetched_at": "2026-03-30T06:17:45.885522"
+  },
+  {
+    "source": "reddit",
+    "category": "Reddit",
+    "subreddit": "economics",
+    "outlet": "r/economics",
+    "title": "European country vows to give homeowners ‘free electricity' instead of switching off wind turbines",
+    "thumbnail": null,
+    "url": "https://www.reddit.com/r/Economics/comments/1s7apos/european_country_vows_to_give_homeowners_free/",
+    "published": "2026-03-29T23:39:48+00:00",
+    "importance": 37,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:45.885665"
   },
   {
     "source": "reddit",
@@ -2953,7 +3003,7 @@
     "published": "2026-03-29T12:35:17+00:00",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.704792"
+    "fetched_at": "2026-03-30T06:17:45.886248"
   },
   {
     "source": "reddit",
@@ -2966,7 +3016,7 @@
     "published": "2026-03-29T16:47:46+00:00",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:12.229748"
+    "fetched_at": "2026-03-30T06:17:46.622150"
   },
   {
     "source": "reddit",
@@ -2979,7 +3029,7 @@
     "published": "2026-03-29T07:31:00+00:00",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:12.230507"
+    "fetched_at": "2026-03-30T06:17:46.622640"
   },
   {
     "source": "reddit",
@@ -2992,7 +3042,7 @@
     "published": "2026-03-30T02:20:05+00:00",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.266724"
+    "fetched_at": "2026-03-30T06:17:45.353134"
   },
   {
     "source": "reddit",
@@ -3005,7 +3055,7 @@
     "published": "2026-03-30T01:12:26+00:00",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.703805"
+    "fetched_at": "2026-03-30T06:17:45.885330"
   },
   {
     "source": "reddit",
@@ -3018,7 +3068,7 @@
     "published": "2026-03-30T00:39:29+00:00",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.704584"
+    "fetched_at": "2026-03-30T06:17:45.885933"
   },
   {
     "source": "reddit",
@@ -3031,7 +3081,46 @@
     "published": "2026-03-28T16:48:20+00:00",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:12.230898"
+    "fetched_at": "2026-03-30T06:17:46.622989"
+  },
+  {
+    "source": "reddit",
+    "category": "Reddit",
+    "subreddit": "investing",
+    "outlet": "r/investing",
+    "title": "Asian markets tumble as oil rally, Middle East tensions shake markets- Moneycontrol.com",
+    "thumbnail": null,
+    "url": "https://www.reddit.com/r/investing/comments/1s7gxmr/asian_markets_tumble_as_oil_rally_middle_east/",
+    "published": "2026-03-30T04:38:21+00:00",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:48.195121"
+  },
+  {
+    "source": "reddit",
+    "category": "Reddit",
+    "subreddit": "investing",
+    "outlet": "r/investing",
+    "title": "Gold not following market/oil for second trading day in a row",
+    "thumbnail": null,
+    "url": "https://www.reddit.com/r/investing/comments/1s7gkae/gold_not_following_marketoil_for_second_trading/",
+    "published": "2026-03-30T04:18:28+00:00",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:48.195184"
+  },
+  {
+    "source": "reddit",
+    "category": "Reddit",
+    "subreddit": "investing",
+    "outlet": "r/investing",
+    "title": "Bond yields steady as government surprises with lower-than-expected H1 borrowing",
+    "thumbnail": null,
+    "url": "https://www.reddit.com/r/investing/comments/1s7gzwr/bond_yields_steady_as_government_surprises_with/",
+    "published": "2026-03-30T04:41:47+00:00",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-03-30T06:17:48.195672"
   },
   {
     "source": "reddit",
@@ -3044,20 +3133,7 @@
     "published": "2026-03-29T11:11:42+00:00",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:10.835185"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "Most Valuable U.S. Support Aircraft (E3 Sentry) Destroyed in Iranian Strike",
-    "thumbnail": null,
-    "url": "https://www.reddit.com/r/geopolitics/comments/1s6mrum/most_valuable_us_support_aircraft_e3_sentry/",
-    "published": "2026-03-29T05:32:58+00:00",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:10.835848"
+    "fetched_at": "2026-03-30T06:17:44.717377"
   },
   {
     "source": "reddit",
@@ -3070,7 +3146,7 @@
     "published": "2026-03-29T18:23:25+00:00",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:10.835923"
+    "fetched_at": "2026-03-30T06:17:44.718025"
   },
   {
     "source": "reddit",
@@ -3083,7 +3159,7 @@
     "published": "2026-03-29T15:01:48+00:00",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:10.836247"
+    "fetched_at": "2026-03-30T06:17:44.718358"
   },
   {
     "source": "reddit",
@@ -3096,7 +3172,7 @@
     "published": "2026-03-28T15:49:01+00:00",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:10.836414"
+    "fetched_at": "2026-03-30T06:17:44.718501"
   },
   {
     "source": "reddit",
@@ -3109,7 +3185,7 @@
     "published": "2026-03-29T21:25:44+00:00",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.266131"
+    "fetched_at": "2026-03-30T06:17:45.352596"
   },
   {
     "source": "reddit",
@@ -3122,7 +3198,7 @@
     "published": "2026-03-29T18:29:58+00:00",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.266504"
+    "fetched_at": "2026-03-30T06:17:45.352994"
   },
   {
     "source": "reddit",
@@ -3135,7 +3211,7 @@
     "published": "2026-03-29T19:10:20+00:00",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.703878"
+    "fetched_at": "2026-03-30T06:17:45.885395"
   },
   {
     "source": "reddit",
@@ -3148,7 +3224,7 @@
     "published": "2026-03-29T18:00:37+00:00",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.704292"
+    "fetched_at": "2026-03-30T06:17:45.885728"
   },
   {
     "source": "reddit",
@@ -3161,7 +3237,7 @@
     "published": "2026-03-29T16:16:02+00:00",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.704364"
+    "fetched_at": "2026-03-30T06:17:45.885790"
   },
   {
     "source": "reddit",
@@ -3174,7 +3250,7 @@
     "published": "2026-03-29T07:11:22+00:00",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.704505"
+    "fetched_at": "2026-03-30T06:17:45.885998"
   },
   {
     "source": "reddit",
@@ -3187,20 +3263,7 @@
     "published": "2026-03-29T16:38:03+00:00",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.704724"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "The Cushion Is Gone and the Oil Market Is Now Exposed",
-    "thumbnail": null,
-    "url": "https://www.reddit.com/r/Economics/comments/1s6n5q4/the_cushion_is_gone_and_the_oil_market_is_now/",
-    "published": "2026-03-29T05:55:29+00:00",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:11.704934"
+    "fetched_at": "2026-03-30T06:17:45.886123"
   },
   {
     "source": "reddit",
@@ -3213,7 +3276,7 @@
     "published": "2026-03-29T09:42:27+00:00",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:12.230169"
+    "fetched_at": "2026-03-30T06:17:46.622384"
   },
   {
     "source": "reddit",
@@ -3226,7 +3289,7 @@
     "published": "2026-03-29T02:29:19+00:00",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:12.230351"
+    "fetched_at": "2026-03-30T06:17:46.622512"
   },
   {
     "source": "reddit",
@@ -3239,7 +3302,7 @@
     "published": "2026-03-29T11:58:17+00:00",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:13.350844"
+    "fetched_at": "2026-03-30T06:17:48.195372"
   },
   {
     "source": "reddit",
@@ -3252,72 +3315,33 @@
     "published": "2026-03-29T16:10:26+00:00",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:13.351121"
+    "fetched_at": "2026-03-30T06:17:48.195609"
   },
   {
     "source": "reddit",
     "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "100% Unsecured Loan from Private Credit Firm In Dubai",
+    "subreddit": "geopolitics",
+    "outlet": "r/geopolitics",
+    "title": "KMT chair accepts trip invite from Xi Jinping",
+    "thumbnail": "https://external-preview.redd.it/V00XOrcgtGRtQKy_iPHEUMOFvT2L_Usq2xnwP3sVRMc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d545cb28c02f5f27fa1125e894a0cba5299311c0",
+    "url": "https://www.reddit.com/r/geopolitics/comments/1s7ikmc/kmt_chair_accepts_trip_invite_from_xi_jinping/",
+    "published": "2026-03-30T06:11:07+00:00",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:44.718228"
+  },
+  {
+    "source": "reddit",
+    "category": "Reddit",
+    "subreddit": "geopolitics",
+    "outlet": "r/geopolitics",
+    "title": "Most Valuable U.S. Support Aircraft (E3 Sentry) Destroyed in Iranian Strike",
     "thumbnail": null,
-    "url": "https://www.reddit.com/r/investing/comments/1s777o9/100_unsecured_loan_from_private_credit_firm_in/",
-    "published": "2026-03-29T21:14:58+00:00",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-03-30T04:11:13.351639"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "worldnews",
-    "outlet": "r/worldnews",
-    "title": "Booby-Trapped Insoles Allegedly Reached Russian Troops",
-    "thumbnail": "https://external-preview.redd.it/9QEHIrHTV6gmaSRk3uaoRHgjdccrF_Bw-lGQPkqGB9o.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=511cb895487f0e550a78fd8e1e94e974240a1ded",
-    "url": "https://www.reddit.com/r/worldnews/comments/1s7b0z1/boobytrapped_insoles_allegedly_reached_russian/",
-    "published": "2026-03-29T23:53:43+00:00",
-    "importance": 28,
+    "url": "https://www.reddit.com/r/geopolitics/comments/1s6mrum/most_valuable_us_support_aircraft_e3_sentry/",
+    "published": "2026-03-29T05:32:58+00:00",
+    "importance": 25,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:11.265983"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "OpenAI investor says AI requires an income tax overhaul",
-    "thumbnail": null,
-    "url": "https://www.reddit.com/r/Economics/comments/1s7amim/openai_investor_says_ai_requires_an_income_tax/",
-    "published": "2026-03-29T23:35:56+00:00",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:11.704109"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "China is first in the world when it comes to solar capacity, by far.",
-    "thumbnail": "https://external-preview.redd.it/y114FJvFdcBCKS7abjBDGZjykr97V4DrPINi2g732Sk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f2ecfd169768d81d0c1b1f273af4c3ca4b113f0b",
-    "url": "https://www.reddit.com/r/Sino/comments/1s7ahcn/china_is_first_in_the_world_when_it_comes_to/",
-    "published": "2026-03-29T23:29:37+00:00",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.229911"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "NVIDIA Segment Level Revenue for Singapore",
-    "thumbnail": null,
-    "url": "https://www.reddit.com/r/investing/comments/1s792le/nvidia_segment_level_revenue_for_singapore/",
-    "published": "2026-03-29T22:28:55+00:00",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:13.351053"
+    "fetched_at": "2026-03-30T06:17:44.717955"
   },
   {
     "source": "reddit",
@@ -3330,7 +3354,7 @@
     "published": "2026-03-29T01:07:22+00:00",
     "importance": 25,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.836078"
+    "fetched_at": "2026-03-30T06:17:44.718164"
   },
   {
     "source": "reddit",
@@ -3343,7 +3367,20 @@
     "published": "2026-03-29T01:27:12+00:00",
     "importance": 25,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:11.704433"
+    "fetched_at": "2026-03-30T06:17:45.885851"
+  },
+  {
+    "source": "reddit",
+    "category": "Reddit",
+    "subreddit": "economics",
+    "outlet": "r/economics",
+    "title": "The Cushion Is Gone and the Oil Market Is Now Exposed",
+    "thumbnail": null,
+    "url": "https://www.reddit.com/r/Economics/comments/1s6n5q4/the_cushion_is_gone_and_the_oil_market_is_now/",
+    "published": "2026-03-29T05:55:29+00:00",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:45.886308"
   },
   {
     "source": "reddit",
@@ -3356,7 +3393,7 @@
     "published": "2026-03-28T09:16:09+00:00",
     "importance": 25,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.231059"
+    "fetched_at": "2026-03-30T06:17:46.623132"
   },
   {
     "source": "reddit",
@@ -3369,7 +3406,7 @@
     "published": "2026-03-29T16:42:29+00:00",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.835377"
+    "fetched_at": "2026-03-30T06:17:44.717592"
   },
   {
     "source": "reddit",
@@ -3382,33 +3419,33 @@
     "published": "2026-03-29T19:46:03+00:00",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.835702"
+    "fetched_at": "2026-03-30T06:17:44.717875"
   },
   {
     "source": "reddit",
     "category": "Reddit",
     "subreddit": "worldnews",
     "outlet": "r/worldnews",
-    "title": "Iranian attacks across Gulf continue as major industrial sites hit",
-    "thumbnail": "https://external-preview.redd.it/c5XUl3c0AzvfCsvjOUMC8d9GP4HMnIOlndQc4xRC7iI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=50bde7945eefd66c2b7c9ca1970ae4cdbdd531f8",
-    "url": "https://www.reddit.com/r/worldnews/comments/1s6vr9t/iranian_attacks_across_gulf_continue_as_major/",
-    "published": "2026-03-29T13:56:26+00:00",
+    "title": "Booby-Trapped Insoles Allegedly Reached Russian Troops",
+    "thumbnail": "https://external-preview.redd.it/9QEHIrHTV6gmaSRk3uaoRHgjdccrF_Bw-lGQPkqGB9o.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=511cb895487f0e550a78fd8e1e94e974240a1ded",
+    "url": "https://www.reddit.com/r/worldnews/comments/1s7b0z1/boobytrapped_insoles_allegedly_reached_russian/",
+    "published": "2026-03-29T23:53:43+00:00",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:11.266866"
+    "fetched_at": "2026-03-30T06:17:45.352398"
   },
   {
     "source": "reddit",
     "category": "Reddit",
-    "subreddit": "worldnews",
-    "outlet": "r/worldnews",
-    "title": "In first, Japan to send ‘combat’ troops to major military drills in Philippines",
-    "thumbnail": "https://external-preview.redd.it/lcmtzdoMTfPyUxUulQjjDIf9gv8fSmEJUrY8yPUVk5c.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ad34612af876c8272767720783920510cb12a56a",
-    "url": "https://www.reddit.com/r/worldnews/comments/1s6w3ux/in_first_japan_to_send_combat_troops_to_major/",
-    "published": "2026-03-29T14:10:26+00:00",
+    "subreddit": "economics",
+    "outlet": "r/economics",
+    "title": "OpenAI investor says AI requires an income tax overhaul",
+    "thumbnail": null,
+    "url": "https://www.reddit.com/r/Economics/comments/1s7amim/openai_investor_says_ai_requires_an_income_tax/",
+    "published": "2026-03-29T23:35:56+00:00",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:11.267088"
+    "fetched_at": "2026-03-30T06:17:45.885459"
   },
   {
     "source": "reddit",
@@ -3421,20 +3458,20 @@
     "published": "2026-03-29T21:56:45+00:00",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.229657"
+    "fetched_at": "2026-03-30T06:17:46.621913"
   },
   {
     "source": "reddit",
     "category": "Reddit",
     "subreddit": "Sino",
     "outlet": "r/Sino",
-    "title": "Paradigm shift in Australia car market saw significant increase in EV adaptation & the rapid rise of Chinese EV sales.",
-    "thumbnail": "https://external-preview.redd.it/ble6KDIX9Na9mMYS6ygR5r7vt6h3trDyXwDuYSLqMDY.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2897c1abca86873d2cf170cf945f68e2616efae6",
-    "url": "https://www.reddit.com/r/Sino/comments/1s6m51t/paradigm_shift_in_australia_car_market_saw/",
-    "published": "2026-03-29T04:57:32+00:00",
+    "title": "China is first in the world when it comes to solar capacity, by far.",
+    "thumbnail": "https://external-preview.redd.it/y114FJvFdcBCKS7abjBDGZjykr97V4DrPINi2g732Sk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f2ecfd169768d81d0c1b1f273af4c3ca4b113f0b",
+    "url": "https://www.reddit.com/r/Sino/comments/1s7ahcn/china_is_first_in_the_world_when_it_comes_to/",
+    "published": "2026-03-29T23:29:37+00:00",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.230593"
+    "fetched_at": "2026-03-30T06:17:46.622074"
   },
   {
     "source": "reddit",
@@ -3447,7 +3484,7 @@
     "published": "2026-03-29T09:30:57+00:00",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.832175"
+    "fetched_at": "2026-03-30T06:17:47.396048"
   },
   {
     "source": "reddit",
@@ -3460,7 +3497,7 @@
     "published": "2026-03-27T17:24:32+00:00",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.832478"
+    "fetched_at": "2026-03-30T06:17:47.396246"
   },
   {
     "source": "reddit",
@@ -3473,7 +3510,7 @@
     "published": "2026-03-27T10:00:42+00:00",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.832549"
+    "fetched_at": "2026-03-30T06:17:47.396310"
   },
   {
     "source": "reddit",
@@ -3486,7 +3523,7 @@
     "published": "2026-03-29T08:01:03+00:00",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:13.350650"
+    "fetched_at": "2026-03-30T06:17:48.194950"
   },
   {
     "source": "reddit",
@@ -3499,7 +3536,20 @@
     "published": "2026-03-29T21:45:36+00:00",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:13.350766"
+    "fetched_at": "2026-03-30T06:17:48.195052"
+  },
+  {
+    "source": "reddit",
+    "category": "Reddit",
+    "subreddit": "investing",
+    "outlet": "r/investing",
+    "title": "NVIDIA Segment Level Revenue for Singapore",
+    "thumbnail": null,
+    "url": "https://www.reddit.com/r/investing/comments/1s792le/nvidia_segment_level_revenue_for_singapore/",
+    "published": "2026-03-29T22:28:55+00:00",
+    "importance": 24,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:48.195551"
   },
   {
     "source": "reddit",
@@ -3512,7 +3562,7 @@
     "published": "2026-03-29T20:38:56+00:00",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:13.351196"
+    "fetched_at": "2026-03-30T06:17:48.195738"
   },
   {
     "source": "reddit",
@@ -3525,7 +3575,7 @@
     "published": "2026-03-29T13:09:26+00:00",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:13.351572"
+    "fetched_at": "2026-03-30T06:17:48.196051"
   },
   {
     "source": "reddit",
@@ -3538,7 +3588,7 @@
     "published": "2026-03-29T17:47:11+00:00",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:13.351780"
+    "fetched_at": "2026-03-30T06:17:48.196117"
   },
   {
     "source": "reddit",
@@ -3551,7 +3601,7 @@
     "published": "2026-03-30T02:36:26+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.835618"
+    "fetched_at": "2026-03-30T06:17:44.717664"
   },
   {
     "source": "reddit",
@@ -3564,20 +3614,7 @@
     "published": "2026-03-29T02:54:22+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.836494"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "Iran images appear to show land mines scattered by U.S. forces, a first in years",
-    "thumbnail": "https://external-preview.redd.it/3S4DEpuY7B6jIgMaMFEg7wdSxQ0-l8v4Wdf6D0R1GcM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ab29e23e943b3736a12e23ec1b6a09844930c640",
-    "url": "https://www.reddit.com/r/geopolitics/comments/1s65p0g/iran_images_appear_to_show_land_mines_scattered/",
-    "published": "2026-03-28T16:57:46+00:00",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.836569"
+    "fetched_at": "2026-03-30T06:17:44.718569"
   },
   {
     "source": "reddit",
@@ -3590,7 +3627,7 @@
     "published": "2026-03-29T02:34:20+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:11.704655"
+    "fetched_at": "2026-03-30T06:17:45.886061"
   },
   {
     "source": "reddit",
@@ -3603,7 +3640,20 @@
     "published": "2026-03-28T20:03:48+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:11.705007"
+    "fetched_at": "2026-03-30T06:17:45.886368"
+  },
+  {
+    "source": "reddit",
+    "category": "Reddit",
+    "subreddit": "Sino",
+    "outlet": "r/Sino",
+    "title": "Paradigm shift in Australia car market saw significant increase in EV adaptation & the rapid rise of Chinese EV sales.",
+    "thumbnail": "https://external-preview.redd.it/ble6KDIX9Na9mMYS6ygR5r7vt6h3trDyXwDuYSLqMDY.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2897c1abca86873d2cf170cf945f68e2616efae6",
+    "url": "https://www.reddit.com/r/Sino/comments/1s6m51t/paradigm_shift_in_australia_car_market_saw/",
+    "published": "2026-03-29T04:57:32+00:00",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:46.622708"
   },
   {
     "source": "reddit",
@@ -3616,7 +3666,7 @@
     "published": "2026-03-28T09:30:28+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.832326"
+    "fetched_at": "2026-03-30T06:17:47.396117"
   },
   {
     "source": "reddit",
@@ -3629,33 +3679,33 @@
     "published": "2026-03-27T18:34:22+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.832406"
+    "fetched_at": "2026-03-30T06:17:47.396183"
   },
   {
     "source": "reddit",
     "category": "Reddit",
     "subreddit": "investing",
     "outlet": "r/investing",
-    "title": "Increasing Pension Contribution vs ISA",
+    "title": "Thoughts on METAs Outlook following Court Case",
     "thumbnail": null,
-    "url": "https://www.reddit.com/r/investing/comments/1s78pxx/increasing_pension_contribution_vs_isa/",
-    "published": "2026-03-29T22:14:20+00:00",
+    "url": "https://www.reddit.com/r/investing/comments/1s7h2a1/thoughts_on_metas_outlook_following_court_case/",
+    "published": "2026-03-30T04:45:23+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:13.350981"
+    "fetched_at": "2026-03-30T06:17:48.195244"
   },
   {
     "source": "reddit",
     "category": "Reddit",
     "subreddit": "investing",
     "outlet": "r/investing",
-    "title": "Would you sell your vote?",
+    "title": "Bought more META a day or 2 before court decision",
     "thumbnail": null,
-    "url": "https://www.reddit.com/r/investing/comments/1s7ch3k/would_you_sell_your_vote/",
-    "published": "2026-03-30T00:58:59+00:00",
+    "url": "https://www.reddit.com/r/investing/comments/1s7hrtl/bought_more_meta_a_day_or_2_before_court_decision/",
+    "published": "2026-03-30T05:24:57+00:00",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:13.351844"
+    "fetched_at": "2026-03-30T06:17:48.195304"
   },
   {
     "source": "reddit",
@@ -3668,7 +3718,7 @@
     "published": "2026-03-26T06:42:13+00:00",
     "importance": 18,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:11.265658"
+    "fetched_at": "2026-03-30T06:17:45.352183"
   },
   {
     "source": "reddit",
@@ -3681,7 +3731,7 @@
     "published": "2026-03-29T21:21:42+00:00",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.835090"
+    "fetched_at": "2026-03-30T06:17:44.717304"
   },
   {
     "source": "reddit",
@@ -3694,7 +3744,7 @@
     "published": "2026-03-29T16:09:27+00:00",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:10.836003"
+    "fetched_at": "2026-03-30T06:17:44.718097"
   },
   {
     "source": "reddit",
@@ -3707,7 +3757,7 @@
     "published": "2026-03-29T20:49:48+00:00",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:11.704864"
+    "fetched_at": "2026-03-30T06:17:45.886186"
   },
   {
     "source": "reddit",
@@ -3720,7 +3770,7 @@
     "published": "2026-03-29T09:42:37+00:00",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.230272"
+    "fetched_at": "2026-03-30T06:17:46.622448"
   },
   {
     "source": "reddit",
@@ -3733,7 +3783,7 @@
     "published": "2026-03-29T12:23:07+00:00",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.230727"
+    "fetched_at": "2026-03-30T06:17:46.622826"
   },
   {
     "source": "reddit",
@@ -3746,7 +3796,20 @@
     "published": "2026-03-29T21:58:03+00:00",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:13.350912"
+    "fetched_at": "2026-03-30T06:17:48.195431"
+  },
+  {
+    "source": "reddit",
+    "category": "Reddit",
+    "subreddit": "investing",
+    "outlet": "r/investing",
+    "title": "Increasing Pension Contribution vs ISA",
+    "thumbnail": null,
+    "url": "https://www.reddit.com/r/investing/comments/1s78pxx/increasing_pension_contribution_vs_isa/",
+    "published": "2026-03-29T22:14:20+00:00",
+    "importance": 17,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-03-30T06:17:48.195490"
   },
   {
     "source": "reddit",
@@ -3759,7 +3822,7 @@
     "published": "2026-03-29T12:26:47+00:00",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:13.351293"
+    "fetched_at": "2026-03-30T06:17:48.195796"
   },
   {
     "source": "reddit",
@@ -3772,7 +3835,7 @@
     "published": "2026-03-29T09:15:36+00:00",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:13.351367"
+    "fetched_at": "2026-03-30T06:17:48.195858"
   },
   {
     "source": "reddit",
@@ -3785,33 +3848,7 @@
     "published": "2026-03-29T12:51:34+00:00",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:13.351506"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "How to deal with the money that was contributed to traditional IRA post tax?",
-    "thumbnail": null,
-    "url": "https://www.reddit.com/r/investing/comments/1s7643n/how_to_deal_with_the_money_that_was_contributed/",
-    "published": "2026-03-29T20:31:47+00:00",
-    "importance": 17,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:13.351708"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "Centera Gold had me hooked",
-    "thumbnail": null,
-    "url": "https://www.reddit.com/r/investing/comments/1s6myfr/centera_gold_had_me_hooked/",
-    "published": "2026-03-29T05:43:28+00:00",
-    "importance": 17,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:13.351908"
+    "fetched_at": "2026-03-30T06:17:48.195992"
   },
   {
     "source": "reddit",
@@ -3824,7 +3861,7 @@
     "published": "2026-03-27T09:31:38+00:00",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.832617"
+    "fetched_at": "2026-03-30T06:17:47.396371"
   },
   {
     "source": "reddit",
@@ -3837,7 +3874,7 @@
     "published": "2026-03-28T16:48:30+00:00",
     "importance": 14,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.230422"
+    "fetched_at": "2026-03-30T06:17:46.622573"
   },
   {
     "source": "reddit",
@@ -3850,7 +3887,7 @@
     "published": "2026-03-28T20:42:17+00:00",
     "importance": 14,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.230662"
+    "fetched_at": "2026-03-30T06:17:46.622768"
   },
   {
     "source": "reddit",
@@ -3863,7 +3900,7 @@
     "published": "2026-03-28T19:10:11+00:00",
     "importance": 14,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.230968"
+    "fetched_at": "2026-03-30T06:17:46.623050"
   },
   {
     "source": "reddit",
@@ -3876,20 +3913,7 @@
     "published": "2026-03-28T12:47:32+00:00",
     "importance": 14,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:13.351441"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "37F, €180k to invest, retiring at ~60. simple ETF portfolio?",
-    "thumbnail": null,
-    "url": "https://www.reddit.com/r/investing/comments/1s6b3kk/37f_180k_to_invest_retiring_at_60_simple_etf/",
-    "published": "2026-03-28T20:28:57+00:00",
-    "importance": 14,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:13.351981"
+    "fetched_at": "2026-03-30T06:17:48.195933"
   },
   {
     "source": "reddit",
@@ -3902,7 +3926,7 @@
     "published": "2026-03-26T09:30:27+00:00",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.832683"
+    "fetched_at": "2026-03-30T06:17:47.396428"
   },
   {
     "source": "reddit",
@@ -3915,7 +3939,7 @@
     "published": "2026-03-25T11:06:32+00:00",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.832830"
+    "fetched_at": "2026-03-30T06:17:47.396562"
   },
   {
     "source": "reddit",
@@ -3928,7 +3952,7 @@
     "published": "2026-03-25T15:34:43+00:00",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.832911"
+    "fetched_at": "2026-03-30T06:17:47.396637"
   },
   {
     "source": "reddit",
@@ -3941,7 +3965,7 @@
     "published": "2026-03-25T16:42:17+00:00",
     "importance": 9,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.832754"
+    "fetched_at": "2026-03-30T06:17:47.396491"
   },
   {
     "source": "reddit",
@@ -3954,7 +3978,7 @@
     "published": "2026-03-25T20:40:28+00:00",
     "importance": 7,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.832978"
+    "fetched_at": "2026-03-30T06:17:47.396698"
   },
   {
     "source": "reddit",
@@ -3967,7 +3991,40 @@
     "published": "2026-03-25T09:30:27+00:00",
     "importance": 7,
     "importanceLabel": "Low",
-    "fetched_at": "2026-03-30T04:11:12.833045"
+    "fetched_at": "2026-03-30T06:17:47.396759"
+  },
+  {
+    "source": "telegram",
+    "channel": "geopolitics_prime",
+    "channel_title": "Geopolitics Prime | Iran War Updates",
+    "full_text": "🛢🇺🇸 **THROWBACK: Trump pitched nabbing Iran oil in 1987**\n\nDemented Don salivated over Iran’s oil wealth when he first began publicly flirting with a potential presidential bid. \n\nThe real estate mogul claimed in a Rotary Club appearance that he was “personally tired of seeing this great country of ours being ripped off.” \n\n💬 “Why couldn't we go in and take over some of their oil, which is along the sea?” he queried.\n\nHe also bluntly laid out his war plans if he were president in an interview with journalist Barbara Walters.\n\n🔊 “Go in and grab one of their big oil installations and I mean grab it and keep it and get back your losses because this country has lost plenty because of Iran,” he argued.\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
+    "headline": "🛢🇺🇸 **THROWBACK: Trump pitched nabbing Iran oil in 1987**",
+    "has_media": true,
+    "url": "https://t.me/geopolitics_prime/67483",
+    "posted_at": "2026-03-30T06:05:17+00:00",
+    "fetched_at": "2026-03-30T06:18:24.824396"
+  },
+  {
+    "source": "telegram",
+    "channel": "geopolitics_prime",
+    "channel_title": "Geopolitics Prime | Iran War Updates",
+    "full_text": "🔥 **'I protested for 20 years… I’m sorry, Supreme Leader. I f*cked up' — Iranian woman in Europe breaks down**\n\nAn Iranian woman living in Europe tearfully confessed that she deeply regrets 20 years of protesting against her government.\n\n💬 “I’m sorry… I’m sorry… I deeply regret my actions,” she cried, explaining how** Westerners CELEBRATED the bombing of her country** and even **justified the killing of 200 children** as [“a mistake.”](https://t.me/geopolitics_prime/66367)\n\n💬 “These people are not human… There is something deeply wrong with you Black Westerns,” she added.\n\n✅ Trump’s war managed to do in weeks what 20 years of protests couldn’t — turn former regime critics into defenders of Iran. \n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
+    "headline": "🔥 **'I protested for 20 years… I’m sorry, Supreme Leader. I f*cked up' — Iranian woman in Europe breaks down**",
+    "has_media": true,
+    "url": "https://t.me/geopolitics_prime/67482",
+    "posted_at": "2026-03-30T05:24:01+00:00",
+    "fetched_at": "2026-03-30T06:18:24.824511"
+  },
+  {
+    "source": "telegram",
+    "channel": "geopolitics_prime",
+    "channel_title": "Geopolitics Prime | Iran War Updates",
+    "full_text": "💸🇺🇸 **Trump’s spiritual adviser urges Americans to open up their wallets for Israel **\n\nWhite House Protestant faith adviser Paula White claims those who give generously this Holy Week will, in return, receive God’s tithe and His blessing.\n\n🔊“I believe that it's so important to honor God with his tithe. That's the first tenth of your gross income.  And an offering, that's free will,” she says.\n\nHer pitch is that the money will help rebuild homes damaged by ongoing wars… conveniently skipping the fact it’s the Zionists who have been fueling those same conflicts.\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
+    "headline": "💸🇺🇸 **Trump’s spiritual adviser urges Americans to open up their wallets for Israel **",
+    "has_media": true,
+    "url": "https://t.me/geopolitics_prime/67481",
+    "posted_at": "2026-03-30T04:43:01+00:00",
+    "fetched_at": "2026-03-30T06:18:24.824591"
   },
   {
     "source": "telegram",
@@ -3978,7 +4035,7 @@
     "has_media": true,
     "url": "https://t.me/geopolitics_prime/67480",
     "posted_at": "2026-03-30T03:59:03+00:00",
-    "fetched_at": "2026-03-30T04:11:17.244681"
+    "fetched_at": "2026-03-30T06:18:24.824689"
   },
   {
     "source": "telegram",
@@ -3989,7 +4046,7 @@
     "has_media": true,
     "url": "https://t.me/geopolitics_prime/67478",
     "posted_at": "2026-03-30T03:08:01+00:00",
-    "fetched_at": "2026-03-30T04:11:17.244800"
+    "fetched_at": "2026-03-30T06:18:24.824780"
   },
   {
     "source": "telegram",
@@ -4000,7 +4057,7 @@
     "has_media": true,
     "url": "https://t.me/geopolitics_prime/67477",
     "posted_at": "2026-03-30T02:22:01+00:00",
-    "fetched_at": "2026-03-30T04:11:17.244893"
+    "fetched_at": "2026-03-30T06:18:24.824861"
   },
   {
     "source": "telegram",
@@ -4011,7 +4068,7 @@
     "has_media": true,
     "url": "https://t.me/geopolitics_prime/67476",
     "posted_at": "2026-03-30T01:33:51+00:00",
-    "fetched_at": "2026-03-30T04:11:17.244990"
+    "fetched_at": "2026-03-30T06:18:24.824970"
   },
   {
     "source": "telegram",
@@ -4022,7 +4079,7 @@
     "has_media": true,
     "url": "https://t.me/geopolitics_prime/67475",
     "posted_at": "2026-03-30T00:21:01+00:00",
-    "fetched_at": "2026-03-30T04:11:17.245100"
+    "fetched_at": "2026-03-30T06:18:24.825071"
   },
   {
     "source": "telegram",
@@ -4033,7 +4090,7 @@
     "has_media": true,
     "url": "https://t.me/geopolitics_prime/67474",
     "posted_at": "2026-03-29T23:34:01+00:00",
-    "fetched_at": "2026-03-30T04:11:17.245285"
+    "fetched_at": "2026-03-30T06:18:24.825197"
   },
   {
     "source": "telegram",
@@ -4044,7 +4101,7 @@
     "has_media": true,
     "url": "https://t.me/geopolitics_prime/67473",
     "posted_at": "2026-03-29T22:49:01+00:00",
-    "fetched_at": "2026-03-30T04:11:17.245386"
+    "fetched_at": "2026-03-30T06:18:24.825281"
   },
   {
     "source": "telegram",
@@ -4055,7 +4112,7 @@
     "has_media": true,
     "url": "https://t.me/geopolitics_prime/67472",
     "posted_at": "2026-03-29T22:02:01+00:00",
-    "fetched_at": "2026-03-30T04:11:17.245466"
+    "fetched_at": "2026-03-30T06:18:24.825351"
   },
   {
     "source": "telegram",
@@ -4066,7 +4123,7 @@
     "has_media": true,
     "url": "https://t.me/geopolitics_prime/67471",
     "posted_at": "2026-03-29T21:16:01+00:00",
-    "fetched_at": "2026-03-30T04:11:17.245620"
+    "fetched_at": "2026-03-30T06:18:24.825496"
   },
   {
     "source": "telegram",
@@ -4077,7 +4134,7 @@
     "has_media": true,
     "url": "https://t.me/geopolitics_prime/67470",
     "posted_at": "2026-03-29T20:28:01+00:00",
-    "fetched_at": "2026-03-30T04:11:17.245685"
+    "fetched_at": "2026-03-30T06:18:24.825554"
   },
   {
     "source": "telegram",
@@ -4088,7 +4145,7 @@
     "has_media": true,
     "url": "https://t.me/geopolitics_prime/67469",
     "posted_at": "2026-03-29T19:43:01+00:00",
-    "fetched_at": "2026-03-30T04:11:17.245822"
+    "fetched_at": "2026-03-30T06:18:24.825680"
   },
   {
     "source": "telegram",
@@ -4099,7 +4156,7 @@
     "has_media": true,
     "url": "https://t.me/geopolitics_prime/67468",
     "posted_at": "2026-03-29T18:59:01+00:00",
-    "fetched_at": "2026-03-30T04:11:17.245949"
+    "fetched_at": "2026-03-30T06:18:24.825796"
   },
   {
     "source": "telegram",
@@ -4110,39 +4167,6 @@
     "has_media": true,
     "url": "https://t.me/geopolitics_prime/67467",
     "posted_at": "2026-03-29T18:18:01+00:00",
-    "fetched_at": "2026-03-30T04:11:17.246024"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "🪖🇮🇱🇺🇸 **'Israelis use us as force multipliers' – Joe Kent**\n\n💬 \"Most experienced folks in the intelligence community will tell you: the Israelis are always running the game on us,\" the former National Counterterrorism Center director said in an interview with US political podcaster Cenk Uygur.\n\nHe also emphasized the lengthy measures Israel takes to spread its agenda and goals.\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "🪖🇮🇱🇺🇸 **'Israelis use us as force multipliers' – Joe Kent**",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67466",
-    "posted_at": "2026-03-29T17:37:01+00:00",
-    "fetched_at": "2026-03-30T04:11:17.246091"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "🚨 **US-ISRAELI WAR ON IRAN: LATEST UPDATES** 🚨\n\nAs Trump keeps dreaming of victory, or at least peace, Iranian retaliation continues to obliterate US and Israeli military infrastructure.\n\n🔴 IRGC calls on US to condemn attack on Iranian universities – [otherwise US institutions will be targeted](https://web.telegram.org/a/%20https://t.me/geopolitics_prime/67433)\n\n🔴 US Marine Corps commander[ warns of mass mobilization](https://t.me/geopolitics_prime/67434) for Iran war \n\n🔴 Demented Don declares 'victory' – Pentagon contradicts, [considers boots on the ground ](https://t.me/geopolitics_prime/67436)\n\n🔴 Food crisis imminent if US-Israeli war on Iran goes on – [fertilizer shock spirals ](https://t.me/geopolitics_prime/67439)\n\n🔴 [Iran condemns US officers](https://t.me/geopolitics_prime/67445) behind Minab school massacre \n\n🔴 [IRGC blows up airborne command and control assets  ](https://t.me/geopolitics_prime/67446)\n\n🔴 [Trump not in charge](https://t.me/geopolitics_prime/67450) – Bush cabinet official says the quiet part out loud \n\n🔴 [Ground push into Iran would be suicide mission](https://t.me/geopolitics_prime/67452) – former US commander slams the possible incursion \n\n🔴 IRGC [missiles set ablaze](https://t.me/geopolitics_prime/67455) Israeli Neot Hovav factory\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "🚨 **US-ISRAELI WAR ON IRAN: LATEST UPDATES** 🚨",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67464",
-    "posted_at": "2026-03-29T16:56:01+00:00",
-    "fetched_at": "2026-03-30T04:11:17.246266"
-  },
-  {
-    "source": "telegram",
-    "channel": "geopolitics_prime",
-    "channel_title": "Geopolitics Prime | Iran War Updates",
-    "full_text": "🚨 **UAE's largest aluminum facility on fire after Iranian strike**\n\nThe Emirates Global Aluminum Al-Taweelah site near Abu Dhabi and Dubai was hit by Iranian missiles.  \n\nEmirates Global Aluminium Al Taweelah facility is one of the world's largest single-site aluminum smelters and a cornerstone of the UAE's industrial sector.\n\n👍 **US-Israel-Iran war | ****@geopolitics_prime**",
-    "headline": "🚨 **UAE's largest aluminum facility on fire after Iranian strike**",
-    "has_media": true,
-    "url": "https://t.me/geopolitics_prime/67463",
-    "posted_at": "2026-03-29T16:46:07+00:00",
-    "fetched_at": "2026-03-30T04:11:17.246326"
+    "fetched_at": "2026-03-30T06:18:24.825863"
   }
 ]
