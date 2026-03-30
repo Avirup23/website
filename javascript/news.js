@@ -267,15 +267,15 @@ function injectPodcastUI() {
       <div id="pod-body">
         <div id="pod-idle">
           <div id="pod-idle-icon">📻</div>
-          <div id="pod-idle-text">Ready to generate your<br><strong>Critical &amp; High</strong> headlines brief</div>
+          <div id="pod-idle-text">Ready to load your<br><strong>Critical &amp; High</strong> headlines brief</div>
           <button id="pod-generate-btn" onclick="generatePodcast()">
-            <span>Generate &amp; Play</span>
+            <span>Load &amp; Play</span>
           </button>
         </div>
 
         <div id="pod-loading" style="display:none">
           <div id="pod-spinner"></div>
-          <div id="pod-loading-text">Writing your news script…</div>
+          <div id="pod-loading-text">Loading your news script…</div>
         </div>
 
         <div id="pod-player" style="display:none">
@@ -288,7 +288,6 @@ function injectPodcastUI() {
           <div id="pod-controls">
             <button class="pod-ctrl" id="pod-restart-btn" onclick="restartPodcast()" title="Restart">⏮</button>
             <button class="pod-ctrl pod-play-btn" id="pod-play-btn" onclick="togglePodcast()">⏸</button>
-            <button class="pod-ctrl" id="pod-stop-btn" onclick="stopPodcast()" title="Stop">⏹</button>
             <div id="pod-speed-wrap">
               <label>Speed</label>
               <input type="range" id="pod-speed" min="0.7" max="1.5" step="0.05" value="0.95"
@@ -300,7 +299,6 @@ function injectPodcastUI() {
               <select id="pod-voice-select" onchange="changeVoice()"></select>
             </div>
           </div>
-          <button id="pod-regen-btn" onclick="generatePodcast()">↻ Regenerate</button>
         </div>
       </div>
 
@@ -376,47 +374,57 @@ async function generatePodcast() {
 // ══════════════════════════════════════════════════════════════════════════════
 function speakScript(text) {
   window.speechSynthesis.cancel();
-  const utter = new SpeechSynthesisUtterance(text);
-  utter.rate  = parseFloat(document.getElementById('pod-speed')?.value || '0.95');
-  utter.pitch = 0.95;
+  podcast.playing   = false;
+  podcast.paused    = false;
+  podcast.utterance = null;
 
-  const sel    = document.getElementById('pod-voice-select');
-  const voices = window.speechSynthesis.getVoices().filter(v => v.lang.startsWith('en'));
-  if (sel && voices[sel.value]) utter.voice = voices[sel.value];
+  setTimeout(() => {
+    const utter = new SpeechSynthesisUtterance(text);
+    utter.rate  = parseFloat(document.getElementById('pod-speed')?.value || '0.95');
+    utter.pitch = 0.95;
 
-  utter.onstart = () => {
-    podcast.playing = true; podcast.paused = false;
-    setWaveActive(true);
-    document.getElementById('pod-play-btn').textContent = '⏸';
-  };
-  utter.onend = utter.onerror = () => {
-    podcast.playing = false; podcast.paused = false;
-    setWaveActive(false);
-    document.getElementById('pod-play-btn').textContent = '▶';
-  };
+    const sel    = document.getElementById('pod-voice-select');
+    const voices = window.speechSynthesis.getVoices().filter(v => v.lang.startsWith('en'));
+    if (sel && voices[sel.value]) utter.voice = voices[sel.value];
 
-  podcast.utterance = utter;
-  window.speechSynthesis.speak(utter);
+    utter.onstart = () => {
+      podcast.playing = true; podcast.paused = false;
+      setWaveActive(true);
+      document.getElementById('pod-play-btn').textContent = '⏸';
+    };
+    utter.onend = utter.onerror = () => {
+      podcast.playing = false; podcast.paused = false;
+      podcast.utterance = null;
+      setWaveActive(false);
+      document.getElementById('pod-play-btn').textContent = '▶';
+    };
+
+    podcast.utterance = utter;
+    window.speechSynthesis.speak(utter);
+  }, 150);
 }
 
 function togglePodcast() {
-  if (!podcast.utterance) return;
   if (podcast.paused) {
     window.speechSynthesis.resume();
     podcast.paused = false;
     document.getElementById('pod-play-btn').textContent = '⏸';
     setWaveActive(true);
-  } else {
+  } else if (podcast.playing) {
     window.speechSynthesis.pause();
     podcast.paused = true;
     document.getElementById('pod-play-btn').textContent = '▶';
     setWaveActive(false);
+  } else if (podcast.script) {
+    speakScript(podcast.script);
   }
 }
 
 function stopPodcast() {
   window.speechSynthesis.cancel();
-  podcast.playing = false; podcast.paused = false;
+  podcast.playing = false;
+  podcast.paused  = false;
+  podcast.utterance = null;
   setWaveActive(false);
   const btn = document.getElementById('pod-play-btn');
   if (btn) btn.textContent = '▶';

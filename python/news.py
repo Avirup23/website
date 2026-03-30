@@ -1,6 +1,6 @@
 import urllib.parse
 import feedparser
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta,timezone
 import asyncio
 import json
 import os
@@ -8,6 +8,12 @@ import re
 from langchain_groq import ChatGroq
 from langchain_core.messages import HumanMessage
 from email.utils import parsedate_to_datetime
+
+IST = timezone(timedelta(hours=5, minutes=30))
+now_ist = datetime.now(IST)
+hour = now_ist.hour
+greeting = "Good evening" if hour >= 17 else "Good afternoon" if hour >= 12 else "Good morning"
+time_str = now_ist.strftime("%I:%M %p IST, %A %d %B %Y")
 
 # ══════════════════════════════════════════════════════════════════════════════
 # CREDENTIALS — set these as GitHub Secrets (or in your local environment)
@@ -337,7 +343,7 @@ Your tone is calm, professional, and slightly dramatic — like a BBC World Serv
 
 Below are today's most important headlines, ranked by importance.
 Write a flowing, natural-sounding spoken script that:
-- Opens with a crisp dateline intro (e.g. "Good evening. Here are today's critical developments.")
+- Opens with a crisp dateline intro: "{greeting}. It is {time_str}. Here are today's critical developments."
 - Groups related stories naturally (don't just read a list)
 - Uses broadcast language: short sentences, active voice, present tense where possible
 - Briefly contextualises the 2–3 most critical stories
