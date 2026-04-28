@@ -1,15 +1,15 @@
 [
   {
     "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "US Fed interest rate decision in focus: Can policy outcome be a non-event for Indian stock market amid US-Iran tensions?",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/04/28/1600x900/logo/USA-FED-POWELL-JUSTICE-0_1775711788860_1775711804719_1777363419981.JPG",
-    "url": "https://www.livemint.com/market/stock-market-news/us-fed-interest-rate-decision-in-focus-can-policy-outcome-be-a-non-event-for-indian-stock-market-amid-us-iran-tensions-11777363029915.html",
-    "published": "Tue, 28 Apr 2026 15:25:14 +0530",
+    "category": "American Media",
+    "outlet": "NYT > World News",
+    "title": "UAE Says It Will Leave OPEC as Iran War Strains Oil Markets",
+    "thumbnail": null,
+    "url": "https://www.nytimes.com/2026/04/28/world/middleeast/uae-opec.html",
+    "published": "Tue, 28 Apr 2026 14:08:28 +0000",
     "importance": 68,
     "importanceLabel": "High",
-    "fetched_at": "2026-04-28T15:16:47.975849"
+    "fetched_at": "2026-04-28T16:06:39.796838"
   },
   {
     "source": "rss",
@@ -21,7 +21,43 @@
     "published": "Tue, 28 Apr 2026 18:07:12 +0530",
     "importance": 60,
     "importanceLabel": "High",
-    "fetched_at": "2026-04-28T15:16:47.975849"
+    "fetched_at": "2026-04-28T16:06:42.099670"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "mint - markets",
+    "title": "US Fed interest rate decision in focus: Can policy outcome be a non-event for Indian stock market amid US-Iran tensions?",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/04/28/1600x900/logo/USA-FED-POWELL-JUSTICE-0_1775711788860_1775711804719_1777363419981.JPG",
+    "url": "https://www.livemint.com/market/stock-market-news/us-fed-interest-rate-decision-in-focus-can-policy-outcome-be-a-non-event-for-indian-stock-market-amid-us-iran-tensions-11777363029915.html",
+    "published": "Tue, 28 Apr 2026 15:25:14 +0530",
+    "importance": 58,
+    "importanceLabel": "High",
+    "fetched_at": "2026-04-28T16:06:42.099856"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "Bloomberg Markets",
+    "title": "Ryanair CEO Is ‘Less Concerned’ Europe Will Run Out of Jet Fuel",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBfAt.0RE8cI/v1/1200x-1.jpg",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-28/ryanair-ceo-is-less-concerned-europe-will-run-out-of-jet-fuel",
+    "published": "Tue, 28 Apr 2026 15:25:17 GMT",
+    "importance": 52,
+    "importanceLabel": "High",
+    "fetched_at": "2026-04-28T16:06:39.713084"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "Business News",
+    "title": "Jamie Dimon warns of 'some kind of bond crisis' ahead as global debt risks build",
+    "thumbnail": null,
+    "url": "https://www.cnbc.com/2026/04/28/jamie-dimon-bond-crisis-global-debt-risks.html",
+    "published": "Tue, 28 Apr 2026 15:55:10 GMT",
+    "importance": 52,
+    "importanceLabel": "High",
+    "fetched_at": "2026-04-28T16:06:39.927896"
   },
   {
     "source": "rss",
@@ -30,10 +66,10 @@
     "title": "GM raises 2026 guidance amid $500 million tariff refund, topping Wall Street's earnings expectations",
     "thumbnail": null,
     "url": "https://www.cnbc.com/2026/04/28/general-motors-gm-earnings-q1-2026.html",
-    "published": "Tue, 28 Apr 2026 14:40:29 GMT",
+    "published": "Tue, 28 Apr 2026 15:52:24 GMT",
     "importance": 52,
     "importanceLabel": "High",
-    "fetched_at": "2026-04-28T15:16:41.729427"
+    "fetched_at": "2026-04-28T16:06:39.927983"
   },
   {
     "source": "rss",
@@ -45,7 +81,7 @@
     "published": "Tue, 28 Apr 2026 12:50:10 GMT",
     "importance": 52,
     "importanceLabel": "High",
-    "fetched_at": "2026-04-28T15:16:44.568011"
+    "fetched_at": "2026-04-28T16:06:40.434453"
   },
   {
     "source": "rss",
@@ -57,7 +93,19 @@
     "published": "Tue, 28 Apr 2026 16:27:28 +0530",
     "importance": 52,
     "importanceLabel": "High",
-    "fetched_at": "2026-04-28T15:16:47.975849"
+    "fetched_at": "2026-04-28T16:06:42.099734"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "News - South China Morning Post",
+    "title": "Ukraine shot down 33,000 Russian drones in 1 month: defence minister",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/04/28/4bc7b01a-799d-48c4-95a8-c6caf6caef35_dce9d431.jpg?itok=z2tuB9Js&v=1777389937",
+    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3351755/ukraine-shot-down-33000-russian-drones-1-month-defence-minister?utm_source=rss_feed",
+    "published": "Tue, 28 Apr 2026 15:25:46 +0000",
+    "importance": 52,
+    "importanceLabel": "High",
+    "fetched_at": "2026-04-28T16:06:42.580499"
   },
   {
     "source": "rss",
@@ -69,7 +117,7 @@
     "published": "Tue, 28 Apr 2026 12:30:14 +0000",
     "importance": 52,
     "importanceLabel": "High",
-    "fetched_at": "2026-04-28T15:16:49.270353"
+    "fetched_at": "2026-04-28T16:06:42.580863"
   },
   {
     "source": "rss",
@@ -81,7 +129,7 @@
     "published": "Tue, 28 Apr 2026 12:10:45 +0000",
     "importance": 52,
     "importanceLabel": "High",
-    "fetched_at": "2026-04-28T15:16:49.270353"
+    "fetched_at": "2026-04-28T16:06:42.580916"
   },
   {
     "source": "rss",
@@ -93,19 +141,7 @@
     "published": "Tue, 28 Apr 2026 12:48:47 +0000",
     "importance": 52,
     "importanceLabel": "High",
-    "fetched_at": "2026-04-28T15:17:01.519283"
-  },
-  {
-    "source": "rss",
-    "category": "Middle East",
-    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "UAE leaves OPEC in blow to oil cartel amid war on Iran",
-    "thumbnail": null,
-    "url": "https://www.aljazeera.com/news/2026/4/28/uae-leaves-opec-and-opec?traffic_source=rss",
-    "published": "Tue, 28 Apr 2026 12:33:10 +0000",
-    "importance": 52,
-    "importanceLabel": "High",
-    "fetched_at": "2026-04-28T15:17:01.519283"
+    "fetched_at": "2026-04-28T16:06:52.164879"
   },
   {
     "source": "rss",
@@ -117,7 +153,7 @@
     "published": "Mon, 27 Apr 2026 22:06:03 GMT",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:40.866137"
+    "fetched_at": "2026-04-28T16:06:39.712999"
   },
   {
     "source": "rss",
@@ -129,7 +165,7 @@
     "published": "Tue, 28 Apr 2026 15:01:07 GMT",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:40.866137"
+    "fetched_at": "2026-04-28T16:06:39.713287"
   },
   {
     "source": "rss",
@@ -141,31 +177,7 @@
     "published": "Tue, 28 Apr 2026 14:53:49 GMT",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:40.866137"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "US Stocks Fall From Peak as OpenAI Sales Miss Report Drags Tech",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKFhVxxcBf5g/v1/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-04-28/us-stock-futures-slip-as-report-on-openai-sales-miss-drags-tech",
-    "published": "Tue, 28 Apr 2026 11:42:37 GMT",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:40.866137"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "NYT > World News",
-    "title": "United Arab Emirates Says It Will Leave OPEC in Blow to Oil Cartel",
-    "thumbnail": null,
-    "url": "https://www.nytimes.com/2026/04/28/world/middleeast/uae-opec.html",
-    "published": "Tue, 28 Apr 2026 14:08:27 +0000",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:41.106268"
+    "fetched_at": "2026-04-28T16:06:39.713337"
   },
   {
     "source": "rss",
@@ -177,7 +189,7 @@
     "published": "Tue, 28 Apr 2026 08:48:07 -0400",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:43.159817"
+    "fetched_at": "2026-04-28T16:06:40.318751"
   },
   {
     "source": "rss",
@@ -186,22 +198,10 @@
     "title": "United Arab Emirates to quit oil cartel Opec",
     "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d25d/live/b07940f0-4305-11f1-bd52-e755d604ece4.jpg",
     "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Apr 2026 14:59:36 GMT",
+    "published": "Tue, 28 Apr 2026 15:25:17 GMT",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:44.568011"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "International homepage",
-    "title": "European airlines seize on jet fuel crisis to lobby against passenger perks",
-    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9003bc69-70ea-446d-ac0c-582cec8e6b3f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/4004f61e-23a1-428a-b43a-7d2ac4af17c4",
-    "published": "Tue, 28 Apr 2026 04:00:20 GMT",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:46.444768"
+    "fetched_at": "2026-04-28T16:06:40.434368"
   },
   {
     "source": "rss",
@@ -213,7 +213,7 @@
     "published": "Tue, 28 Apr 2026 20:08:24 +0530",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:47.975849"
+    "fetched_at": "2026-04-28T16:06:42.099542"
   },
   {
     "source": "rss",
@@ -225,7 +225,7 @@
     "published": "Tue, 28 Apr 2026 16:18:45 +0530",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:47.975849"
+    "fetched_at": "2026-04-28T16:06:42.099766"
   },
   {
     "source": "rss",
@@ -237,7 +237,19 @@
     "published": "Tue, 28 Apr 2026 14:16:10 +0000",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:49.270353"
+    "fetched_at": "2026-04-28T16:06:42.580633"
+  },
+  {
+    "source": "rss",
+    "category": "Russian Media",
+    "outlet": "TASS",
+    "title": "Oil prices may reach $95-$115 per barrel in 2026 — World Bank forecast",
+    "thumbnail": null,
+    "url": "https://tass.com/economy/2123743",
+    "published": "Tue, 28 Apr 2026 18:33:14 +0300",
+    "importance": 44,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-04-28T16:06:44.594524"
   },
   {
     "source": "rss",
@@ -249,7 +261,7 @@
     "published": "Tue, 28 Apr 2026 17:54:37 +0300",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:55.088088"
+    "fetched_at": "2026-04-28T16:06:44.594758"
   },
   {
     "source": "rss",
@@ -261,7 +273,7 @@
     "published": "Tue, 28 Apr 2026 17:50:04 +0300",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:55.088088"
+    "fetched_at": "2026-04-28T16:06:44.594860"
   },
   {
     "source": "rss",
@@ -273,19 +285,7 @@
     "published": "Tue, 28 Apr 2026 17:48:30 +0300",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:55.088088"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "TASS",
-    "title": "Russia developing new UAVs to combat Ukrainian drones — Officers of Russia",
-    "thumbnail": null,
-    "url": "https://tass.com/defense/2123711",
-    "published": "Tue, 28 Apr 2026 17:44:57 +0300",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:55.088088"
+    "fetched_at": "2026-04-28T16:06:44.594893"
   },
   {
     "source": "rss",
@@ -297,7 +297,7 @@
     "published": "Tue, 28 Apr 2026 14:00:09 +0300",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:56.822407"
+    "fetched_at": "2026-04-28T16:06:44.841248"
   },
   {
     "source": "rss",
@@ -309,7 +309,7 @@
     "published": "Tue, 28 Apr 2026 12:58:20 +0000",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:01.283680"
+    "fetched_at": "2026-04-28T16:06:52.079390"
   },
   {
     "source": "rss",
@@ -321,7 +321,19 @@
     "published": "Tue, 28 Apr 2026 11:44:17 +0000",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:01.283680"
+    "fetched_at": "2026-04-28T16:06:52.079421"
+  },
+  {
+    "source": "rss",
+    "category": "Middle East",
+    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "title": "Gulf leaders meet in Saudi Arabia for first time since start of war on Iran",
+    "thumbnail": null,
+    "url": "https://www.aljazeera.com/news/2026/4/28/gulf-leaders-meet-in-saudi-arabia-for-first-time-since-start-of-war-on-iran?traffic_source=rss",
+    "published": "Tue, 28 Apr 2026 15:54:20 +0000",
+    "importance": 44,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-04-28T16:06:52.164476"
   },
   {
     "source": "rss",
@@ -333,7 +345,7 @@
     "published": "Tue, 28 Apr 2026 04:59:00 +0900",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:02.020810"
+    "fetched_at": "2026-04-28T16:06:52.271469"
   },
   {
     "source": "rss",
@@ -345,7 +357,7 @@
     "published": "Tue, 28 Apr 2026 05:37:00 +0900",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:02.020810"
+    "fetched_at": "2026-04-28T16:06:52.271503"
   },
   {
     "source": "rss",
@@ -357,7 +369,7 @@
     "published": "Mon, 27 Apr 2026 17:01:00 +0300",
     "importance": 42,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:56.822407"
+    "fetched_at": "2026-04-28T16:06:44.841437"
   },
   {
     "source": "rss",
@@ -369,19 +381,7 @@
     "published": "",
     "importance": 39,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:49.524547"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "Oil Back Above $110 as World Awaits US Response to Iran Proposal",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6fZ1ensH0sA/v3/1200x-1.png",
-    "url": "https://www.bloomberg.com/news/articles/2026-04-27/latest-oil-market-news-and-analysis-for-april-28",
-    "published": "Mon, 27 Apr 2026 22:07:23 GMT",
-    "importance": 37,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:40.866137"
+    "fetched_at": "2026-04-28T16:06:42.647185"
   },
   {
     "source": "rss",
@@ -393,7 +393,7 @@
     "published": "Mon, 27 Apr 2026 20:12:55 +0000",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:41.106268"
+    "fetched_at": "2026-04-28T16:06:39.797092"
   },
   {
     "source": "rss",
@@ -405,31 +405,19 @@
     "published": "Mon, 27 Apr 2026 18:45:54 GMT",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:41.729427"
+    "fetched_at": "2026-04-28T16:06:39.928198"
   },
   {
     "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "PSU stock Bank of Baroda sets board meeting date to declare Q4 results 2026, dividend",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/04/28/1600x900/logo/Bank_of_Baroda_1777365962711_1777365962867.jpg",
-    "url": "https://www.livemint.com/market/stock-market-news/psu-stock-bank-of-baroda-sets-board-meeting-date-to-declare-q4-results-2026-dividend-11777363573688.html",
-    "published": "Tue, 28 Apr 2026 14:34:47 +0530",
-    "importance": 37,
+    "category": "American Media",
+    "outlet": "Bloomberg Markets",
+    "title": "JPMorgan’s Dimon Warns Again on Risks of Credit Downturn",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imOdflMU31L8/v1/1200x-1.jpg",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-28/jpmorgan-s-dimon-warns-again-on-risks-of-credit-market-downturn",
+    "published": "Tue, 28 Apr 2026 15:14:10 GMT",
+    "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:47.975849"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "RT World News",
-    "title": "Israel slams Ukraine’s ‘Twitter diplomacy’",
-    "thumbnail": "https://mf.b37mrtl.ru/files/2026.04/thumbnail/69efe37b2030276447485fd5.jpg",
-    "url": "https://www.rt.com/news/639190-israel-ukraine-twitter-diplomacy/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "published": "Mon, 27 Apr 2026 22:33:06 +0000",
-    "importance": 37,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:01.283680"
+    "fetched_at": "2026-04-28T16:06:39.713030"
   },
   {
     "source": "rss",
@@ -441,19 +429,43 @@
     "published": "Tue, 28 Apr 2026 13:24:02 GMT",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:40.866137"
+    "fetched_at": "2026-04-28T16:06:39.713159"
   },
   {
     "source": "rss",
     "category": "American Media",
     "outlet": "Bloomberg Markets",
-    "title": "Treasuries Fall as Rising Oil Prices Lift Inflation Expectations",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imBBe_Y8g1PY/v1/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-04-28/us-treasuries-trade-rangebound-as-fed-officials-prepare-to-meet",
-    "published": "Tue, 28 Apr 2026 10:47:58 GMT",
+    "title": "Citadel Books More US Rockies Gas Transport on Key Pipeline",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibYmfI86AOPQ/v1/1200x-1.jpg",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-28/citadel-books-more-us-rockies-gas-transport-on-key-pipeline",
+    "published": "Tue, 28 Apr 2026 15:12:17 GMT",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:40.866137"
+    "fetched_at": "2026-04-28T16:06:39.713183"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "Bloomberg Markets",
+    "title": "Polymarket Seeks CFTC Blessing to Bring Main Exchange Back to US",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icGoU2A7ktAs/v1/1200x-1.jpg",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-28/polymarket-seeks-cftc-blessing-to-bring-main-exchange-back-to-us",
+    "published": "Tue, 28 Apr 2026 15:03:00 GMT",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-04-28T16:06:39.713264"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "Bloomberg Markets",
+    "title": "Haven't Yet Seen Brunt of Energy Price Pressures in Data, Says Lindsey Piegza",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9ZO.R8YvPLE/v3/1200x-1.jpg",
+    "url": "https://www.bloomberg.com/news/videos/2026-04-28/brunt-of-energy-price-pressures-yet-to-come-says-piegza-video",
+    "published": "Tue, 28 Apr 2026 14:58:27 GMT",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-04-28T16:06:39.713313"
   },
   {
     "source": "rss",
@@ -465,7 +477,7 @@
     "published": "Tue, 28 Apr 2026 12:59:37 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:41.106268"
+    "fetched_at": "2026-04-28T16:06:39.796987"
   },
   {
     "source": "rss",
@@ -477,7 +489,7 @@
     "published": "Tue, 28 Apr 2026 13:47:27 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:41.106268"
+    "fetched_at": "2026-04-28T16:06:39.797013"
   },
   {
     "source": "rss",
@@ -486,22 +498,22 @@
     "title": "Coca-Cola tops estimates, raises earnings outlook as global beverage demand rises",
     "thumbnail": null,
     "url": "https://www.cnbc.com/2026/04/28/coca-cola-ko-q1-2026-earnings.html",
-    "published": "Tue, 28 Apr 2026 14:22:57 GMT",
+    "published": "Tue, 28 Apr 2026 15:17:17 GMT",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:41.729427"
+    "fetched_at": "2026-04-28T16:06:39.928014"
   },
   {
     "source": "rss",
     "category": "European Media",
     "outlet": "BBC News",
-    "title": "Musk v Altman: Why the tech billionaires and former friends are now facing off in court",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2441/live/9eec0d50-4246-11f1-b55d-0f258dce1735.png",
-    "url": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Apr 2026 10:10:54 GMT",
+    "title": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4fa/live/1d2d8520-4316-11f1-8d32-27ce5a537ca2.jpg",
+    "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Apr 2026 15:55:46 GMT",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:44.568011"
+    "fetched_at": "2026-04-28T16:06:40.434401"
   },
   {
     "source": "rss",
@@ -513,7 +525,7 @@
     "published": "Tue, 28 Apr 2026 14:39:43 GMT",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:46.444768"
+    "fetched_at": "2026-04-28T16:06:41.219888"
   },
   {
     "source": "rss",
@@ -525,7 +537,7 @@
     "published": "Tue, 28 Apr 2026 11:17:57 GMT",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:46.444768"
+    "fetched_at": "2026-04-28T16:06:41.220022"
   },
   {
     "source": "rss",
@@ -537,7 +549,7 @@
     "published": "Tue, 28 Apr 2026 14:47:41 GMT",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:46.444768"
+    "fetched_at": "2026-04-28T16:06:41.220071"
   },
   {
     "source": "rss",
@@ -549,7 +561,7 @@
     "published": "Tue, 28 Apr 2026 19:32:04 +0530",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:47.975849"
+    "fetched_at": "2026-04-28T16:06:42.099574"
   },
   {
     "source": "rss",
@@ -561,19 +573,7 @@
     "published": "Tue, 28 Apr 2026 18:16:06 +0530",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:47.975849"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "Maruti Suzuki Q4 Results: PAT falls 7% to  ₹3,591 crore on higher costs;  ₹140 final dividend announced",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/04/28/1600x900/logo/MARUTI-SUZUKI-IN-PRICES--0_1749375685606_1777368195316.JPG",
-    "url": "https://www.livemint.com/market/stock-market-news/maruti-suzuki-q4-results-pat-falls-7-to-rs-3-591-crore-on-higher-costs-rs-140-final-dividend-announced-11777368199178.html",
-    "published": "Tue, 28 Apr 2026 15:01:06 +0530",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:47.975849"
+    "fetched_at": "2026-04-28T16:06:42.099640"
   },
   {
     "source": "rss",
@@ -585,7 +585,7 @@
     "published": "Tue, 28 Apr 2026 15:00:09 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:49.270353"
+    "fetched_at": "2026-04-28T16:06:42.580570"
   },
   {
     "source": "rss",
@@ -597,7 +597,7 @@
     "published": "Tue, 28 Apr 2026 14:30:09 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:49.270353"
+    "fetched_at": "2026-04-28T16:06:42.580604"
   },
   {
     "source": "rss",
@@ -609,7 +609,7 @@
     "published": "Tue, 28 Apr 2026 18:14:24 +0300",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:55.088088"
+    "fetched_at": "2026-04-28T16:06:44.594560"
   },
   {
     "source": "rss",
@@ -621,7 +621,7 @@
     "published": "Tue, 28 Apr 2026 18:10:47 +0300",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:55.088088"
+    "fetched_at": "2026-04-28T16:06:44.594629"
   },
   {
     "source": "rss",
@@ -633,7 +633,7 @@
     "published": "Tue, 28 Apr 2026 18:05:51 +0300",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:55.088088"
+    "fetched_at": "2026-04-28T16:06:44.594696"
   },
   {
     "source": "rss",
@@ -645,7 +645,7 @@
     "published": "Tue, 28 Apr 2026 17:57:53 +0300",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:55.088088"
+    "fetched_at": "2026-04-28T16:06:44.594726"
   },
   {
     "source": "rss",
@@ -657,19 +657,7 @@
     "published": "Tue, 28 Apr 2026 17:54:29 +0300",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:55.088088"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "TASS",
-    "title": "Ukrainian drones damage dwelling houses, power substations in Kamensko-Dneprovsky",
-    "thumbnail": null,
-    "url": "https://tass.com/politics/2123705",
-    "published": "Tue, 28 Apr 2026 17:42:16 +0300",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:55.088088"
+    "fetched_at": "2026-04-28T16:06:44.594792"
   },
   {
     "source": "rss",
@@ -681,7 +669,31 @@
     "published": "Tue, 28 Apr 2026 14:47:19 +0300",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:56.822407"
+    "fetched_at": "2026-04-28T16:06:44.841215"
+  },
+  {
+    "source": "rss",
+    "category": "Russian Media",
+    "outlet": "RT World News",
+    "title": "Pentagon admits ‘no defense’ against Russian and Chinese hypersonic weapons",
+    "thumbnail": "https://mf.b37mrtl.ru/files/2026.04/thumbnail/69f0d5332030275d614b70a5.jpg",
+    "url": "https://www.rt.com/news/639208-golden-dome-peer-competitors/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "Tue, 28 Apr 2026 15:47:20 +0000",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-04-28T16:06:52.079201"
+  },
+  {
+    "source": "rss",
+    "category": "Russian Media",
+    "outlet": "RT World News",
+    "title": "Afghanistan accuses Pakistan of war crimes over new strikes",
+    "thumbnail": "https://mf.b37mrtl.ru/files/2026.04/thumbnail/69f0cf5185f54024582e5fb7.jpg",
+    "url": "https://www.rt.com/news/639224-afghanistan-pakistan-war-crimes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "Tue, 28 Apr 2026 15:18:20 +0000",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-04-28T16:06:52.079246"
   },
   {
     "source": "rss",
@@ -693,7 +705,7 @@
     "published": "Tue, 28 Apr 2026 14:50:10 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:01.283680"
+    "fetched_at": "2026-04-28T16:06:52.079285"
   },
   {
     "source": "rss",
@@ -705,7 +717,7 @@
     "published": "Tue, 28 Apr 2026 10:28:07 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:01.283680"
+    "fetched_at": "2026-04-28T16:06:52.079484"
   },
   {
     "source": "rss",
@@ -717,7 +729,19 @@
     "published": "Tue, 28 Apr 2026 10:14:21 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:01.283680"
+    "fetched_at": "2026-04-28T16:06:52.079581"
+  },
+  {
+    "source": "rss",
+    "category": "Middle East",
+    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "title": "Qatar says using Hormuz Strait as political weapon is ‘unacceptable’",
+    "thumbnail": null,
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/qatar-says-using-hormuz-strait-as-political-weapon-is?traffic_source=rss",
+    "published": "Tue, 28 Apr 2026 14:55:47 +0000",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-04-28T16:06:52.164613"
   },
   {
     "source": "rss",
@@ -729,7 +753,7 @@
     "published": "Tue, 28 Apr 2026 14:50:54 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:01.519283"
+    "fetched_at": "2026-04-28T16:06:52.164643"
   },
   {
     "source": "rss",
@@ -741,31 +765,7 @@
     "published": "Tue, 28 Apr 2026 14:30:27 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:01.519283"
-  },
-  {
-    "source": "rss",
-    "category": "Middle East",
-    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "Australia’s top diplomat visits China to talk energy security",
-    "thumbnail": null,
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/australias-top-diplomat-visits-china-to-talk-energy-security?traffic_source=rss",
-    "published": "Tue, 28 Apr 2026 12:16:54 +0000",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:01.519283"
-  },
-  {
-    "source": "rss",
-    "category": "Middle East",
-    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "Migrants in hiding as Mauritania pushbacks drastically cut Europe arrivals",
-    "thumbnail": null,
-    "url": "https://www.aljazeera.com/features/2026/4/28/migrants-in-hiding-as-mauritania-pushbacks-drastically-cut-europe-arrivals?traffic_source=rss",
-    "published": "Tue, 28 Apr 2026 12:13:14 +0000",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:01.519283"
+    "fetched_at": "2026-04-28T16:06:52.164697"
   },
   {
     "source": "rss",
@@ -777,7 +777,7 @@
     "published": "Mon, 27 Apr 2026 23:38:00 +0900",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:02.020810"
+    "fetched_at": "2026-04-28T16:06:52.271589"
   },
   {
     "source": "rss",
@@ -789,7 +789,7 @@
     "published": "",
     "importance": 33,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:49.524547"
+    "fetched_at": "2026-04-28T16:06:42.647144"
   },
   {
     "source": "rss",
@@ -801,7 +801,7 @@
     "published": "",
     "importance": 33,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:49.524547"
+    "fetched_at": "2026-04-28T16:06:42.647224"
   },
   {
     "source": "rss",
@@ -813,7 +813,7 @@
     "published": "",
     "importance": 33,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:49.524547"
+    "fetched_at": "2026-04-28T16:06:42.647265"
   },
   {
     "source": "rss",
@@ -825,7 +825,7 @@
     "published": "Tue, 28 Apr 2026 06:16:48 GMT",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:40.866137"
+    "fetched_at": "2026-04-28T16:06:39.713112"
   },
   {
     "source": "rss",
@@ -837,7 +837,7 @@
     "published": "Mon, 27 Apr 2026 17:12:56 +0000",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:41.106268"
+    "fetched_at": "2026-04-28T16:06:39.797212"
   },
   {
     "source": "rss",
@@ -849,19 +849,19 @@
     "published": "Mon, 27 Apr 2026 22:53:46 GMT",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:41.729427"
+    "fetched_at": "2026-04-28T16:06:39.928136"
   },
   {
     "source": "rss",
     "category": "American Media",
     "outlet": "Latest Market News Today on Fox Business",
-    "title": "Budget airlines reportedly ask federal government for $2.5B in aid tied to rising jet fuel costs",
+    "title": "Budget airlines ask federal government for $2.5B in aid tied to rising jet fuel costs",
     "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/frontier-airlines-jet-flying.jpg",
     "url": "https://www.foxbusiness.com/markets/budget-airlines-reportedly-ask-federal-government-2-5b-aid-tied-rising-jet-fuel-costs",
     "published": "Mon, 27 Apr 2026 17:10:21 -0400",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:43.159817"
+    "fetched_at": "2026-04-28T16:06:40.318789"
   },
   {
     "source": "rss",
@@ -873,7 +873,7 @@
     "published": "Mon, 27 Apr 2026 16:04:23 -0400",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:43.159817"
+    "fetched_at": "2026-04-28T16:06:40.318822"
   },
   {
     "source": "rss",
@@ -885,7 +885,7 @@
     "published": "Mon, 27 Apr 2026 16:36:50 GMT",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:44.568011"
+    "fetched_at": "2026-04-28T16:06:40.434630"
   },
   {
     "source": "rss",
@@ -897,7 +897,7 @@
     "published": "Tue, 28 Apr 2026 06:17:03 GMT",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:44.568011"
+    "fetched_at": "2026-04-28T16:06:40.434655"
   },
   {
     "source": "rss",
@@ -909,7 +909,7 @@
     "published": "Mon, 27 Apr 2026 20:30:52 GMT",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:44.568011"
+    "fetched_at": "2026-04-28T16:06:40.434724"
   },
   {
     "source": "rss",
@@ -921,7 +921,7 @@
     "published": "Mon, 27 Apr 2026 19:31:09 +0000",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:46.877121"
+    "fetched_at": "2026-04-28T16:06:41.386126"
   },
   {
     "source": "rss",
@@ -933,7 +933,7 @@
     "published": "Tue, 28 Apr 2026 09:46:25 +0530",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:47.511048"
+    "fetched_at": "2026-04-28T16:06:41.911915"
   },
   {
     "source": "rss",
@@ -945,7 +945,19 @@
     "published": "Tue, 28 Apr 2026 11:27:27 +0530",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:47.511048"
+    "fetched_at": "2026-04-28T16:06:41.911962"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "mint - markets",
+    "title": "Maruti Suzuki Q4 Results: PAT falls 7% to  ₹3,591 crore on higher costs;  ₹140 final dividend announced",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/04/28/1600x900/logo/MARUTI-SUZUKI-IN-PRICES--0_1749375685606_1777368195316.JPG",
+    "url": "https://www.livemint.com/market/stock-market-news/maruti-suzuki-q4-results-pat-falls-7-to-rs-3-591-crore-on-higher-costs-rs-140-final-dividend-announced-11777368199178.html",
+    "published": "Tue, 28 Apr 2026 15:01:06 +0530",
+    "importance": 31,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-04-28T16:06:42.099923"
   },
   {
     "source": "rss",
@@ -957,7 +969,7 @@
     "published": "Tue, 28 Apr 2026 14:37:20 +0530",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:47.975849"
+    "fetched_at": "2026-04-28T16:06:42.099974"
   },
   {
     "source": "rss",
@@ -969,7 +981,7 @@
     "published": "Mon, 27 Apr 2026 19:34:07 +0300",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:56.822407"
+    "fetched_at": "2026-04-28T16:06:44.841313"
   },
   {
     "source": "rss",
@@ -981,7 +993,7 @@
     "published": "Mon, 27 Apr 2026 17:57:35 +0300",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:16:56.822407"
+    "fetched_at": "2026-04-28T16:06:44.841371"
   },
   {
     "source": "rss",
@@ -993,7 +1005,7 @@
     "published": "Tue, 28 Apr 2026 07:42:04 +0000",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:01.283680"
+    "fetched_at": "2026-04-28T16:06:52.079645"
   },
   {
     "source": "rss",
@@ -1005,7 +1017,7 @@
     "published": "Tue, 28 Apr 2026 09:45:00 +0900",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:02.020810"
+    "fetched_at": "2026-04-28T16:06:52.271439"
   },
   {
     "source": "rss",
@@ -1017,55 +1029,7 @@
     "published": "Mon, 27 Apr 2026 17:46:00 +0900",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:02.020810"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "Sherwin-Williams Sales Rise Most Since 2023 on Forex",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1tnGO0yNUTs/v1/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-04-28/sherwin-williams-sales-jump-most-since-2023-on-forex-tailwinds",
-    "published": "Tue, 28 Apr 2026 11:59:19 GMT",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:40.866137"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "BYD’s Near-Term Borrowings Soar to Record High as Earnings Slump",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikojUXyxYsrY/v0/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-04-28/byd-posts-lowest-quarterly-profit-in-years-as-price-war-rages-on",
-    "published": "Tue, 28 Apr 2026 10:43:38 GMT",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:40.866137"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "US Consumer Confidence Unexpectedly Edges Up",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irwdrhO9bzMA/v3/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/videos/2026-04-28/us-consumer-confidence-unexpectedly-edges-up-video",
-    "published": "Tue, 28 Apr 2026 14:33:16 GMT",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:40.866137"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "Columbia Considers $485 Million Bond Sale for Capital Projects",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6giqeigESQs/v1/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-04-28/columbia-university-considers-485-million-bond-sale-for-may",
-    "published": "Tue, 28 Apr 2026 14:19:41 GMT",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:40.866137"
+    "fetched_at": "2026-04-28T16:06:52.271624"
   },
   {
     "source": "rss",
@@ -1077,7 +1041,7 @@
     "published": "Tue, 28 Apr 2026 13:33:48 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.106268"
+    "fetched_at": "2026-04-28T16:06:39.796917"
   },
   {
     "source": "rss",
@@ -1089,19 +1053,19 @@
     "published": "Tue, 28 Apr 2026 12:30:01 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.729427"
+    "fetched_at": "2026-04-28T16:06:39.928070"
   },
   {
     "source": "rss",
     "category": "European Media",
     "outlet": "BBC News",
-    "title": "'Childhood memories' - why nostalgia wasn't enough to save Claire's",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39f6/live/3bac6930-42fd-11f1-b538-f34ed0c59bce.jpg",
+    "title": "Nostalgia wasn't enough: What went wrong at Claire's",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d26/live/8f843420-431b-11f1-ac78-2112837ce2aa.jpg",
     "url": "https://www.bbc.com/news/articles/cdxkxxvd3z4o?at_medium=RSS&at_campaign=rss",
     "published": "Tue, 28 Apr 2026 14:41:49 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:44.568011"
+    "fetched_at": "2026-04-28T16:06:40.434427"
   },
   {
     "source": "rss",
@@ -1113,7 +1077,7 @@
     "published": "Tue, 28 Apr 2026 10:25:31 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:44.568011"
+    "fetched_at": "2026-04-28T16:06:40.434580"
   },
   {
     "source": "rss",
@@ -1125,7 +1089,7 @@
     "published": "Tue, 28 Apr 2026 10:11:28 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:44.568011"
+    "fetched_at": "2026-04-28T16:06:40.434606"
   },
   {
     "source": "rss",
@@ -1137,7 +1101,7 @@
     "published": "Tue, 28 Apr 2026 13:31:15 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:46.444768"
+    "fetched_at": "2026-04-28T16:06:41.219999"
   },
   {
     "source": "rss",
@@ -1149,7 +1113,7 @@
     "published": "Tue, 28 Apr 2026 13:52:03 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:46.444768"
+    "fetched_at": "2026-04-28T16:06:41.220046"
   },
   {
     "source": "rss",
@@ -1161,19 +1125,31 @@
     "published": "Tue, 28 Apr 2026 14:59:19 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:46.444768"
+    "fetched_at": "2026-04-28T16:06:41.220095"
   },
   {
     "source": "rss",
     "category": "European Media",
     "outlet": "International homepage",
-    "title": "BYD profits drop by more than half as Chinese sales slow",
-    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F21bcea47-13c5-4fbd-a485-3a754b75ace5.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/a6e1fb2e-5ad2-494e-ae49-a27acb50ccfe",
-    "published": "Tue, 28 Apr 2026 10:59:00 GMT",
+    "title": "PR executive tried to ‘get rid’ of documents despite legal warning",
+    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fabcf3f8b-b850-4ec4-aad1-08acf2f63d4a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/03e909da-0cb3-4c0f-a835-fe8c7144ce4c",
+    "published": "Tue, 28 Apr 2026 15:14:35 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:46.444768"
+    "fetched_at": "2026-04-28T16:06:41.220175"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "mint - markets",
+    "title": "Gold, silver rates today: Comex gold drops $125/oz, silver falls $3/oz as crude rally fuels inflation fears",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/04/28/1600x900/logo/zlataky-cz-44ewivJ9t1k-unsplash_1646898717970_1703840267489_1777386724014.jpg",
+    "url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-drops-125-oz-silver-falls-3-oz-as-crude-rally-fuels-inflation-fears-11777386729715.html",
+    "published": "Tue, 28 Apr 2026 21:10:23 +0530",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-04-28T16:06:42.099501"
   },
   {
     "source": "rss",
@@ -1185,7 +1161,7 @@
     "published": "Tue, 28 Apr 2026 18:33:14 +0530",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:47.975849"
+    "fetched_at": "2026-04-28T16:06:42.099608"
   },
   {
     "source": "rss",
@@ -1197,7 +1173,7 @@
     "published": "Tue, 28 Apr 2026 16:29:40 +0530",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:47.975849"
+    "fetched_at": "2026-04-28T16:06:42.099699"
   },
   {
     "source": "rss",
@@ -1209,19 +1185,7 @@
     "published": "Tue, 28 Apr 2026 15:57:30 +0530",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:47.975849"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "Zomato parent Eternal Q4 Results 2026: Net profit soars 346% to  ₹174 crore - Key Highlights",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/04/28/1600x900/Zomato_Q4_Results_1777371892997_1777371893110.jpg",
-    "url": "https://www.livemint.com/market/stock-market-news/zomato-parent-eternal-q4-results-2026-net-profit-soars-346-to-rs-174-crore-key-highlights-11777366807792.html",
-    "published": "Tue, 28 Apr 2026 15:25:12 +0530",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:47.975849"
+    "fetched_at": "2026-04-28T16:06:42.099796"
   },
   {
     "source": "rss",
@@ -1233,7 +1197,7 @@
     "published": "Tue, 28 Apr 2026 15:12:18 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.270353"
+    "fetched_at": "2026-04-28T16:06:42.580536"
   },
   {
     "source": "rss",
@@ -1245,7 +1209,7 @@
     "published": "Tue, 28 Apr 2026 14:00:14 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.270353"
+    "fetched_at": "2026-04-28T16:06:42.580695"
   },
   {
     "source": "rss",
@@ -1257,7 +1221,7 @@
     "published": "Tue, 28 Apr 2026 13:10:39 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.270353"
+    "fetched_at": "2026-04-28T16:06:42.580723"
   },
   {
     "source": "rss",
@@ -1269,7 +1233,7 @@
     "published": "Tue, 28 Apr 2026 12:57:18 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.270353"
+    "fetched_at": "2026-04-28T16:06:42.580782"
   },
   {
     "source": "rss",
@@ -1281,7 +1245,7 @@
     "published": "Tue, 28 Apr 2026 12:30:19 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.270353"
+    "fetched_at": "2026-04-28T16:06:42.580835"
   },
   {
     "source": "rss",
@@ -1293,7 +1257,31 @@
     "published": "Tue, 28 Apr 2026 10:36:40 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:52.772047"
+    "fetched_at": "2026-04-28T16:06:42.957662"
+  },
+  {
+    "source": "rss",
+    "category": "Russian Media",
+    "outlet": "TASS",
+    "title": "Russia’s Andreeva through to semis of 2026 WTA Madrid Open",
+    "thumbnail": null,
+    "url": "https://tass.com/sports/2123749",
+    "published": "Tue, 28 Apr 2026 19:03:47 +0300",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-04-28T16:06:44.594438"
+  },
+  {
+    "source": "rss",
+    "category": "Russian Media",
+    "outlet": "TASS",
+    "title": "UAE withdrawal from OPEC, OPEC+ will be a significant blow to cartel — analyst",
+    "thumbnail": null,
+    "url": "https://tass.com/economy/2123747",
+    "published": "Tue, 28 Apr 2026 18:46:26 +0300",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-04-28T16:06:44.594484"
   },
   {
     "source": "rss",
@@ -1305,7 +1293,7 @@
     "published": "Tue, 28 Apr 2026 18:14:10 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:55.088088"
+    "fetched_at": "2026-04-28T16:06:44.594598"
   },
   {
     "source": "rss",
@@ -1317,7 +1305,7 @@
     "published": "Tue, 28 Apr 2026 18:07:27 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:55.088088"
+    "fetched_at": "2026-04-28T16:06:44.594661"
   },
   {
     "source": "rss",
@@ -1329,7 +1317,7 @@
     "published": "Tue, 28 Apr 2026 17:48:08 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:55.088088"
+    "fetched_at": "2026-04-28T16:06:44.594923"
   },
   {
     "source": "rss",
@@ -1341,7 +1329,7 @@
     "published": "Tue, 28 Apr 2026 17:22:00 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:56.822407"
+    "fetched_at": "2026-04-28T16:06:44.841152"
   },
   {
     "source": "rss",
@@ -1353,7 +1341,7 @@
     "published": "Tue, 28 Apr 2026 13:26:12 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:01.283680"
+    "fetched_at": "2026-04-28T16:06:52.079321"
   },
   {
     "source": "rss",
@@ -1365,7 +1353,7 @@
     "published": "Tue, 28 Apr 2026 13:04:55 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:01.283680"
+    "fetched_at": "2026-04-28T16:06:52.079356"
   },
   {
     "source": "rss",
@@ -1377,7 +1365,7 @@
     "published": "Tue, 28 Apr 2026 10:20:35 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:01.283680"
+    "fetched_at": "2026-04-28T16:06:52.079520"
   },
   {
     "source": "rss",
@@ -1389,7 +1377,19 @@
     "published": "Tue, 28 Apr 2026 10:16:45 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:01.283680"
+    "fetched_at": "2026-04-28T16:06:52.079553"
+  },
+  {
+    "source": "rss",
+    "category": "Middle East",
+    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "title": "Maldives police raid news outlet over report alleging president’s affair",
+    "thumbnail": null,
+    "url": "https://www.aljazeera.com/news/2026/4/28/maldives-police-raid-news-outlet-over-report-alleging-presidents-affair?traffic_source=rss",
+    "published": "Tue, 28 Apr 2026 15:17:52 +0000",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-04-28T16:06:52.164552"
   },
   {
     "source": "rss",
@@ -1401,7 +1401,7 @@
     "published": "Tue, 28 Apr 2026 13:51:16 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:01.519283"
+    "fetched_at": "2026-04-28T16:06:52.164755"
   },
   {
     "source": "rss",
@@ -1413,7 +1413,7 @@
     "published": "Tue, 28 Apr 2026 12:56:40 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:01.519283"
+    "fetched_at": "2026-04-28T16:06:52.164846"
   },
   {
     "source": "rss",
@@ -1425,19 +1425,7 @@
     "published": "Tue, 28 Apr 2026 12:43:56 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:01.519283"
-  },
-  {
-    "source": "rss",
-    "category": "Middle East",
-    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "What next for Manchester United with Champions League return almost sealed?",
-    "thumbnail": null,
-    "url": "https://www.aljazeera.com/sports/2026/4/28/what-next-for-manchester-united-with-champions-league-return-almost-sealed?traffic_source=rss",
-    "published": "Tue, 28 Apr 2026 12:02:30 +0000",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:01.519283"
+    "fetched_at": "2026-04-28T16:06:52.164903"
   },
   {
     "source": "rss",
@@ -1449,7 +1437,7 @@
     "published": "",
     "importance": 27,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.523307"
+    "fetched_at": "2026-04-28T16:06:42.647031"
   },
   {
     "source": "rss",
@@ -1461,7 +1449,7 @@
     "published": "",
     "importance": 27,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.524547"
+    "fetched_at": "2026-04-28T16:06:42.647101"
   },
   {
     "source": "rss",
@@ -1473,7 +1461,7 @@
     "published": "",
     "importance": 27,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.524547"
+    "fetched_at": "2026-04-28T16:06:42.647123"
   },
   {
     "source": "rss",
@@ -1485,7 +1473,7 @@
     "published": "",
     "importance": 27,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.524547"
+    "fetched_at": "2026-04-28T16:06:42.647165"
   },
   {
     "source": "rss",
@@ -1497,7 +1485,7 @@
     "published": "",
     "importance": 27,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.524547"
+    "fetched_at": "2026-04-28T16:06:42.647204"
   },
   {
     "source": "rss",
@@ -1509,7 +1497,7 @@
     "published": "",
     "importance": 27,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.524547"
+    "fetched_at": "2026-04-28T16:06:42.647244"
   },
   {
     "source": "rss",
@@ -1521,7 +1509,7 @@
     "published": "Mon, 27 Apr 2026 14:51:42 GMT",
     "importance": 25,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.729427"
+    "fetched_at": "2026-04-28T16:06:39.928165"
   },
   {
     "source": "rss",
@@ -1533,7 +1521,7 @@
     "published": "Mon, 27 Apr 2026 23:27:00 +0900",
     "importance": 25,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:02.020810"
+    "fetched_at": "2026-04-28T16:06:52.271559"
   },
   {
     "source": "rss",
@@ -1545,7 +1533,19 @@
     "published": "Mon, 27 Apr 2026 23:13:00 +0900",
     "importance": 25,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:02.020810"
+    "fetched_at": "2026-04-28T16:06:52.271654"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "Bloomberg Markets",
+    "title": "Kalshi Completes First Block Trade, Backed by Jump Trading",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itVGHfNf_tqs/v1/1200x-1.jpg",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-27/kalshi-completes-first-block-trade-backed-by-jump-trading",
+    "published": "Mon, 27 Apr 2026 18:45:56 GMT",
+    "importance": 24,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-04-28T16:06:39.712963"
   },
   {
     "source": "rss",
@@ -1557,7 +1557,7 @@
     "published": "Tue, 28 Apr 2026 09:03:20 +0000",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.106268"
+    "fetched_at": "2026-04-28T16:06:39.796884"
   },
   {
     "source": "rss",
@@ -1569,7 +1569,7 @@
     "published": "Tue, 28 Apr 2026 09:01:00 +0000",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.106268"
+    "fetched_at": "2026-04-28T16:06:39.796959"
   },
   {
     "source": "rss",
@@ -1581,7 +1581,7 @@
     "published": "Mon, 27 Apr 2026 22:00:56 +0000",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.106268"
+    "fetched_at": "2026-04-28T16:06:39.797150"
   },
   {
     "source": "rss",
@@ -1593,19 +1593,7 @@
     "published": "Tue, 28 Apr 2026 00:15:55 +0000",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.106268"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "NYT > World News",
-    "title": "Fuel Crisis Creates Commuter Crush in the Philippines",
-    "thumbnail": null,
-    "url": "https://www.nytimes.com/video/world/asia/100000010844179/gas-prices-philippines-commute.html",
-    "published": "Tue, 28 Apr 2026 09:11:09 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.106268"
+    "fetched_at": "2026-04-28T16:06:39.797181"
   },
   {
     "source": "rss",
@@ -1617,7 +1605,7 @@
     "published": "Mon, 27 Apr 2026 19:28:58 GMT",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.729427"
+    "fetched_at": "2026-04-28T16:06:39.928101"
   },
   {
     "source": "rss",
@@ -1629,7 +1617,7 @@
     "published": "Mon, 27 Apr 2026 23:03:10 GMT",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:44.568011"
+    "fetched_at": "2026-04-28T16:06:40.434503"
   },
   {
     "source": "rss",
@@ -1641,7 +1629,7 @@
     "published": "Mon, 27 Apr 2026 16:25:51 GMT",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:44.568011"
+    "fetched_at": "2026-04-28T16:06:40.434701"
   },
   {
     "source": "rss",
@@ -1653,7 +1641,19 @@
     "published": "Tue, 28 Apr 2026 04:00:29 GMT",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:46.444768"
+    "fetched_at": "2026-04-28T16:06:41.219925"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "International homepage",
+    "title": "Abu Dhabi state energy group to invest ‘tens of billions’ in US push",
+    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe8c3ba86-2b64-4440-9bc1-78b601602a3a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/e48d4c9b-36b8-476c-81a8-faccb1a981c0",
+    "published": "Tue, 28 Apr 2026 04:00:29 GMT",
+    "importance": 24,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-04-28T16:06:41.219968"
   },
   {
     "source": "rss",
@@ -1665,7 +1665,7 @@
     "published": "Tue, 28 Apr 2026 04:00:19 GMT",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:46.444768"
+    "fetched_at": "2026-04-28T16:06:41.220147"
   },
   {
     "source": "rss",
@@ -1677,7 +1677,7 @@
     "published": "Tue, 28 Apr 2026 12:27:34 +0530",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:47.511048"
+    "fetched_at": "2026-04-28T16:06:41.912027"
   },
   {
     "source": "rss",
@@ -1689,7 +1689,19 @@
     "published": "Tue, 28 Apr 2026 12:00:19 +0530",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:47.511048"
+    "fetched_at": "2026-04-28T16:06:41.912061"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "mint - markets",
+    "title": "Zomato parent Eternal Q4 Results 2026: Net profit soars 346% to  ₹174 crore - Key Highlights",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/04/28/1600x900/Zomato_Q4_Results_1777371892997_1777371893110.jpg",
+    "url": "https://www.livemint.com/market/stock-market-news/zomato-parent-eternal-q4-results-2026-net-profit-soars-346-to-rs-174-crore-key-highlights-11777366807792.html",
+    "published": "Tue, 28 Apr 2026 15:25:12 +0530",
+    "importance": 24,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-04-28T16:06:42.099889"
   },
   {
     "source": "rss",
@@ -1701,19 +1713,7 @@
     "published": "Tue, 28 Apr 2026 11:30:00 +0300",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:56.822407"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "The Moscow Times - Independent News From Russia",
-    "title": "Russian Court Outlaws Top LGBTQ+ Rights Group as 'Extremist'",
-    "thumbnail": null,
-    "url": "https://www.themoscowtimes.com/2026/04/27/russian-court-outlaws-top-lgbtq-rights-group-as-extremist-a92617",
-    "published": "Mon, 27 Apr 2026 18:39:00 +0300",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:56.822407"
+    "fetched_at": "2026-04-28T16:06:44.841281"
   },
   {
     "source": "rss",
@@ -1725,7 +1725,7 @@
     "published": "Tue, 28 Apr 2026 04:24:49 +0000",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:01.283680"
+    "fetched_at": "2026-04-28T16:06:52.079679"
   },
   {
     "source": "rss",
@@ -1737,7 +1737,7 @@
     "published": "Tue, 28 Apr 2026 12:08:00 +0900",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:02.020810"
+    "fetched_at": "2026-04-28T16:06:52.271363"
   },
   {
     "source": "rss",
@@ -1749,7 +1749,7 @@
     "published": "Tue, 28 Apr 2026 11:55:00 +0900",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:02.020810"
+    "fetched_at": "2026-04-28T16:06:52.271401"
   },
   {
     "source": "rss",
@@ -1761,7 +1761,7 @@
     "published": "",
     "importance": 21,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.523307"
+    "fetched_at": "2026-04-28T16:06:42.647059"
   },
   {
     "source": "rss",
@@ -1773,7 +1773,7 @@
     "published": "",
     "importance": 21,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.523307"
+    "fetched_at": "2026-04-28T16:06:42.647080"
   },
   {
     "source": "rss",
@@ -1785,7 +1785,7 @@
     "published": "",
     "importance": 21,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.524547"
+    "fetched_at": "2026-04-28T16:06:42.647305"
   },
   {
     "source": "rss",
@@ -1797,7 +1797,31 @@
     "published": "",
     "importance": 21,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.524547"
+    "fetched_at": "2026-04-28T16:06:42.647326"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "Bloomberg Markets",
+    "title": "Sherwin-Williams Sees Input Costs Rising After Sales Beat",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1tnGO0yNUTs/v1/1200x-1.jpg",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-28/sherwin-williams-sales-jump-most-since-2023-on-forex-tailwinds",
+    "published": "Tue, 28 Apr 2026 11:59:19 GMT",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-04-28T16:06:39.713056"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "Bloomberg Markets",
+    "title": "Data Centers Are Moving to Space",
+    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imLcQP_H2ZXg/v3/1200x-1.jpg",
+    "url": "https://www.bloomberg.com/news/videos/2026-04-28/data-centers-are-moving-to-space-video",
+    "published": "Tue, 28 Apr 2026 15:17:11 GMT",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-04-28T16:06:39.713134"
   },
   {
     "source": "rss",
@@ -1809,19 +1833,7 @@
     "published": "Tue, 28 Apr 2026 10:50:12 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:40.866137"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "Bertelsmann to Buy Concord, Creating $14 Billion Music Giant",
-    "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijmNMqrmQjU0/v0/1200x-1.jpg",
-    "url": "https://www.bloomberg.com/news/articles/2026-04-28/bmg-to-buy-concord-in-deal-that-creates-a-new-major-music-giant",
-    "published": "Tue, 28 Apr 2026 12:01:00 GMT",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:40.866137"
+    "fetched_at": "2026-04-28T16:06:39.713235"
   },
   {
     "source": "rss",
@@ -1833,7 +1845,19 @@
     "published": "Tue, 28 Apr 2026 11:02:18 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.106268"
+    "fetched_at": "2026-04-28T16:06:39.797037"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "NYT > World News",
+    "title": "Man Pleads Guilty to Planning Attack at Taylor Swift Concert in Vienna",
+    "thumbnail": "https://static01.nyt.com/images/2026/04/28/multimedia/28int-austria-swif-01-zthp/28int-austria-swif-01-zthp-mediumSquareAt3X.jpg",
+    "url": "https://www.nytimes.com/2026/04/28/world/europe/taylor-swift-austria-guilty-plea.html",
+    "published": "Tue, 28 Apr 2026 15:48:31 +0000",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-04-28T16:06:39.797264"
   },
   {
     "source": "rss",
@@ -1842,10 +1866,10 @@
     "title": "ABC faces renewed Trump backlash as Kimmel says comments 'not, by any stretch' call for violence",
     "thumbnail": null,
     "url": "https://www.cnbc.com/2026/04/28/trump-jimmy-kimmel-monologue-disney-abc.html",
-    "published": "Tue, 28 Apr 2026 15:14:49 GMT",
+    "published": "Tue, 28 Apr 2026 15:19:31 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.729427"
+    "fetched_at": "2026-04-28T16:06:39.927949"
   },
   {
     "source": "rss",
@@ -1857,7 +1881,7 @@
     "published": "Tue, 28 Apr 2026 13:24:05 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.729427"
+    "fetched_at": "2026-04-28T16:06:39.928042"
   },
   {
     "source": "rss",
@@ -1869,7 +1893,7 @@
     "published": "Mon, 27 Apr 2026 11:30:01 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.729427"
+    "fetched_at": "2026-04-28T16:06:39.928227"
   },
   {
     "source": "rss",
@@ -1881,19 +1905,31 @@
     "published": "Mon, 27 Apr 2026 13:04:36 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.729427"
+    "fetched_at": "2026-04-28T16:06:39.928255"
   },
   {
     "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "Sensex falls 400 points, Nifty 50 ends below 24,000; mid, small-caps outperform",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/04/28/1600x900/logo/3-0-103769130-iStock-1182812188-0_1679850494801_1777370333480.jpg",
-    "url": "https://www.livemint.com/market/stock-market-news/sensex-falls-400-points-nifty-50-ends-below-24-000-mid-small-caps-outperform-11777370184462.html",
-    "published": "Tue, 28 Apr 2026 15:33:14 +0530",
+    "category": "European Media",
+    "outlet": "BBC News",
+    "title": "Why Sam Altman and his former hero Elon Musk are taking their toxic feud to court",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2441/live/9eec0d50-4246-11f1-b55d-0f258dce1735.png",
+    "url": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Apr 2026 15:38:09 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:47.975849"
+    "fetched_at": "2026-04-28T16:06:40.434480"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "International homepage",
+    "title": "First Brands chose BDO for ‘less rigorous’ approach, witness says",
+    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faef44588-3f9b-410e-892f-b8d854036654.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/bea3c3e6-d5fe-446b-8010-a38f015461f2",
+    "published": "Tue, 28 Apr 2026 15:28:51 GMT",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-04-28T16:06:41.220122"
   },
   {
     "source": "rss",
@@ -1905,7 +1941,7 @@
     "published": "Tue, 28 Apr 2026 14:09:51 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.270353"
+    "fetched_at": "2026-04-28T16:06:42.580664"
   },
   {
     "source": "rss",
@@ -1917,7 +1953,7 @@
     "published": "Tue, 28 Apr 2026 12:59:08 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.270353"
+    "fetched_at": "2026-04-28T16:06:42.580750"
   },
   {
     "source": "rss",
@@ -1929,7 +1965,7 @@
     "published": "Tue, 28 Apr 2026 12:45:52 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.270353"
+    "fetched_at": "2026-04-28T16:06:42.580809"
   },
   {
     "source": "rss",
@@ -1941,19 +1977,7 @@
     "published": "Tue, 28 Apr 2026 12:30:10 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.270353"
-  },
-  {
-    "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "News - South China Morning Post",
-    "title": "Greece man, 89, arrested after Athens shooting injures 5 people",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/04/28/2240cfe0-3159-4d59-9952-699a32f275d8_23218ad6.jpg?itok=UzPBEjAO&v=1777377901",
-    "url": "https://www.scmp.com/news/world/europe/article/3351740/greece-man-89-opens-fire-shotgun-injures-least-4?utm_source=rss_feed",
-    "published": "Tue, 28 Apr 2026 12:05:04 +0000",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.270353"
+    "fetched_at": "2026-04-28T16:06:42.580889"
   },
   {
     "source": "rss",
@@ -1965,19 +1989,7 @@
     "published": "Tue, 28 Apr 2026 17:53:13 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:55.088088"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "TASS",
-    "title": "Norwegian professor sees Zelensky as tool of foreign powers",
-    "thumbnail": null,
-    "url": "https://tass.com/world/2123701",
-    "published": "Tue, 28 Apr 2026 17:45:31 +0300",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:55.088088"
+    "fetched_at": "2026-04-28T16:06:44.594828"
   },
   {
     "source": "rss",
@@ -1989,7 +2001,7 @@
     "published": "Tue, 28 Apr 2026 18:01:04 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:56.822407"
+    "fetched_at": "2026-04-28T16:06:44.841076"
   },
   {
     "source": "rss",
@@ -2001,7 +2013,7 @@
     "published": "Tue, 28 Apr 2026 17:43:00 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:56.822407"
+    "fetched_at": "2026-04-28T16:06:44.841115"
   },
   {
     "source": "rss",
@@ -2013,7 +2025,19 @@
     "published": "Tue, 28 Apr 2026 14:48:25 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:56.822407"
+    "fetched_at": "2026-04-28T16:06:44.841180"
+  },
+  {
+    "source": "rss",
+    "category": "Russian Media",
+    "outlet": "The Moscow Times - Independent News From Russia",
+    "title": "Russian Court Outlaws Top LGBTQ+ Rights Group as 'Extremist'",
+    "thumbnail": null,
+    "url": "https://www.themoscowtimes.com/2026/04/27/russian-court-outlaws-top-lgbtq-rights-group-as-extremist-a92617",
+    "published": "Mon, 27 Apr 2026 18:39:00 +0300",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-04-28T16:06:44.841342"
   },
   {
     "source": "rss",
@@ -2025,7 +2049,7 @@
     "published": "Mon, 27 Apr 2026 17:16:33 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:56.822407"
+    "fetched_at": "2026-04-28T16:06:44.841407"
   },
   {
     "source": "rss",
@@ -2037,7 +2061,7 @@
     "published": "Mon, 27 Apr 2026 16:02:00 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:56.822407"
+    "fetched_at": "2026-04-28T16:06:44.841469"
   },
   {
     "source": "rss",
@@ -2049,7 +2073,7 @@
     "published": "Mon, 27 Apr 2026 15:44:04 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:56.822407"
+    "fetched_at": "2026-04-28T16:06:44.841505"
   },
   {
     "source": "rss",
@@ -2061,7 +2085,7 @@
     "published": "Mon, 27 Apr 2026 15:04:00 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:56.822407"
+    "fetched_at": "2026-04-28T16:06:44.841536"
   },
   {
     "source": "rss",
@@ -2073,7 +2097,31 @@
     "published": "Tue, 28 Apr 2026 11:37:21 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:01.283680"
+    "fetched_at": "2026-04-28T16:06:52.079452"
+  },
+  {
+    "source": "rss",
+    "category": "Middle East",
+    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "title": "FIFA cut World Cup ref following arrest for alleged sexual assault in UK",
+    "thumbnail": null,
+    "url": "https://www.aljazeera.com/sports/2026/4/28/ref-in-line-for-world-cup-games-arrested-for-alleged-sexual-assault-in-uk?traffic_source=rss",
+    "published": "Tue, 28 Apr 2026 15:32:21 +0000",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-04-28T16:06:52.164515"
+  },
+  {
+    "source": "rss",
+    "category": "Middle East",
+    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "title": "Belarus eyes Western ties as it frees journalist Andrzej Poczobut",
+    "thumbnail": null,
+    "url": "https://www.aljazeera.com/news/2026/4/28/belarus-eyes-western-ties-as-it-frees-journalist-andrzej-poczobut?traffic_source=rss",
+    "published": "Tue, 28 Apr 2026 15:03:29 +0000",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-04-28T16:06:52.164581"
   },
   {
     "source": "rss",
@@ -2085,7 +2133,7 @@
     "published": "Tue, 28 Apr 2026 14:40:06 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:01.519283"
+    "fetched_at": "2026-04-28T16:06:52.164671"
   },
   {
     "source": "rss",
@@ -2097,7 +2145,7 @@
     "published": "Tue, 28 Apr 2026 14:16:53 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:01.519283"
+    "fetched_at": "2026-04-28T16:06:52.164722"
   },
   {
     "source": "rss",
@@ -2109,7 +2157,7 @@
     "published": "Tue, 28 Apr 2026 13:51:16 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:01.519283"
+    "fetched_at": "2026-04-28T16:06:52.164786"
   },
   {
     "source": "rss",
@@ -2121,19 +2169,7 @@
     "published": "Tue, 28 Apr 2026 13:38:59 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:01.519283"
-  },
-  {
-    "source": "rss",
-    "category": "Middle East",
-    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "Atletico Madrid vs Arsenal: Champions League – team news, start, lineups",
-    "thumbnail": null,
-    "url": "https://www.aljazeera.com/sports/2026/4/28/atletico-madrid-vs-arsenal-champions-league-team-news-start?traffic_source=rss",
-    "published": "Tue, 28 Apr 2026 11:52:54 +0000",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:01.519283"
+    "fetched_at": "2026-04-28T16:06:52.164814"
   },
   {
     "source": "rss",
@@ -2145,7 +2181,7 @@
     "published": "Mon, 27 Apr 2026 22:39:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:02.020810"
+    "fetched_at": "2026-04-28T16:06:52.271687"
   },
   {
     "source": "rss",
@@ -2157,7 +2193,7 @@
     "published": "Mon, 27 Apr 2026 22:10:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:02.020810"
+    "fetched_at": "2026-04-28T16:06:52.271715"
   },
   {
     "source": "rss",
@@ -2169,7 +2205,7 @@
     "published": "Mon, 27 Apr 2026 20:27:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:02.020810"
+    "fetched_at": "2026-04-28T16:06:52.271799"
   },
   {
     "source": "rss",
@@ -2181,7 +2217,7 @@
     "published": "Fri, 24 Apr 2026 21:00:15 GMT",
     "importance": 18,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.729427"
+    "fetched_at": "2026-04-28T16:06:39.928341"
   },
   {
     "source": "rss",
@@ -2193,7 +2229,7 @@
     "published": "Tue, 28 Apr 2026 08:09:47 GMT",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:40.866137"
+    "fetched_at": "2026-04-28T16:06:39.713211"
   },
   {
     "source": "rss",
@@ -2205,7 +2241,7 @@
     "published": "Tue, 28 Apr 2026 09:00:07 +0000",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.106268"
+    "fetched_at": "2026-04-28T16:06:39.797065"
   },
   {
     "source": "rss",
@@ -2217,7 +2253,7 @@
     "published": "Mon, 27 Apr 2026 16:19:50 +0000",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.106268"
+    "fetched_at": "2026-04-28T16:06:39.797119"
   },
   {
     "source": "rss",
@@ -2229,7 +2265,7 @@
     "published": "Mon, 27 Apr 2026 19:08:28 GMT",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.729427"
+    "fetched_at": "2026-04-28T16:06:39.928284"
   },
   {
     "source": "rss",
@@ -2241,7 +2277,7 @@
     "published": "Mon, 27 Apr 2026 23:56:45 GMT",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:44.568011"
+    "fetched_at": "2026-04-28T16:06:40.434529"
   },
   {
     "source": "rss",
@@ -2253,7 +2289,7 @@
     "published": "Mon, 27 Apr 2026 23:03:39 GMT",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:44.568011"
+    "fetched_at": "2026-04-28T16:06:40.434556"
   },
   {
     "source": "rss",
@@ -2265,7 +2301,7 @@
     "published": "Mon, 27 Apr 2026 16:48:46 GMT",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:44.568011"
+    "fetched_at": "2026-04-28T16:06:40.434679"
   },
   {
     "source": "rss",
@@ -2277,7 +2313,7 @@
     "published": "Tue, 28 Apr 2026 12:53:06 +0530",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:47.511048"
+    "fetched_at": "2026-04-28T16:06:41.911869"
   },
   {
     "source": "rss",
@@ -2289,7 +2325,19 @@
     "published": "Tue, 28 Apr 2026 09:42:39 +0530",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:47.511048"
+    "fetched_at": "2026-04-28T16:06:41.911996"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "mint - markets",
+    "title": "Sensex falls 400 points, Nifty 50 ends below 24,000; mid, small-caps outperform",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/04/28/1600x900/logo/3-0-103769130-iStock-1182812188-0_1679850494801_1777370333480.jpg",
+    "url": "https://www.livemint.com/market/stock-market-news/sensex-falls-400-points-nifty-50-ends-below-24-000-mid-small-caps-outperform-11777370184462.html",
+    "published": "Tue, 28 Apr 2026 15:33:14 +0530",
+    "importance": 17,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-04-28T16:06:42.099824"
   },
   {
     "source": "rss",
@@ -2301,19 +2349,7 @@
     "published": "Tue, 28 Apr 2026 08:00:51 +0000",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:01.283680"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "RT World News",
-    "title": "UK officials fear ‘Zelensky-style clash’ between Trump and King Charles – Guardian",
-    "thumbnail": "https://mf.b37mrtl.ru/files/2026.04/thumbnail/69f009e42030276dd11d97ef.jpg",
-    "url": "https://www.rt.com/news/639191-trump-charles-potential-incidents/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "published": "Tue, 28 Apr 2026 01:14:50 +0000",
-    "importance": 17,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:01.283680"
+    "fetched_at": "2026-04-28T16:06:52.079613"
   },
   {
     "source": "rss",
@@ -2325,7 +2361,7 @@
     "published": "",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:49.524547"
+    "fetched_at": "2026-04-28T16:06:42.647285"
   },
   {
     "source": "rss",
@@ -2337,19 +2373,7 @@
     "published": "Mon, 27 Apr 2026 13:31:46 +0000",
     "importance": 14,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.106268"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "BBC News",
-    "title": "Less bread and WFH Fridays – what Pret boss knows about our habits",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06ef/live/41a18300-3f30-11f1-9248-7385bd6b487f.jpg",
-    "url": "https://www.bbc.com/news/articles/c8dl3z9878no?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Apr 2026 06:44:54 GMT",
-    "importance": 14,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:44.568011"
+    "fetched_at": "2026-04-28T16:06:39.797237"
   },
   {
     "source": "rss",
@@ -2361,7 +2385,7 @@
     "published": "Mon, 27 Apr 2026 22:10:00 +0900",
     "importance": 14,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:02.020810"
+    "fetched_at": "2026-04-28T16:06:52.271531"
   },
   {
     "source": "rss",
@@ -2373,7 +2397,7 @@
     "published": "Mon, 27 Apr 2026 21:44:00 +0900",
     "importance": 14,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:02.020810"
+    "fetched_at": "2026-04-28T16:06:52.271745"
   },
   {
     "source": "rss",
@@ -2385,7 +2409,7 @@
     "published": "Mon, 27 Apr 2026 21:11:00 +0900",
     "importance": 14,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:02.020810"
+    "fetched_at": "2026-04-28T16:06:52.271775"
   },
   {
     "source": "rss",
@@ -2397,7 +2421,7 @@
     "published": "Thu, 23 Apr 2026 12:21:53 -0400",
     "importance": 9,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:43.159817"
+    "fetched_at": "2026-04-28T16:06:40.318880"
   },
   {
     "source": "rss",
@@ -2409,19 +2433,7 @@
     "published": "Sat, 25 Apr 2026 12:00:01 GMT",
     "importance": 8,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.729427"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Business News",
-    "title": "FDA fast-tracks psychedelic drug research following Trump executive order",
-    "thumbnail": null,
-    "url": "https://www.cnbc.com/2026/04/24/fda-psychedelic-drug-research-trump.html",
-    "published": "Fri, 24 Apr 2026 16:06:42 GMT",
-    "importance": 8,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:41.729427"
+    "fetched_at": "2026-04-28T16:06:39.928311"
   },
   {
     "source": "rss",
@@ -2433,1241 +2445,193 @@
     "published": "Thu, 23 Apr 2026 23:58:24 -0400",
     "importance": 7,
     "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:16:43.159817"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "Oil giant BP announces huge rise in profits in first results since Iran war",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sy03or/oil_giant_bp_announces_huge_rise_in_profits_in/",
-    "published": "Tue, 28 Apr 2026 12:33:59 +0000",
-    "importance": 60,
-    "importanceLabel": "High",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "BP profits more than double as Iran war sends oil prices higher",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sxwnvr/bp_profits_more_than_double_as_iran_war_sends_oil/",
-    "published": "Tue, 28 Apr 2026 09:45:35 +0000",
-    "importance": 52,
-    "importanceLabel": "High",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "China warns EU over ‘Made in Europe’ plan, vows countermeasures",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sxi0uz/china_warns_eu_over_made_in_europe_plan_vows/",
-    "published": "Mon, 27 Apr 2026 21:53:45 +0000",
-    "importance": 51,
-    "importanceLabel": "High",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "Taiwan on alert after spotting two Chinese warships near its Penghu islands",
-    "thumbnail": "https://external-preview.redd.it/qKsXtSSmkt6gkVMiZZSgYt--r9GyNq6u9JdxT8UyECk.jpeg?width=140&amp;height=95&amp;auto=webp&amp;s=2bef1452bef3e3d8c339af2ffb07de2d81319a04",
-    "url": "https://reddit.com/r/geopolitics/comments/1sxwhik/taiwan_on_alert_after_spotting_two_chinese/",
-    "published": "Tue, 28 Apr 2026 09:35:34 +0000",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "Trump’s Voice of America: The free-speech crusader pushing MAGA on Europe",
-    "thumbnail": "https://external-preview.redd.it/UIeB-4xQzS7I1lTg_GgQ4hvouJZxF3gfdsJ1zdSzV_Q.jpeg?width=140&amp;height=73&amp;auto=webp&amp;s=d71b2d0464173d190b70bfeb31757016760c8f09",
-    "url": "https://reddit.com/r/geopolitics/comments/1sxwhq2/trumps_voice_of_america_the_freespeech_crusader/",
-    "published": "Tue, 28 Apr 2026 09:35:56 +0000",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "Beijing Pushes Back As US Sanctions Chinese Oil Refinery Over Iran Links",
-    "thumbnail": "https://external-preview.redd.it/HyT3ZedfIBh0P2AfuvG0bD_6Ut4str9EeMPKA7OejE0.jpeg?width=140&amp;height=73&amp;auto=webp&amp;s=03ba286cbf4695636c769c44fd106e69b1b88fba",
-    "url": "https://reddit.com/r/geopolitics/comments/1sy1awa/beijing_pushes_back_as_us_sanctions_chinese_oil/",
-    "published": "Tue, 28 Apr 2026 13:21:52 +0000",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "What’s behind Europe’s efforts to ditch US software in favor of sovereign tech",
-    "thumbnail": "https://external-preview.redd.it/TigSgWjSB8ndTvnMrtUFgvEysmO2_lOFcILRwBb99fQ.jpeg?width=140&amp;height=93&amp;auto=webp&amp;s=8d4abd17461f67ec8f6e10eb1420474009f01ef3",
-    "url": "https://reddit.com/r/geopolitics/comments/1sxh28n/whats_behind_europes_efforts_to_ditch_us_software/",
-    "published": "Mon, 27 Apr 2026 21:17:00 +0000",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "Across 8 US oil shocks since 1970, peak oil burden ≥ 4% of GDP was followed by NBER recessions within 18 months; the 2026 episode is at 2.6% so far",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sy02h5/across_8_us_oil_shocks_since_1970_peak_oil_burden/",
-    "published": "Tue, 28 Apr 2026 12:32:33 +0000",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sxonxd/openai_misses_key_revenue_user_targets_in/",
-    "published": "Tue, 28 Apr 2026 02:35:48 +0000",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "China bans exports of dual-use items to 7 EU entities involved in arms sales to or collusion with Taiwan island",
-    "thumbnail": "https://external-preview.redd.it/bzqI16vwS9-jXif7Ak_75CixKH6G7cacWa48p8w3nMA.jpeg?width=140&amp;height=84&amp;auto=webp&amp;s=3650723e77d9c50afbb6fef6926c57572bbc34d4",
-    "url": "https://reddit.com/r/Sino/comments/1sxdk80/china_bans_exports_of_dualuse_items_to_7_eu/",
-    "published": "Mon, 27 Apr 2026 19:14:28 +0000",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "Unpopular opinion: The market is massively overestimating AI's ability to replace human jobs anytime soon",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sy1wrf/unpopular_opinion_the_market_is_massively/",
-    "published": "Tue, 28 Apr 2026 13:45:46 +0000",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "Russia's economy minister admits \"reserves have largely been used up\" while communist lawmaker warns of 1917-style revolution as GDP shrinks",
-    "thumbnail": "https://external-preview.redd.it/sR2ZhVlfToEGD1EjLu1GqurFpgmvW4RCOjUmk04Gkhc.jpeg?width=140&amp;height=70&amp;auto=webp&amp;s=525b93cd5b9983e7eb421bdb9dea4f6725b8d093",
-    "url": "https://reddit.com/r/geopolitics/comments/1sx4pia/russias_economy_minister_admits_reserves_have/",
-    "published": "Mon, 27 Apr 2026 14:05:42 +0000",
-    "importance": 42,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "Ancient DNA reveals mysterious origins of the Huns who sacked Rome: two Xiongnu individuals buried in high-status graves were found to be the direct ancestors of several Hun-period individuals (the collapse of the Xiongnu Confederacy by the Han dynasty had ramifications as far as Europe)",
-    "thumbnail": "https://external-preview.redd.it/fKM-pEaMxtJiK47t0TNOWDL8KnRPaZmE1Nu1BH5e-CE.png?width=140&amp;height=78&amp;auto=webp&amp;s=9dc522b48fcae42539783fa4484c2a467c56c1b8",
-    "url": "https://reddit.com/r/Sino/comments/1sx2u5g/ancient_dna_reveals_mysterious_origins_of_the/",
-    "published": "Mon, 27 Apr 2026 12:54:46 +0000",
-    "importance": 42,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "Beyond gas: The price increases American consumers are experiencing from the Iran war | CNN Business",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sx72b3/beyond_gas_the_price_increases_american_consumers/",
-    "published": "Mon, 27 Apr 2026 15:28:43 +0000",
-    "importance": 37,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "The market is still choosing AI certainty over geopolitical uncertainty",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sxn6wg/the_market_is_still_choosing_ai_certainty_over/",
-    "published": "Tue, 28 Apr 2026 01:31:20 +0000",
-    "importance": 37,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "UAE leaves OPEC and OPEC+ in huge blow to global oil producers' group",
-    "thumbnail": "https://external-preview.redd.it/o3uPc4keuabhun72x5sdNbjiQTIb0dZySwI2ne4ryKQ.jpeg?width=140&amp;height=112&amp;auto=webp&amp;s=b9c0d116164ed4b4e10f8eef98430c0c82cfae2d",
-    "url": "https://reddit.com/r/geopolitics/comments/1sy058c/uae_leaves_opec_and_opec_in_huge_blow_to_global/",
-    "published": "Tue, 28 Apr 2026 12:35:44 +0000",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "Trump's war is only paused. This country wants to end it",
-    "thumbnail": "https://external-preview.redd.it/xZFEZtbRDzHSrWtkza1ynzxtRydJrv8IwWkrjLppB6w.jpeg?width=140&amp;height=78&amp;auto=webp&amp;s=c8c4531b517daab1b3ccc1834dc287e5317a316b",
-    "url": "https://reddit.com/r/geopolitics/comments/1sxx98s/trumps_war_is_only_paused_this_country_wants_to/",
-    "published": "Tue, 28 Apr 2026 10:17:36 +0000",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "Let Iran Defeat Itself: America Should End the War but Keep Up the Pressure",
-    "thumbnail": "https://external-preview.redd.it/etOHHJ0gNX1Jvoo4JrrWLsfVJBCzr7DKVM4P1iBuy-o.jpeg?width=140&amp;height=73&amp;auto=webp&amp;s=9843a0f0c464cdb44d26e0e671eec0b5e8ae6f1a",
-    "url": "https://reddit.com/r/geopolitics/comments/1sy1u7j/let_iran_defeat_itself_america_should_end_the_war/",
-    "published": "Tue, 28 Apr 2026 13:42:58 +0000",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "UAE leaves OPEC and OPEC+ in huge blow to global oil producers' group",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sy03u1/uae_leaves_opec_and_opec_in_huge_blow_to_global/",
-    "published": "Tue, 28 Apr 2026 12:34:09 +0000",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "China’s Real Estate Just Erased 20 Years of Gains — With One Asterisk",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sy2l6u/chinas_real_estate_just_erased_20_years_of_gains/",
-    "published": "Tue, 28 Apr 2026 14:11:38 +0000",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "Iran at Shanghai Cooperation Organisation meeting 😂: \"We are ready to share the experiences of ‌America's ⁠defeat with other members of the organisation,\" Talaei-Nik said during a meeting of SCO defence ministers held in the ​Kyrgyz capital",
-    "thumbnail": "https://external-preview.redd.it/9lExX89vnBBJKKIM_OWTUBzDrxvMGJ5HUw7EEdJ-szM.jpeg?width=140&amp;height=73&amp;auto=webp&amp;s=fe6072ede48de8d3271720203ec069618530a8c8",
-    "url": "https://reddit.com/r/Sino/comments/1sy1ho5/iran_at_shanghai_cooperation_organisation_meeting/",
-    "published": "Tue, 28 Apr 2026 13:29:13 +0000",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "China open-source AI models surpass 10 billion downloads",
-    "thumbnail": "https://external-preview.redd.it/MolmzIaWv95cC0Fru5fcpCVBzSFuBIoE2yK2R1__kOY.png?width=140&amp;height=78&amp;auto=webp&amp;s=daf0c8644d6617c0969d773916775168039daf43",
-    "url": "https://reddit.com/r/Sino/comments/1sy30p7/china_opensource_ai_models_surpass_10_billion/",
-    "published": "Tue, 28 Apr 2026 14:27:51 +0000",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "China Reshapes University Majors to Match Future Industries",
-    "thumbnail": "https://external-preview.redd.it/PgteaHUMOuqZu26CLx4kITrqm602ZJR3ujj5KkAjl5U.jpeg?width=140&amp;height=108&amp;auto=webp&amp;s=d62a974078aae5d2aed499f65b8b2811c31c96f5",
-    "url": "https://reddit.com/r/Sino/comments/1sy2n76/china_reshapes_university_majors_to_match_future/",
-    "published": "Tue, 28 Apr 2026 14:13:45 +0000",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "China is mass producing sodium-ion batteries and I think it changes the entire investing thesis on mining stocks",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sy1jft/china_is_mass_producing_sodiumion_batteries_and_i/",
-    "published": "Tue, 28 Apr 2026 13:31:02 +0000",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "Afghanistan says Pakistani strikes kill seven and wound 85 in first attack since peace talks",
-    "thumbnail": "https://external-preview.redd.it/G-kKhlie52FR4oCOJYtIWCHJqkdWlizVP2ImY7KxZ8w.jpeg?width=140&amp;height=73&amp;auto=webp&amp;s=9fcd87067fe11e9440ab7eaa59d9f1e3d10d7d44",
-    "url": "https://reddit.com/r/geopolitics/comments/1sxuy1z/afghanistan_says_pakistani_strikes_kill_seven_and/",
-    "published": "Tue, 28 Apr 2026 08:03:35 +0000",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "China seeks Southeast Asia gains as US influence falters",
-    "thumbnail": "https://external-preview.redd.it/5sb1kdyovnHfIyAkXYQZI-cpD1-ehy7XNN_hjGd7Bgs.jpeg?width=140&amp;height=78&amp;auto=webp&amp;s=d24a5162a67b064205aa568ae4d0a6861e46f49b",
-    "url": "https://reddit.com/r/geopolitics/comments/1sxvltc/china_seeks_southeast_asia_gains_as_us_influence/",
-    "published": "Tue, 28 Apr 2026 08:42:43 +0000",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "Can Iran Take More Pain Than Us?",
-    "thumbnail": "https://external-preview.redd.it/IuFt906U1scVuuhMkChxXhqZyCLXwue4-JgJIMlFw1c.jpeg?width=140&amp;height=70&amp;auto=webp&amp;s=b21d0057ab59bbecbb9a4a0e3a3c9c147f4a6e25",
-    "url": "https://reddit.com/r/geopolitics/comments/1sxluaj/can_iran_take_more_pain_than_us/",
-    "published": "Tue, 28 Apr 2026 00:31:33 +0000",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "Trump Seeks to Abolish Iran’s Atomic Stockpile, a Problem He Helped Create",
-    "thumbnail": "https://external-preview.redd.it/l5nNNoI7BOtexKE3O1Gd_0XOX0-Os802lo3AYNbQKPc.jpeg?width=140&amp;height=73&amp;auto=webp&amp;s=2ab1c3e79c9faa23c72510901ba134c130d92453",
-    "url": "https://reddit.com/r/geopolitics/comments/1sxh88m/trump_seeks_to_abolish_irans_atomic_stockpile_a/",
-    "published": "Mon, 27 Apr 2026 21:23:11 +0000",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "Putin praises Iranian people for resistance to US in talks with Araqchi",
-    "thumbnail": "https://external-preview.redd.it/0S4JM22HoM3djwgkZaunGTKpWSxqniEos5UBrkFAW_A.jpeg?width=140&amp;height=73&amp;auto=webp&amp;s=fae620184f3cbcfc7fb741382c911e6d0ea81113",
-    "url": "https://reddit.com/r/geopolitics/comments/1sxkpc1/putin_praises_iranian_people_for_resistance_to_us/",
-    "published": "Mon, 27 Apr 2026 23:42:21 +0000",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "From maritime trench warfare to a \"sloppy peace\": Here's how the Strait of Hormuz standoff could play out, according to Goldman Sachs",
-    "thumbnail": "https://external-preview.redd.it/8QWZrkSrx4HXBxLPSriiUrdIiGufxUqItS1dFiGHLx4.png?width=140&amp;height=70&amp;auto=webp&amp;s=30c03e21a0268ca61ce5ff4aa88fa99f7d3a6cd5",
-    "url": "https://reddit.com/r/geopolitics/comments/1sx8rno/from_maritime_trench_warfare_to_a_sloppy_peace/",
-    "published": "Mon, 27 Apr 2026 16:28:33 +0000",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "The North Sea as a Theater of War • russian desk",
-    "thumbnail": "https://external-preview.redd.it/1Bf6OLRGIrbE28g6xLOvEDFegUt57dRvLBzUwo13vIk.jpeg?width=140&amp;height=79&amp;auto=webp&amp;s=500a99761de366dc6529b41ae3fdb080db13684b",
-    "url": "https://reddit.com/r/geopolitics/comments/1sxukcm/the_north_sea_as_a_theater_of_war_russian_desk/",
-    "published": "Tue, 28 Apr 2026 07:41:13 +0000",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "Oil prices may spike again as 'something is off' with the current math, JPMorgan says",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sxftu5/oil_prices_may_spike_again_as_something_is_off/",
-    "published": "Mon, 27 Apr 2026 20:33:09 +0000",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "Meta Axes 14,000 Positions to Fund AI While Forcing Staff to Train Their Own Replacements",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sxc4dq/meta_axes_14000_positions_to_fund_ai_while/",
-    "published": "Mon, 27 Apr 2026 18:24:05 +0000",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "Goldman Sachs Raises Oil Price Forecast Yet Again | OilPrice.com",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sxnxtl/goldman_sachs_raises_oil_price_forecast_yet_again/",
-    "published": "Tue, 28 Apr 2026 02:03:47 +0000",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "China blocks Meta’s $2 billion acquisition of AI startup Manus",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sxn10k/china_blocks_metas_2_billion_acquisition_of_ai/",
-    "published": "Tue, 28 Apr 2026 01:24:06 +0000",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "The Macroeconomic Effects of Tariffs: Insights from 180 Years of U.S. Trade Policy",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sxg4mt/the_macroeconomic_effects_of_tariffs_insights/",
-    "published": "Mon, 27 Apr 2026 20:43:58 +0000",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "Who would win: a european supercar or a Chinese sedan?",
-    "thumbnail": "https://external-preview.redd.it/dWIxNjgzZTVxc3hnMZHLMM29eHZSSbgqu8oQWROQlmg9WPA_N2woN7p5Xa_O.png?width=140&amp;height=78&amp;format=jpg&amp;auto=webp&amp;s=9b51aaf421cb6e41c209454e6806016548586d04",
-    "url": "https://reddit.com/r/Sino/comments/1sxgd68/who_would_win_a_european_supercar_or_a_chinese/",
-    "published": "Mon, 27 Apr 2026 20:52:14 +0000",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "China develops iron battery 80 times cheaper than lithium that can last 16 years",
-    "thumbnail": "https://preview.redd.it/m1fck6b0erxg1.jpeg?width=140&amp;height=93&amp;auto=webp&amp;s=f11da30749a535afb171884f542580c33aae8130",
-    "url": "https://reddit.com/r/Sino/comments/1sx8ls9/china_develops_iron_battery_80_times_cheaper_than/",
-    "published": "Mon, 27 Apr 2026 16:22:52 +0000",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "China’s 90% Rare Earth Grip Is on Pause. In 6 Months, the World Finds Out If It Built a Backup",
-    "thumbnail": "https://external-preview.redd.it/WkQEdbmAp8dukJkIOnnWquaNoNCQoCItgOoI3QtmUPA.jpeg?width=140&amp;height=93&amp;auto=webp&amp;s=2a208b835e762a174a87d612cd1e8de605b3a89d",
-    "url": "https://reddit.com/r/Sino/comments/1sxdoc3/chinas_90_rare_earth_grip_is_on_pause_in_6_months/",
-    "published": "Mon, 27 Apr 2026 19:18:31 +0000",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "[Nature] Dr. Jane Ying Wu, who was persecuted under the China Initiative and took her own life, was cleared of wrongdoing by the US National Institutes of Health. Her family alleges that her employer destroyed her career.",
-    "thumbnail": "https://external-preview.redd.it/yyC2sXSGyv-vq9Npyc2Nqotm52yop6ANAIde-sMCP5s.png?width=140&amp;height=105&amp;auto=webp&amp;s=751d02a2449c0e4ae05cd61dae70f0f6d2772c73",
-    "url": "https://reddit.com/r/Sino/comments/1sxqgqm/nature_dr_jane_ying_wu_who_was_persecuted_under/",
-    "published": "Tue, 28 Apr 2026 03:59:43 +0000",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "Building an AI that does institutional-grade equity research for retail investors would you actually use it?",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sxqyog/building_an_ai_that_does_institutionalgrade/",
-    "published": "Tue, 28 Apr 2026 04:23:30 +0000",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "Report: Qatar offered to ‘take care of’ ICC prosecutor over Netanyahu arrest warrant",
-    "thumbnail": "https://external-preview.redd.it/g4BE2f-b_ZFMZ606WhdB2MeW0qMv3ILYP1-4RwsbQw0.jpeg?width=140&amp;height=78&amp;auto=webp&amp;s=8059608c3a6a787a2bcf75d298fa198af5a517a4",
-    "url": "https://reddit.com/r/geopolitics/comments/1sxwxtt/report_qatar_offered_to_take_care_of_icc/",
-    "published": "Tue, 28 Apr 2026 10:00:41 +0000",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "A cross-border quarrel we can’t afford: How tariffs hinder climate-smart agriculture",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/geopolitics/comments/1sxz5t5/a_crossborder_quarrel_we_cant_afford_how_tariffs/",
-    "published": "Tue, 28 Apr 2026 11:53:20 +0000",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "Trump pursues new import taxes to replace the tariffs the Supreme Court rejected",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sxy6ny/trump_pursues_new_import_taxes_to_replace_the/",
-    "published": "Tue, 28 Apr 2026 11:06:29 +0000",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "Ghana Nears IMF Exit as Final $3 Billion Programme Review Begins in Accra",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sxxufr/ghana_nears_imf_exit_as_final_3_billion_programme/",
-    "published": "Tue, 28 Apr 2026 10:49:19 +0000",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "China Poised to Be Top Tourism Economy as Foreigners Skip US: The Chinese travel and tourism economy grew 9.9% last year, more than twice the global rate and much faster than the 0.9% pace registered by the US",
-    "thumbnail": "https://external-preview.redd.it/ipyFYee-BAjU6c0H8oXKBK1DNBOkgXz0Cv6lpYbaOUs.jpeg?width=140&amp;height=93&amp;auto=webp&amp;s=f8d3f2ab4d0cde0bf5f43e947a7f11d0d7bbbcab",
-    "url": "https://reddit.com/r/Sino/comments/1sy1kd1/china_poised_to_be_top_tourism_economy_as/",
-    "published": "Tue, 28 Apr 2026 13:32:04 +0000",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "Motorola Solution [MSI] Stock Analysis",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sxw9nn/motorola_solution_msi_stock_analysis/",
-    "published": "Tue, 28 Apr 2026 09:22:26 +0000",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "40K investment in higher-yield ETF nearing retirement?",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sy0x9n/40k_investment_in_higheryield_etf_nearing/",
-    "published": "Tue, 28 Apr 2026 13:06:58 +0000",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "Merz says US 'humiliated,' lacks strategy in Iran conflict",
-    "thumbnail": "https://external-preview.redd.it/-tUPst0nlZDgD4LsNqJsRuqvMAARTZ2Hoc_PxjONqG4.jpeg?width=140&amp;height=78&amp;auto=webp&amp;s=5f7b49fc29110c95a3bc65df4c87d4de57d9b29e",
-    "url": "https://reddit.com/r/geopolitics/comments/1sx2vx4/merz_says_us_humiliated_lacks_strategy_in_iran/",
-    "published": "Mon, 27 Apr 2026 12:56:43 +0000",
-    "importance": 25,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "China has become the first country in the world to surpass 5 million valid invention patents.",
-    "thumbnail": "https://external-preview.redd.it/e_x0dQhvYBlXwryz5NbGO0NXq12svPFoXRc_JRmYfCE.jpeg?width=140&amp;height=93&amp;auto=webp&amp;s=4d93ed61ba24b194eb64027d67d119ce9396b074",
-    "url": "https://reddit.com/r/Sino/comments/1sx5k5z/china_has_become_the_first_country_in_the_world/",
-    "published": "Mon, 27 Apr 2026 14:36:07 +0000",
-    "importance": 25,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "China delivers largest domestically built LNG carrier",
-    "thumbnail": "https://external-preview.redd.it/MERAzWE7a5bUljblFeWKUHIar4g2APeb3YZhY41qJ5w.jpeg?width=140&amp;height=78&amp;auto=webp&amp;s=999d3fb749c181a7576ae7a35fb3391fd3c52bf2",
-    "url": "https://reddit.com/r/Sino/comments/1sx5mta/china_delivers_largest_domestically_built_lng/",
-    "published": "Mon, 27 Apr 2026 14:38:36 +0000",
-    "importance": 25,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "China Clones 10 Yaks, Making Steps Toward Large-Scale Use",
-    "thumbnail": "https://external-preview.redd.it/yTP_UOVkG1uinFROCrLJSrJEgubemN_p4i7MhC6oPLM.png?width=140&amp;height=78&amp;auto=webp&amp;s=2aedd60f111fe23d07250078e46c1b6198c514da",
-    "url": "https://reddit.com/r/Sino/comments/1sx5tal/china_clones_10_yaks_making_steps_toward/",
-    "published": "Mon, 27 Apr 2026 14:45:04 +0000",
-    "importance": 25,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "China announces decision ordering revocation of Manus acquisition deal",
-    "thumbnail": "https://preview.redd.it/v2v4el6rfqxg1.png?width=140&amp;height=91&amp;auto=webp&amp;s=e794cc8445f746d9c898e993defc127d73eca651",
-    "url": "https://reddit.com/r/Sino/comments/1sx394c/china_announces_decision_ordering_revocation_of/",
-    "published": "Mon, 27 Apr 2026 13:10:48 +0000",
-    "importance": 25,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "Shorting American Airlines - Oil Shocks Ahead",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sx6o6e/shorting_american_airlines_oil_shocks_ahead/",
-    "published": "Mon, 27 Apr 2026 15:15:03 +0000",
-    "importance": 25,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "Founder banned 401(k) contributions for young employees. Is there any logic to this?",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1swihjn/founder_banned_401k_contributions_for_young/",
-    "published": "Sun, 26 Apr 2026 20:22:27 +0000",
-    "importance": 25,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "Russian fighters confirm withdrawal from northern Mali city after separatist attacks",
-    "thumbnail": "https://external-preview.redd.it/rz694x6osFlN3ioMAp7JnHYa1ugAU4pvsBaOW7MrBNs.jpeg?width=140&amp;height=78&amp;auto=webp&amp;s=4c96e06c9150835466f10d25de8c802151908057",
-    "url": "https://reddit.com/r/geopolitics/comments/1sx8spx/russian_fighters_confirm_withdrawal_from_northern/",
-    "published": "Mon, 27 Apr 2026 16:29:36 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "The War You Can Scroll On By",
-    "thumbnail": "https://external-preview.redd.it/u4D3V94bvi7lpX85qC8Tq7ypmjYMqcdZkg0gw1cOi6k.jpeg?width=140&amp;height=73&amp;auto=webp&amp;s=b9be186382eeb6bdc49ef4d867cf261ce866ba6a",
-    "url": "https://reddit.com/r/geopolitics/comments/1sxdu2x/the_war_you_can_scroll_on_by/",
-    "published": "Mon, 27 Apr 2026 19:23:59 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "'Repairs Will Take Years': Nobel Economist Joseph E. Stiglitz Tears Apart Trump For 'Dismantling' the World",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sxn34c/repairs_will_take_years_nobel_economist_joseph_e/",
-    "published": "Tue, 28 Apr 2026 01:26:40 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "Farm Bankruptcies Continued to Climb in 2025",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sxp5y8/farm_bankruptcies_continued_to_climb_in_2025/",
-    "published": "Tue, 28 Apr 2026 02:58:28 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "Spain positions itself as economic 'safe haven' in the face of geopolitical tensions",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sxsx9v/spain_positions_itself_as_economic_safe_haven_in/",
-    "published": "Tue, 28 Apr 2026 06:07:11 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "GitHub Copilot is moving to usage-based billing",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sxshvt/github_copilot_is_moving_to_usagebased_billing/",
-    "published": "Tue, 28 Apr 2026 05:44:00 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "Canada Just Announced a Sovereign Wealth Fund with $25 billion. It's the Third Major Economy to Create One in 12 Months | Now holds stakes in 7,200 companies across 60 countries",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sxt8ss/canada_just_announced_a_sovereign_wealth_fund/",
-    "published": "Tue, 28 Apr 2026 06:25:04 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "China grows EV charge points by nearly 50% in one year",
-    "thumbnail": "https://external-preview.redd.it/iBqSQ55nMyXTbKBz8pxbxKk6s3KQI8ceMSinEPDAX00.png?width=140&amp;height=73&amp;auto=webp&amp;s=2f761998705ae4918a4807b43e1f54f131d3f4c4",
-    "url": "https://reddit.com/r/Sino/comments/1sxgjjh/china_grows_ev_charge_points_by_nearly_50_in_one/",
-    "published": "Mon, 27 Apr 2026 20:58:24 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "Wang Guan: Japan's anti-China click factory",
-    "thumbnail": "https://external-preview.redd.it/soBjB4u4KKPGYMddB4XVMZ9rVq5v9COLwi1FLzBztIU.jpeg?width=140&amp;height=105&amp;auto=webp&amp;s=4ecadc2190bf607616d18fee8c6f7330e8bba0e5",
-    "url": "https://reddit.com/r/Sino/comments/1sxbqkm/wang_guan_japans_antichina_click_factory/",
-    "published": "Mon, 27 Apr 2026 18:10:37 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "Fujian 44.8 billion super petrochemical project launched",
-    "thumbnail": "https://external-preview.redd.it/HDkDOskwhAoNylYaePmIbtRff7VF9vPaB_yg0BaguGw.jpeg?width=140&amp;height=105&amp;auto=webp&amp;s=3de14f7e0da45c20254354953ae9247103a9e92f",
-    "url": "https://reddit.com/r/Sino/comments/1sxe8es/fujian_448_billion_super_petrochemical_project/",
-    "published": "Mon, 27 Apr 2026 19:38:04 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "CATL secures world's largest sodium-ion battery order in major tech shift",
-    "thumbnail": "https://external-preview.redd.it/EkKWUuyCkZTU9Egy6xnynLPJvxJkxYyI28V422YT5m8.jpeg?width=140&amp;height=78&amp;auto=webp&amp;s=1e2e534aa3a12556417e6758fe0dae10b3e1f6f1",
-    "url": "https://reddit.com/r/Sino/comments/1sx6wth/catl_secures_worlds_largest_sodiumion_battery/",
-    "published": "Mon, 27 Apr 2026 15:23:20 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "Daily General Discussion and Advice Thread - April 28, 2026",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sxuvu9/daily_general_discussion_and_advice_thread_april/",
-    "published": "Tue, 28 Apr 2026 08:00:17 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "My portfolio hits ATH today. But I feel uneasy",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sxng39/my_portfolio_hits_ath_today_but_i_feel_uneasy/",
-    "published": "Tue, 28 Apr 2026 01:42:38 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "OpenAI missed rev/user targets. $ORCL risk?",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sxp26z/openai_missed_revuser_targets_orcl_risk/",
-    "published": "Tue, 28 Apr 2026 02:53:38 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "One macro question worth sitting with before tomorrow's Fed press conference",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sxn7al/one_macro_question_worth_sitting_with_before/",
-    "published": "Tue, 28 Apr 2026 01:31:49 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "Systematic profit-taking - worth doing? Or not recommended?",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sxmxfh/systematic_profittaking_worth_doing_or_not/",
-    "published": "Tue, 28 Apr 2026 01:19:37 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "Microsoft/OpenAI feels less like a breakup and more like AI entering its “multi-cloud” phase.",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sxheeg/microsoftopenai_feels_less_like_a_breakup_and/",
-    "published": "Mon, 27 Apr 2026 21:29:36 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "Appeals Court Says Pentagon Can Temporarily Mandate Escorts for Journalists",
-    "thumbnail": "https://external-preview.redd.it/6MtBQSNohq6AmJNfFoUSvKWXcn4W12upZGWE_LJTk0M.jpeg?width=140&amp;height=70&amp;auto=webp&amp;s=6e4fbc59e8306a1308386dc38bf1ddcc761cbb30",
-    "url": "https://reddit.com/r/geopolitics/comments/1sy1dxr/appeals_court_says_pentagon_can_temporarily/",
-    "published": "Tue, 28 Apr 2026 13:25:13 +0000",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "Falklanders should 'go back to England', insists Argentina in renewed war of words",
-    "thumbnail": "https://external-preview.redd.it/7wktfOCo0XkPxv0ls29sa5RdkG9xnGqD8AgfcA8bJQU.jpeg?width=140&amp;height=78&amp;auto=webp&amp;s=3d14877e40659d0ca0fb29cbdfe8ddac8af2e2ba",
-    "url": "https://reddit.com/r/geopolitics/comments/1sx4h2k/falklanders_should_go_back_to_england_insists/",
-    "published": "Mon, 27 Apr 2026 13:57:25 +0000",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "US-Iran Peace Talks: No Nukes or There Is Nothing to Talk About, Says Trump",
-    "thumbnail": "https://external-preview.redd.it/fnXsMIa1HVj57i355GuDRJ1Y1ygxMGO7MD0iDaobdOo.jpeg?width=140&amp;height=78&amp;auto=webp&amp;s=67f63c74093877f4117d3501787b33bb6bfb2f75",
-    "url": "https://reddit.com/r/geopolitics/comments/1sww09g/usiran_peace_talks_no_nukes_or_there_is_nothing/",
-    "published": "Mon, 27 Apr 2026 06:52:02 +0000",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "Is a Private-Credit Crisis Imminent?",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sx4seu/is_a_privatecredit_crisis_imminent/",
-    "published": "Mon, 27 Apr 2026 14:08:35 +0000",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "The sense of security experienced in China is tangible in everyday life",
-    "thumbnail": "https://external-preview.redd.it/BL5CSz0uPNStQQ5GqUkq_V2Ji49OsAnkcEH3XR31pGU.jpeg?width=140&amp;height=84&amp;auto=webp&amp;s=72ea6f1dbc9f4683fd83d45bb1fa76bc7b6615e9",
-    "url": "https://reddit.com/r/Sino/comments/1sx5888/the_sense_of_security_experienced_in_china_is/",
-    "published": "Mon, 27 Apr 2026 14:24:08 +0000",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "CredibleDefense",
-    "outlet": "r/CredibleDefense",
-    "title": "Active Conflicts &amp; News Megathread April 26, 2026",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/CredibleDefense/comments/1swav95/active_conflicts_news_megathread_april_26_2026/",
-    "published": "Sun, 26 Apr 2026 15:39:58 +0000",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:27.429947"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "SOXQ vs SMH Trend in 2026",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sy35kq/soxq_vs_smh_trend_in_2026/",
-    "published": "Tue, 28 Apr 2026 14:33:05 +0000",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "What's the next big idea in AI downstream?",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sx03k1/whats_the_next_big_idea_in_ai_downstream/",
-    "published": "Mon, 27 Apr 2026 10:50:21 +0000",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "geopolitics",
-    "outlet": "r/geopolitics",
-    "title": "Orbán Rigged the Game—and Still Lost",
-    "thumbnail": "https://external-preview.redd.it/NNkRgNvS58nU1uiIEBojuEYic1rbS_9WLyi_KlmeT1s.jpeg?width=140&amp;height=70&amp;auto=webp&amp;s=1f92f483207bd9819d8e0afb691b2a20669d7919",
-    "url": "https://reddit.com/r/geopolitics/comments/1sxlqm8/orbán_rigged_the_gameand_still_lost/",
-    "published": "Tue, 28 Apr 2026 00:27:01 +0000",
-    "importance": 17,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:04.200855"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "Trump administration to pay 2 more companies to walk away from US offshore wind leases",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sxnuwi/trump_administration_to_pay_2_more_companies_to/",
-    "published": "Tue, 28 Apr 2026 02:00:22 +0000",
-    "importance": 17,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "economics",
-    "outlet": "r/economics",
-    "title": "Hormuz Blockade Just Reached Iowa: 7 Ways It Hit Farms",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/Economics/comments/1sxa1be/hormuz_blockade_just_reached_iowa_7_ways_it_hit/",
-    "published": "Mon, 27 Apr 2026 17:12:30 +0000",
-    "importance": 17,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:21.737006"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "Such a beautiful story…",
-    "thumbnail": "https://external-preview.redd.it/bG82cXByMTRsdnhnMbg50DU3gVc3JmlA92eQDm7Pdi2PmlW34DLNRQu68GZj.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;format=jpg&amp;auto=webp&amp;s=4e2f49758693f70f6b118a0e20da91d516804065",
-    "url": "https://reddit.com/r/Sino/comments/1sxtbru/such_a_beautiful_story/",
-    "published": "Tue, 28 Apr 2026 06:29:39 +0000",
-    "importance": 17,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "Experience the Charm of Yangwang U9 in Gran Turismo 7: From the Nürburgring Nordschleife to the global digital racing stage, the Yangwang U9 officially arrives in Gran Turismo 7",
-    "thumbnail": "https://external-preview.redd.it/F8hQoqypdw0ip_bVzgmzirbQzBMrxXZElRjl9aeUCwk.jpeg?width=140&amp;height=105&amp;auto=webp&amp;s=b8696d09e0dd2c1f39555d61ef1c7773c4609bd0",
-    "url": "https://reddit.com/r/Sino/comments/1sxsuzy/experience_the_charm_of_yangwang_u9_in_gran/",
-    "published": "Tue, 28 Apr 2026 06:03:39 +0000",
-    "importance": 17,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "NYTimes: The Rising Chinese Automaker Not Named BYD",
-    "thumbnail": "https://external-preview.redd.it/bgxDzQ1pczIUtgK0aEHS9nowbvzO5OU94fTXjHrwzR4.jpeg?width=140&amp;height=73&amp;auto=webp&amp;s=90775497256ecb3a489b776595f29f94225d6d06",
-    "url": "https://reddit.com/r/Sino/comments/1sxeu9d/nytimes_the_rising_chinese_automaker_not_named_byd/",
-    "published": "Mon, 27 Apr 2026 19:59:15 +0000",
-    "importance": 17,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "S&amp;P 500 just closed at another record high",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sxtf0x/sp_500_just_closed_at_another_record_high/",
-    "published": "Tue, 28 Apr 2026 06:34:47 +0000",
-    "importance": 17,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "Is American Express (AXP) a buy?",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sxk0he/is_american_express_axp_a_buy/",
-    "published": "Mon, 27 Apr 2026 23:13:06 +0000",
-    "importance": 17,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "USDC economics are locked in a battle over the Clarity Act. Circle might not be the obvious winner.",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sxpktl/usdc_economics_are_locked_in_a_battle_over_the/",
-    "published": "Tue, 28 Apr 2026 03:17:16 +0000",
-    "importance": 17,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "investing options similar to hysa or fidelity cash but delayed income.",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sx91w7/investing_options_similar_to_hysa_or_fidelity/",
-    "published": "Mon, 27 Apr 2026 16:38:39 +0000",
-    "importance": 17,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "Sino",
-    "outlet": "r/Sino",
-    "title": "These are the Chinese cars that the US will be missing out on",
-    "thumbnail": "https://external-preview.redd.it/Bn1oFVIbiRQXoiAol3n6mygaOc2HEZz7L1LNehjtm4U.png?width=140&amp;height=78&amp;auto=webp&amp;s=56e9b502bb61e5568de783f2187b26e6b69b868a",
-    "url": "https://reddit.com/r/Sino/comments/1sx6la3/these_are_the_chinese_cars_that_the_us_will_be/",
-    "published": "Mon, 27 Apr 2026 15:12:16 +0000",
-    "importance": 14,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:24.396486"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "What \"passive income\" or trading strategy is currently ruining the financial lives of people who think they are outsmarting the system?",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1swxm55/what_passive_income_or_trading_strategy_is/",
-    "published": "Mon, 27 Apr 2026 08:26:46 +0000",
-    "importance": 14,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "Looking for a better HYSA",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sx10yf/looking_for_a_better_hysa/",
-    "published": "Mon, 27 Apr 2026 11:36:03 +0000",
-    "importance": 14,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
-  {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "Financial Apps with the best UI/UX",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sx6fy5/financial_apps_with_the_best_uiux/",
-    "published": "Mon, 27 Apr 2026 15:07:12 +0000",
-    "importance": 14,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:29.721689"
-  },
+    "fetched_at": "2026-04-28T16:06:40.318851"
+  },
+  {
+    "source": "telegram",
+    "channel": "geopolitics_prime",
+    "channel_title": "Geopolitics Prime",
+    "full_text": "🪖⛅**'Weather's been deployed as a weapon of war' – George Galloway**\n\n“It was the destruction of the US radar facilities in the United Arab Emirates that has turned the tide,” the former UK Parliament member stresses, [commenting on sudden weather shifts in Gulf states. ](https://t.me/geopolitics_prime/68874)\n\n💬 \"Weather has been weaponized,\" Galloway says, \"causing untold harm, suffering, drought, and crop failures.\"\n\n👍** **[**Boost us**](https://t.me/boost/geopolitics_prime)** | **[**Chat**](https://t.me/+tltgWD-GUqw0OTAy)** | ****@geopolitics_prime**",
+    "headline": "🪖⛅**'Weather's been deployed as a weapon of war' – George Galloway**",
+    "has_media": true,
+    "url": "https://t.me/geopolitics_prime/68941",
+    "posted_at": "2026-04-28T15:32:01+00:00",
+    "fetched_at": "2026-04-28T16:06:55.251477"
+  },
+  {
+    "source": "telegram",
+    "channel": "geopolitics_prime",
+    "channel_title": "Geopolitics Prime",
+    "full_text": "😰 **IDF soldiers uses horrendous forms of torture against Palestinian detainees – report \n**\nHundreds of Palestinians released from Israeli detention exposed at least over 40 blood-curdling forms of torture, according to a report by the Euro-Med Monitor human rights organization. \n\n**The most shocking practices included: **\n\n🔴 Breaking bones and teeth \n\n🔴  Rape and sexual assaults\n\n🔴  Urinating and spitting on detainees\n\n🔴  Strip searches and forced nudity\n\nFormer Palestinian detainees’ testimonies depict** frightful scenes** of what they had to go through: \n\n🌏 One ex-inmate from Gaza described how the four Israeli soldiers threw him on the floor, stepped on his head and urinated on him “while hurling obscene insults.” \n\n🌏 “The interrogator beat me severely all over my body and stepped on my mouth with his military boot, causing some teeth to be knocked out and my jaw to be dislocated. Blood poured from my mouth,” another former detainee revealed. \n\n🌏 An ex-female inmate in turn recalled interrogations during which Israeli “soldiers and officers” threatened her with rape if she did not provide information about Hamas, adding that “the threat of rape was a recurring terror” for her. \n\n🌏 One more ex-detainee admitted to being raped by “an Israeli soldier for several minutes,” which was followed by other Israeli servicemen filming and mocking the inmate.\n\n🌏 In an absolutely bizarre case, one ex-inmate revealed how “on the 56th day” of his  detention, Israeli soldiers put him and 100 other detainees in a cage-like prison,  “beat us severely and demanded that we imitate the sounds of sheep while inside the cage.”\n\n👍** **[**Boost us**](https://t.me/boost/geopolitics_prime)** | **[**Chat**](https://t.me/+tltgWD-GUqw0OTAy)** | ****@geopolitics_prime**",
+    "headline": "😰 **IDF soldiers uses horrendous forms of torture against Palestinian detainees – report ",
+    "has_media": true,
+    "url": "https://t.me/geopolitics_prime/68937",
+    "posted_at": "2026-04-28T14:51:01+00:00",
+    "fetched_at": "2026-04-28T16:06:55.251668"
+  },
+  {
+    "source": "telegram",
+    "channel": "geopolitics_prime",
+    "channel_title": "Geopolitics Prime",
+    "full_text": "🚨🇮🇷🌊 **Iran war turned the ocean floor into a battlefield**\n\n95% of the world’s internet, financial transactions, video calls, and stock trades flow through fiber-optic cables on the ocean floor. For decades, their extreme depth was considered enough protection. \n\nThat changed in April 2026 when Iranians published the precise locations of undersea cables in the Strait of Hormuz with a striking warning: if you attack us again — those cables will be cut.\n\nThe Pentagon took the warning seriously. The result was the launch of a new DARPA program called “Deep Thoughts.” The concept had been quietly developing for years — but the Iran war finally turned it into an urgent priority.\n__\nHere’s what you need to know:__\n\n🔴 \"Deep Thoughts\" is about creating autonomous underwater vehicles capable of diving to the full depth of the ocean. Moreover, the Americans want to make them small, cheap, and mass-producible. The entire project has been allotted 24 months. In two years, the Pentagon is expected to have a prototype of something that will revolutionize the concept of underwater warfare.\n\n🔴The program’s goal is stated as: “revolutionary advances in unmanned access to full ocean depth at a fraction of the size of current systems.” They want to build a tiny autonomous drone that can dive to 11 kilometers.\n\n🔴Key areas of work include new materials and alloys capable of withstanding the immense pressure at depth; unconventional approaches to subsystem architecture — essentially, packing maximum functionality into a small hull; and a “multilayer secure digital ecosystem” developed across multiple classification levels.\n\n🔴The program is divided into two technical areas: TA1 and TA2. The first works with materials in the CUI (Controlled Unclassified Information) category. The second operates under the SECRET classification.\n\n🔴And another thing: a vehicle capable of carefully approaching an enemy mine and neutralizing it can just as easily approach an enemy communications cable and attach an interception device or a cutter to it.\n\n👍** **[**Boost us**](https://t.me/boost/geopolitics_prime)** | **[**Chat**](https://t.me/+tltgWD-GUqw0OTAy)** | ****@geopolitics_prime**",
+    "headline": "🚨🇮🇷🌊 **Iran war turned the ocean floor into a battlefield**",
+    "has_media": true,
+    "url": "https://t.me/geopolitics_prime/68935",
+    "posted_at": "2026-04-28T14:05:49+00:00",
+    "fetched_at": "2026-04-28T16:06:55.251856"
+  },
+  {
+    "source": "telegram",
+    "channel": "geopolitics_prime",
+    "channel_title": "Geopolitics Prime",
+    "full_text": "😂🇮🇷 **Iran roasts Trump in new Lego-style diss track**\n\n\"Donnie liar, Bibi's puppet – can't deny, Donnie liar, watch your whole empire fry,\" the banger goes.\n\nAnd Donald [Trump's panicked behavior during the DC shooting](https://t.me/geopolitics_prime/68799)? The song doesn't forgive it.\n\n💬 \"You remember April 25th, Donnie? When you tripped on stage and two agents had to drag you out. Then you woke up and wrote, 'I fought like a lion.' Bro, the only thing you fought was gravity – and gravity won by knockout.\"\n\n👍** **[**Boost us**](https://t.me/boost/geopolitics_prime)** | **[**Chat**](https://t.me/+tltgWD-GUqw0OTAy)** | ****@geopolitics_prime**",
+    "headline": "😂🇮🇷 **Iran roasts Trump in new Lego-style diss track**",
+    "has_media": true,
+    "url": "https://t.me/geopolitics_prime/68934",
+    "posted_at": "2026-04-28T13:23:01+00:00",
+    "fetched_at": "2026-04-28T16:06:55.251958"
+  },
+  {
+    "source": "telegram",
+    "channel": "geopolitics_prime",
+    "channel_title": "Geopolitics Prime",
+    "full_text": "**👁**** Iran-backed hackers expose identities of thousands of US Marines**\n\nPersonal details of 2,379 US Marines stationed in the Persian Gulf have been released by the Handala hacker group, which claims the leak is \"just a drop in the ocean.\"\n\nThe group warns it has extensive data on US military personnel, including identities, movements, and more.\n\nHandala also claims to have sent direct WhatsApp messages to Marines, urging them to say their final goodbyes.\n\n👍** **[**Boost us**](https://t.me/boost/geopolitics_prime)** | **[**Chat**](https://t.me/+tltgWD-GUqw0OTAy)** | ****@geopolitics_prime**",
+    "headline": "**👁**** Iran-backed hackers expose identities of thousands of US Marines**",
+    "has_media": true,
+    "url": "https://t.me/geopolitics_prime/68932",
+    "posted_at": "2026-04-28T12:38:51+00:00",
+    "fetched_at": "2026-04-28T16:06:55.252029"
+  },
+  {
+    "source": "telegram",
+    "channel": "geopolitics_prime",
+    "channel_title": "Geopolitics Prime",
+    "full_text": "🚨🇨🇳 **China's Military: Unstoppable Force in AI-Driven Warfare**\n\nThe Iran war marked a turning point in warfare. For the first time, AI was integrated into the entire cycle of operations — from intelligence analysis to target identification, planning, and assessment.\n\nHence, the People's Liberation Army (PLA) is now accelerating AI integration.\n\nThe latest war in middle east demonstrated AI's vast application potential and significant strategic value in combat. AI is a core engine reshaping warfare and the global strategic landscape. \n\nThe PLA is actively deploying AI across key areas:\n\n🔸 **Situational awareness:** AI-enabled drones like the WZ-8 provide real-time threat alerts and track carrier movements.\n\n🔸 **Command & control:** AI simulates battles, generates combat plans, enables second-level threat response, and syncs data across platforms.\n\n🔸 **Logistics:** AI predicts maintenance needs. Smart warehousing and uncrewed transport solve the dangerous \"last mile\" of resupply.\n\n🔸 **Munitions:** AI enables autonomous homing weapons that operate under electronic interference. Autonomous homing weapons like the DF-21D use AI to evade jamming and switch targets mid-flight.\n\n🔸 **Unmanned systems: **Swarms autonomously move into formations and execute coordinated penetration, with human-in-the-loop control.\n\n🔸** Defense:** AI shields against hacking, enables intelligent jamming and anti-jamming, and blocks disinformation.\n\n🔸 **Anti-AI:** The PLA is also developing ways to disrupt an opponent's intelligent kill chains.\n\nAI is rapidly transforming warfare into a faster, more autonomous, and data-driven domain where decision cycles shrink dramatically.\nChina’s PLA is positioning itself to lead this shift by embedding AI across operations, logistics, and strategic systems.This evolution strengthens China’s strategic positioning while encouraging a more balanced global security landscape.\n\n**@NewRulesGeo**❗[**Follow us on X**](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
+    "headline": "🚨🇨🇳 **China's Military: Unstoppable Force in AI-Driven Warfare**",
+    "has_media": true,
+    "url": "https://t.me/geopolitics_prime/68931",
+    "posted_at": "2026-04-28T11:58:20+00:00",
+    "fetched_at": "2026-04-28T16:06:55.252203"
+  },
+  {
+    "source": "telegram",
+    "channel": "geopolitics_prime",
+    "channel_title": "Geopolitics Prime",
+    "full_text": "💀 **US left weapons for al-Qaeda and ISIS to take – former US official**\n\nThe failure to secure weapons caches in Libya and Iraq led to the spread of American arms to extremist groups worldwide, former chief of staff to Colin Powell, Lawrence Wilkerson, says.\n\n💬 \"We lied about Vietnam, Iraq, Afghanistan, Somalia, and Libya. We left weapons in Libya and Iraq unsecured, arming terrorist groups like al-Qaeda and ISIS.\"\n\n👍** **[**Boost us**](https://t.me/boost/geopolitics_prime)** | **[**Chat**](https://t.me/+tltgWD-GUqw0OTAy)** | ****@geopolitics_prime**",
+    "headline": "💀 **US left weapons for al-Qaeda and ISIS to take – former US official**",
+    "has_media": true,
+    "url": "https://t.me/geopolitics_prime/68930",
+    "posted_at": "2026-04-28T11:17:23+00:00",
+    "fetched_at": "2026-04-28T16:06:55.252267"
+  },
+  {
+    "source": "telegram",
+    "channel": "geopolitics_prime",
+    "channel_title": "Geopolitics Prime",
+    "full_text": "**🚨****🔮****🇺🇸**** US Marines under digital control: How Palantir seized the Corps without a tender**\n\nWhile rivals fought over tenders, Palantir quietly wired itself into the tactical backbone of the Marine Corps. The key was not another headquarters analytics tool. It was the highly classified Project Dynamis.\n\n**Project Dynamis: one-click kill authority**\n\nProject Dynamis was formally established on September 10, 2025, by Assistant Commandant Gen. Christopher Mahoney. The initiative is laser-focused on deploying advanced technologies to give Marines an AI-powered decision advantage at the tactical edge.\n\n**Warfighter feedback loop**\n\nCol. Arlon Smith, appointed as project director, framed the goal in blunt terms: the Corps must aggregate, orchestrate, analyze, and share fused data at machine speeds. The program runs alongside the Navy's Project Overmatch to guarantee joint interoperability from day one.\n\n**AI-powered kill chain**\n\nThe Marine Corps finalized its [Maven Smart System](https://t.me/geopolitics_prime/68059) contract on August 15, 2025, and every Marine, including tactical units, now has access to the platform. In 2026, Palantir expanded Maven across all six US armed services, turning a Corps experiment into a joint architecture that binds the entire American war machine to a single private platform.                                            \n\n**ShipOS: Palantir takes the Navy's industrial base**\n\nThe Navy partnered with Palantir to build ShipOS, sinking up to $448 million into a platform that digitizes America's maritime industrial base. At General Dynamics Electric Boat, submarine schedule planning collapsed from 160 hours to under 10 minutes, while Portsmouth Naval Shipyard cut material reviews from weeks to under one hour.\n\n**From subs to fleet**\n\nKeel Holdings, a nuclear navy supplier, will embed Palantir's Foundry and AIP directly into its enterprise systems to speed up submarine production. The message is unmistakable: private-sector AI is now the backbone of US naval shipbuilding.\n\nShipOS gives Palantir direct oversight of nuclear submarine construction schedules by embedding its own teams inside Navy shipyards to \"understand data and identify problems.\" Every bottleneck, every delay, and every production decision now flows through a private platform whose algorithms are a trade secret.\n\n👍** **[**Boost us**](https://t.me/boost/geopolitics_prime)** | **[**Chat**](https://t.me/+tltgWD-GUqw0OTAy)** | ****@geopolitics_prime**",
+    "headline": "**🚨****🔮****🇺🇸**** US Marines under digital control: How Palantir seized the Corps without a tender**",
+    "has_media": true,
+    "url": "https://t.me/geopolitics_prime/68929",
+    "posted_at": "2026-04-28T10:27:21+00:00",
+    "fetched_at": "2026-04-28T16:06:55.252473"
+  },
+  {
+    "source": "telegram",
+    "channel": "geopolitics_prime",
+    "channel_title": "Geopolitics Prime",
+    "full_text": "🚨🟠 **Hormuz crisis: Artificially whipped up to serve the interests of US big business?\n**\nCommentators like Tucker Carlson have characterized the Iran crisis as a war at Israel’s behest, and while that’s true, Tel Aviv isn’t the only one looking to extract its pound of flesh from the conflict.\n\nIn recent Senate testimony by the chief of US Indo-Pacific Command, Iowa Senator Joni Ernst inadvertently let the cat out of the bag on America’s global energy strategy: using the Hormuz crisis to undermine the energy security of allies in Asia to force them to buy American oil and gas.\n\n💬 “President Trump’s national security strategy rightly treats American energy dominance as a strategic asset. It’s not just an economic one,” she stressed.\n\nINDOPACOM chief Paparo concurred. “I affirm the ability of the United States increasingly to be a net energy provider also in the Indo-Pacific to escape the vulnerability of those key chokepoints,” he said.\n\nGeopolitical analyst Brian Berletic found the exchange fascinating, saying that Hormuz mirrors US efforts to monopolize LNG exports to Europe in the wake of the Ukraine crisis four years ago.\n\n🔊 “Yes – it is that simple – corporations run the US and US policy is driven by these corporations and their interests. Senators, representatives, presidents, the media ALL simply repeat/reflect/respond to these interests,” he tweeted.\n\n💬 “If you listen to these hearings often – you will see how directly linked senators are to the special interests in their states or the special interests controlling the special committees they are part of in Washington. This is who actually runs the US and how – ignore the political circus performed in daily headlines,” Berletic urged.\n\n👉 Ernst, incidentally, has raked in millions in campaign donations from Big Oil-linked PACs through her career. Her state is the US’s largest producer of ethanol -whose exports are projected to reach $4.7B in 2026. Major US markets? Japan, South Korea, India and the Philippines…\n\n👍** **[**Boost us**](https://t.me/boost/geopolitics_prime)** | **[**Chat**](https://t.me/+tltgWD-GUqw0OTAy)** | ****@geopolitics_prime**",
+    "headline": "🚨🟠 **Hormuz crisis: Artificially whipped up to serve the interests of US big business?",
+    "has_media": true,
+    "url": "https://t.me/geopolitics_prime/68928",
+    "posted_at": "2026-04-28T09:40:59+00:00",
+    "fetched_at": "2026-04-28T16:06:55.252649"
+  },
   {
-    "source": "reddit",
-    "category": "Reddit",
-    "subreddit": "investing",
-    "outlet": "r/investing",
-    "title": "Should I transfer cash from one brokerage to another?",
-    "thumbnail": null,
-    "url": "https://reddit.com/r/investing/comments/1sx55bi/should_i_transfer_cash_from_one_brokerage_to/",
-    "published": "Mon, 27 Apr 2026 14:21:20 +0000",
-    "importance": 14,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-04-28T15:17:29.721689"
+    "source": "telegram",
+    "channel": "geopolitics_prime",
+    "channel_title": "Geopolitics Prime",
+    "full_text": "🚨👹 **‘He could only have gotten that idea from Netanyahu’\n**\nFormer CIA analyst John Kiriakou explains where Trump's Iran delusion really came from — and why a country of 93 million won't collapse from a few rockets.\n\n👍** **[**Boost us**](https://t.me/boost/geopolitics_prime)** | **[**Chat**](https://t.me/+tltgWD-GUqw0OTAy)** | ****@geopolitics_prime**",
+    "headline": "🚨👹 **‘He could only have gotten that idea from Netanyahu’",
+    "has_media": true,
+    "url": "https://t.me/geopolitics_prime/68927",
+    "posted_at": "2026-04-28T08:56:01+00:00",
+    "fetched_at": "2026-04-28T16:06:55.252697"
+  },
+  {
+    "source": "telegram",
+    "channel": "geopolitics_prime",
+    "channel_title": "Geopolitics Prime",
+    "full_text": "🚨🌐 **Forget privacy: Even Google is ringing alarm bells about the EU’s spying plan**\n\nUnder proposed measures in Article 6(11) of the Digital Markets Act (DMA), the European Commission wants to force Google to transmit the daily search behavior of hundreds of millions of Europeans to multiple third parties via a daily API feed.\n\nBrussels promises \"anonymization,\" but reality shatters that narrative:\n\n🔴 Studies have repeatedly shown that search queries alone are enough to identify a user—even after names are removed. IP addresses, unique phrases, and interest topics combine to form a \"digital fingerprint.\"\n\n🔴 During the US vs Google proceedings, the court recognized that when Google tried to comply with DMA anonymization requirements, filters excluded approximately 99% of all queries. In other words, for data to be truly safe, it loses its value to competitors\n\n🔴 The European Commission, however, seems willing to sacrifice privacy for competition\n\nThe biggest paradox: even Google – a company not exactly known for putting privacy first – is fighting this:\n\n🔴 Claire Kelly, Google's senior legal counsel, stated  that creating a \"daily API feed\" for multiple third parties – including startups and AI bots – multiplies the points where a breach can occur\n\n🔴 Google argues that the EU has gone far beyond the DMA's original mandate, labelling it \"data expropriation\"\n\nThe EU appears to be prioritizing business competition over the privacy and security of hundreds of millions of people. Consider what that means: everything you type, every link you pause over, every click and scroll, your location, and a range of sensitive data – all of it could be fed daily into the hands of companies you have never heard of.\n\n😶Are we really that far from a digital gulag?\n\n👍** **[**Boost us**](https://t.me/boost/geopolitics_prime)** | **[**Chat**](https://t.me/+tltgWD-GUqw0OTAy)** | ****@geopolitics_prime**",
+    "headline": "🚨🌐 **Forget privacy: Even Google is ringing alarm bells about the EU’s spying plan**",
+    "has_media": true,
+    "url": "https://t.me/geopolitics_prime/68926",
+    "posted_at": "2026-04-28T08:15:28+00:00",
+    "fetched_at": "2026-04-28T16:06:55.252859"
+  },
+  {
+    "source": "telegram",
+    "channel": "geopolitics_prime",
+    "channel_title": "Geopolitics Prime",
+    "full_text": "**⚠️****🇮🇷**** Gamechanger: How charging Hormuz toll in rials could revitalize Iran’s sanctions-hit economy**\n\nIranian parliament National Security & Foreign Policy Committee chairman Ebrahim Azizi says an 11-point motion is in the works on the introduction of a new system of governance in the Strait of Hormuz. \nIt includes:\n\n🔴 a total ban on passage for Israeli-owned or linked ships\n\n🔴 restrictions on vessels linked to ‘hostile countries’\n\n🔴 compensation via tolls for countries that have inflicted economic damage on Iran through sanctions or asset freezes\n\n🔴and perhaps most importantly, that proceeds from tolls be paid in rials\n\nWhat would a rial-based toll system provide Iran?\n\n🔴 a massive new revenue stream – with the rial amount calculated using official or semi-official exchange rates to maximize Iran’s windfall (potentially up to $10-15B – a ~25-35% bump on top of Iran’s oil export earnings, which hit ~$43B in 2025)\n\n🔴 injecting liquidity and creating a new source of structural demand for Iran’s currency, hard hit by decades of sanctions and US efforts to collapse the rial and trigger bank runs [(something Trump’s Treasury chief has openly admitted to doing)](https://t.me/geopolitics_prime/64231)\n\n🔴 bypassing sanctions and easing access to international finance, with partners like China and India prime candidates for Iranian accounts in their jurisdictions to facilitate payment\n\n🔴 creating leverage, from toll exemptions to discounts for friendly countries on commercial or even political or geostrategic grounds\n\nThe proposed rial-for-oil system is not unlike Russia’s 2022 ruble-for-gas scheme, which quickly returned stability to the ruble exchange rate, gave Russia a way around sanctions, and reenforced the ruble’s status as an internationally respected currency.\n\nFor the rial, hit much harder and longer, the payoff could be even more profound.\n\n👍** **[**Boost us**](https://t.me/boost/geopolitics_prime)** | **[**Chat**](https://t.me/+tltgWD-GUqw0OTAy)** | ****@geopolitics_prime**",
+    "headline": "**⚠️****🇮🇷**** Gamechanger: How charging Hormuz toll in rials could revitalize Iran’s sanctions-hit economy**",
+    "has_media": true,
+    "url": "https://t.me/geopolitics_prime/68925",
+    "posted_at": "2026-04-28T07:32:01+00:00",
+    "fetched_at": "2026-04-28T16:06:55.253051"
+  },
+  {
+    "source": "telegram",
+    "channel": "geopolitics_prime",
+    "channel_title": "Geopolitics Prime",
+    "full_text": "**🚨****Israeli settler terror in West Bank horrifies ex-Mossad chief**\n\n💬 \"My mother is a Holocaust survivor, and what I saw here reminded me of the events of the previous century against the Jews,\" Tamir Pardo admitted after a tour of the West Bank.\n\n👍** **[**Boost us**](https://t.me/boost/geopolitics_prime)** | **[**Chat**](https://t.me/+tltgWD-GUqw0OTAy)** | ****@geopolitics_prime**",
+    "headline": "**🚨****Israeli settler terror in West Bank horrifies ex-Mossad chief**",
+    "has_media": true,
+    "url": "https://t.me/geopolitics_prime/68924",
+    "posted_at": "2026-04-28T06:47:01+00:00",
+    "fetched_at": "2026-04-28T16:06:55.253102"
+  },
+  {
+    "source": "telegram",
+    "channel": "geopolitics_prime",
+    "channel_title": "Geopolitics Prime",
+    "full_text": "**🚨****🇺🇸****🇮🇷**** Russia and Iran are the only adults in the room who could end the war – CIA veteran**\n\nThe Israeli-instigated Iran war is threatening to end US President Donald Trump’s political career and his only way out is the goodwill of Iran and Russia, former CIA analyst Ray McGovern says.\n\n💬 \"The Iranians are very clever, so are the Russians,\" McGovern notes. \"They don't want this thing to go sky high again. There are ways that can be negotiated.\"\n\nWhile a potential peace treaty would likely be worse for the US than the previous Iran nuclear deal, Washington could still spin it as a good one—or even better, the CIA veteran says.\n\n👍** **[**Boost us**](https://t.me/boost/geopolitics_prime)** | **[**Chat**](https://t.me/+tltgWD-GUqw0OTAy)** | ****@geopolitics_prime**",
+    "headline": "**🚨****🇺🇸****🇮🇷**** Russia and Iran are the only adults in the room who could end the war – CIA veteran**",
+    "has_media": true,
+    "url": "https://t.me/geopolitics_prime/68923",
+    "posted_at": "2026-04-28T06:05:06+00:00",
+    "fetched_at": "2026-04-28T16:06:55.253188"
+  },
+  {
+    "source": "telegram",
+    "channel": "geopolitics_prime",
+    "channel_title": "Geopolitics Prime",
+    "full_text": "🇵🇰💵 **As Pakistan plays peacemaker, UAE demands immediate repayment of $3.5bn IMF loan**\n\nAs Islamabad tries to mediate regional peace, the UAE has demanded swift repayment of a $3.5 billion IMF loan.\n\nThe demand follows rising tensions between the two nations, fueled by two factors: Abu Dhabi's dismissal of Pakistan's response to Iranian strikes as \"meek,\" and Islamabad's growing cooperation with Riyadh.\n\n👉 Adding further strain, a fault line has deepened between Gulf powerhouses Saudi Arabia and the UAE over their support for opposing factions in Yemen. While this rift has reshaped regional ties, Pakistan's immediate financial pressure stems directly from Abu Dhabi's demand for swift repayment of the $3.5 billion loan—a request that threatens to not only undermine Islamabad's peace endeavors but also deplete 20% of the country's central bank reserves, already strained by domestic instability and external debt obligations.\n\nThis economic pressure on Pakistan comes as the UAE continues to host US military bases on its soil while showing limited engagement in de-escalatory efforts.\n\n👍** **[**Boost us**](https://t.me/boost/geopolitics_prime)** | **[**Chat**](https://t.me/+tltgWD-GUqw0OTAy)** | ****@geopolitics_prime**",
+    "headline": "🇵🇰💵 **As Pakistan plays peacemaker, UAE demands immediate repayment of $3.5bn IMF loan**",
+    "has_media": true,
+    "url": "https://t.me/geopolitics_prime/68922",
+    "posted_at": "2026-04-28T05:17:35+00:00",
+    "fetched_at": "2026-04-28T16:06:55.253298"
+  },
+  {
+    "source": "telegram",
+    "channel": "geopolitics_prime",
+    "channel_title": "Geopolitics Prime",
+    "full_text": "❗️ __For our Italian-speaking audience__ ❗️\n\n🛫  **Tutti i fatti: real news, updated and unfiltered**\n\n🔝 In a world where information changes every minute, [Tutti i fatti](https://t.me/+sgWs6OaQKNA0ODUy) delivers only verified news you can trust.\n\n🌎 __ Follow the most important events in Italy and around the world__: politics, the Ukraine crisis, viral videos, leaders’ reactions, and much more.\n\n✔️ Stay informed at all times — subscribe to[ Tutti i fatti](https://t.me/+sgWs6OaQKNA0ODUy), the channel for reliable news.",
+    "headline": "❗️ __For our Italian-speaking audience__ ❗️",
+    "has_media": true,
+    "url": "https://t.me/geopolitics_prime/68921",
+    "posted_at": "2026-04-28T05:17:24+00:00",
+    "fetched_at": "2026-04-28T16:06:55.253354"
+  },
+  {
+    "source": "telegram",
+    "channel": "geopolitics_prime",
+    "channel_title": "Geopolitics Prime",
+    "full_text": "🤡 **Graham wants Americans to cough up $400M for Trump’s ballroom — NATIONAL SECURITY PRIORITY!**\n\nWar hawk Sen. Lindsey Graham has joined the chorus of Trump loyalists to sell[ the sacred ballroom](https://t.me/geopolitics_prime/68802) to the public. He wants to pour $400 million in taxpayer money into Trump’s latest obsession.\n\n💬 “The ballroom itself will avoid the dilemma of having to leave the White House grounds with future presidents and this president to go downtown in a place that's less secure,” he preached.\n\n🤡 Sure, no US president can function without a $400M ballroom. Has there even been one in greater danger than [__being__ __ballroomless__](https://t.me/geopolitics_prime/67497)?\n\n👍** **[**Boost us**](https://t.me/boost/geopolitics_prime)** | **[**Chat**](https://t.me/+tltgWD-GUqw0OTAy)** | ****@geopolitics_prime**",
+    "headline": "🤡 **Graham wants Americans to cough up $400M for Trump’s ballroom — NATIONAL SECURITY PRIORITY!**",
+    "has_media": true,
+    "url": "https://t.me/geopolitics_prime/68920",
+    "posted_at": "2026-04-28T04:16:01+00:00",
+    "fetched_at": "2026-04-28T16:06:55.253439"
   }
 ]
