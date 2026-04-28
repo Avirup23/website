@@ -758,9 +758,18 @@ nav{
     z-index: 1;
 }
 
+#layer5 {
+    min-height: 140vh;
+    padding: 12vh 3vw;
+}
+
 #layer5 .swiper{
     width: 100%;
-    padding: 40px 80px 60px;
+    padding: 40px 80px 80px;
+}
+
+#layer5 .heading {
+    margin-bottom: 6vh;
 }
 
 #layer5 .swiper-wrapper{
@@ -856,34 +865,142 @@ nav{
     }
 }
 
-/* BLOG SECTION - Placeholder for later */
-#blog{
-    min-height: 100vh;
-    display: grid;
-    justify-content: center;
-    align-items: center;
-    padding: 10vh 5vw;
-    background-color: var(--body-color);
+/* ===== MOTIVATION JAR SECTION ===== */
+#motivation-jar {
     position: relative;
-    z-index: 3;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
 }
 
-#blog .heading{
-    margin-bottom: 5vh;
+.jar-bg-collage {
+    position: absolute;
+    inset: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 4px;
+    z-index: 0;
 }
 
-#blog .blog-placeholder{
+.jar-bg-img {
+    background-size: cover;
+    background-position: center;
+    filter: grayscale(30%);
+    transition: transform 8s ease;
+}
+
+/* Replace these urls with your actual image paths e.g. url('../static/photo1.jpg') */
+.jar-img-1 { background-image: url('https://thumbs.dreamstime.com/b/peaceful-nature-morning-scenery-mist-autumn-background-summer-twilight-countryside-morning-spring-peaceful-nature-morning-scenery-168428722.jpg'); }
+.jar-img-2 { background-image: url('https://assets.vogue.in/photos/5d511b816bda97000860e661/master/w_1600,c_limit/shawshank-redemption-tim-robbins-andy-dufresne-rain-scene.jpg'); }
+.jar-img-3 { background-image: url('https://media.licdn.com/dms/image/v2/D4D12AQE78xtXCJbrcg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1722659619292?e=2147483647&v=beta&t=Kp_9_Y81AxG4QUp750DDNcfuNhoJiy3H1u961LLtnFg'); }
+.jar-img-4 { background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTft41pXfSxl4wcVpoWqJGu6p8SRGovk3iSZQ&s'); }
+
+#motivation-jar:hover .jar-bg-img {
+    transform: scale(1.04);
+}
+
+.jar-dark-overlay {
+    position: absolute;
+    inset: 0;
+    background:
+        radial-gradient(ellipse at center, rgba(0,0,0,0.55) 0%, rgba(0,0,0,0.82) 100%);
+    z-index: 1;
+}
+
+/* Content */
+.jar-content {
+    position: relative;
+    z-index: 2;
     text-align: center;
-    padding: 5vh;
-    border: 2px dashed var(--first-color-alt);
-    border-radius: 20px;
-    background-color: var(--container-color);
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.2rem;
 }
 
-#blog .blog-placeholder p{
-    font-size: var(--h2-font-size);
-    color: var(--text-color);
+.jar-eyebrow {
+    font-size: 0.75rem;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: #f0a04b;
+    opacity: 0.85;
+}
+
+.jar-title {
+    font-size: clamp(3rem, 8vw, 6.5rem);
+    font-weight: 700;
+    color: #fff;
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+}
+
+.jar-title em {
     font-style: italic;
+    color: #f0a04b;
+}
+
+.jar-desc {
+    max-width: 400px;
+    color: rgba(255,255,255,0.55);
+    font-size: 1rem;
+    line-height: 1.75;
+}
+
+/* Enter Button */
+.jar-enter-btn {
+    position: relative;
+    margin-top: 1.5rem;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.btn-text {
+    position: relative;
+    z-index: 2;
+    color: #fff;
+    font-size: 0.85rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    background: rgba(240,160,75,0.15);
+    border: 1.5px solid rgba(240,160,75,0.7);
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.3s ease, border-color 0.3s ease;
+}
+
+.jar-enter-btn:hover .btn-text {
+    background: rgba(240,160,75,0.3);
+    border-color: #f0a04b;
+}
+
+.btn-ring {
+    position: absolute;
+    border-radius: 50%;
+    border: 1px solid rgba(240,160,75,0.3);
+    animation: rippleRing 2.4s ease-out infinite;
+    pointer-events: none;
+}
+
+.btn-ring   { width: 110px; height: 110px; }
+.btn-ring-2 { width: 135px; height: 135px; animation-delay: 0.9s; }
+
+@keyframes rippleRing {
+    0%   { opacity: 0.6; transform: scale(0.9); }
+    100% { opacity: 0;   transform: scale(1.15); }
 }
 
 /* responsiveness for group 2 */
