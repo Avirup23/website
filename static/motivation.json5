@@ -1,0 +1,101 @@
+// Documentation for motivation.json5
+// This JSON5 file represents a personal motivation journal with a structured format.
+// It includes a title, subtitle, and an array of chapters, each representing a year.
+// 
+// Root object structure:
+// - title: string - The main title of the journal.
+// - subtitle: string - A descriptive subtitle.
+// - chapters: array of objects - List of chapters, each detailing a year's entries.
+// 
+// Chapter object structure:
+// - year: string - The year associated with the chapter (e.g., "2025").
+// - label: string - A thematic label for the year.
+// - entries: array of objects - List of individual journal entries for that year.
+// 
+// Entry object structure:
+// - date: string - The date of the entry (e.g., "Nov 2025").
+// - mood: string - The emotional state or mood at the time.
+// - title: string - The title of the entry.
+// - body: string - The main content or body text of the entry.
+// - quote: string or null - An optional inspirational quote.
+// - tags: array of strings - List of hashtags or tags for categorization.
+// - media: object - Optional media attachment with the following properties:
+//   - type: string - The media type (e.g., "image" or "youtube").
+//   - src: string - For images, the URL source.
+//   - id: string - For YouTube videos, the video ID.
+// 
+// Notes:
+// - All strings can contain multiline text.
+// - The media object may have additional properties based on type, but only 'src' for images and 'id' for YouTube are shown in examples.
+// - This structure allows for personal reflection and growth tracking.
+
+{
+  "title": "My Journey",
+  "subtitle": "A living record of growth, lessons, and moments that shaped who I am.",
+
+  "chapters": [
+    {
+      "year": "2025",
+      "label": "Clarity over comfort",
+      "entries": [
+        {
+          "date": "Nov 2025",
+          "mood": "Breakthrough",
+          "title": "The morning I stopped hitting snooze",
+          "body": "Something shifted. I'd read about discipline before, talked about it, even journaled about it — but this particular Tuesday I just... got up. No negotiation. That single act, repeated for sixty days, rewired something deep.\n\nThe secret wasn't motivation. It was removing the decision entirely.",
+          "quote": "You don't rise to the level of your goals — you fall to the level of your systems.",
+          "tags": ["#habits", "#discipline", "#systems"],
+          "media": { "type": "image", "src": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80" }
+        },
+        {
+          "date": "Aug 2025",
+          "mood": "Hard lesson",
+          "title": "The project that failed publicly",
+          "body": "I launched something I'd spent four months on. Three people signed up. For two weeks I was embarrassed.\n\nThen I sat with what I actually learned: distribution matters more than product, ego blocks feedback, and failing fast is a gift I gave myself.",
+          "quote": null,
+          "tags": ["#failure", "#growth", "#shipping"],
+          "media": { "type": "youtube", "id": "mE_PCK0oFyo" }
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "label": "The rebuilding year",
+      "entries": [
+        {
+          "date": "Dec 2024",
+          "mood": "Reflection",
+          "title": "A year-end letter to myself",
+          "body": "Dear past-me: you were more scared than you admitted. That's okay. Fear isn't the enemy — paralysis is.\n\nYou read 22 books. You had hard conversations you'd been avoiding for years. You finally ran that 10k. None of it felt like enough in the moment. Looking back, it was everything.",
+          "quote": "The gap between who you are and who you want to be is closed by action, not aspiration.",
+          "tags": ["#yearreview", "#gratitude", "#running"],
+          "media": { "type": "image", "src": "https://images.unsplash.com/photo-1512036666432-2181c1f26420?w=800&q=80" }
+        },
+        {
+          "date": "Apr 2024",
+          "mood": "Turning point",
+          "title": "When I stopped multitasking",
+          "body": "I ran an experiment: one task, one hour, phone in another room. The quality of my output in that first session was better than anything I'd done in weeks of 'productive' chaos.\n\nThe cost of context-switching is invisible until you remove it.",
+          "quote": null,
+          "tags": ["#focus", "#deepwork", "#productivity"],
+          "media": null
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "label": "First principles",
+      "entries": [
+        {
+          "date": "Jun 2023",
+          "mood": "Foundation",
+          "title": "Why I started this journal",
+          "body": "I realized I was consuming too much and reflecting too little. Podcasts, newsletters, Twitter threads — all input, no integration. Writing forces me to actually think.\n\nThis is that beginning. Messy, uncertain, mine.",
+          "quote": "To write is to be forced to think.",
+          "tags": ["#writing", "#journaling", "#start"],
+          "media": { "type": "image", "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&q=80" }
+        }
+      ]
+    }
+  ]
+}

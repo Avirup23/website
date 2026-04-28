@@ -893,9 +893,9 @@ nav{
 }
 
 /* Replace these urls with your actual image paths e.g. url('../static/photo1.jpg') */
-.jar-img-1 { background-image: url('https://thumbs.dreamstime.com/b/peaceful-nature-morning-scenery-mist-autumn-background-summer-twilight-countryside-morning-spring-peaceful-nature-morning-scenery-168428722.jpg'); }
+.jar-img-3 { background-image: url('https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/219/1640219-i-0ddf00e2e915'); }
 .jar-img-2 { background-image: url('https://assets.vogue.in/photos/5d511b816bda97000860e661/master/w_1600,c_limit/shawshank-redemption-tim-robbins-andy-dufresne-rain-scene.jpg'); }
-.jar-img-3 { background-image: url('https://media.licdn.com/dms/image/v2/D4D12AQE78xtXCJbrcg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1722659619292?e=2147483647&v=beta&t=Kp_9_Y81AxG4QUp750DDNcfuNhoJiy3H1u961LLtnFg'); }
+.jar-img-1 { background-image: url('https://media.licdn.com/dms/image/v2/D4D12AQE78xtXCJbrcg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1722659619292?e=2147483647&v=beta&t=Kp_9_Y81AxG4QUp750DDNcfuNhoJiy3H1u961LLtnFg'); }
 .jar-img-4 { background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTft41pXfSxl4wcVpoWqJGu6p8SRGovk3iSZQ&s'); }
 
 #motivation-jar:hover .jar-bg-img {
@@ -923,30 +923,30 @@ nav{
 }
 
 .jar-eyebrow {
-    font-size: 0.75rem;
+    font-size: var(--h3-font-size);
     letter-spacing: 0.25em;
     text-transform: uppercase;
-    color: #f0a04b;
+    color: var(--first-color);
     opacity: 0.85;
 }
 
 .jar-title {
-    font-size: clamp(3rem, 8vw, 6.5rem);
+    font-size: var(--biggest-font-size);
     font-weight: 700;
-    color: #fff;
+    color: var(--title-color);
     line-height: 1.05;
     letter-spacing: -0.02em;
 }
 
 .jar-title em {
     font-style: italic;
-    color: #f0a04b;
+    color: var(--first-color);
 }
 
 .jar-desc {
     max-width: 400px;
-    color: rgba(255,255,255,0.55);
-    font-size: 1rem;
+    color: var(--text-color);
+    font-size: var(--h3-font-size);
     line-height: 1.75;
 }
 
@@ -967,12 +967,12 @@ nav{
 .btn-text {
     position: relative;
     z-index: 2;
-    color: #fff;
-    font-size: 0.85rem;
+    color: var(--title-color);
+    font-size: var(--h3-font-size);
     letter-spacing: 0.15em;
     text-transform: uppercase;
-    background: rgba(240,160,75,0.15);
-    border: 1.5px solid rgba(240,160,75,0.7);
+    background: color-mix(in hsl, var(--first-color) 15%, transparent);
+    border: 1.5px solid color-mix(in hsl, var(--first-color) 70%, transparent);
     border-radius: 50%;
     width: 90px;
     height: 90px;
@@ -983,8 +983,8 @@ nav{
 }
 
 .jar-enter-btn:hover .btn-text {
-    background: rgba(240,160,75,0.3);
-    border-color: #f0a04b;
+    background: color-mix(in hsl, var(--first-color) 30%, transparent);
+    border-color: var(--first-color);
 }
 
 .btn-ring {
