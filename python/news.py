@@ -231,12 +231,15 @@ def fetch_rss() -> list[dict]:
 
 def fetch_reddit() -> list[dict]:
     items = []
+    skipped_old = 0
     for rss_url in REDDIT_FEEDS:
         try:
             feed = feedparser.parse(rss_url)  # parse .rss directly
             for e in feed.entries[:25]:
                 published = e.get("published", "")
-                if is_too_old(published): continue
+                if is_too_old(published):
+                    skipped_old += 1
+                    continue
                 title = e.get("title", "")
                 s = score(title, published)
                 subreddit = rss_url.split("/r/")[1].replace(".rss", "")
@@ -254,6 +257,7 @@ def fetch_reddit() -> list[dict]:
                 })
         except Exception as ex:
             print(f"  ❌ Reddit {rss_url}: {ex}")
+    print(f"  ✅ Reddit: {len(items)} posts kept, {skipped_old} skipped (>{RSS_MAX_AGE_DAYS}d old)")
     return items
 
 
