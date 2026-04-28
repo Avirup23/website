@@ -230,54 +230,30 @@ def fetch_rss() -> list[dict]:
 
 
 def fetch_reddit() -> list[dict]:
-    import urllib.request
     items = []
-    skipped_old = 0
-
     for rss_url in REDDIT_FEEDS:
-        json_url = rss_url.replace(".rss", ".json") + "?limit=25"
         try:
-            req = urllib.request.Request(
-                json_url,
-                headers={"User-Agent": "Mozilla/5.0 (compatible; NewsBot/1.0)"}
-            )
-            with urllib.request.urlopen(req, timeout=20) as resp:
-                data = json.loads(resp.read())
-
-            subreddit = rss_url.split("/r/")[1].replace(".rss", "")
-            for child in data["data"]["children"]:
-                post = child["data"]
-
-                published = datetime.utcfromtimestamp(
-                    post["created_utc"]
-                ).strftime("%a, %d %b %Y %H:%M:%S +0000")
-
-                # --- FILTER OLD POSTS ---
-                if is_too_old(published):
-                    skipped_old += 1
-                    continue
-
-                title = post.get("title", "")
+            feed = feedparser.parse(rss_url)  # parse .rss directly
+            for e in feed.entries[:25]:
+                published = e.get("published", "")
+                if is_too_old(published): continue
+                title = e.get("title", "")
                 s = score(title, published)
-
+                subreddit = rss_url.split("/r/")[1].replace(".rss", "")
                 items.append({
-                    "source":          "reddit",
-                    "category":        "Reddit",
-                    "subreddit":       subreddit,
-                    "outlet":          f"r/{subreddit}",
-                    "title":           title,
-                    "thumbnail":       post.get("thumbnail") if post.get("thumbnail", "").startswith("http") else None,
-                    "url":             f"https://reddit.com{post.get('permalink', '')}",
-                    "published":       published,
-                    "importance":      s,
+                    "source": "reddit",
+                    "category": "Reddit",
+                    "subreddit": subreddit,
+                    "outlet": f"r/{subreddit}",
+                    "title": title,
+                    "url": e.get("link", ""),
+                    "published": published,
+                    "importance": s,
                     "importanceLabel": label(s),
-                    "fetched_at":      datetime.utcnow().isoformat(),
+                    "fetched_at": datetime.utcnow().isoformat(),
                 })
-
         except Exception as ex:
             print(f"  ❌ Reddit {rss_url}: {ex}")
-
-    print(f"  ✅ Reddit: {len(items)} posts kept, {skipped_old} skipped (>{RSS_MAX_AGE_DAYS}d old)")
     return items
 
 
