@@ -7,9 +7,6 @@ fetch('../static/motivation.json5')
   })
   .catch(err => console.error('Failed to load journal data:', err));
 
-document.getElementById('site-title').textContent = DATA.title;
-document.getElementById('site-subtitle').textContent = DATA.subtitle;
-
 function renderPage(DATA) {
   document.getElementById('site-title').textContent = DATA.title;
   document.getElementById('site-subtitle').textContent = DATA.subtitle;
