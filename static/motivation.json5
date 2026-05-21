@@ -1,17 +1,17 @@
 // Documentation for motivation.json5
 // This JSON5 file represents a personal motivation journal with a structured format.
 // It includes a title, subtitle, and an array of chapters, each representing a year.
-// 
+//
 // Root object structure:
 // - title: string - The main title of the journal.
 // - subtitle: string - A descriptive subtitle.
 // - chapters: array of objects - List of chapters, each detailing a year's entries.
-// 
+//
 // Chapter object structure:
 // - year: string - The year associated with the chapter (e.g., "2025").
 // - label: string - A thematic label for the year.
 // - entries: array of objects - List of individual journal entries for that year.
-// 
+//
 // Entry object structure:
 // - date: string - The date of the entry (e.g., "Nov 2025").
 // - mood: string - The emotional state or mood at the time.
@@ -23,16 +23,15 @@
 //   - type: string - The media type (e.g., "image" or "youtube").
 //   - src: string - For images, the URL source.
 //   - id: string - For YouTube videos, the video ID.
-// 
+//
 // Notes:
 // - All strings can contain multiline text.
-// - The media object may have additional properties based on type, but only 'src' for images and 'id' for YouTube are shown in examples.
+// - The media object may have additional properties based on type.
 // - This structure allows for personal reflection and growth tracking.
 
 {
   "title": "Motivation Jar",
   "subtitle": "A living record of growth, lessons, and moments that shapes who I am.",
-
   "chapters": [
     {
       "year": "2026",
@@ -41,11 +40,18 @@
         {
           "date": "Mar 2026",
           "mood": "Determination",
-          "title": "",
+          "title": "The lion",
           "body": "What I most liked about Dhurandhar 1 and 2 was how they promoted the idea of being determined and patient. The potraidal of protagonist's journey was awe-inspiring. His character symbolizes that you don't need to always speak in a setting, you have to observe it first and act accordingly. The movie was a reminder that success is not always about speed, but about consistency and resilience.",
           "quote": "",
-          "tags": ["#determination", "#patience", "#resilience"],
-          "media": { "type": "image", "src": "https://images.ottplay.com/images/big/dhurandhar-the-revenge-1770731034.jpeg?impolicy=ottplay-202501_high&width=600" }
+          "tags": [
+            "#determination",
+            "#patience",
+            "#resilience"
+          ],
+          "media": {
+            "type": "image",
+            "src": "https://images.ottplay.com/images/big/dhurandhar-the-revenge-1770731034.jpeg?impolicy=ottplay-202501_high&width=600"
+          }
         },
         {
           "date": "April 2026",
@@ -53,8 +59,15 @@
           "title": "Birth of Motivation Jar",
           "body": "Watching tv shows and movies has always been something I enjoy. I started watching some motivational or self- improvement contents also. The consuming was too much, but there was not enough output. What I needed was an accountability system to turn all that inspiration into action. \n So I created Motivation Jar (or shortly MJ, u know the reference) to capture my thoughts, feelings, and lessons learned along the way.",
           "quote": "'Be not afraid of growing slowly; be afraid only of standing still.'",
-          "tags": ["#actions", "#growth", "#learning"],
-          "media": { "type": "image", "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&q=80" }
+          "tags": [
+            "#actions",
+            "#growth",
+            "#learning"
+          ],
+          "media": {
+            "type": "image",
+            "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&q=80"
+          }
         }
       ]
     }
