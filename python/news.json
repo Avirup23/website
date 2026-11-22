@@ -7,129 +7,33 @@
     "thumbnail": null,
     "url": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
     "published": "Sat, 21 Nov 2026 15:31:22 GMT",
-    "importance": 52,
-    "importanceLabel": "High",
-    "fetched_at": "2026-11-21T19:59:47.581511"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "TASS",
-    "title": "Trump warns of US bankruptcy threat over US debt ceiling",
-    "thumbnail": null,
-    "url": "https://tass.com/economy/2222919",
-    "published": "Sat, 21 Nov 2026 21:05:00 +0300",
-    "importance": 52,
-    "importanceLabel": "High",
-    "fetched_at": "2026-11-21T19:59:53.865557"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "TASS",
-    "title": "Russian forces strike energy site, dry cargo ship used by Ukrainian military",
-    "thumbnail": null,
-    "url": "https://tass.com/defense/2222907",
-    "published": "Sat, 21 Nov 2026 18:53:15 +0300",
-    "importance": 52,
-    "importanceLabel": "High",
-    "fetched_at": "2026-11-21T19:59:53.865696"
-  },
-  {
-    "source": "rss",
-    "category": "Middle East",
-    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-    "thumbnail": null,
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
-    "published": "Sat, 21 Nov 2026 18:42:38 +0000",
-    "importance": 52,
-    "importanceLabel": "High",
-    "fetched_at": "2026-11-21T19:59:57.867091"
-  },
-  {
-    "source": "rss",
-    "category": "Middle East",
-    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "India’s opposition stages protests against Meta over account removals",
-    "thumbnail": null,
-    "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
-    "published": "Sat, 21 Nov 2026 16:14:01 +0000",
-    "importance": 52,
-    "importanceLabel": "High",
-    "fetched_at": "2026-11-21T19:59:57.867330"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "International homepage",
-    "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
-    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F836b9904-92c4-467e-bf51-d1e08e1b4fbd.png?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
-    "published": "Fri, 20 Nov 2026 21:52:25 GMT",
-    "importance": 51,
-    "importanceLabel": "High",
-    "fetched_at": "2026-11-21T19:59:49.681045"
+    "importance": 44,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-11-22T07:54:20.854279"
   },
   {
     "source": "rss",
     "category": "Indian Media",
     "outlet": "mint - markets",
-    "title": "Nvidia vs Anthropic shares: AI chip stock tanks 14% while Claude-maker falls 8.5% - See who wins in earnings, valuation?",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/Nvidia_vs_Anthropic_Shares_Downward_Comparison_179_1795240733746_ZAXx_1795240733898_ttgy_63b4c830-5df5-4238-b0e8-55be925cd1a2_NeJk.png",
-    "url": "https://www.livemint.com/market/stock-market-news/nvidia-vs-anthropic-shares-ai-chip-stock-tanks-14-while-claude-maker-falls-8-5-see-who-wins-in-earnings-valuation-11795238170165.html",
-    "published": "Sat, 21 Nov 2026 11:41:37 +0530",
-    "importance": 51,
-    "importanceLabel": "High",
-    "fetched_at": "2026-11-21T19:59:50.865109"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "Dividend jackpot in chemicals: Indo Borax, GOCL and Bayer CropScience offer yields of up to 10% | Check details",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/Dividend_Jackpot_in_Chemicals_1795277503751_28hI_1795277510766_2iaS_b4582047-f782-4783-b3ce-a65398f597c3_NSMj.png",
-    "url": "https://www.livemint.com/market/stock-market-news/dividend-jackpot-in-chemicals-indo-borax-gocl-and-bayer-cropscience-offer-yields-of-up-to-10-check-details-11795277367660.html",
-    "published": "Sat, 21 Nov 2026 21:43:09 +0530",
+    "title": "What is future of gold rates? Price crash continues as AI selloff, Fed rate-hike concerns weigh on investors' sentiment",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/22/1600x900/logo/gold_price_outlook_1795330465931_Eekr_1795330466027_QXIY_1d9395e8-fea4-4fcb-a503-c1c3f88ef775_xz7Z.png",
+    "url": "https://www.livemint.com/market/commodities/what-is-future-of-gold-rates-price-crash-continues-as-ai-selloff-fed-rate-hike-concerns-weigh-on-investors-sentiment-11795325490076.html",
+    "published": "Sun, 22 Nov 2026 12:24:55 +0530",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:50.864750"
-  },
-  {
-    "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "Bitcoin price crash: ​Falls to lowest level in two years - What’s behind plunge of world’s largest cryptocurrency",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/btc_1795270873467_uKdd_1795270891835_AHxP_dafcf061-f206-4e1e-83af-16bd39b9f2f6_FN4l.jpg",
-    "url": "https://www.livemint.com/market/cryptocurrency/bitcoin-price-crash-falls-to-lowest-level-in-two-years-what-s-behind-plunge-of-world-s-largest-cryptocurrency-11795267687216.html",
-    "published": "Sat, 21 Nov 2026 20:16:56 +0530",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:50.864827"
-  },
-  {
-    "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "News - South China Morning Post",
-    "title": "Hong Kong pledges extra US$20m to AIIB special fund as bank sets up city office",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/c150cf39-4ff2-487b-b0e3-2405b140ba6d_b8b5d67d.jpg?itok=lIcgsBnY&v=1795273095",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375343/hong-kong-pledges-extra-us20m-aiib-special-fund-bank-sets-city-office",
-    "published": "Sat, 21 Nov 2026 15:01:14 +0000",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:51.489523"
+    "fetched_at": "2026-11-22T07:54:23.961615"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "TASS",
-    "title": "Reopening Strait of Hormuz off table until Iran’s demands are met — foreign minister",
+    "title": "US economist Sachs: ‘It’s regrettable’ that South Africa not invited to G20 Summit",
     "thumbnail": null,
-    "url": "https://tass.com/world/2222921",
-    "published": "Sat, 21 Nov 2026 21:06:20 +0300",
+    "url": "https://tass.com/world/2222997",
+    "published": "Sun, 22 Nov 2026 10:33:49 +0300",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:53.865534"
+    "fetched_at": "2026-11-22T07:54:26.729702"
   },
   {
     "source": "rss",
@@ -141,67 +45,79 @@
     "published": "Sat, 21 Nov 2026 12:57:00 +0300",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:54.100510"
+    "fetched_at": "2026-11-22T07:54:26.882518"
   },
   {
     "source": "rss",
-    "category": "Russian Media",
-    "outlet": "RT World News",
-    "title": "Russia’s Northern Sea Route could ‘revolutionize global trade’ – K.J. Noh (VIDEO)",
-    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b01ac7b203027207d7043c2.png",
-    "url": "https://rt-english.com/news/649191-russia-arctic-route-revolutionize-trade/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "published": "Sat, 21 Nov 2026 14:59:51 +0000",
+    "category": "Middle East",
+    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+    "thumbnail": null,
+    "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+    "published": "Sun, 22 Nov 2026 02:14:18 +0000",
     "importance": 44,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:57.639584"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "RT World News",
-    "title": "Trilateral diplomacy, Russian retribution in Ukraine, AI’s source wars: The stories that shaped the week",
-    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b00c9292030274e9e7e782b.jpg",
-    "url": "https://rt-english.com/news/649169-rt-top-stories-putin-trump-xi-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "published": "Fri, 20 Nov 2026 20:04:47 +0000",
-    "importance": 44,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:57.639907"
+    "fetched_at": "2026-11-22T07:54:31.355229"
   },
   {
     "source": "rss",
     "category": "Chinese Media",
     "outlet": "Nikkei Asia",
-    "title": "Japan sovereign AI project faces $5bn cost surge on chip prices, weak yen",
+    "title": "World Bank's India poverty estimates questioned over scale of gains",
     "thumbnail": null,
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-sovereign-ai-project-faces-5bn-cost-surge-on-chip-prices-weak-yen",
+    "url": "https://asia.nikkei.com/economy/demography/world-bank-s-india-poverty-estimates-questioned-over-scale-of-gains",
     "published": "",
     "importance": 39,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:51.611540"
+    "fetched_at": "2026-11-22T07:54:24.604313"
   },
   {
     "source": "rss",
     "category": "American Media",
-    "outlet": "NYT > World News",
-    "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
-    "thumbnail": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-ukraine-wildlife-01-mfkg/00int-ukraine-wildlife-01-mfkg-mediumSquareAt3X.jpg",
-    "url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
-    "published": "Fri, 20 Nov 2026 23:05:46 +0000",
+    "outlet": "Bloomberg Markets",
+    "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
+    "thumbnail": null,
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
+    "published": "Sun, 22 Nov 2026 00:00:00 GMT",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:47.855937"
+    "fetched_at": "2026-11-22T07:54:20.854141"
   },
   {
     "source": "rss",
-    "category": "European Media",
-    "outlet": "BBC News",
-    "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
-    "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 22:42:47 GMT",
+    "category": "Indian Media",
+    "outlet": "mint - markets",
+    "title": "Best 3 stocks to buy under  ₹100: IDFC First Bank, Jayaswal Neco Industries, Sagility by Sumeet Bagadia | Targets, SL",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/Sumeet_Bagadia_stock_reccommmendations_today_1795278875991_m8SW_1795278876220_Qe12_6b9d4901-6de5-4211-b900-2879c1f6a3d7_kIu6.png",
+    "url": "https://www.livemint.com/market/stock-market-news/best-3-stocks-to-buy-under-rs-100-idfc-first-bank-jayaswal-neco-industries-sagility-by-sumeet-bagadia-targets-sl-11795278599364.html",
+    "published": "Sun, 22 Nov 2026 06:30:13 +0530",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:48.955962"
+    "fetched_at": "2026-11-22T07:54:23.961773"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "mint - markets",
+    "title": "Dividend jackpot in chemicals: Indo Borax, GOCL and Bayer CropScience offer yields of up to 10% | Check details",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/Dividend_Jackpot_in_Chemicals_1795277503751_28hI_1795277510766_2iaS_b4582047-f782-4783-b3ce-a65398f597c3_NSMj.png",
+    "url": "https://www.livemint.com/market/stock-market-news/dividend-jackpot-in-chemicals-indo-borax-gocl-and-bayer-cropscience-offer-yields-of-up-to-10-check-details-11795277367660.html",
+    "published": "Sat, 21 Nov 2026 21:43:09 +0530",
+    "importance": 37,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-11-22T07:54:23.961830"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "mint - markets",
+    "title": "Bitcoin price crash: ​Falls to lowest level in two years - What’s behind plunge of world’s largest cryptocurrency",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/btc_1795270873467_uKdd_1795270891835_AHxP_dafcf061-f206-4e1e-83af-16bd39b9f2f6_FN4l.jpg",
+    "url": "https://www.livemint.com/market/cryptocurrency/bitcoin-price-crash-falls-to-lowest-level-in-two-years-what-s-behind-plunge-of-world-s-largest-cryptocurrency-11795267687216.html",
+    "published": "Sat, 21 Nov 2026 20:16:56 +0530",
+    "importance": 37,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-11-22T07:54:23.961886"
   },
   {
     "source": "rss",
@@ -213,31 +129,31 @@
     "published": "Sat, 21 Nov 2026 15:34:30 +0530",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:50.864959"
+    "fetched_at": "2026-11-22T07:54:23.962018"
   },
   {
     "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "Patanjali Foods dividend 2026 announcement news: Board to consider 2nd interim dividend on Nov 26 - Check history, yield",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/Patanjali_Foods_Dividend_Decision_1795251655894_8LD8_1795251662377_LGkO_113d48e2-da61-40df-8f23-379a24857da1_ACbi.png",
-    "url": "https://www.livemint.com/market/stock-market-news/patanjali-foods-dividend-2026-announcement-news-board-to-consider-2nd-interim-dividend-on-nov-26-check-history-yield-11795248708675.html",
-    "published": "Sat, 21 Nov 2026 14:31:26 +0530",
+    "category": "Chinese Media",
+    "outlet": "News - South China Morning Post",
+    "title": "How the battle to host UN high seas treaty tests China’s push for global leadership",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/259e2eb8-c15e-4888-abcb-b4f98fd0d149_0f825963.jpg?itok=zLLbyokl&v=1795162499",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3375214/how-battle-host-un-high-seas-treaty-tests-chinas-push-global-leadership",
+    "published": "Sun, 22 Nov 2026 01:00:09 +0000",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:50.865009"
+    "fetched_at": "2026-11-22T07:54:24.501415"
   },
   {
     "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "GREED &amp; fear Report: Jefferies Chris Wood hikes India exposure for 2nd time in 3 weeks, cuts Taiwan| New Allocations",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/Chris_Woods_India_Bet_Rises_1795248310790_MZQp_1795248317178_L19u_8f051110-a49a-49bb-8bb9-37af03a4f063_XtrR.png",
-    "url": "https://www.livemint.com/market/stock-market-news/greed-fear-report-jefferies-chris-wood-hikes-india-exposure-for-2nd-time-in-3-weeks-cuts-taiwan-new-allocations-11795235087351.html",
-    "published": "Sat, 21 Nov 2026 13:39:08 +0530",
+    "category": "Russian Media",
+    "outlet": "TASS",
+    "title": "US learned it cannot win trade or hot war with China — expert",
+    "thumbnail": null,
+    "url": "https://tass.com/world/2222951",
+    "published": "Sun, 22 Nov 2026 00:30:01 +0300",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:50.865035"
+    "fetched_at": "2026-11-22T07:54:26.730312"
   },
   {
     "source": "rss",
@@ -249,163 +165,163 @@
     "published": "Sat, 21 Nov 2026 12:15:19 +0300",
     "importance": 37,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:54.100538"
+    "fetched_at": "2026-11-22T07:54:26.882550"
+  },
+  {
+    "source": "rss",
+    "category": "Russian Media",
+    "outlet": "RT World News",
+    "title": "Russia’s Northern Sea Route could ‘revolutionize global trade’ – K.J. Noh (VIDEO)",
+    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b01ac7b203027207d7043c2.png",
+    "url": "https://rt-english.com/news/649191-russia-arctic-route-revolutionize-trade/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "Sat, 21 Nov 2026 14:59:51 +0000",
+    "importance": 37,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-11-22T07:54:31.188620"
   },
   {
     "source": "rss",
     "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "The 1982 War Still Haunts the Middle East",
-    "thumbnail": null,
-    "url": "https://www.bloomberg.com/news/videos/2026-11-21/the-1982-war-still-haunts-the-middle-east-video",
-    "published": "Sat, 21 Nov 2026 15:19:32 GMT",
+    "outlet": "NYT > World News",
+    "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/08/multimedia/00int-taiwan-comedian-profile-01-qtzc/00int-taiwan-comedian-profile-01-qtzc-mediumSquareAt3X.jpg",
+    "url": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
+    "published": "Sun, 22 Nov 2026 06:58:17 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:47.581554"
+    "fetched_at": "2026-11-22T07:54:21.036281"
   },
   {
     "source": "rss",
     "category": "American Media",
-    "outlet": "Latest Market News Today on Fox Business",
-    "title": "Anthropic IPO turns thousands of tech workers into overnight millionaires, reports say",
-    "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/anthropic-sign-nasdaq-nyc.jpg",
-    "url": "https://www.foxbusiness.com/markets/anthropic-ipo-turns-thousands-tech-workers-overnight-millionaires-reports-say",
-    "published": "Thu, 19 Nov 2026 19:05:39 -0500",
+    "outlet": "NYT > World News",
+    "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-bangladesh-protests-wtk-01-qvpf/22int-bangladesh-protests-wtk-01-qvpf-mediumSquareAt3X.jpg",
+    "url": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
+    "published": "Sun, 22 Nov 2026 03:44:20 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:48.724858"
+    "fetched_at": "2026-11-22T07:54:21.036306"
   },
   {
     "source": "rss",
     "category": "American Media",
-    "outlet": "Latest Market News Today on Fox Business",
-    "title": "Anthropic makes stock market debut: Who stands to gain from the blockbuster IPO?",
-    "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/anthropic-ceo-dario-amodei.jpg",
-    "url": "https://www.foxbusiness.com/markets/anthropic-makes-stock-market-debut-who-could-gain-from-blockbuster-ipo",
-    "published": "Thu, 19 Nov 2026 15:02:37 -0500",
+    "outlet": "NYT > World News",
+    "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X-v2.jpg",
+    "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+    "published": "Sun, 22 Nov 2026 04:28:43 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:48.724883"
+    "fetched_at": "2026-11-22T07:54:21.036334"
   },
   {
     "source": "rss",
     "category": "European Media",
     "outlet": "International homepage",
-    "title": "Alice Huang’s links to the chip underworld",
-    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff6fe93de-200b-4cfe-af71-0a7f3370247b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
-    "published": "Sat, 21 Nov 2026 17:00:10 GMT",
+    "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
+    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fff7558dc-0e1e-4f17-ae04-649c3e1fec33.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1",
+    "published": "Sun, 22 Nov 2026 05:00:06 GMT",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:49.680921"
+    "fetched_at": "2026-11-22T07:54:22.848296"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "Economic Times",
+    "title": "Wall Street asks what can save AI trade after Anthropic wipeout",
+    "thumbnail": null,
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout/articleshow/136067463.cms",
+    "published": "Sun, 22 Nov 2026 10:13:54 +0530",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-11-22T07:54:23.651765"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "Economic Times",
+    "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
+    "thumbnail": null,
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-post-debut-stumble-delivers-reality-check-for-ai-trade/articleshow/136066633.cms",
+    "published": "Sun, 22 Nov 2026 09:00:15 +0530",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-11-22T07:54:23.651802"
   },
   {
     "source": "rss",
     "category": "Indian Media",
     "outlet": "mint - markets",
-    "title": "Max Healthcare, Fortis, Apollo, Aster: Hospital stocks steal show on D-Street with up to 14% rally - Buy now or wait?",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/Hospital_Stocks_Rally_on_D-Street_1795272916658_8ANX_1795272940395_AknN_e682c1fc-40e8-4ed0-9349-c95d3d29739d_itJF.png",
-    "url": "https://www.livemint.com/market/stock-market-news/max-healthcare-fortis-apollo-aster-hospital-stocks-steal-show-on-d-street-with-up-to-14-rally-buy-now-or-wait-11795262811423.html",
-    "published": "Sat, 21 Nov 2026 20:26:47 +0530",
+    "title": "Top 3 stocks to buy: Swiggy, Tata Chemicals, Amber Enterprises by Ganesh Dongre of Anand Rathi | Targets, stop-loss",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/22/1600x900/logo/Ganesh_Dongre_stock_recommendations_today_1795313323282_a9Cy_1795313323405_dnMD_e22b8dc7-08d1-433c-842e-30adf2f49017_Rc22.png",
+    "url": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-swiggy-tata-chemicals-amber-enterprises-by-ganesh-dongre-of-anand-rathi-targets-stoploss-11795312924053.html",
+    "published": "Sun, 22 Nov 2026 10:44:39 +0530",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:50.864794"
+    "fetched_at": "2026-11-22T07:54:23.961652"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "mint - markets",
+    "title": "Penny stock under  ₹10 with strong fundamentals, high book value; do you own this Reliance Group share? Target, SL",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/22/1600x900/logo/Penny_Stock_under_Rs_10_with_high_book_value_1795316571258_wu8X_1795316571377_nOGg_14287839-11f0-41d5-b73e-c53962607fc0_WEFu.png",
+    "url": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-with-strong-fundamentals-high-book-value-do-you-own-this-reliance-group-share-target-sl-11795316117383.html",
+    "published": "Sun, 22 Nov 2026 09:20:25 +0530",
+    "importance": 36,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-11-22T07:54:23.961714"
   },
   {
     "source": "rss",
     "category": "Chinese Media",
     "outlet": "News - South China Morning Post",
-    "title": "Why a slow-paced show about broken friendships is China’s antidote to AI fatigue",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/fa5a62ae-d2df-409d-a35c-d4f1d9e7b5f2_1dae85cf.jpg?itok=yyxXESke&v=1795254528",
-    "url": "https://www.scmp.com/news/china/politics/article/3375328/why-slow-paced-show-about-broken-friendships-chinas-antidote-ai-fatigue",
-    "published": "Sat, 21 Nov 2026 14:00:05 +0000",
+    "title": "A year of grief: Tai Po fire residents on coping with loss and trying to move on",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/0f47539c-11bc-4083-a106-ec46e719809a_27a74fa0.jpg?itok=TlIMyhs2&v=1795274141",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3375345/year-grief-tai-po-fire-residents-coping-loss-and-trying-move",
+    "published": "Sun, 22 Nov 2026 02:30:06 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:51.489574"
+    "fetched_at": "2026-11-22T07:54:24.501290"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "TASS",
-    "title": "Russian embassy slams blocking of GFCN Google account as censorship",
+    "title": "Putin, Trump and Xi laid basis for UN reforms in Shenzhen — expert",
     "thumbnail": null,
-    "url": "https://tass.com/economy/2222933",
-    "published": "Sat, 21 Nov 2026 22:34:38 +0300",
+    "url": "https://tass.com/world/2222979",
+    "published": "Sun, 22 Nov 2026 05:04:00 +0300",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:53.865452"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "TASS",
-    "title": "Two killed by gas explosion in apartment building in Russia’s North Caucasus",
-    "thumbnail": null,
-    "url": "https://tass.com/emergencies/2222899",
-    "published": "Sat, 21 Nov 2026 18:30:53 +0300",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:53.865723"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "TASS",
-    "title": "US F-16 fighter jet damaged by Iranian air defense — Iranian army",
-    "thumbnail": null,
-    "url": "https://tass.com/world/2222897",
-    "published": "Sat, 21 Nov 2026 17:58:02 +0300",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:53.865748"
+    "fetched_at": "2026-11-22T07:54:26.729893"
   },
   {
     "source": "rss",
     "category": "Middle East",
     "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+    "title": "The European revolt may be coming to the UK",
     "thumbnail": null,
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
-    "published": "Sat, 21 Nov 2026 18:05:51 +0000",
+    "url": "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss",
+    "published": "Sun, 22 Nov 2026 06:59:59 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:57.867177"
+    "fetched_at": "2026-11-22T07:54:31.354944"
   },
   {
     "source": "rss",
     "category": "Middle East",
     "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
+    "title": "Bessent confirms he’s living on US military base over Iran fears",
     "thumbnail": null,
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
-    "published": "Sat, 21 Nov 2026 17:54:19 +0000",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+    "published": "Sun, 22 Nov 2026 02:05:50 +0000",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:57.867226"
-  },
-  {
-    "source": "rss",
-    "category": "Middle East",
-    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
-    "thumbnail": null,
-    "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
-    "published": "Sat, 21 Nov 2026 17:20:03 +0000",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:57.867304"
-  },
-  {
-    "source": "rss",
-    "category": "Middle East",
-    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-    "thumbnail": null,
-    "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
-    "published": "Sat, 21 Nov 2026 15:01:18 +0000",
-    "importance": 36,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:57.867443"
+    "fetched_at": "2026-11-22T07:54:31.355258"
   },
   {
     "source": "rss",
@@ -417,31 +333,43 @@
     "published": "Sat, 21 Nov 2026 02:58:00 +0900",
     "importance": 36,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:58.029311"
+    "fetched_at": "2026-11-22T07:54:31.500730"
   },
   {
     "source": "rss",
     "category": "Chinese Media",
     "outlet": "Nikkei Asia",
-    "title": "Asahi pours $85mn into AI cybersecurity upgrades after ransomware attack",
+    "title": "Laos 'least-developed' status shift, Tata meeting, Taiwan local elections",
     "thumbnail": null,
-    "url": "https://asia.nikkei.com/spotlight/cybersecurity/asahi-pours-85mn-into-ai-cybersecurity-upgrades-after-ransomware-attack",
+    "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/laos-least-developed-status-shift-tata-meeting-taiwan-local-elections",
     "published": "",
     "importance": 33,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:51.611524"
+    "fetched_at": "2026-11-22T07:54:24.604283"
   },
   {
     "source": "rss",
     "category": "American Media",
     "outlet": "Bloomberg Markets",
-    "title": "Russia Says Cargo Ship Attacked By Drones in Gulf of Finland",
+    "title": "Russian Cargo Ship Attacked By Drones in Gulf of Finland",
     "thumbnail": null,
     "url": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
     "published": "Sat, 21 Nov 2026 11:44:46 GMT",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:47.581599"
+    "fetched_at": "2026-11-22T07:54:20.854180"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "Bloomberg Markets",
+    "title": "The 1982 War Still Haunts the Middle East",
+    "thumbnail": null,
+    "url": "https://www.bloomberg.com/news/videos/2026-11-21/the-1982-war-still-haunts-the-middle-east-video",
+    "published": "Sat, 21 Nov 2026 15:19:32 GMT",
+    "importance": 31,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-11-22T07:54:20.854327"
   },
   {
     "source": "rss",
@@ -453,7 +381,7 @@
     "published": "Sat, 21 Nov 2026 13:56:40 GMT",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:47.581645"
+    "fetched_at": "2026-11-22T07:54:20.854398"
   },
   {
     "source": "rss",
@@ -465,7 +393,7 @@
     "published": "Sat, 21 Nov 2026 13:43:18 GMT",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:47.581665"
+    "fetched_at": "2026-11-22T07:54:20.854420"
   },
   {
     "source": "rss",
@@ -477,7 +405,7 @@
     "published": "Sat, 21 Nov 2026 13:12:23 GMT",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:47.581708"
+    "fetched_at": "2026-11-22T07:54:20.854464"
   },
   {
     "source": "rss",
@@ -489,103 +417,31 @@
     "published": "Sat, 21 Nov 2026 13:04:30 GMT",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:47.581751"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
-    "thumbnail": null,
-    "url": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
-    "published": "Sat, 21 Nov 2026 13:00:00 GMT",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:47.581783"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "NYT > World News",
-    "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-assess-photo1-hwjg/20int-eu-uk-assess-photo1-hwjg-mediumSquareAt3X.jpg",
-    "url": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
-    "published": "Fri, 20 Nov 2026 20:22:14 +0000",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:47.855915"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "NYT > World News",
-    "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/20/world/europe/20vid-poland-airspace-cover-image/20vid-poland-airspace-cover-image-mediumSquareAt3X.jpg",
-    "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
-    "published": "Fri, 20 Nov 2026 20:31:00 +0000",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:47.855984"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Latest Market News Today on Fox Business",
-    "title": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
-    "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-historic-stock-market-selloff-1.jpg",
-    "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory",
-    "published": "Fri, 20 Nov 2026 20:28:26 -0500",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:48.724827"
+    "fetched_at": "2026-11-22T07:54:20.854509"
   },
   {
     "source": "rss",
     "category": "European Media",
     "outlet": "BBC News",
-    "title": "Trump threatens ban on US firms building AI data centres overseas",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
-    "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 20:54:12 GMT",
+    "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+    "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 22:42:47 GMT",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:48.956034"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "BBC News",
-    "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
-    "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 22:53:24 GMT",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:48.956055"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "BBC News",
-    "title": "California targets Nvidia in China AI chip probe",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
-    "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 19 Nov 2026 23:04:30 GMT",
-    "importance": 31,
-    "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:48.956209"
+    "fetched_at": "2026-11-22T07:54:22.238778"
   },
   {
     "source": "rss",
     "category": "European Media",
     "outlet": "International homepage",
-    "title": "The AI cyber threat is already here",
-    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbec13cf7-7bf7-4acf-8240-7f1ba329d078.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1",
-    "published": "Sat, 21 Nov 2026 05:00:16 GMT",
+    "title": "Alice Huang’s links to the chip underworld",
+    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff6fe93de-200b-4cfe-af71-0a7f3370247b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
+    "published": "Sat, 21 Nov 2026 17:00:10 GMT",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:49.680990"
+    "fetched_at": "2026-11-22T07:54:22.848149"
   },
   {
     "source": "rss",
@@ -597,7 +453,19 @@
     "published": "Sat, 21 Nov 2026 18:00:16 +0530",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:50.515947"
+    "fetched_at": "2026-11-22T07:54:23.651862"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "mint - markets",
+    "title": "Max Healthcare, Fortis, Apollo, Aster: Hospital stocks steal show on D-Street with up to 14% rally - Buy now or wait?",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/Hospital_Stocks_Rally_on_D-Street_1795272916658_8ANX_1795272940395_AknN_e682c1fc-40e8-4ed0-9349-c95d3d29739d_itJF.png",
+    "url": "https://www.livemint.com/market/stock-market-news/max-healthcare-fortis-apollo-aster-hospital-stocks-steal-show-on-d-street-with-up-to-14-rally-buy-now-or-wait-11795262811423.html",
+    "published": "Sat, 21 Nov 2026 20:26:47 +0530",
+    "importance": 31,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-11-22T07:54:23.961857"
   },
   {
     "source": "rss",
@@ -609,7 +477,7 @@
     "published": "Sat, 21 Nov 2026 18:57:12 +0530",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:50.864854"
+    "fetched_at": "2026-11-22T07:54:23.961913"
   },
   {
     "source": "rss",
@@ -621,7 +489,7 @@
     "published": "Sat, 21 Nov 2026 17:00:51 +0530",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:50.864881"
+    "fetched_at": "2026-11-22T07:54:23.961940"
   },
   {
     "source": "rss",
@@ -633,7 +501,7 @@
     "published": "Sat, 21 Nov 2026 16:50:08 +0530",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:50.864909"
+    "fetched_at": "2026-11-22T07:54:23.961967"
   },
   {
     "source": "rss",
@@ -645,55 +513,91 @@
     "published": "Sat, 21 Nov 2026 15:56:10 +0530",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:50.864938"
+    "fetched_at": "2026-11-22T07:54:23.961995"
   },
   {
     "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "Bitcoin crashes to over two-year low below $60,000 level: What do experts expect from crypto markets going ahead?",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/pexels-photo-29822158_1794477105906_9GcX_179447711_1795239323310_JGui_1795239323480_EsmJ_14283afc-2709-4ec0-8ec5-b1997f609c6c_anXQ.jpeg",
-    "url": "https://www.livemint.com/market/cryptocurrency/bitcoin-crashes-to-over-two-year-low-below-60-000-level-what-do-experts-expect-from-crypto-markets-going-ahead-11795234024656.html",
-    "published": "Sat, 21 Nov 2026 11:11:57 +0530",
+    "category": "Russian Media",
+    "outlet": "TASS",
+    "title": "Jeffry Sachs explained logic of Donald Trump’s statements on Taiwan in Shenzhen",
+    "thumbnail": null,
+    "url": "https://tass.com/world/2222973",
+    "published": "Sun, 22 Nov 2026 03:55:01 +0300",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:50.865132"
+    "fetched_at": "2026-11-22T07:54:26.729940"
   },
   {
     "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "News - South China Morning Post",
-    "title": "China unveils space mining road map with a big move on the moon within 4 years",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/e887485c-1c11-4668-896e-926f9b703597_51c3e9e7.jpg?itok=F9E_qMDN&v=1795247985",
-    "url": "https://www.scmp.com/news/china/science/article/3375323/china-unveils-space-mining-road-map-big-move-moon-within-4-years",
-    "published": "Sat, 21 Nov 2026 12:00:06 +0000",
+    "category": "Russian Media",
+    "outlet": "TASS",
+    "title": "Bank of Russia’s instruction on exchange trading in cryptocurrencies comes into force",
+    "thumbnail": null,
+    "url": "https://tass.com/economy/2222969",
+    "published": "Sun, 22 Nov 2026 02:40:00 +0300",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:51.489661"
+    "fetched_at": "2026-11-22T07:54:26.730054"
   },
   {
     "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "News - South China Morning Post",
-    "title": "In India, tainted alcohol leaves 11 dead, over 180 hospitalised",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/b6ae5070-152b-4031-8a59-d09022883f35_c6f4a798.jpg?itok=A5RI2Ynl&v=1795260989",
-    "url": "https://www.scmp.com/news/asia/south-asia/article/3375332/india-tainted-alcohol-leaves-11-dead-over-180-hospitalised",
-    "published": "Sat, 21 Nov 2026 11:36:40 +0000",
+    "category": "Russian Media",
+    "outlet": "TASS",
+    "title": "Slovakia will not participate in new EU loan for Ukraine",
+    "thumbnail": null,
+    "url": "https://tass.com/world/2222967",
+    "published": "Sun, 22 Nov 2026 02:29:56 +0300",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:51.489699"
+    "fetched_at": "2026-11-22T07:54:26.730101"
   },
   {
     "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "News - South China Morning Post",
-    "title": "Sun-dried yoghurt, floor dining: how migration, folding chairs reshaped Chinese food",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/c4475104-c3b7-43c1-ba27-0e17c57970d3_a852a901.jpg?itok=y5dSlT1c&v=1795252740",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3375324/sun-dried-yoghurt-floor-dining-how-migration-folding-chairs-reshaped-chinese-food",
-    "published": "Sat, 21 Nov 2026 10:00:11 +0000",
+    "category": "Russian Media",
+    "outlet": "TASS",
+    "title": "Libya lost over $30.7 mln due to oil pipeline blocking",
+    "thumbnail": null,
+    "url": "https://tass.com/economy/2222963",
+    "published": "Sun, 22 Nov 2026 02:05:45 +0300",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:51.489743"
+    "fetched_at": "2026-11-22T07:54:26.730134"
+  },
+  {
+    "source": "rss",
+    "category": "Russian Media",
+    "outlet": "TASS",
+    "title": "Russia, Georgia agree upon measures to expand trade",
+    "thumbnail": null,
+    "url": "https://tass.com/politics/2222961",
+    "published": "Sun, 22 Nov 2026 01:42:41 +0300",
+    "importance": 31,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-11-22T07:54:26.730163"
+  },
+  {
+    "source": "rss",
+    "category": "Russian Media",
+    "outlet": "TASS",
+    "title": "Russia, Georgia to maintain regular direct dialogue — Russian diplomat",
+    "thumbnail": null,
+    "url": "https://tass.com/politics/2222959",
+    "published": "Sun, 22 Nov 2026 01:23:36 +0300",
+    "importance": 31,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-11-22T07:54:26.730242"
+  },
+  {
+    "source": "rss",
+    "category": "Russian Media",
+    "outlet": "TASS",
+    "title": "Russian-built Bushehr NPP in Iran passed stress test during US strikes — Rosatom CEO",
+    "thumbnail": null,
+    "url": "https://tass.com/economy/2222945",
+    "published": "Sun, 22 Nov 2026 00:00:00 +0300",
+    "importance": 31,
+    "importanceLabel": "Medium",
+    "fetched_at": "2026-11-22T07:54:26.730387"
   },
   {
     "source": "rss",
@@ -705,7 +609,7 @@
     "published": "Sat, 21 Nov 2026 14:50:00 +0300",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:54.100416"
+    "fetched_at": "2026-11-22T07:54:26.882407"
   },
   {
     "source": "rss",
@@ -717,7 +621,7 @@
     "published": "Sat, 21 Nov 2026 14:42:53 +0300",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:54.100450"
+    "fetched_at": "2026-11-22T07:54:26.882445"
   },
   {
     "source": "rss",
@@ -729,7 +633,7 @@
     "published": "Sat, 21 Nov 2026 13:09:59 +0300",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:54.100482"
+    "fetched_at": "2026-11-22T07:54:26.882482"
   },
   {
     "source": "rss",
@@ -741,31 +645,31 @@
     "published": "Fri, 20 Nov 2026 17:20:46 +0300",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:54.100614"
+    "fetched_at": "2026-11-22T07:54:26.882642"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "RT World News",
-    "title": "‘Coincidence?’: NATO called out over silence on Black Sea drone attacks",
-    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b0072d385f54005d71703ae.jpeg",
-    "url": "https://rt-english.com/news/649170-bulgaria-drone-attacks-nato/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "published": "Fri, 20 Nov 2026 22:20:47 +0000",
+    "title": "Almost half of Germans want Ukraine aid cut – poll",
+    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b021c9885f54050b969b14c.jpg",
+    "url": "https://rt-english.com/news/649197-germans-ukraine-aid-cuts/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "Sun, 22 Nov 2026 01:30:15 +0000",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:57.639820"
+    "fetched_at": "2026-11-22T07:54:31.188422"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "RT World News",
-    "title": "Here’s what fakes about the Putin-Xi-Trump summit you were fed by Western propagandists",
-    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b008293203027515d1c8c9a.jpg",
-    "url": "https://rt-english.com/news/649173-shenzhen-summit-ai-fakes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "published": "Fri, 20 Nov 2026 20:28:41 +0000",
+    "title": "Iran claims attack on US Patriot systems in Bahrain",
+    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b02276b203027388c2d1e54.png",
+    "url": "https://rt-english.com/news/649196-iran-bahrain-us-bases/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "Sat, 21 Nov 2026 21:44:26 +0000",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:57.639849"
+    "fetched_at": "2026-11-22T07:54:31.188507"
   },
   {
     "source": "rss",
@@ -777,235 +681,307 @@
     "published": "Sat, 21 Nov 2026 00:35:00 +0900",
     "importance": 31,
     "importanceLabel": "Medium",
-    "fetched_at": "2026-11-21T19:59:58.029363"
+    "fetched_at": "2026-11-22T07:54:31.500786"
   },
   {
     "source": "rss",
     "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
-    "thumbnail": null,
-    "url": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video",
-    "published": "Sat, 21 Nov 2026 17:01:32 GMT",
-    "importance": 28,
+    "outlet": "Latest Market News Today on Fox Business",
+    "title": "Anthropic IPO turns thousands of tech workers into overnight millionaires, reports say",
+    "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/anthropic-sign-nasdaq-nyc.jpg",
+    "url": "https://www.foxbusiness.com/markets/anthropic-ipo-turns-thousands-tech-workers-overnight-millionaires-reports-say",
+    "published": "Thu, 19 Nov 2026 19:05:39 -0500",
+    "importance": 29,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:47.581446"
+    "fetched_at": "2026-11-22T07:54:21.754557"
   },
   {
     "source": "rss",
     "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "Is AI a Bubble? History Offers Some Clues",
-    "thumbnail": null,
-    "url": "https://www.bloomberg.com/news/videos/2026-11-21/is-ai-a-bubble-history-offers-some-clues-video",
-    "published": "Sat, 21 Nov 2026 15:09:32 GMT",
-    "importance": 28,
+    "outlet": "Latest Market News Today on Fox Business",
+    "title": "Anthropic makes stock market debut: Who stands to gain from the blockbuster IPO?",
+    "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/anthropic-ceo-dario-amodei.jpg",
+    "url": "https://www.foxbusiness.com/markets/anthropic-makes-stock-market-debut-who-could-gain-from-blockbuster-ipo",
+    "published": "Thu, 19 Nov 2026 15:02:37 -0500",
+    "importance": 29,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:47.581576"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "NYT > World News",
-    "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-zqtf/21int-cartel-arrest-zqtf-mediumSquareAt3X.jpg",
-    "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
-    "published": "Sat, 21 Nov 2026 18:57:22 +0000",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:47.855723"
+    "fetched_at": "2026-11-22T07:54:21.754585"
   },
   {
     "source": "rss",
     "category": "American Media",
     "outlet": "NYT > World News",
-    "title": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-canada-us-defense-photo1-bhjg/21int-canada-us-defense-photo1-bhjg-mediumSquareAt3X.jpg",
-    "url": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
-    "published": "Sat, 21 Nov 2026 18:53:42 +0000",
+    "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo1-bpwm/22int-cartel-ticktock-photo1-bpwm-mediumSquareAt3X.jpg",
+    "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+    "published": "Sun, 22 Nov 2026 01:56:16 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:47.855799"
+    "fetched_at": "2026-11-22T07:54:21.036546"
   },
   {
     "source": "rss",
     "category": "European Media",
     "outlet": "International homepage",
-    "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
-    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa13a147e-b41e-446b-98ce-5ad0d9cdb430.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
-    "published": "Sat, 21 Nov 2026 17:21:36 GMT",
+    "title": "Napoleon’s warning to Nvidia’s Jensen Huang",
+    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffbc86aaa-e863-491a-a59e-543af29f5f44.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/f4a9e8ac-9ba2-40ac-8d27-8ce2b9639e2a?syn-25a6b1a6=1",
+    "published": "Sun, 22 Nov 2026 05:00:06 GMT",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:49.681109"
+    "fetched_at": "2026-11-22T07:54:22.848183"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "International homepage",
+    "title": "A rocky road to Irish unity",
+    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2fdcfc7c-d733-44ba-8d02-427d7087fa9a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/4d467ab8-00a7-4937-8775-30a42a00131f?syn-25a6b1a6=1",
+    "published": "Sun, 22 Nov 2026 05:00:14 GMT",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:22.848240"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "International homepage",
+    "title": "The ‘austere’ conservative poised to lead Spain with the far right",
+    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F861f7299-5be8-4311-b700-9a34cc3f5d41.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/cd179793-2880-4c4c-8bdd-9924b2eac12a?syn-25a6b1a6=1",
+    "published": "Sun, 22 Nov 2026 05:00:06 GMT",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:22.848271"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "International homepage",
+    "title": "Amazon’s AI resistance: workers ready for battle over data centres",
+    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb40a3ad9-3383-4ac0-9e2b-5b134a994cef.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/d194e93b-8d3c-42eb-85dd-46d58c4f2a80?syn-25a6b1a6=1",
+    "published": "Sun, 22 Nov 2026 05:00:06 GMT",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:22.848320"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "International homepage",
+    "title": "Private equity backers flag fresh concerns about sell-to-yourself deals",
+    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe58683ec-f285-4440-8d10-731731f22e34.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/d299785f-dc83-4850-95b8-e08b9a643f98?syn-25a6b1a6=1",
+    "published": "Sun, 22 Nov 2026 05:00:06 GMT",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:22.848372"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "mint - markets",
+    "title": "31% returns in 2026 so far! This stock is giving 4 shares on every share - you too can get it; check record date",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/22/1600x900/logo/SP_Apparels_Stock_Split_Graphic_1795322544493_waUI_1795322565833_oqlo_09ae935f-d3a3-44fb-b927-c6cf108cb84c_GaNd.png",
+    "url": "https://www.livemint.com/market/stock-market-news/31-return-in-2026-so-far-smallcap-textile-stock-is-giving-4-shares-for-every-1-held-record-date-ahead-do-you-own-11795275604076.html",
+    "published": "Sun, 22 Nov 2026 10:13:16 +0530",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:23.961681"
+  },
+  {
+    "source": "rss",
+    "category": "Indian Media",
+    "outlet": "mint - markets",
+    "title": "Wall Street sell-off: Is the worst over? Goldman Sachs warns of fresh selling wave, flags 3 recovery triggers",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/22/1600x900/logo/goldman_1795318294472_fk60_1795318309760_sPAE_54dd879f-8f81-473d-84c0-ba6d4e03c912_0HMn.png",
+    "url": "https://www.livemint.com/market/stock-market-news/wall-street-sell-off-is-the-worst-over-goldman-sachs-warns-of-fresh-selling-wave-flags-3-recovery-triggers-11795316021375.html",
+    "published": "Sun, 22 Nov 2026 09:03:53 +0530",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:23.961742"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "News - South China Morning Post",
+    "title": "Man arrested after Tsim Sha Tsui crash kills 1 pedestrian, injures 3",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/22/081099cf-70d4-4a41-a4c4-c4ce7e684fdc_f63f0c7a.jpg?itok=RUXDpjaY&v=1795332865",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3375367/hong-kong-manhunt-after-tsim-sha-tsui-hit-and-run-leaves-1-dead-3-injured",
+    "published": "Sun, 22 Nov 2026 07:38:38 +0000",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:24.501047"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "News - South China Morning Post",
+    "title": "Tai Po fire: 1 year on",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/22/6268e7ea-e25a-46cb-a3e5-5d7029b3dc4a_bed41dd1.jpg?itok=nnL1T5s3&v=1795328416",
+    "url": "https://www.scmp.com/news/hong-kong/society/series/3375359/tai-po-fire-1-year",
+    "published": "Sun, 22 Nov 2026 06:22:20 +0000",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:24.501132"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "News - South China Morning Post",
+    "title": "Malaysia’s Chetti Melaka: how a Hindu-Malay community keeps its roots alive",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/e39a9169-b315-4f57-b174-5824569b9542_d670d3f4.jpg?itok=o0wP6_PD&v=1795169705",
+    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3375247/malaysias-chetti-melaka-how-hindu-malay-community-keeps-its-roots-alive",
+    "published": "Sun, 22 Nov 2026 06:00:10 +0000",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:24.501159"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "News - South China Morning Post",
+    "title": "Hong Kong-Chile working holiday scheme expected to launch in first half of 2027",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/22/9c9ee69a-8c9e-4e1e-b4ba-397b6a1500d4_52b4492b.jpg?itok=MgKGwCeu&v=1795321871",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3375357/hong-kong-chile-working-holiday-scheme-expected-launch-first-half-2027",
+    "published": "Sun, 22 Nov 2026 04:40:49 +0000",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:24.501217"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "News - South China Morning Post",
+    "title": "Chinese teen girl who dreams of becoming a soldier runs into burning home to save 2 kids",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/22/826133e0-23df-4a16-91e5-9309b36b52de_e677642e.jpg?itok=SMcQo_2A&v=1795315326",
+    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3375355/chinese-teen-girl-who-dreams-becoming-soldier-runs-burning-home-save-2-kids",
+    "published": "Sun, 22 Nov 2026 02:42:18 +0000",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:24.501268"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "News - South China Morning Post",
+    "title": "Hong Kong Election Committee race: turnout reaches 96% in mid-afternoon voting",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/22/66e88af2-3cfb-474c-a12d-a228cab24c4c_e140caf9.jpg?itok=NDW7dBFZ&v=1795322577",
+    "url": "https://www.scmp.com/news/hong-kong/politics/article/3375354/hong-kong-election-committee-race-long-lines-polling-stations-voting-begins",
+    "published": "Sun, 22 Nov 2026 02:26:45 +0000",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:24.501312"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "News - South China Morning Post",
+    "title": "‘Horrific’ ICE arrests at Seattle airport jet bridge rattle passengers, fuel outrage",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/22/87fca1b4-89bc-4ed7-86c7-80966c5620e4_19b2ac19.jpg?itok=0q90NTwd&v=1795313677",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3375353/horrific-ice-arrests-seattle-airport-jet-bridge-rattles-passengers-fuels-outrage",
+    "published": "Sun, 22 Nov 2026 02:14:54 +0000",
+    "importance": 28,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:24.501340"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "TASS",
-    "title": "Powerful explosion heard from sea near Sirik in southern Iran — agency",
+    "title": "US should recognize inalienable rights of Russia — economist",
     "thumbnail": null,
-    "url": "https://tass.com/world/2222935",
-    "published": "Sat, 21 Nov 2026 22:38:53 +0300",
+    "url": "https://tass.com/world/2222985",
+    "published": "Sun, 22 Nov 2026 07:09:24 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:53.865417"
+    "fetched_at": "2026-11-22T07:54:26.729749"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "TASS",
-    "title": "At least 40 hospitalized after leak of unknown substance in west Slovakia",
+    "title": "Lithuania denies involvement in incident in Russia’s Kaliningrad Region",
     "thumbnail": null,
-    "url": "https://tass.com/emergencies/2222931",
-    "published": "Sat, 21 Nov 2026 22:30:46 +0300",
+    "url": "https://tass.com/world/2222981",
+    "published": "Sun, 22 Nov 2026 05:13:00 +0300",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:53.865479"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "TASS",
-    "title": "Iran opposes all forms of WMD, but US became a real threat — lawmaker",
-    "thumbnail": null,
-    "url": "https://tass.com/world/2222925",
-    "published": "Sat, 21 Nov 2026 21:42:45 +0300",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:53.865506"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "TASS",
-    "title": "Finnish foreign minister suggests EU-wide restrictions on entry of Russian athletes",
-    "thumbnail": null,
-    "url": "https://tass.com/world/2222917",
-    "published": "Sat, 21 Nov 2026 20:29:53 +0300",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:53.865582"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "TASS",
-    "title": "Protestors clash with police in Nantes, Lyon — TV",
-    "thumbnail": null,
-    "url": "https://tass.com/world/2222915",
-    "published": "Sat, 21 Nov 2026 20:02:34 +0300",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:53.865606"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "TASS",
-    "title": "Pentagon denies reports that F-16 fighter jet damaged by Iran",
-    "thumbnail": null,
-    "url": "https://tass.com/world/2222913",
-    "published": "Sat, 21 Nov 2026 19:40:42 +0300",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:53.865628"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "TASS",
-    "title": "Trump says agreement with Iran should be permanent",
-    "thumbnail": null,
-    "url": "https://tass.com/world/2222911",
-    "published": "Sat, 21 Nov 2026 19:12:57 +0300",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:53.865650"
+    "fetched_at": "2026-11-22T07:54:26.729834"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "RT World News",
-    "title": "US court greenlights Bayer’s $7.25 bn Roundup cancer deal",
-    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b01858185f540747200f394.jpg",
-    "url": "https://rt-english.com/news/649187-roundup-bayer-us-judge/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "published": "Sat, 21 Nov 2026 16:33:57 +0000",
+    "title": "Trump hails Putin and Xi as ‘friends’ again (PHOTOS)",
+    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b02595685f5405a2077cf00.png",
+    "url": "https://rt-english.com/news/649199-my-friend-trump-posts-photos/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "Sun, 22 Nov 2026 02:55:00 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:57.639546"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "RT World News",
-    "title": "Bitcoin crashes to two-year low",
-    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b0185a82030276d0e469317.jpg",
-    "url": "https://rt-english.com/news/649184-bitcoin-drops-two-year-low/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "published": "Sat, 21 Nov 2026 14:27:37 +0000",
-    "importance": 28,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:57.639633"
+    "fetched_at": "2026-11-22T07:54:31.188383"
   },
   {
     "source": "rss",
     "category": "Middle East",
     "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+    "title": "Why Somalia’s president turned against his former ally, the UAE",
     "thumbnail": null,
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
-    "published": "Sat, 21 Nov 2026 17:57:27 +0000",
+    "url": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss",
+    "published": "Sun, 22 Nov 2026 06:59:59 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:57.867203"
+    "fetched_at": "2026-11-22T07:54:31.354913"
   },
   {
     "source": "rss",
     "category": "Middle East",
     "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
+    "title": "Kenya’s internet metering bill raises privacy and affordability concerns",
     "thumbnail": null,
-    "url": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
-    "published": "Sat, 21 Nov 2026 17:28:51 +0000",
+    "url": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss",
+    "published": "Sun, 22 Nov 2026 05:38:52 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:57.867253"
+    "fetched_at": "2026-11-22T07:54:31.355024"
   },
   {
     "source": "rss",
     "category": "Middle East",
     "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "Chelsea beaten 4-1 by Leeds to suffer third loss in four in Premier League",
+    "title": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
     "thumbnail": null,
-    "url": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
-    "published": "Sat, 21 Nov 2026 17:21:37 +0000",
+    "url": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
+    "published": "Sun, 22 Nov 2026 05:21:46 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:57.867276"
+    "fetched_at": "2026-11-22T07:54:31.355053"
   },
   {
     "source": "rss",
     "category": "Middle East",
     "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "US midterms 2026: What happens before the new Congress takes office?",
+    "title": "ICE agents detain two people at Seattle airport",
     "thumbnail": null,
-    "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
-    "published": "Sat, 21 Nov 2026 15:49:32 +0000",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/ice-agents-detain-two-people-at-seattle-airport?traffic_source=rss",
+    "published": "Sun, 22 Nov 2026 05:06:32 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:57.867375"
+    "fetched_at": "2026-11-22T07:54:31.355076"
   },
   {
     "source": "rss",
     "category": "Middle East",
     "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
+    "title": "Overturned boat carrying mourners to funeral kills at least 24 in Nigeria",
     "thumbnail": null,
-    "url": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
-    "published": "Sat, 21 Nov 2026 15:20:43 +0000",
+    "url": "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+    "published": "Sun, 22 Nov 2026 02:45:36 +0000",
     "importance": 28,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:57.867422"
+    "fetched_at": "2026-11-22T07:54:31.355185"
   },
   {
     "source": "rss",
@@ -1017,19 +993,43 @@
     "published": "",
     "importance": 27,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.611292"
+    "fetched_at": "2026-11-22T07:54:24.604439"
   },
   {
     "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "Nikkei Asia",
-    "title": "Japan weighs early funding to ICC before US sanctions cutoff",
-    "thumbnail": null,
-    "url": "https://asia.nikkei.com/politics/international-relations/japan-weighs-early-funding-to-icc-before-us-sanctions-cutoff",
-    "published": "",
-    "importance": 27,
+    "category": "American Media",
+    "outlet": "Latest Market News Today on Fox Business",
+    "title": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
+    "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-historic-stock-market-selloff-1.jpg",
+    "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory",
+    "published": "Fri, 20 Nov 2026 20:28:26 -0500",
+    "importance": 25,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.611473"
+    "fetched_at": "2026-11-22T07:54:21.754520"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "BBC News",
+    "title": "Trump threatens ban on US firms building AI data centres overseas",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
+    "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 20:54:12 GMT",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:22.238922"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "BBC News",
+    "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 22:53:24 GMT",
+    "importance": 25,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:22.238947"
   },
   {
     "source": "rss",
@@ -1041,31 +1041,7 @@
     "published": "Fri, 20 Nov 2026 09:44:56 GMT",
     "importance": 25,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.956093"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "BBC News",
-    "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
-    "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 00:02:07 GMT",
-    "importance": 25,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.956171"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "BBC News",
-    "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
-    "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 19 Nov 2026 23:33:51 GMT",
-    "importance": 25,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.956192"
+    "fetched_at": "2026-11-22T07:54:22.238971"
   },
   {
     "source": "rss",
@@ -1077,7 +1053,7 @@
     "published": "Fri, 20 Nov 2026 19:22:10 +0300",
     "importance": 25,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:54.100565"
+    "fetched_at": "2026-11-22T07:54:26.882582"
   },
   {
     "source": "rss",
@@ -1089,7 +1065,7 @@
     "published": "Fri, 20 Nov 2026 16:40:21 +0300",
     "importance": 25,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:54.100638"
+    "fetched_at": "2026-11-22T07:54:26.882671"
   },
   {
     "source": "rss",
@@ -1101,7 +1077,7 @@
     "published": "Fri, 20 Nov 2026 15:33:01 +0300",
     "importance": 25,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:54.100664"
+    "fetched_at": "2026-11-22T07:54:26.882702"
   },
   {
     "source": "rss",
@@ -1113,7 +1089,7 @@
     "published": "Fri, 20 Nov 2026 15:25:00 +0300",
     "importance": 25,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:54.100691"
+    "fetched_at": "2026-11-22T07:54:26.882731"
   },
   {
     "source": "rss",
@@ -1125,7 +1101,7 @@
     "published": "Fri, 20 Nov 2026 23:43:00 +0900",
     "importance": 25,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:58.029387"
+    "fetched_at": "2026-11-22T07:54:31.500812"
   },
   {
     "source": "rss",
@@ -1137,19 +1113,31 @@
     "published": "Fri, 20 Nov 2026 22:21:00 +0900",
     "importance": 25,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:58.029522"
+    "fetched_at": "2026-11-22T07:54:31.500960"
   },
   {
     "source": "rss",
-    "category": "Alternative & Independent",
-    "outlet": "The Diplomat",
-    "title": "COP31: Why India’s Stress on Country-led Just Transition Pathways Is Justified",
-    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2022/08/thediplomat_2022-08-05-115300.jpg",
-    "url": "https://thediplomat.com/2026/11/cop31-why-indias-stress-on-country-led-just-transition-pathways-is-justified/",
-    "published": "Fri, 20 Nov 2026 11:53:00 +0900",
-    "importance": 25,
+    "category": "American Media",
+    "outlet": "Bloomberg Markets",
+    "title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
+    "thumbnail": null,
+    "url": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video",
+    "published": "Sat, 21 Nov 2026 17:01:32 GMT",
+    "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:58.029623"
+    "fetched_at": "2026-11-22T07:54:20.854225"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "Bloomberg Markets",
+    "title": "Is AI a Bubble? History Offers Some Clues",
+    "thumbnail": null,
+    "url": "https://www.bloomberg.com/news/videos/2026-11-21/is-ai-a-bubble-history-offers-some-clues-video",
+    "published": "Sat, 21 Nov 2026 15:09:32 GMT",
+    "importance": 24,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:20.854348"
   },
   {
     "source": "rss",
@@ -1161,7 +1149,31 @@
     "published": "Sat, 21 Nov 2026 13:05:13 GMT",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:47.581730"
+    "fetched_at": "2026-11-22T07:54:20.854487"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "NYT > World News",
+    "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo2-gblm/22int-cartel-ticktock-photo2-gblm-mediumSquareAt3X.jpg",
+    "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+    "published": "Sat, 21 Nov 2026 21:12:24 +0000",
+    "importance": 24,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:21.036356"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "NYT > World News",
+    "title": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-canada-us-defense-photo1-bhjg/21int-canada-us-defense-photo1-bhjg-mediumSquareAt3X.jpg",
+    "url": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
+    "published": "Sat, 21 Nov 2026 20:35:07 +0000",
+    "importance": 24,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:21.036406"
   },
   {
     "source": "rss",
@@ -1173,7 +1185,7 @@
     "published": "Sat, 21 Nov 2026 12:54:44 +0000",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:47.855845"
+    "fetched_at": "2026-11-22T07:54:21.036454"
   },
   {
     "source": "rss",
@@ -1185,19 +1197,7 @@
     "published": "Sat, 21 Nov 2026 13:35:19 +0000",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:47.855893"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "NYT > World News",
-    "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-iraq-militia-01-kwgh/20int-iraq-militia-01-kwgh-mediumSquareAt3X.jpg",
-    "url": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
-    "published": "Sat, 21 Nov 2026 07:11:24 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:47.855959"
+    "fetched_at": "2026-11-22T07:54:21.036502"
   },
   {
     "source": "rss",
@@ -1209,7 +1209,7 @@
     "published": "Sat, 21 Nov 2026 11:00:08 +0000",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:47.856072"
+    "fetched_at": "2026-11-22T07:54:21.036569"
   },
   {
     "source": "rss",
@@ -1221,67 +1221,7 @@
     "published": "Sat, 21 Nov 2026 12:00:01 GMT",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.016923"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Business News",
-    "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
-    "thumbnail": null,
-    "url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-    "published": "Fri, 20 Nov 2026 21:04:48 GMT",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.017034"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "International homepage",
-    "title": "Nvidia affair puts Chinese spies in spotlight",
-    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9b27e840-c19c-4da0-bec7-d6ef619cf9ce.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1",
-    "published": "Sat, 21 Nov 2026 03:58:46 GMT",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:49.680949"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "International homepage",
-    "title": "Nvidia faces US regulator’s probe into its accounting",
-    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbf26ff22-c752-49fe-a473-f5dff8994952.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
-    "published": "Fri, 20 Nov 2026 21:58:08 GMT",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:49.680973"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "International homepage",
-    "title": "The dead hand of history weighs on Deutsche Bank",
-    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd5cfa03c-764f-448b-bf06-96898c62a5c7.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
-    "published": "Sat, 21 Nov 2026 06:32:26 GMT",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:49.681008"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "International homepage",
-    "title": "The manufacturing of novelty",
-    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7ab1827b-7b0f-4d6c-807d-a71826c6be32.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/99711b1a-3e54-4349-9c81-769cf7c96b97?syn-25a6b1a6=1",
-    "published": "Sat, 21 Nov 2026 05:00:36 GMT",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:49.681024"
+    "fetched_at": "2026-11-22T07:54:21.226941"
   },
   {
     "source": "rss",
@@ -1293,7 +1233,7 @@
     "published": "Sat, 21 Nov 2026 18:19:48 +0530",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:50.515977"
+    "fetched_at": "2026-11-22T07:54:23.651890"
   },
   {
     "source": "rss",
@@ -1305,127 +1245,115 @@
     "published": "Sat, 21 Nov 2026 13:49:49 +0530",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:50.516004"
+    "fetched_at": "2026-11-22T07:54:23.651917"
   },
   {
     "source": "rss",
     "category": "Indian Media",
-    "outlet": "Economic Times",
-    "title": "NRI Talk | NRIs are moving beyond deposits to mutual funds and global investing; Belong manages $20 million in AUM: Ankur Choudhary",
+    "outlet": "mint - markets",
+    "title": "Gold rate today in India at 14-month low; will it hit  ₹1 lakh? Experts list out 3 reasons for gold price drop in 2026",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/Gold_Rate_Today_Gold_Price_drop_2026_Gold_USD_Pric_1795283854342_v9DV_1795283854581_BFlg_a47ca041-fc5d-492c-8c2e-61c6c3d12dcb_p903.png",
+    "url": "https://www.livemint.com/market/commodities/gold-rate-today-in-india-at-14-month-low-will-it-hit-rs-1-lakh-experts-list-out-3-reasons-for-gold-price-drop-in-2026-11795283484060.html",
+    "published": "Sun, 22 Nov 2026 05:04:51 +0530",
+    "importance": 24,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:23.961802"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "News - South China Morning Post",
+    "title": "Xi’s Apec summit speech is a call to cooperation suited to the times",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/aaca21de-203f-4fd2-ada1-d35b6e756558_d59f815d.jpg?itok=DpKn-0yn&v=1795163413",
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3375061/xis-apec-summit-speech-call-cooperation-suited-times",
+    "published": "Sun, 22 Nov 2026 01:30:06 +0000",
+    "importance": 24,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:24.501389"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "Business",
+    "title": "AI fears deepen sell-off as US indexes enter correction territory",
+    "thumbnail": "https://news.cgtn.com/news/2026-11-21/AI-fears-deepen-sell-off-as-US-indexes-enter-correction-territory-1SfE80h3hIs/img/6c28cb2f8bb9406499be01c2f3949456/6c28cb2f8bb9406499be01c2f3949456-1920.png",
+    "url": "https://news.cgtn.com/news/2026-11-21/AI-fears-deepen-sell-off-as-US-indexes-enter-correction-territory-1SfE80h3hIs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
+    "published": "Sat, 21 Nov 2026 07:55:56 GMT",
+    "importance": 24,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:25.801084"
+  },
+  {
+    "source": "rss",
+    "category": "Russian Media",
+    "outlet": "TASS",
+    "title": "French mercenaries fight worse than Ukrainian soldiers — expert",
     "thumbnail": null,
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nri-talk-nris-are-moving-beyond-deposits-to-mutual-funds-and-global-investing-belong-manages-20-million-in-aum-ankur-choudhary/articleshow/136048307.cms",
-    "published": "Sat, 21 Nov 2026 13:23:31 +0530",
+    "url": "https://tass.com/politics/2222971",
+    "published": "Sun, 22 Nov 2026 03:25:35 +0300",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:50.516033"
+    "fetched_at": "2026-11-22T07:54:26.729975"
   },
   {
     "source": "rss",
-    "category": "Indian Media",
-    "outlet": "Economic Times",
-    "title": "PPFAS and Quant Mutual Fund among 6 mutual funds with over Rs 10,000 crore cash in their portfolio in October",
+    "category": "Russian Media",
+    "outlet": "TASS",
+    "title": "IRGC attacked two US Patriot radars in Bahrain",
     "thumbnail": null,
-    "url": "https://economictimes.indiatimes.com/mf/analysis/ppfas-and-quant-mutual-fund-among-6-mutual-funds-with-over-rs-10000-crore-cash-in-their-portfolio-in-october/total-cash-holding/slideshow/136050157.cms",
-    "published": "Sat, 21 Nov 2026 14:52:25 +0530",
+    "url": "https://tass.com/world/2222947",
+    "published": "Sun, 22 Nov 2026 00:12:18 +0300",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:50.516060"
+    "fetched_at": "2026-11-22T07:54:26.730352"
   },
   {
     "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "Hindalco vs NALCO vs Vedanta Aluminium vs Hindustan Zinc: Which metal stocks to buy for good returns? Target, SL",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/alaf_1795254369243_7NVs_1795254369429_DIJo_990caa8e-c8f0-44fc-adc4-363c1011c1ed_62Kb.png",
-    "url": "https://www.livemint.com/market/stock-market-news/hindalco-vs-nalco-vs-vedanta-aluminium-vs-hindustan-zinc-which-metal-stocks-to-buy-for-good-returns-target-sl-11795248944730.html",
-    "published": "Sat, 21 Nov 2026 15:17:13 +0530",
+    "category": "Russian Media",
+    "outlet": "RT World News",
+    "title": "Crowds rally against ‘licence to kill’ law in France (VIDEOS)",
+    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b023570203027207d7043e9.jpg",
+    "url": "https://rt-english.com/news/649198-french-protesters-rally-licence-kill/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "Sun, 22 Nov 2026 00:32:23 +0000",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:50.864984"
+    "fetched_at": "2026-11-22T07:54:31.188454"
   },
   {
     "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "Upcoming dividend, split, rights issue record dates next week, Nov 23-27: Pashupati Cotspin, Zee Ent, Varvee, and more",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/asagag_1795246763282_FjWQ_1795246771500_RZ41_29f14269-80f6-410c-9406-f98d656de230_1JFr.png",
-    "url": "https://www.livemint.com/market/stock-market-news/upcoming-dividend-split-rights-issue-record-dates-next-week-nov-23-27-pashupati-cotspin-zee-ent-varvee-and-more-11795245232145.html",
-    "published": "Sat, 21 Nov 2026 13:10:34 +0530",
+    "category": "Russian Media",
+    "outlet": "RT World News",
+    "title": "US financial watchdog probing Nvidia accounting – Reuters",
+    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b01ebf4203027269638802e.jpg",
+    "url": "https://rt-english.com/news/649192-us-financial-watchdog-probes-nvidia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "Sat, 21 Nov 2026 21:26:31 +0000",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:50.865060"
+    "fetched_at": "2026-11-22T07:54:31.188536"
   },
   {
     "source": "rss",
-    "category": "Indian Media",
-    "outlet": "mint - markets",
-    "title": "Gold vs silver price crash compared: White metal loses 65%, gold sheds 37% from record highs| Wealth wiped, returns",
-    "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/Gold_vs_Silver_Market_Crash_1795244070567_LpEj_1795244075686_QIhY_50e5de83-ae99-4222-afaf-f43ed35d0962_7jLc.png",
-    "url": "https://www.livemint.com/market/stock-market-news/gold-vs-silver-price-crash-compared-white-metal-loses-65-gold-sheds-37-from-record-highs-wealth-wiped-returns-11795241673262.html",
-    "published": "Sat, 21 Nov 2026 12:35:52 +0530",
+    "category": "Russian Media",
+    "outlet": "RT World News",
+    "title": "US court greenlights Bayer’s $7.25 bn Roundup cancer deal",
+    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b01858185f540747200f394.jpg",
+    "url": "https://rt-english.com/news/649187-roundup-bayer-us-judge/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "Sat, 21 Nov 2026 16:33:57 +0000",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:50.865084"
+    "fetched_at": "2026-11-22T07:54:31.188591"
   },
   {
     "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "News - South China Morning Post",
-    "title": "Indonesia, EU sign ‘ambitious’ trade deal",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/a19afd8c-8876-4faf-9e3b-4dfc160e9ae0_6a2c5432.jpg?itok=9PZLccGM&v=1795268772",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375341/indonesia-eu-sign-ambitious-trade-deal",
-    "published": "Sat, 21 Nov 2026 13:46:13 +0000",
+    "category": "Russian Media",
+    "outlet": "RT World News",
+    "title": "Bitcoin crashes to two-year low",
+    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b0185a82030276d0e469317.jpg",
+    "url": "https://rt-english.com/news/649184-bitcoin-drops-two-year-low/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "Sat, 21 Nov 2026 14:27:37 +0000",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.489595"
-  },
-  {
-    "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "News - South China Morning Post",
-    "title": "How China showcased the ‘Shenzhen miracle’ in Apec cooperation push",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/61675aad-28d7-44cd-8807-4a0dd5e37414_2a7be201.jpg?itok=mijIE3zf&v=1795263339",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3375335/how-china-showcased-shenzhen-miracle-apec-cooperation-push",
-    "published": "Sat, 21 Nov 2026 12:28:34 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.489640"
-  },
-  {
-    "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "News - South China Morning Post",
-    "title": "EU eyes tax on Big Tech to boost budget",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/e7d570d4-cd5e-4b5f-8d5e-3dde0fc0de33_079e89c5.jpg?itok=bE6NWoGz&v=1795261870",
-    "url": "https://www.scmp.com/news/world/europe/article/3375333/eu-eyes-tax-big-tech-boost-budget",
-    "published": "Sat, 21 Nov 2026 11:51:18 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.489680"
-  },
-  {
-    "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "News - South China Morning Post",
-    "title": "Hong Kong will not rule out whistle-blower immunity in bid-rigging law: minister",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/9cf41807-c2fa-4d18-9e4f-07bdd3a9fee8_6a0dac6f.jpg?itok=DASm3mel&v=1795253940",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375327/hong-kong-will-not-rule-out-whistle-blower-immunity-bid-rigging-law-minister",
-    "published": "Sat, 21 Nov 2026 09:52:12 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.489773"
-  },
-  {
-    "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "News - South China Morning Post",
-    "title": "China has real economic troubles, ‘Japanification’ not among them",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/a88298aa-ea80-4eef-8e83-72ad2b8a4f44_d1367227.jpg?itok=dUBRTe7I&v=1795143777",
-    "url": "https://www.scmp.com/opinion/china-opinion/article/3374957/china-has-real-economic-troubles-japanification-not-among-them",
-    "published": "Sat, 21 Nov 2026 08:30:06 +0000",
-    "importance": 24,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.489796"
+    "fetched_at": "2026-11-22T07:54:31.188665"
   },
   {
     "source": "rss",
@@ -1437,31 +1365,43 @@
     "published": "Sat, 21 Nov 2026 13:19:50 +0000",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:57.639659"
+    "fetched_at": "2026-11-22T07:54:31.188690"
   },
   {
     "source": "rss",
-    "category": "Russian Media",
-    "outlet": "RT World News",
-    "title": "Trump hails ‘fantastic relationship’ with Putin and Xi",
-    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b00f558203027576b51d47b.jpg",
-    "url": "https://rt-english.com/news/649181-trump-comments-putin-xi-summit/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "published": "Sat, 21 Nov 2026 01:39:10 +0000",
+    "category": "Middle East",
+    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "title": "Clashes erupt across France in another night of protest",
+    "thumbnail": null,
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+    "published": "Sun, 22 Nov 2026 00:37:32 +0000",
     "importance": 24,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:57.639768"
+    "fetched_at": "2026-11-22T07:54:31.355303"
   },
   {
     "source": "rss",
-    "category": "Russian Media",
-    "outlet": "RT World News",
-    "title": "Police crack down on anti-conscription protests across EU (VIDEOS)",
-    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b008b3985f54007f47c6b6d.jpg",
-    "url": "https://rt-english.com/news/649165-student-protest-eu-militarization/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "published": "Fri, 20 Nov 2026 20:26:51 +0000",
-    "importance": 24,
+    "category": "Chinese Media",
+    "outlet": "Nikkei Asia",
+    "title": "AI good for business but may sap joy of creation: game creator Hideo Kojima",
+    "thumbnail": null,
+    "url": "https://asia.nikkei.com/business/media-entertainment/ai-good-for-business-but-may-sap-joy-of-creation-game-creator-hideo-kojima",
+    "published": "",
+    "importance": 21,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:57.639875"
+    "fetched_at": "2026-11-22T07:54:24.604389"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "Nikkei Asia",
+    "title": "Bangkok revisited: Fresh finds and old favorites",
+    "thumbnail": null,
+    "url": "https://asia.nikkei.com/life-arts/life/destinations/bangkok-revisited-fresh-finds-and-old-favorites",
+    "published": "",
+    "importance": 21,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:24.604405"
   },
   {
     "source": "rss",
@@ -1473,115 +1413,31 @@
     "published": "",
     "importance": 21,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.611339"
-  },
-  {
-    "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "Nikkei Asia",
-    "title": "Japan Tobacco's Russia freezeout threatens its pursuit of Philip Morris, BTI",
-    "thumbnail": null,
-    "url": "https://asia.nikkei.com/business/companies/japan-tobacco-s-russia-freezeout-threatens-its-pursuit-of-philip-morris-bti",
-    "published": "",
-    "importance": 21,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.611507"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
-    "thumbnail": null,
-    "url": "https://www.bloomberg.com/news/videos/2026-11-21/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-    "published": "Sat, 21 Nov 2026 15:43:12 GMT",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:47.581485"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "Thanksgiving Dinner Is Moving to Restaurants",
-    "thumbnail": null,
-    "url": "https://www.bloomberg.com/news/videos/2026-11-21/thanksgiving-dinner-is-moving-to-restaurants-video",
-    "published": "Sat, 21 Nov 2026 15:28:00 GMT",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:47.581533"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Bloomberg Markets",
-    "title": "Shenzhen Wants to Become a Cultural Capital",
-    "thumbnail": null,
-    "url": "https://www.bloomberg.com/news/videos/2026-11-21/shenzhen-wants-to-become-a-cultural-capital-video",
-    "published": "Sat, 21 Nov 2026 14:24:08 GMT",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:47.581620"
+    "fetched_at": "2026-11-22T07:54:24.604474"
   },
   {
     "source": "rss",
     "category": "American Media",
     "outlet": "NYT > World News",
-    "title": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-uk-princess-cancer-kwfq/21int-uk-princess-cancer-kwfq-mediumSquareAt3X.jpg",
-    "url": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
-    "published": "Sat, 21 Nov 2026 14:09:39 +0000",
+    "title": "How Stringent Anti-A.I. Cheating Rules Brought Down an Education Minister",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/22/multimedia/22skorea-exam-wfpv/22skorea-exam-wfpv-mediumSquareAt3X.jpg",
+    "url": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
+    "published": "Sun, 22 Nov 2026 07:04:28 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:47.855766"
+    "fetched_at": "2026-11-22T07:54:21.036250"
   },
   {
     "source": "rss",
     "category": "American Media",
     "outlet": "NYT > World News",
-    "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-wtk-cjwm/21int-cartel-arrest-wtk-cjwm-mediumSquareAt3X.jpg",
-    "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
-    "published": "Sat, 21 Nov 2026 16:30:35 +0000",
+    "title": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/20/multimedia/00nat-mahjong-promo-qhpv/00nat-mahjong-promo-qhpv-mediumSquareAt3X.jpg",
+    "url": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
+    "published": "Sun, 22 Nov 2026 05:01:13 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:47.855820"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "NYT > World News",
-    "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-france-media-photo1-wkzp/21int-france-media-photo1-wkzp-mediumSquareAt3X.jpg",
-    "url": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
-    "published": "Sat, 21 Nov 2026 17:14:17 +0000",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:47.855870"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "NYT > World News",
-    "title": "Gen Z Is Driving Global Political Change, Aiding Far Left and Far Right",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/20/multimedia/20Europe-youth-01-zvtl/20Europe-youth-01-zvtl-mediumSquareAt3X.jpg",
-    "url": "https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html",
-    "published": "Fri, 20 Nov 2026 14:17:02 +0000",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:47.856027"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "NYT > World News",
-    "title": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-russia-putin-assess-1-qhzj/20int-russia-putin-assess-1-qhzj-mediumSquareAt3X.jpg",
-    "url": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
-    "published": "Fri, 20 Nov 2026 13:56:56 +0000",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:47.856051"
+    "fetched_at": "2026-11-22T07:54:21.036525"
   },
   {
     "source": "rss",
@@ -1593,19 +1449,31 @@
     "published": "Fri, 20 Nov 2026 12:00:02 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.016984"
+    "fetched_at": "2026-11-22T07:54:21.227003"
   },
   {
     "source": "rss",
     "category": "American Media",
-    "outlet": "Latest Market News Today on Fox Business",
-    "title": "Take-Two stock jumps over 6% as Rockstar's long-awaited ‘GTA VI’ arrives after 13-year wait",
-    "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/grand-theft-auto-billboard-1.jpg",
-    "url": "https://www.foxbusiness.com/markets/take-two-stock-jumps-over-6-rockstars-long-awaited-gta-vi-arrives-after-13-year-wait",
-    "published": "Wed, 18 Nov 2026 21:04:48 -0500",
+    "outlet": "Business News",
+    "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
+    "thumbnail": null,
+    "url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+    "published": "Fri, 20 Nov 2026 21:04:48 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.724935"
+    "fetched_at": "2026-11-22T07:54:21.227055"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "BBC News",
+    "title": "Can AI really help spot Black Friday deals? We put it to the test",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg",
+    "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 21 Nov 2026 00:06:11 GMT",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:22.238753"
   },
   {
     "source": "rss",
@@ -1617,31 +1485,31 @@
     "published": "Fri, 20 Nov 2026 16:41:52 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.956014"
+    "fetched_at": "2026-11-22T07:54:22.238804"
   },
   {
     "source": "rss",
     "category": "European Media",
     "outlet": "BBC News",
-    "title": "Should AI be judging our credit worthiness?",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg",
-    "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 07:32:19 GMT",
+    "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
+    "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 22 Nov 2026 07:12:41 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.956073"
+    "fetched_at": "2026-11-22T07:54:22.238828"
   },
   {
     "source": "rss",
     "category": "European Media",
     "outlet": "BBC News",
-    "title": "Fish and eggs al desko? The dos and don'ts of lunch at work",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d971/live/c0e0ad80-e4cb-11f1-99b6-a35a62fa4264.jpg",
-    "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 00:08:37 GMT",
+    "title": "MP criticises Guernsey and Jersey company ownership register plans",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2875/live/5aa002d0-e4dc-11f1-9cc5-e9713e77fd78.jpg",
+    "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 22 Nov 2026 07:22:05 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.956111"
+    "fetched_at": "2026-11-22T07:54:22.238874"
   },
   {
     "source": "rss",
@@ -1653,163 +1521,115 @@
     "published": "Fri, 20 Nov 2026 15:48:35 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.956129"
+    "fetched_at": "2026-11-22T07:54:22.239015"
   },
   {
     "source": "rss",
     "category": "European Media",
     "outlet": "BBC News",
-    "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg",
-    "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 18 Nov 2026 21:28:08 GMT",
+    "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
+    "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 00:02:07 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.956229"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "BBC News",
-    "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b62/live/ccbeb3f0-e407-11f1-a094-5fdc692f3e33.jpg",
-    "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 19 Nov 2026 00:00:59 GMT",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.956249"
+    "fetched_at": "2026-11-22T07:54:22.239064"
   },
   {
     "source": "rss",
     "category": "European Media",
     "outlet": "International homepage",
-    "title": "Navy budget pick has family investments in Trump Jr-linked contractor",
-    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7799a644-3117-42e4-b2ce-8fd208d023b8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1",
-    "published": "Sat, 21 Nov 2026 16:19:19 GMT",
+    "title": "Argentina’s borrowing costs jump as Milei’s falling popularity rattles investors",
+    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc2da1453-431b-45a0-b9b0-5c36db94b306.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/f3ecede4-74a3-431a-89c5-a06fcd30812a?syn-25a6b1a6=1",
+    "published": "Sun, 22 Nov 2026 05:00:14 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:49.681088"
+    "fetched_at": "2026-11-22T07:54:22.848349"
   },
   {
     "source": "rss",
     "category": "European Media",
     "outlet": "International homepage",
-    "title": "Violence erupts in Sinaloa after Mexico captures alleged drug trafficker",
-    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe3d4ca97-f0be-4f58-a9b0-0dd8d5ba0468.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/90a8d0bd-32c8-471a-8696-e95555e41b78?syn-25a6b1a6=1",
-    "published": "Sat, 21 Nov 2026 17:52:20 GMT",
+    "title": "Cheap Chinese ecommerce parcels flood the UK",
+    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F76187476-b6e2-4376-b8d1-dc98d52e7e22.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "url": "https://www.ft.com/content/2b2824e2-16b9-4621-85a0-7dad220644d5?syn-25a6b1a6=1",
+    "published": "Sun, 22 Nov 2026 05:00:14 GMT",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:49.681129"
+    "fetched_at": "2026-11-22T07:54:22.848391"
   },
   {
     "source": "rss",
     "category": "Chinese Media",
     "outlet": "News - South China Morning Post",
-    "title": "Former Italian police chief De Gennaro takes own life amid mafia probe",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/22/601ac6be-c41e-4b13-98dc-3a2448eed96d_d862b30e.jpg?itok=50V1l9iX&v=1795285250",
-    "url": "https://www.scmp.com/news/world/europe/article/3375349/former-italian-police-chief-de-gennaro-takes-own-life-amid-mafia-probe",
-    "published": "Sat, 21 Nov 2026 18:21:02 +0000",
+    "title": "Beijing vows to defend interests as US bars Chinese telecoms from accessing phone numbers",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/22/0705b8c1-b044-4b49-b2f5-b114a66c35d9_d2c782b6.jpg?itok=IzP3lxyz&v=1795330912",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3375364/beijing-vows-defend-interests-us-bars-chinese-telecoms-accessing-phone-numbers",
+    "published": "Sun, 22 Nov 2026 07:02:02 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.489469"
+    "fetched_at": "2026-11-22T07:54:24.501081"
   },
   {
     "source": "rss",
     "category": "Chinese Media",
     "outlet": "News - South China Morning Post",
-    "title": "Hong Kong flight makes emergency landing in Philippines after engine fire alert",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/22/6e938360-69ea-47e5-b3a2-1162e1c4835b_3dd120e2.jpg?itok=Xaz_-xea&v=1795278399",
-    "url": "https://www.scmp.com/news/hong-kong/transport/article/3375347/hong-kong-flight-makes-emergency-landing-philippines-after-engine-fire-alert",
-    "published": "Sat, 21 Nov 2026 16:29:39 +0000",
+    "title": "South Korea’s education minister quits amid backlash over anti-cheating exam checks",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/22/98e06e28-620a-41ec-b5d7-a38d33e6d7ac_f575bba3.jpg?itok=Q3J9yFX9&v=1795329403",
+    "url": "https://www.scmp.com/news/asia/east-asia/article/3375362/south-koreas-education-minister-quits-amid-backlash-over-anti-cheating-exam-checks",
+    "published": "Sun, 22 Nov 2026 06:36:57 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.489499"
+    "fetched_at": "2026-11-22T07:54:24.501112"
   },
   {
     "source": "rss",
     "category": "Chinese Media",
     "outlet": "News - South China Morning Post",
-    "title": "Mexico captures drug kingpin on FBI’s most wanted list",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/110c3334-9b1b-4645-9e39-314378de9dd7_fe65b120.jpg?itok=KD9TJ_lh&v=1795269632",
-    "url": "https://www.scmp.com/news/world/americas/article/3375342/mexico-captures-drug-kingpin-fbis-most-wanted-list",
-    "published": "Sat, 21 Nov 2026 14:00:45 +0000",
+    "title": "Hong Kong temperatures to fall to 16 degrees midweek as monsoon arrives",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/22/bba573fe-3cc4-4f7e-a3c9-493cb77e1e28_1040bfe9.jpg?itok=LiOCnFdR&v=1795326285",
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375358/hong-kong-temperatures-fall-16-degrees-midweek-monsoon-arrives",
+    "published": "Sun, 22 Nov 2026 05:45:02 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.489549"
+    "fetched_at": "2026-11-22T07:54:24.501182"
   },
   {
     "source": "rss",
     "category": "Chinese Media",
-    "outlet": "Business",
-    "title": "What does the world say about China at APEC?",
-    "thumbnail": "https://news.cgtn.com/news/2026-11-20/What-does-the-world-say-about-China-at-APEC--1Se5jBYqsgw/img/cc4ffbc65ea347198d0125c377dd2e58/cc4ffbc65ea347198d0125c377dd2e58-1280.png",
-    "url": "https://news.cgtn.com/news/2026-11-20/What-does-the-world-say-about-China-at-APEC--1Se5jBYqsgw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published": "Fri, 20 Nov 2026 08:56:52 GMT",
+    "outlet": "News - South China Morning Post",
+    "title": "Experts call for stronger reef protection as 20% of coral survey sites bleached",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/bf64ac14-9cc2-484c-be66-5b2f16506ba7_4ba5ae84.jpg?itok=o_MCx2uJ&v=1795261998",
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375334/experts-call-stronger-reef-protection-20-coral-survey-sites-bleached",
+    "published": "Sun, 22 Nov 2026 04:00:12 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:52.895699"
+    "fetched_at": "2026-11-22T07:54:24.501244"
   },
   {
     "source": "rss",
     "category": "Chinese Media",
-    "outlet": "Business",
-    "title": "Graphics: The numbers behind China-US bilateral trade",
-    "thumbnail": "https://news.cgtn.com/news/2026-11-19/Graphics-The-numbers-behind-China-US-bilateral-trade-1SbQBvb408w/img/0e4f03a17a244dc0b656d7d72f5f920a/0e4f03a17a244dc0b656d7d72f5f920a-1280.jpeg",
-    "url": "https://news.cgtn.com/news/2026-11-19/Graphics-The-numbers-behind-China-US-bilateral-trade-1SbQBvb408w/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published": "Thu, 19 Nov 2026 01:34:21 GMT",
+    "outlet": "News - South China Morning Post",
+    "title": "Singapore hosts 8 of the top 10 drug makers – now it needs commercial wins",
+    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/49260132-c1c7-4e60-a368-f09e265a35fd_89cde90d.jpg?itok=A_u16N_I&v=1795168470",
+    "url": "https://www.scmp.com/week-asia/health-environment/article/3375240/singapore-hosts-8-top-10-drug-makers-now-it-needs-commercial-wins",
+    "published": "Sun, 22 Nov 2026 02:00:08 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:52.895722"
-  },
-  {
-    "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "Business",
-    "title": "Phase two of China-ROK free trade agreement negotiations concluded",
-    "thumbnail": "https://news.cgtn.com/news/2026-11-19/Phase-two-of-China-ROK-free-trade-agreement-negotiations-concluded-1SbN7PRe1Hi/img/2c49afdab07b4e6480867fcbabadf33e/2c49afdab07b4e6480867fcbabadf33e-1920.png",
-    "url": "https://news.cgtn.com/news/2026-11-19/Phase-two-of-China-ROK-free-trade-agreement-negotiations-concluded-1SbN7PRe1Hi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published": "Thu, 19 Nov 2026 00:09:28 GMT",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:52.895744"
-  },
-  {
-    "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "Business",
-    "title": "Full text: APEC Trade Digitalization Cooperation Framework (2027-2030)",
-    "thumbnail": "https://news.cgtn.com/news/2026-11-20/Full-text-APEC-Trade-Digitalization-Cooperation-Framework-2027-2030--1SdVk7mWOKA/img/8f0059ece6344143965031b4e394a81a/8f0059ece6344143965031b4e394a81a-750.png",
-    "url": "https://news.cgtn.com/news/2026-11-20/Full-text-APEC-Trade-Digitalization-Cooperation-Framework-2027-2030--1SdVk7mWOKA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published": "Fri, 20 Nov 2026 07:18:47 GMT",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:52.895774"
+    "fetched_at": "2026-11-22T07:54:24.501364"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "TASS",
-    "title": "Paolo Bulgari, who steered Bulgari into world of high fashion, dies aged 89",
+    "title": "Dmitriev comments on Trump’s post about friendship with Putin",
     "thumbnail": null,
-    "url": "https://tass.com/society/2222909",
-    "published": "Sat, 21 Nov 2026 19:09:33 +0300",
+    "url": "https://tass.com/politics/2222983",
+    "published": "Sun, 22 Nov 2026 05:37:01 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:53.865673"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "TASS",
-    "title": "Nvidia drops out of world’s top three most valuable companies",
-    "thumbnail": null,
-    "url": "https://tass.com/economy/2222895",
-    "published": "Sat, 21 Nov 2026 17:49:14 +0300",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:53.865782"
+    "fetched_at": "2026-11-22T07:54:26.729793"
   },
   {
     "source": "rss",
@@ -1821,7 +1641,7 @@
     "published": "Fri, 20 Nov 2026 18:47:14 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:54.100590"
+    "fetched_at": "2026-11-22T07:54:26.882613"
   },
   {
     "source": "rss",
@@ -1833,7 +1653,7 @@
     "published": "Fri, 20 Nov 2026 15:23:00 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:54.100713"
+    "fetched_at": "2026-11-22T07:54:26.882758"
   },
   {
     "source": "rss",
@@ -1845,7 +1665,7 @@
     "published": "Fri, 20 Nov 2026 14:52:59 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:54.100738"
+    "fetched_at": "2026-11-22T07:54:26.882787"
   },
   {
     "source": "rss",
@@ -1857,7 +1677,7 @@
     "published": "Fri, 20 Nov 2026 14:41:41 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:54.100775"
+    "fetched_at": "2026-11-22T07:54:26.882817"
   },
   {
     "source": "rss",
@@ -1869,67 +1689,67 @@
     "published": "Fri, 20 Nov 2026 14:08:31 +0300",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:54.100804"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "RT World News",
-    "title": "US releases decades of Bigfoot files (PHOTOS)",
-    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b01a2cf203027259143a55c.jpg",
-    "url": "https://rt-english.com/news/649188-us-releases-bigfoot-secret-files/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "published": "Sat, 21 Nov 2026 14:58:32 +0000",
-    "importance": 20,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:57.639610"
+    "fetched_at": "2026-11-22T07:54:26.882853"
   },
   {
     "source": "rss",
     "category": "Middle East",
     "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "FBI national crime database suffers suspected breach: Reports",
+    "title": "Kansas City Current defeat Washington Spirit 2-1 to lift first NWSL title",
     "thumbnail": null,
-    "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
-    "published": "Sat, 21 Nov 2026 18:19:10 +0000",
+    "url": "https://www.aljazeera.com/sports/2026/11/22/kansas-city-current-nwsl-2026-final-washington-spirit-womens-soccer?traffic_source=rss",
+    "published": "Sun, 22 Nov 2026 06:40:18 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:57.867126"
+    "fetched_at": "2026-11-22T07:54:31.354971"
   },
   {
     "source": "rss",
     "category": "Middle East",
     "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "Could Brexit be reversed?",
+    "title": "What Sandpapergate reveals about Australian cricket",
     "thumbnail": null,
-    "url": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
-    "published": "Sat, 21 Nov 2026 18:18:11 +0000",
+    "url": "https://www.aljazeera.com/opinions/2026/11/22/what-sandpapergate-reveals-about-australian-cricket?traffic_source=rss",
+    "published": "Sun, 22 Nov 2026 06:32:43 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:57.867147"
+    "fetched_at": "2026-11-22T07:54:31.354994"
   },
   {
     "source": "rss",
     "category": "Middle East",
     "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+    "title": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
     "thumbnail": null,
-    "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
-    "published": "Sat, 21 Nov 2026 16:03:16 +0000",
+    "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
+    "published": "Sun, 22 Nov 2026 04:51:35 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:57.867353"
+    "fetched_at": "2026-11-22T07:54:31.355099"
   },
   {
     "source": "rss",
     "category": "Middle East",
     "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "title": "French presidential candidate blames media for racist attack",
+    "title": "First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest",
     "thumbnail": null,
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
-    "published": "Sat, 21 Nov 2026 15:46:18 +0000",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/first-images-of-mexican-cartel-boss-el-chapo-isidro-after-arrest?traffic_source=rss",
+    "published": "Sun, 22 Nov 2026 04:42:02 +0000",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:57.867397"
+    "fetched_at": "2026-11-22T07:54:31.355126"
+  },
+  {
+    "source": "rss",
+    "category": "Middle East",
+    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
+    "thumbnail": null,
+    "url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
+    "published": "Sun, 22 Nov 2026 03:34:02 +0000",
+    "importance": 20,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:31.355153"
   },
   {
     "source": "rss",
@@ -1941,7 +1761,7 @@
     "published": "Sat, 21 Nov 2026 03:20:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:58.029273"
+    "fetched_at": "2026-11-22T07:54:31.500692"
   },
   {
     "source": "rss",
@@ -1953,7 +1773,7 @@
     "published": "Sat, 21 Nov 2026 00:53:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:58.029339"
+    "fetched_at": "2026-11-22T07:54:31.500759"
   },
   {
     "source": "rss",
@@ -1965,7 +1785,7 @@
     "published": "Fri, 20 Nov 2026 23:35:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:58.029410"
+    "fetched_at": "2026-11-22T07:54:31.500839"
   },
   {
     "source": "rss",
@@ -1977,7 +1797,7 @@
     "published": "Fri, 20 Nov 2026 22:59:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:58.029434"
+    "fetched_at": "2026-11-22T07:54:31.500864"
   },
   {
     "source": "rss",
@@ -1989,7 +1809,7 @@
     "published": "Fri, 20 Nov 2026 23:08:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:58.029459"
+    "fetched_at": "2026-11-22T07:54:31.500889"
   },
   {
     "source": "rss",
@@ -2001,31 +1821,55 @@
     "published": "Fri, 20 Nov 2026 19:29:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:58.029501"
+    "fetched_at": "2026-11-22T07:54:31.500937"
   },
   {
     "source": "rss",
     "category": "Alternative & Independent",
     "outlet": "The Diplomat",
-    "title": "Where the Mango Meets the Orchid: Prospects in Pakistan-Singapore Relations",
-    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/11/thediplomat_2026-11-20-092812.jpg",
-    "url": "https://thediplomat.com/2026/11/where-the-mango-meets-the-orchid-prospects-in-pakistan-singapore-relations/",
-    "published": "Fri, 20 Nov 2026 09:15:00 +0900",
+    "title": "COP31: Why India’s Stress on Country-led Just Transition Pathways Is Justified",
+    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2022/08/thediplomat_2022-08-05-115300.jpg",
+    "url": "https://thediplomat.com/2026/11/cop31-why-indias-stress-on-country-led-just-transition-pathways-is-justified/",
+    "published": "Fri, 20 Nov 2026 11:53:00 +0900",
     "importance": 20,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:58.029576"
+    "fetched_at": "2026-11-22T07:54:31.501059"
   },
   {
     "source": "rss",
-    "category": "Alternative & Independent",
-    "outlet": "The Diplomat",
-    "title": "The Inflation of Kim Yo Jong’s Statements",
-    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2025/07/thediplomat_2025-07-28-142355.jpg",
-    "url": "https://thediplomat.com/2026/11/the-inflation-of-kim-yo-jongs-statements/",
-    "published": "Fri, 20 Nov 2026 12:03:00 +0900",
-    "importance": 20,
+    "category": "American Media",
+    "outlet": "Bloomberg Markets",
+    "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
+    "thumbnail": null,
+    "url": "https://www.bloomberg.com/news/videos/2026-11-21/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+    "published": "Sat, 21 Nov 2026 15:43:12 GMT",
+    "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:58.029598"
+    "fetched_at": "2026-11-22T07:54:20.854254"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "Bloomberg Markets",
+    "title": "Thanksgiving Dinner Is Moving to Restaurants",
+    "thumbnail": null,
+    "url": "https://www.bloomberg.com/news/videos/2026-11-21/thanksgiving-dinner-is-moving-to-restaurants-video",
+    "published": "Sat, 21 Nov 2026 15:28:00 GMT",
+    "importance": 17,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:20.854305"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "Bloomberg Markets",
+    "title": "Shenzhen Wants to Become a Cultural Capital",
+    "thumbnail": null,
+    "url": "https://www.bloomberg.com/news/videos/2026-11-21/shenzhen-wants-to-become-a-cultural-capital-video",
+    "published": "Sat, 21 Nov 2026 14:24:08 GMT",
+    "importance": 17,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:20.854373"
   },
   {
     "source": "rss",
@@ -2037,31 +1881,67 @@
     "published": "Sat, 21 Nov 2026 13:19:50 GMT",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:47.581688"
+    "fetched_at": "2026-11-22T07:54:20.854443"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "NYT > World News",
+    "title": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-uk-princess-cancer-kwfq/21int-uk-princess-cancer-kwfq-mediumSquareAt3X.jpg",
+    "url": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
+    "published": "Sat, 21 Nov 2026 14:09:39 +0000",
+    "importance": 17,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:21.036379"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "NYT > World News",
+    "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-wtk-cjwm/21int-cartel-arrest-wtk-cjwm-mediumSquareAt3X.jpg",
+    "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+    "published": "Sat, 21 Nov 2026 16:30:35 +0000",
+    "importance": 17,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:21.036428"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "NYT > World News",
+    "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-france-media-photo1-wkzp/21int-france-media-photo1-wkzp-mediumSquareAt3X.jpg",
+    "url": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
+    "published": "Sat, 21 Nov 2026 17:14:17 +0000",
+    "importance": 17,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:21.036479"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "NYT > World News",
+    "title": "Maldon Salt’s Authenticity Is Questioned, Leaving Foodies Shaken",
+    "thumbnail": "https://static01.nyt.com/images/2026/11/21/multimedia/21xp-salt/21xp-salt-mediumSquareAt3X.jpg",
+    "url": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
+    "published": "Sat, 21 Nov 2026 14:01:15 +0000",
+    "importance": 17,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:21.036592"
   },
   {
     "source": "rss",
     "category": "European Media",
-    "outlet": "International homepage",
-    "title": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
-    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6f87adc4-347d-4c78-ba3b-91ff76b65432.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1",
-    "published": "Fri, 20 Nov 2026 20:17:29 GMT",
+    "outlet": "BBC News",
+    "title": "Employers are being asked to give interview feedback - here's what applicants want",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb80/live/784ad260-e4e1-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 22 Nov 2026 00:04:07 GMT",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:49.681068"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "International homepage",
-    "title": "Miguel Ángel Félix Gallardo, drug lord, 1946-2026",
-    "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4667ad7d-43c1-484f-b30a-107263ebf45f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "url": "https://www.ft.com/content/fbf39142-a256-4fa8-a689-e958d80112a4?syn-25a6b1a6=1",
-    "published": "Sat, 21 Nov 2026 05:00:45 GMT",
-    "importance": 17,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:49.681146"
+    "fetched_at": "2026-11-22T07:54:22.238720"
   },
   {
     "source": "rss",
@@ -2073,31 +1953,55 @@
     "published": "Sat, 21 Nov 2026 16:08:54 +0530",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:50.515910"
+    "fetched_at": "2026-11-22T07:54:23.651831"
   },
   {
     "source": "rss",
     "category": "Chinese Media",
-    "outlet": "News - South China Morning Post",
-    "title": "Asian Gaelic Games brings 2-day celebration of all things Irish to Hong Kong",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/ca6d8ca1-e8cb-48d6-a8d6-31f8aff6b257_5d68aa8b.jpg?itok=z6b8RBIm&v=1795265536",
-    "url": "https://www.scmp.com/sport/other-sport/article/3375337/asian-gaelic-games-brings-2-day-celebration-all-things-irish-hong-kong",
-    "published": "Sat, 21 Nov 2026 12:52:29 +0000",
+    "outlet": "Business",
+    "title": "Why are global business leaders impressed by Shenzhen?",
+    "thumbnail": "https://news.cgtn.com/news/2026-11-21/Why-are-global-business-leaders-impressed-by-Shenzhen--1SfPUg2VZD2/img/645a9405468e442193bafad90e125b3d/645a9405468e442193bafad90e125b3d-750.png",
+    "url": "https://news.cgtn.com/news/2026-11-21/Why-are-global-business-leaders-impressed-by-Shenzhen--1SfPUg2VZD2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
+    "published": "Sat, 21 Nov 2026 11:35:38 GMT",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.489616"
+    "fetched_at": "2026-11-22T07:54:25.801060"
   },
   {
     "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "News - South China Morning Post",
-    "title": "Major regional sports law body to set up Hong Kong base by year end: minister",
-    "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/8aa304ea-4651-4ee6-94f4-541e14eaa98c_ec2d0620.jpg?itok=Lj3bAzL8&v=1795259915",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375331/major-regional-sports-law-body-set-hong-kong-base-year-end-minister",
-    "published": "Sat, 21 Nov 2026 11:18:40 +0000",
+    "category": "Russian Media",
+    "outlet": "RT World News",
+    "title": "Second English village votes to leave UK over migrant plans",
+    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b02101785f5405c2762e5ba.jpg",
+    "url": "https://rt-english.com/news/649194-second-breakaway-uk-village-votes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "Sat, 21 Nov 2026 22:48:48 +0000",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.489721"
+    "fetched_at": "2026-11-22T07:54:31.188481"
+  },
+  {
+    "source": "rss",
+    "category": "Russian Media",
+    "outlet": "RT World News",
+    "title": "Fyodor Lukyanov: Shenzhen exposes the fading idea of a collective West",
+    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b01efef20302737f312fe11.jpg",
+    "url": "https://rt-english.com/news/649195-fading-idea-of-west/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "Sat, 21 Nov 2026 19:59:40 +0000",
+    "importance": 17,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:31.188563"
+  },
+  {
+    "source": "rss",
+    "category": "Russian Media",
+    "outlet": "RT World News",
+    "title": "US releases decades of Bigfoot files (PHOTOS)",
+    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b01a2cf203027259143a55c.jpg",
+    "url": "https://rt-english.com/news/649188-us-releases-bigfoot-secret-files/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "Sat, 21 Nov 2026 14:58:32 +0000",
+    "importance": 17,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:31.188643"
   },
   {
     "source": "rss",
@@ -2109,7 +2013,7 @@
     "published": "Sat, 21 Nov 2026 11:08:10 +0000",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:57.639685"
+    "fetched_at": "2026-11-22T07:54:31.188716"
   },
   {
     "source": "rss",
@@ -2121,31 +2025,19 @@
     "published": "Sat, 21 Nov 2026 09:26:15 +0000",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:57.639708"
+    "fetched_at": "2026-11-22T07:54:31.188740"
   },
   {
     "source": "rss",
-    "category": "Russian Media",
-    "outlet": "RT World News",
-    "title": "Texas accused of botching execution",
-    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b0090282030276aea61d03a.jpg",
-    "url": "https://rt-english.com/news/649175-texas-accused-botching-execution/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "published": "Sat, 21 Nov 2026 02:23:22 +0000",
+    "category": "Middle East",
+    "outlet": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "title": "Moviegoers head for the exits as quake strikes Peru",
+    "thumbnail": null,
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
+    "published": "Sun, 22 Nov 2026 01:07:19 +0000",
     "importance": 17,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:57.639731"
-  },
-  {
-    "source": "rss",
-    "category": "Russian Media",
-    "outlet": "RT World News",
-    "title": "Spanish neo-Nazis mourn death of Franco (VIDEOS, PHOTOS)",
-    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b00d73a85f5405a2077ce93.jpg",
-    "url": "https://rt-english.com/news/649178-spanish-neo-nazis-franco-death/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "published": "Fri, 20 Nov 2026 23:27:34 +0000",
-    "importance": 17,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:57.639791"
+    "fetched_at": "2026-11-22T07:54:31.355280"
   },
   {
     "source": "rss",
@@ -2157,7 +2049,7 @@
     "published": "Thu, 19 Nov 2026 19:58:30 GMT",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.017059"
+    "fetched_at": "2026-11-22T07:54:21.227082"
   },
   {
     "source": "rss",
@@ -2169,7 +2061,31 @@
     "published": "Thu, 19 Nov 2026 11:52:56 -0500",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.724906"
+    "fetched_at": "2026-11-22T07:54:21.754610"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "BBC News",
+    "title": "Should AI be judging our credit worthiness?",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg",
+    "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 07:32:19 GMT",
+    "importance": 15,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:22.238849"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "BBC News",
+    "title": "Fish and eggs al desko? The dos and don'ts of lunch at work",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d971/live/c0e0ad80-e4cb-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 00:08:37 GMT",
+    "importance": 15,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:22.238993"
   },
   {
     "source": "rss",
@@ -2181,7 +2097,55 @@
     "published": "Thu, 19 Nov 2026 14:01:02 +0000",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:49.883534"
+    "fetched_at": "2026-11-22T07:54:23.075371"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "Nikkei Asia",
+    "title": "The ramen lectures: Japan company tries new expansion strategy",
+    "thumbnail": null,
+    "url": "https://asia.nikkei.com/business/food-beverage/the-ramen-lectures-japan-company-tries-new-expansion-strategy",
+    "published": "",
+    "importance": 15,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:24.604333"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "Nikkei Asia",
+    "title": "Hello Kitty owner Sanrio bets on games to expand global reach",
+    "thumbnail": null,
+    "url": "https://asia.nikkei.com/business/media-entertainment/hello-kitty-owner-sanrio-bets-on-games-to-expand-global-reach",
+    "published": "",
+    "importance": 15,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:24.604351"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "Nikkei Asia",
+    "title": "Restored Okinawa castle to reopen with extensive fire safety measures",
+    "thumbnail": null,
+    "url": "https://asia.nikkei.com/business/travel-leisure/restored-okinawa-castle-to-reopen-with-extensive-fire-safety-measures",
+    "published": "",
+    "importance": 15,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:24.604370"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "Nikkei Asia",
+    "title": "Bro hugs, no deals: Why Shenzhen was a win for Beijing",
+    "thumbnail": null,
+    "url": "https://asia.nikkei.com/opinion/bro-hugs-no-deals-why-shenzhen-was-a-win-for-beijing",
+    "published": "",
+    "importance": 15,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:24.604422"
   },
   {
     "source": "rss",
@@ -2193,7 +2157,7 @@
     "published": "",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.611320"
+    "fetched_at": "2026-11-22T07:54:24.604456"
   },
   {
     "source": "rss",
@@ -2205,7 +2169,7 @@
     "published": "",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.611358"
+    "fetched_at": "2026-11-22T07:54:24.604492"
   },
   {
     "source": "rss",
@@ -2217,7 +2181,7 @@
     "published": "",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.611376"
+    "fetched_at": "2026-11-22T07:54:24.604510"
   },
   {
     "source": "rss",
@@ -2229,7 +2193,7 @@
     "published": "",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.611391"
+    "fetched_at": "2026-11-22T07:54:24.604527"
   },
   {
     "source": "rss",
@@ -2241,67 +2205,31 @@
     "published": "",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.611408"
+    "fetched_at": "2026-11-22T07:54:24.604546"
   },
   {
     "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "Nikkei Asia",
-    "title": "Chinese 3D printer maker Bambu Lab scales up production in Shenzhen",
-    "thumbnail": null,
-    "url": "https://asia.nikkei.com/business/china-tech/chinese-3d-printer-maker-bambu-lab-scales-up-production-in-shenzhen",
-    "published": "",
+    "category": "Alternative & Independent",
+    "outlet": "The Diplomat",
+    "title": "Where the Mango Meets the Orchid: Prospects in Pakistan-Singapore Relations",
+    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/11/thediplomat_2026-11-20-092812.jpg",
+    "url": "https://thediplomat.com/2026/11/where-the-mango-meets-the-orchid-prospects-in-pakistan-singapore-relations/",
+    "published": "Fri, 20 Nov 2026 09:15:00 +0900",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.611425"
+    "fetched_at": "2026-11-22T07:54:31.501009"
   },
   {
     "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "Nikkei Asia",
-    "title": "Battery maker GS Yuasa targets defense, space as growth fields: CEO",
-    "thumbnail": null,
-    "url": "https://asia.nikkei.com/editor-s-picks/interview/battery-maker-gs-yuasa-targets-defense-space-as-growth-fields-ceo",
-    "published": "",
+    "category": "Alternative & Independent",
+    "outlet": "The Diplomat",
+    "title": "The Inflation of Kim Yo Jong’s Statements",
+    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2025/07/thediplomat_2025-07-28-142355.jpg",
+    "url": "https://thediplomat.com/2026/11/the-inflation-of-kim-yo-jongs-statements/",
+    "published": "Fri, 20 Nov 2026 12:03:00 +0900",
     "importance": 15,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.611441"
-  },
-  {
-    "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "Nikkei Asia",
-    "title": "How to save your dragon: Japan zoo joins quest to breed Komodo lizards",
-    "thumbnail": null,
-    "url": "https://asia.nikkei.com/spotlight/big-in-asia/how-to-save-your-dragon-japan-zoo-joins-quest-to-breed-komodo-lizards",
-    "published": "",
-    "importance": 15,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.611457"
-  },
-  {
-    "source": "rss",
-    "category": "Chinese Media",
-    "outlet": "Nikkei Asia",
-    "title": "Nvidia server suppliers halt Southeast Asia shipments over US curbs",
-    "thumbnail": null,
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-server-suppliers-halt-southeast-asia-shipments-over-us-curbs",
-    "published": "",
-    "importance": 15,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:51.611489"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "NYT > World News",
-    "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
-    "thumbnail": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-pope-abuse-01-mlkb/20int-pope-abuse-01-mlkb-mediumSquareAt3X.jpg",
-    "url": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
-    "published": "Fri, 20 Nov 2026 10:38:19 +0000",
-    "importance": 14,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:47.856006"
+    "fetched_at": "2026-11-22T07:54:31.501032"
   },
   {
     "source": "rss",
@@ -2313,7 +2241,7 @@
     "published": "Fri, 20 Nov 2026 15:50:27 GMT",
     "importance": 14,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.016959"
+    "fetched_at": "2026-11-22T07:54:21.226976"
   },
   {
     "source": "rss",
@@ -2325,7 +2253,7 @@
     "published": "Fri, 20 Nov 2026 12:00:02 GMT",
     "importance": 14,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.017009"
+    "fetched_at": "2026-11-22T07:54:21.227029"
   },
   {
     "source": "rss",
@@ -2337,7 +2265,19 @@
     "published": "Wed, 18 Nov 2026 18:27:52 GMT",
     "importance": 14,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.017186"
+    "fetched_at": "2026-11-22T07:54:21.227231"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "Latest Market News Today on Fox Business",
+    "title": "Take-Two stock jumps over 6% as Rockstar's long-awaited ‘GTA VI’ arrives after 13-year wait",
+    "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/grand-theft-auto-billboard-1.jpg",
+    "url": "https://www.foxbusiness.com/markets/take-two-stock-jumps-over-6-rockstars-long-awaited-gta-vi-arrives-after-13-year-wait",
+    "published": "Wed, 18 Nov 2026 21:04:48 -0500",
+    "importance": 14,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:21.754643"
   },
   {
     "source": "rss",
@@ -2349,55 +2289,43 @@
     "published": "Fri, 20 Nov 2026 17:49:48 GMT",
     "importance": 14,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.955992"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "BBC News",
-    "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c60/live/a3312140-e43d-11f1-99b6-a35a62fa4264.jpg",
-    "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 06:00:33 GMT",
-    "importance": 14,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.956149"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "Business",
-    "title": "Anthropic soars, but it may soon be back, cap in hand",
-    "thumbnail": null,
-    "url": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
-    "published": "Thu, 19 Nov 2026 23:15:40 +0000",
-    "importance": 14,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:49.883473"
+    "fetched_at": "2026-11-22T07:54:22.238899"
   },
   {
     "source": "rss",
     "category": "Chinese Media",
     "outlet": "Business",
-    "title": "China's capital market reform charts a new course",
-    "thumbnail": "https://news.cgtn.com/news/2026-11-18/China-s-capital-market-reform-charts-a-new-course-1SaMi7OqLiU/img/53ce988bee444cc49017764daf59562d/53ce988bee444cc49017764daf59562d-750.png",
-    "url": "https://news.cgtn.com/news/2026-11-18/China-s-capital-market-reform-charts-a-new-course-1SaMi7OqLiU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published": "Wed, 18 Nov 2026 13:42:44 GMT",
+    "title": "China, Russia and US: Global economic share, Asia-Pacific roles",
+    "thumbnail": "https://news.cgtn.com/news/2026-11-19/China-Russia-and-US-Global-economic-share-Asia-Pacific-roles-1Sc8DxcAHm0/img/18d3da1360dd4dc39a7e36eee45e0d94/18d3da1360dd4dc39a7e36eee45e0d94-1280.jpeg",
+    "url": "https://news.cgtn.com/news/2026-11-19/China-Russia-and-US-Global-economic-share-Asia-Pacific-roles-1Sc8DxcAHm0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
+    "published": "Thu, 19 Nov 2026 07:12:32 GMT",
     "importance": 14,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:52.895793"
+    "fetched_at": "2026-11-22T07:54:25.801126"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "Business",
+    "title": "APEC China 2026 – Unlocking new opportunities for Asia-Pacific",
+    "thumbnail": "https://news.cgtn.com/news/2026-11-19/APEC-China-2026-Unlocking-new-opportunities-for-Asia-Pacific-1ScdTYPNsOc/img/b1538bdbb9b342e28b28bea900ed6fb0/b1538bdbb9b342e28b28bea900ed6fb0-1280.jpeg",
+    "url": "https://news.cgtn.com/news/2026-11-19/APEC-China-2026-Unlocking-new-opportunities-for-Asia-Pacific-1ScdTYPNsOc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
+    "published": "Thu, 19 Nov 2026 07:50:49 GMT",
+    "importance": 14,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:25.801174"
   },
   {
     "source": "rss",
     "category": "Russian Media",
     "outlet": "RT World News",
-    "title": "The Shenzhen meeting was a reality shock for the West",
-    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b0095b72030275efb459f45.jpg",
-    "url": "https://rt-english.com/news/649168-shenzhen-meeting-reality-panic/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "published": "Fri, 20 Nov 2026 18:47:28 +0000",
+    "title": "Texas accused of botching execution",
+    "thumbnail": "https://mf.b37mrtl.ru/files/2026.11/thumbnail/6b0090282030276aea61d03a.jpg",
+    "url": "https://rt-english.com/news/649175-texas-accused-botching-execution/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "Sat, 21 Nov 2026 02:23:22 +0000",
     "importance": 14,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:57.639931"
+    "fetched_at": "2026-11-22T07:54:31.188763"
   },
   {
     "source": "rss",
@@ -2409,19 +2337,7 @@
     "published": "Fri, 20 Nov 2026 22:26:00 +0900",
     "importance": 14,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:58.029479"
-  },
-  {
-    "source": "rss",
-    "category": "Alternative & Independent",
-    "outlet": "The Diplomat",
-    "title": "The ICJ’s Myanmar Genocide Ruling: What Comes Next?",
-    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/11/thediplomat_2026-11-20-144225.jpg",
-    "url": "https://thediplomat.com/2026/11/the-icjs-myanmar-genocide-ruling-what-comes-next/",
-    "published": "Fri, 20 Nov 2026 14:15:00 +0900",
-    "importance": 14,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:58.029553"
+    "fetched_at": "2026-11-22T07:54:31.500913"
   },
   {
     "source": "rss",
@@ -2433,7 +2349,7 @@
     "published": "Wed, 18 Nov 2026 18:13:25 GMT",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.017082"
+    "fetched_at": "2026-11-22T07:54:21.227105"
   },
   {
     "source": "rss",
@@ -2445,7 +2361,7 @@
     "published": "Wed, 18 Nov 2026 17:02:53 GMT",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.017106"
+    "fetched_at": "2026-11-22T07:54:21.227130"
   },
   {
     "source": "rss",
@@ -2457,7 +2373,7 @@
     "published": "Wed, 18 Nov 2026 14:02:52 GMT",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.017139"
+    "fetched_at": "2026-11-22T07:54:21.227164"
   },
   {
     "source": "rss",
@@ -2469,7 +2385,7 @@
     "published": "Wed, 18 Nov 2026 17:56:50 GMT",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.017163"
+    "fetched_at": "2026-11-22T07:54:21.227189"
   },
   {
     "source": "rss",
@@ -2481,31 +2397,31 @@
     "published": "Wed, 18 Nov 2026 12:55:01 GMT",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.017210"
+    "fetched_at": "2026-11-22T07:54:21.227257"
   },
   {
     "source": "rss",
-    "category": "American Media",
-    "outlet": "Business News",
-    "title": "FAA pauses installation of new routers after ground stop",
+    "category": "European Media",
+    "outlet": "BBC News",
+    "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
+    "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c60/live/a3312140-e43d-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 06:00:33 GMT",
+    "importance": 11,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:22.239039"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "Business",
+    "title": "Anthropic soars, but it may soon be back, cap in hand",
     "thumbnail": null,
-    "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
-    "published": "Tue, 17 Nov 2026 20:53:24 GMT",
+    "url": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
+    "published": "Thu, 19 Nov 2026 23:15:40 +0000",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.017231"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Latest Market News Today on Fox Business",
-    "title": "Nvidia releases quarterly earnings, suggests future plans after Jensen Huang's resignation",
-    "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/nvidia-entrance-sign-worker-01.jpg",
-    "url": "https://www.foxbusiness.com/markets/nvidia-releases-quarterly-earnings-after-jensen-huangs-resignation-ceo",
-    "published": "Tue, 17 Nov 2026 16:27:53 -0500",
-    "importance": 11,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.724988"
+    "fetched_at": "2026-11-22T07:54:23.075301"
   },
   {
     "source": "rss",
@@ -2517,7 +2433,7 @@
     "published": "Thu, 19 Nov 2026 14:01:02 +0000",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:49.883507"
+    "fetched_at": "2026-11-22T07:54:23.075341"
   },
   {
     "source": "rss",
@@ -2529,67 +2445,55 @@
     "published": "Thu, 19 Nov 2026 14:01:02 +0000",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:49.883561"
-  },
-  {
-    "source": "rss",
-    "category": "European Media",
-    "outlet": "Business",
-    "title": "Corporate spin-offs are getting out of control",
-    "thumbnail": null,
-    "url": "https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control",
-    "published": "Wed, 18 Nov 2026 21:21:37 +0000",
-    "importance": 11,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:49.883583"
+    "fetched_at": "2026-11-22T07:54:23.075405"
   },
   {
     "source": "rss",
     "category": "Chinese Media",
     "outlet": "Business",
-    "title": "China, Canada sign terms of reference for financial working group",
-    "thumbnail": "https://news.cgtn.com/news/2026-11-18/China-Canada-sign-terms-of-reference-for-financial-working-group-1SaY85CdcHe/img/71b8b5bec049464fb307fcb42d6e427c/71b8b5bec049464fb307fcb42d6e427c-750.png",
-    "url": "https://news.cgtn.com/news/2026-11-18/China-Canada-sign-terms-of-reference-for-financial-working-group-1SaY85CdcHe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published": "Wed, 18 Nov 2026 12:24:48 GMT",
+    "title": "Full text: APEC Connectivity Blueprint",
+    "thumbnail": "https://news.cgtn.com/news/2026-11-19/APEC-releases-a-connectivity-blueprint-1ScRrQaSt8I/img/c3ab906c792049e7949c92aca0d84611/c3ab906c792049e7949c92aca0d84611-750.png",
+    "url": "https://news.cgtn.com/news/2026-11-19/APEC-releases-a-connectivity-blueprint-1ScRrQaSt8I/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
+    "published": "Thu, 19 Nov 2026 15:21:42 GMT",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:52.895646"
+    "fetched_at": "2026-11-22T07:54:25.801104"
   },
   {
     "source": "rss",
     "category": "Chinese Media",
     "outlet": "Business",
-    "title": "Visa: Asia-Pacific leads the world in digital commerce opportunities",
-    "thumbnail": "https://news.cgtn.com/news/2026-11-18/Visa-Asia-Pacific-leads-the-world-in-digital-commerce-opportunities-1SaWNX0Qza8/img/f299d3a8560144fcb2acf32fd38c1c8e/f299d3a8560144fcb2acf32fd38c1c8e-1280.jpeg",
-    "url": "https://news.cgtn.com/news/2026-11-18/Visa-Asia-Pacific-leads-the-world-in-digital-commerce-opportunities-1SaWNX0Qza8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published": "Wed, 18 Nov 2026 11:30:41 GMT",
+    "title": "Bridging via APEC: The cooperation blueprint for the 'Mexico Plan'",
+    "thumbnail": "https://news.cgtn.com/news/2026-11-19/Bridging-via-APEC-The-cooperation-blueprint-for-the-Mexico-Plan--1Scri6P5wek/img/43c8fe4d3c584beab71a977572a7a3f3/43c8fe4d3c584beab71a977572a7a3f3-1920.png",
+    "url": "https://news.cgtn.com/news/2026-11-19/Bridging-via-APEC-The-cooperation-blueprint-for-the-Mexico-Plan--1Scri6P5wek/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
+    "published": "Thu, 19 Nov 2026 10:16:40 GMT",
     "importance": 11,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:52.895822"
+    "fetched_at": "2026-11-22T07:54:25.801148"
   },
   {
     "source": "rss",
-    "category": "American Media",
-    "outlet": "Latest Market News Today on Fox Business",
-    "title": "Financial stocks slide as online banking outages reported at several large US banks",
-    "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/trading-floor.jpg",
-    "url": "https://www.foxbusiness.com/markets/financial-stocks-slide-online-banking-outages-reported-several-large-us-banks",
-    "published": "Mon, 16 Nov 2026 15:06:00 -0500",
+    "category": "Alternative & Independent",
+    "outlet": "The Diplomat",
+    "title": "The ICJ’s Myanmar Genocide Ruling: What Comes Next?",
+    "thumbnail": "https://images.thediplomat.com/v1/td-list-l-2/2026/11/thediplomat_2026-11-20-144225.jpg",
+    "url": "https://thediplomat.com/2026/11/the-icjs-myanmar-genocide-ruling-what-comes-next/",
+    "published": "Fri, 20 Nov 2026 14:15:00 +0900",
+    "importance": 11,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:31.500984"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "Business",
+    "title": "China-ASEAN cooperation injects new momentum into regional economy",
+    "thumbnail": "https://news.cgtn.com/news/2026-11-17/China-ASEAN-cooperation-injects-new-momentum-into-regional-economy-1S96dy0OkHm/img/baea3ff0206b49fdb4c0d28f70f16dfc/baea3ff0206b49fdb4c0d28f70f16dfc-1920.png",
+    "url": "https://news.cgtn.com/news/2026-11-17/China-ASEAN-cooperation-injects-new-momentum-into-regional-economy-1S96dy0OkHm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
+    "published": "Tue, 17 Nov 2026 09:59:48 GMT",
     "importance": 9,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.725061"
-  },
-  {
-    "source": "rss",
-    "category": "American Media",
-    "outlet": "Business News",
-    "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
-    "thumbnail": null,
-    "url": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
-    "published": "Tue, 17 Nov 2026 22:02:05 GMT",
-    "importance": 8,
-    "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.017255"
+    "fetched_at": "2026-11-22T07:54:25.801232"
   },
   {
     "source": "rss",
@@ -2601,7 +2505,19 @@
     "published": "Wed, 18 Nov 2026 12:53:57 -0500",
     "importance": 8,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.724962"
+    "fetched_at": "2026-11-22T07:54:21.754674"
+  },
+  {
+    "source": "rss",
+    "category": "European Media",
+    "outlet": "Business",
+    "title": "Corporate spin-offs are getting out of control",
+    "thumbnail": null,
+    "url": "https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control",
+    "published": "Wed, 18 Nov 2026 21:21:37 +0000",
+    "importance": 8,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:23.075431"
   },
   {
     "source": "rss",
@@ -2613,19 +2529,19 @@
     "published": "Wed, 18 Nov 2026 15:27:00 +0000",
     "importance": 8,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:49.883606"
+    "fetched_at": "2026-11-22T07:54:23.075458"
   },
   {
     "source": "rss",
-    "category": "European Media",
-    "outlet": "Business",
-    "title": "Nvidia’s roaring results can’t hide its troubles",
+    "category": "American Media",
+    "outlet": "Business News",
+    "title": "FAA pauses installation of new routers after ground stop",
     "thumbnail": null,
-    "url": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
-    "published": "Wed, 18 Nov 2026 00:20:05 +0000",
-    "importance": 8,
+    "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
+    "published": "Tue, 17 Nov 2026 20:53:24 GMT",
+    "importance": 7,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:49.883629"
+    "fetched_at": "2026-11-22T07:54:21.227279"
   },
   {
     "source": "rss",
@@ -2637,7 +2553,19 @@
     "published": "Tue, 17 Nov 2026 14:00:02 GMT",
     "importance": 7,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.017280"
+    "fetched_at": "2026-11-22T07:54:21.227335"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "Latest Market News Today on Fox Business",
+    "title": "Nvidia releases quarterly earnings, suggests future plans after Jensen Huang's resignation",
+    "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/nvidia-entrance-sign-worker-01.jpg",
+    "url": "https://www.foxbusiness.com/markets/nvidia-releases-quarterly-earnings-after-jensen-huangs-resignation-ceo",
+    "published": "Tue, 17 Nov 2026 16:27:53 -0500",
+    "importance": 7,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:21.754703"
   },
   {
     "source": "rss",
@@ -2649,7 +2577,43 @@
     "published": "Tue, 17 Nov 2026 08:00:43 -0500",
     "importance": 7,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.725037"
+    "fetched_at": "2026-11-22T07:54:21.754758"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "Business",
+    "title": "APEC Secretariat on free trade in the Asia Pacific",
+    "thumbnail": "https://newsus.cgtn.com/news/2026-11-18/APEC-Secretariat-on-free-trade-in-the-Asia-Pacific--1Sa1FX9208M/img/d08797b2937d479697cbb466f32adad4/d08797b2937d479697cbb466f32adad4-1280.jpeg",
+    "url": "https://newsus.cgtn.com/news/2026-11-18/APEC-Secretariat-on-free-trade-in-the-Asia-Pacific--1Sa1FX9208M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
+    "published": "Tue, 17 Nov 2026 22:00:11 GMT",
+    "importance": 7,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:25.801195"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "Business",
+    "title": "From Antalya to Shenzhen: China promotes greener cooperation",
+    "thumbnail": "https://news.cgtn.com/news/2026-11-17/From-Antalya-to-Shenzhen-China-promotes-greener-cooperation-1S9elOQlQ3u/img/548fd0014a9846b0a58a8f6f20e01111/548fd0014a9846b0a58a8f6f20e01111-1920.png",
+    "url": "https://news.cgtn.com/news/2026-11-17/From-Antalya-to-Shenzhen-China-promotes-greener-cooperation-1S9elOQlQ3u/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
+    "published": "Tue, 17 Nov 2026 12:07:59 GMT",
+    "importance": 7,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:25.801258"
+  },
+  {
+    "source": "rss",
+    "category": "American Media",
+    "outlet": "Business News",
+    "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
+    "thumbnail": null,
+    "url": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
+    "published": "Tue, 17 Nov 2026 22:02:05 GMT",
+    "importance": 5,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:21.227308"
   },
   {
     "source": "rss",
@@ -2661,18 +2625,30 @@
     "published": "Tue, 17 Nov 2026 11:30:18 -0500",
     "importance": 5,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:48.725013"
+    "fetched_at": "2026-11-22T07:54:21.754730"
   },
   {
     "source": "rss",
     "category": "European Media",
     "outlet": "Business",
-    "title": "Trump Inc is in free fall",
+    "title": "Nvidia’s roaring results can’t hide its troubles",
     "thumbnail": null,
-    "url": "https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
-    "published": "Mon, 16 Nov 2026 21:37:36 +0000",
+    "url": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
+    "published": "Wed, 18 Nov 2026 00:20:05 +0000",
     "importance": 5,
     "importanceLabel": "Low",
-    "fetched_at": "2026-11-21T19:59:49.883649"
+    "fetched_at": "2026-11-22T07:54:23.075485"
+  },
+  {
+    "source": "rss",
+    "category": "Chinese Media",
+    "outlet": "Business",
+    "title": "BYD: APEC guests amazed by Shenzhen's remarkable transformation",
+    "thumbnail": "https://news.cgtn.com/news/2026-11-17/BYD-APEC-guests-amazed-by-Shenzhen-s-remarkable-transformation-1S9lGbq0pP2/img/67933e3bb942409ea7a01efd5016db23/67933e3bb942409ea7a01efd5016db23-750.png",
+    "url": "https://news.cgtn.com/news/2026-11-17/BYD-APEC-guests-amazed-by-Shenzhen-s-remarkable-transformation-1S9lGbq0pP2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
+    "published": "Tue, 17 Nov 2026 12:41:41 GMT",
+    "importance": 5,
+    "importanceLabel": "Low",
+    "fetched_at": "2026-11-22T07:54:25.801011"
   }
 ]
